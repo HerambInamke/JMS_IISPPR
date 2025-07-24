@@ -1075,30 +1075,16 @@ const articles = [
     id: 7,
     issue: 1,
     volume: 1,
-    title:
-      "PROJECTING CULTURE, SHAPING PERCEPTIONS: INDIA’S USE OF CULTURAL DIPLOMACY FOR GLOBAL ENGAGEMENT",
-    author:
-      "Laura Nnamdi, Rishabh Kanojia, Ashita Shankarson, Sarvesh A Gurav, Mohammad Raafi, Nidhi Kapoor",
+    title: "PROJECTING CULTURE, SHAPING PERCEPTIONS: INDIA’S USE OF CULTURAL DIPLOMACY FOR GLOBAL ENGAGEMENT",
+    author: "Laura Nnamdi, Rishabh Kanojia, Ashita Shankarson, Sarvesh A Gurav, Mohammad Raafi, Nidhi Kapoor",
     authorAbbrev: "L. Nnamdi, R. Kanojia, and others",
-    abstract:
-      "This paper explores India's use of cultural diplomacy as a tool for global engagement, highlighting its historical roots, institutional frameworks, and contemporary initiatives. It examines how India leverages its rich cultural heritage, diaspora, and soft power assets like Yoga, Bollywood, and Ayurveda to foster international relations and mutual understanding. The study also addresses challenges such as institutional fragmentation and overreliance on select cultural exports, while proposing strategic recommendations for enhancing India's cultural diplomacy efforts. Key successes, including the International Day of Yoga and the WAVES Summit, underscore India's potential as a global cultural leader.",
-    keywords: [
-      "Cultural Diplomacy",
-      "Soft Power",
-      "India",
-      "Global Engagement",
-      "Diaspora",
-      "Yoga",
-      "Bollywood",
-      "Institutional Framework",
-      "International Relations",
-      "WAVES Summit",
-    ],
+    abstract: "This paper explores India's use of cultural diplomacy as a tool for global engagement, highlighting its historical roots, institutional frameworks, and contemporary initiatives. It examines how India leverages its rich cultural heritage, diaspora, and soft power assets like Yoga, Bollywood, and Ayurveda to foster international relations and mutual understanding. The study also addresses challenges such as institutional fragmentation and overreliance on select cultural exports, while proposing strategic recommendations for enhancing India's cultural diplomacy efforts. Key successes, including the International Day of Yoga and the WAVES Summit, underscore India's potential as a global cultural leader.",
+    keywords: ["Cultural Diplomacy", "Soft Power", "India", "Global Engagement", "Diaspora", "Yoga", "Bollywood", "Institutional Framework", "International Relations", "WAVES Summit"],
     status: "Submitted",
     intro: [
       "Cultural diplomacy, although rooted in age-long cross-cultural interactions (Grincheva, 2023), is a 21st century’s pillar of soft power in foreign policy and diplomatic relations. It is a branch of foreign policy where countries utilise the uniqueness of their culture to facilitate their diplomatic goals. According to Milton Cummings, cultural diplomacy can be described as the “exchange of ideas, information, art, language and other aspects of culture among nations and peoples in order to foster mutual understanding” (UNESCO, 2023).",
       "Made up of people from diverse religions, languages, cultures and regions, India is not new to the concept of cross-cultural relations. At the national level, India practices interculturalism, encouraging regional diversity and acceptance by promoting pluralism (Manian & Naidu, 2009).  At the global stage, India engages in cultural exchange, sharing its cultural practices with the rest of the world in its diplomatic pursuit. In multilateral forums such as the United Nations, India has emphasised cultural heritage as a universal connector. India’s role in founding the International Solar Alliance aimed at promoting sustainable development in the world’s environment is founded on ancient Indian philosophies like the Prakriti Dharma (harmony with nature) (Mohanapriya & Suriya, 2025). This subtly links India’s past with a vision for the future. Moreover, India's engagement with Africa, Southeast Asia, and Latin America is increasingly rooted in cultural commonalities. Initiatives like Bharat Ko Janiye (Know India Programme) for youth of Indian origin and cultural festivals (Douw et al., 2024) organised through embassies promote mutual respect and cooperation.",
-      "This paper, therefore, reviews India’s use of cultural diplomacy as an important diplomatic approach for positive and peaceful global engagement. In it, the authors examine the historical roots of cultural diplomacy and explore its application within the Indian context, citing select concepts as examples. Furthermore, the paper distils the challenges and successes stemming from India’s diplomatic use of culture as a significant political influence, suggesting recommendations for future initiatives.",
+      "This paper, therefore, reviews India’s use of cultural diplomacy as an important diplomatic approach for positive and peaceful global engagement. In it, the authors examine the historical roots of cultural diplomacy and explore its application within the Indian context, citing select concepts as examples. Furthermore, the paper distils the challenges and successes stemming from India’s diplomatic use of culture as a significant political influence, suggesting recommendations for future initiatives."
     ],
     content: [
       {
@@ -1114,7 +1100,7 @@ const articles = [
           "The Indian diaspora, shaped by histories of colonial-era migration, played a key role in carrying these traditions forward. Across Africa, the Caribbean, Southeast Asia, and the Pacific, these communities preserved languages, rituals, and festivals, becoming cultural anchors in faraway lands.",
           "Old Buddhist ties with countries like Japan, Thailand, and Sri Lanka were reawakened through initiatives like the revival of Nalanda University and the creation of the Buddhist Circuit—efforts that highlighted shared history and spiritual bonds.(IJHAMS-Bhanu Pratap, 2015)",
           "Even ancient trade routes—once busy with spices, silk, and stories—were reimagined as cultural highways, reminders that India had long been a crossroads not just of commerce but of ideas and philosophies.",
-          "As a founding member of the Non-Aligned Movement, India didn’t just promote political neutrality; it also brought forward values deeply rooted in its civilizational soul—non-violence, pluralism, and solidarity. In doing so, India showed the world that its cultural identity wasn’t a relic of the past, but a living force shaping its place on the global stage. However, the implementation happened over a complex interplay of state and non-state mechanisms, creatively stationed to satiate India’s growing ambitions to portray its cultural image.",
+          "As a founding member of the Non-Aligned Movement, India didn’t just promote political neutrality; it also brought forward values deeply rooted in its civilizational soul—non-violence, pluralism, and solidarity. In doing so, India showed the world that its cultural identity wasn’t a relic of the past, but a living force shaping its place on the global stage. However, the implementation happened over a complex interplay of state and non-state mechanisms, creatively stationed to satiate India’s growing ambitions to portray its cultural image."
         ],
       },
       {
@@ -1122,7 +1108,7 @@ const articles = [
         paragraphs: [
           "Through state diplomacy as well as through the very structure of the state itself, the Indian state plays a big role in cultural diplomacy. Being a democracy, rather the world’s largest democracy, naturally adds to it as one of its key advantages, and so do its democratic institutions in better connecting with a shared cohort of values and belief systems (Shetty & Sehgal, 2019). The MEA’s Public Diplomacy Division and the Indian Council for Cultural Relations (ICCR) were established for this very purpose.",
           "The ICCR, with centres in around 37 countries, plays a direct role in augmenting people’s cultural knowledge about India. Alongside it strives to revive and strengthen the cultural ties between India and other countries (Chakraborty, 2019). However, the central task of planning, designing, and implementing public diplomacy programmes in cooperation with relevant government and non-governmental agencies rests with the MEA’s Public Diplomacy Division. The Public Diplomacy Division, which, after its 2014 merger with the External Publicity Division, became the External Publicity and Public Diplomacy Division, is entrusted with four key responsibilities (not limited to). These include the production of audio-visual and print materials portraying the rich cultural spectrum of India, organising outreach activities for creating a more sympathetic image of India and its foreign policy, organising seminars and conferences in collaboration with Indian and foreign universities, think tanks, and chambers of commerce, and hosting delegations from various foreign countries and organisations to India (Laskar, 2019). Besides the institutions, the government has tended to exploit the benefits accrued through its huge diaspora by holding conventions like the Pravasi Bharatiya Divas (PBD), utilised the civilisational connect with various Asian countries, and curated tourism outreach initiatives like the Incredible India campaign to leverage its cultural diplomacy.",
-          "However, the best soft power deliverables are rarely state-driven; rather, they are mostly exercised through private institutions or individuals. In India’s case, Bollywood, Indian television serials, BCCI, cuisine, classical art, and music have gained significant clout, at times in collaboration with the state, to propagate India’s image abroad. Bollywood movies have long enjoyed unparalleled popularity globally, with audiences hailing not just from South Asia, but also from Central Asia, West Asia, parts of Africa, and Latin America. Added, considerable leverage comes from the excruciating popularity of some Indian celebrities. Next in line, the Indian soap operas have proved themselves as no less. Serials like Balika Vadhu, Kyunki Saas Bhi Kabhi Bahu Thi, and most recently Anupama have huge digital impressions recorded from several countries. Similarly, the Indian Premier League has been part of the popularity bandwagon since its initiation. In terms of Indian art and music, artists like Pandit Ravi Shankar, Lata Mangeshkar and A.R. Rahman, fashion designers like Manish Malhotra and Sabyasachi, chefs like Vikas Khanna, Sanjeev Kapoor and Vineet Bhatia are recognised worldwide. Together they help exude an increased respect for India, its culture and its diversity (Shetty & Sehgal, 2019).",
+          "However, the best soft power deliverables are rarely state-driven; rather, they are mostly exercised through private institutions or individuals. In India’s case, Bollywood, Indian television serials, BCCI, cuisine, classical art, and music have gained significant clout, at times in collaboration with the state, to propagate India’s image abroad. Bollywood movies have long enjoyed unparalleled popularity globally, with audiences hailing not just from South Asia, but also from Central Asia, West Asia, parts of Africa, and Latin America. Added, considerable leverage comes from the excruciating popularity of some Indian celebrities. Next in line, the Indian soap operas have proved themselves as no less. Serials like Balika Vadhu, Kyunki Saas Bhi Kabhi Bahu Thi, and most recently Anupama have huge digital impressions recorded from several countries. Similarly, the Indian Premier League has been part of the popularity bandwagon since its initiation. In terms of Indian art and music, artists like Pandit Ravi Shankar, Lata Mangeshkar and A.R. Rahman, fashion designers like Manish Malhotra and Sabyasachi, chefs like Vikas Khanna, Sanjeev Kapoor and Vineet Bhatia are recognised worldwide. Together they help exude an increased respect for India, its culture and its diversity (Shetty & Sehgal, 2019)."
         ],
       },
       {
@@ -1131,7 +1117,7 @@ const articles = [
           "India's contemporary cultural diplomacy policy rests primarily on its civilizational self-image as a Vishwaguru (mentor to the world) and Vishwabandhu (world friend), positioning itself as an advocate of peace, discussion, and “Vasudhaiva kutumbakam” collective prosperity. Within the Vishwaguru framework, India showcases its ancient epistemological systems—like Yoga, Ayurveda, and Sanskrit—as global public goods. The UN's International Day of Yoga, (UN, 2014) launched by Prime Minister Narendra Modi in 2014 and embraced by the UN the same year, is today observed in more than 190 nations and is often viewed as India's greatest cultural export success. India’s Vishwabandhu identity is backed by its compassionate initiatives like Vaccine Maitri, cultural solidarity with the Global South, and cultivating value-based cooperation through the cultural track of the G20 under India's 2023 Presidency (G20, 2023).",
           "Pravasi Bharatiya Divas, is observed every two years to acknowledge and celebrate the Indian diaspora's contribution to national growth and its vast international reach. The MEA has also launched Initiatives such as the “Bharat Ko Janiye Quiz” which aims to promote cultural identity for second- and third-generation Indian diaspora abroad through interactive sessions and tailored visits to India (MEA, 2024). One of the most successful initiatives is the “Festival of India Abroad”, celebrated in 50+ countries on themes such as Namaste India (Japan) and India by the Nile (Egypt). These government-sponsored events feature Indian dance, food, films, and crafts, underlining bilateral cultural relations (ICCR, 2024).",
           "“Repatriation of heritage” is another high-engagement diplomatic initiative that can be included under the cultural diplomacy of India. Since 2014, India has repatriated more than 300 stolen artefacts from nations like the U.S, U.K, and Australia reflecting a commitment for restoration of its centuries old civilizational pride. (MOC, 2023).",
-          "In addition, India has welcomed digital cultural diplomacy. The 2023 G20 Culture Track, with the theme Culture Unites All, focused on heritage protection, cultural diversity, and sustainability, thus incorporating culture into the broader foreign policy domain. The most significant milestone in India's cultural diplomacy this year is the Waves Summit (Waves, 2025), which was launched on 12th June in Mumbai. Organized by Reliance and backed by the government, it established India as a global creative hub. With the involvement of 90+ nations, ₹1,300 crore value deals, and the WAVES Declaration signed by 77 countries, the summit promoted Indian content, crafts, and stories around the world. Initiatives such as WAVES Bazaar and 'Create in India' challenges highlighted India's creative economy and growing soft power.",
+          "In addition, India has welcomed digital cultural diplomacy. The 2023 G20 Culture Track, with the theme Culture Unites All, focused on heritage protection, cultural diversity, and sustainability, thus incorporating culture into the broader foreign policy domain. The most significant milestone in India's cultural diplomacy this year is the Waves Summit (Waves, 2025), which was launched on 12th June in Mumbai. Organized by Reliance and backed by the government, it established India as a global creative hub. With the involvement of 90+ nations, ₹1,300 crore value deals, and the WAVES Declaration signed by 77 countries, the summit promoted Indian content, crafts, and stories around the world. Initiatives such as WAVES Bazaar and 'Create in India' challenges highlighted India's creative economy and growing soft power."
         ],
       },
       {
@@ -1143,7 +1129,7 @@ const articles = [
           "European points of view differ greatly. Countries like the UK, which have historical links, frequently view India from a viewpoint formed by their shared history—sometimes influenced by vestiges of colonialism. Germany and France might start to focus more on the economic potential of contemporary India. Along with classical music, dance, and the range of Indian celebrations, cultural diplomacy often highlights Yoga and Ayurveda.",
           "India's cultural diplomacy in Africa is especially noteworthy, often drawing on historical links and common experiences as countries still evolving. With a large and long-lasting audience, Indian film, often referred to as Bollywood, influences local fashions, music, and social values. Cultural ideas are exchanged greatly valued by the Indian diaspora. Initiatives like International Day of Yoga and promotion of Ayurveda are much appreciated. India's emphasis on improving abilities and fostering South- South cooperation through cultural exchanges helps to build a good image, sometimes seen as a reliable development partner.",
           "Many years of sea trade and the spread of Hinduism and Buddhism have given India a major historical and cultural influence in this region. In the language, architecture, and art of the region, this 'Indic' influence is very strong. Encouraging tourism, building Buddhist circuit schemes, arranging cultural celebrations (like Namaste India), and encouraging academic collaborations help to strengthen these long-running relationships.",
-          "Strong underpinnings result from historic ties, Sufi traditions, and the common religious significance (for Indian Muslims doing Hajj/Umrah). Views in the Middle East are largely influenced by the large Indian population working in the Gulf, which helps to raise both economies. Moreover, the Diaspora also has considerable influence on the bilateral relations between the two countries. Hence, it is essential for the Indian Government to ensure the wellbeing of the Diaspora either through appropriate policy measures or by engaging in dialogue and deliberations with the Middle East (Biswas, 2020). Recent initiatives like the BAPS temple in the UAE reflect the growing cultural ties as well as robust financial and strategic partnerships like the India-Middle East-Europe Economic Corridor (IMEC).The Indian diaspora is a powerful instrument of India’s soft power, promoting cultural, economic, and diplomatic influence globally. By organizing cultural events, contributing economically, and advocating for India’s interests, the diaspora enhances India’s global image (Hussain & Rather, 2022).",
+          "Strong underpinnings result from historic ties, Sufi traditions, and the common religious significance (for Indian Muslims doing Hajj/Umrah). Views in the Middle East are largely influenced by the large Indian population working in the Gulf, which helps to raise both economies. Moreover, the Diaspora also has considerable influence on the bilateral relations between the two countries. Hence, it is essential for the Indian Government to ensure the wellbeing of the Diaspora either through appropriate policy measures or by engaging in dialogue and deliberations with the Middle East (Biswas, 2020). Recent initiatives like the BAPS temple in the UAE reflect the growing cultural ties as well as robust financial and strategic partnerships like the India-Middle East-Europe Economic Corridor (IMEC).The Indian diaspora is a powerful instrument of India’s soft power, promoting cultural, economic, and diplomatic influence globally. By organizing cultural events, contributing economically, and advocating for India’s interests, the diaspora enhances India’s global image (Hussain & Rather, 2022)."
         ],
       },
       {
@@ -1151,7 +1137,7 @@ const articles = [
         paragraphs: [
           "Despite its increasing cultural presence, India's cultural diplomacy is plagued by several structural and strategic issues of which Institutional fragmentation is one such big problem. The ICCR, the Ministry of External Affairs' Public Diplomacy Division and other state initiatives, often operate independently, with little to no coordination between them. This prevents effective cultural diplomacy and results in duplication and watering down of efforts. Another major concern is the lack of strong financial support, which hinders consistency of programmes— compared to more traditionally 'culture-supporting' nations such as China or the UK.",
           "India's cultural diplomacy is also threatened by its overdependence on Yoga, Ayurveda, and Bollywood, restricting resonance in areas such as Latin America, Francophone Africa, and Eastern Europe where local adaptation is poor. Most initiatives are on an ad-hoc basis and event-based, with no formal feedback or evaluation processes. Language issues, inadequate funding, and lack of coordination further undermine long-term influence. ",
-          "Still, when done well and consistently, India's cultural diplomacy has proven to be powerful. The International Day of Yoga is the best example for sustained long-term international engagement that emphasizes India's civilizational values. The 2025 WAVES Summit which showed India's capacity to link culture with commerce and innovation by inviting 90+ nations and securing significant economic alliances is also a great example of India's most recent success in its global engagement efforts (Waves, 2025). Digital cultural diplomacy post-pandemic has also played a key role in improving access to India's culture, particularly through online exhibitions and webinars.",
+          "Still, when done well and consistently, India's cultural diplomacy has proven to be powerful. The International Day of Yoga is the best example for sustained long-term international engagement that emphasizes India's civilizational values. The 2025 WAVES Summit which showed India's capacity to link culture with commerce and innovation by inviting 90+ nations and securing significant economic alliances is also a great example of India's most recent success in its global engagement efforts (Waves, 2025). Digital cultural diplomacy post-pandemic has also played a key role in improving access to India's culture, particularly through online exhibitions and webinars."
         ],
       },
     ],
@@ -1165,109 +1151,83 @@ const articles = [
           "Looking forward, India must adopt continent-specific cultural strategies. Africa would benefit from collaborative art and heritage programs; Latin America could respond to Ayurveda and wellness diplomacy; and East Asia holds promise for cinema and literary outreach. These engagements must be grounded in authenticity and inclusivity, avoiding cultural appropriation and ideological overtones that risk alienating global audiences.",
           "Digital platforms, storytelling tools, and diaspora-led outreach will be crucial to making India’s culture more accessible and engaging. A Yoga Certification Board, as proposed by the Committee, can help preserve the integrity of Indian traditions in global practice. Meanwhile, tourism promotion should follow a country-specific model informed by real-time visitor feedback, supported by expanded overseas tourism offices.",
           "Finally, India must address internal contradictions—such as rising intolerance and gender-based violence—that undermine its external cultural messaging. A credible, values-based diplomacy begins at home.",
-          "In sum, India’s future as a global cultural leader depends not just on celebrating its heritage but on strategically investing in, coordinating, and evolving its cultural diplomacy. The next phase must be proactive, inclusive, digitally savvy, and globally adaptive.",
+          "In sum, India’s future as a global cultural leader depends not just on celebrating its heritage but on strategically investing in, coordinating, and evolving its cultural diplomacy. The next phase must be proactive, inclusive, digitally savvy, and globally adaptive."
         ],
-      },
+      }
     ],
     references: [
       {
-        heading:
-          "Shetty, Salil & Sahgal, Tara. (2019). India's Soft Power: Challenges and Opportunities. (Occasional Paper) Rajiv Gandhi Institute for Contemporary Studies",
+        heading: "Shetty, Salil & Sahgal, Tara. (2019). India's Soft Power: Challenges and Opportunities. (Occasional Paper) Rajiv Gandhi Institute for Contemporary Studies",
       },
       {
-        heading:
-          "Chakraborty, Sreshtha. (2019, December 12). Tools of India’s Cultural Diplomacy: An Overview. International Journal of Arts, Humanities, and Management Studies, Volume 5",
+        heading: "Chakraborty, Sreshtha. (2019, December 12). Tools of India’s Cultural Diplomacy: An Overview. International Journal of Arts, Humanities, and Management Studies, Volume 5",
         links: "< http://ijahms.com/upcomingissue/01.12.2019.pdf>",
       },
       {
-        heading:
-          "Laskar, Rejaul. (2019). India’s Public Diplomacy-The Institutional Framework. International Journal of Innovative Studies in Sociology and Humanities, Volume 4",
+        heading: "Laskar, Rejaul. (2019). India’s Public Diplomacy-The Institutional Framework. International Journal of Innovative Studies in Sociology and Humanities, Volume 4",
         links: "< https://ijissh.org/storage/Volume4/Issue2/IJISSH-040210.pdf>",
       },
       {
-        heading:
-          "Biswas, S. (2020, June 18). Indian diaspora in the Middle East. The Kootneeti.",
-        links:
-          "https://thekootneeti.in/2020/06/18/indian-diaspora-in-the-middle-east/",
+        heading: "Biswas, S. (2020, June 18). Indian diaspora in the Middle East. The Kootneeti.",
+        links: "https://thekootneeti.in/2020/06/18/indian-diaspora-in-the-middle-east/",
       },
       {
-        heading:
-          "Malik Basharat Hussain. (2022). The Indian Diaspora as a soft power tool: Enhancing India’s global influence. INTERNATIONAL JOURNAL OF FOOD AND NUTRITIONAL SCIENCES (IJFANS), 11(3). ",
-        links:
-          "https://www.ijfans.org/uploads/paper/09fb4e5a6d6d80a6ed618bf842140e86.pdf",
+        heading: "Malik Basharat Hussain. (2022). The Indian Diaspora as a soft power tool: Enhancing India’s global influence. INTERNATIONAL JOURNAL OF FOOD AND NUTRITIONAL SCIENCES (IJFANS), 11(3). ",
+        links: "https://www.ijfans.org/uploads/paper/09fb4e5a6d6d80a6ed618bf842140e86.pdf",
       },
       {
-        heading:
-          "Singh, S. (2020). India’s diaspora diplomacy in the twenty-first century [Peer-Reviewed, Refereed, Indexed Journal]. Shikshan Sanshodhan : Journal of Arts, Humanities and Social Sciences, 3(6), 7. ",
-        links:
-          "https://shikshansanshodhan.researchculturesociety.org (Original work published 2020)",
+        heading: "Singh, S. (2020). India’s diaspora diplomacy in the twenty-first century [Peer-Reviewed, Refereed, Indexed Journal]. Shikshan Sanshodhan : Journal of Arts, Humanities and Social Sciences, 3(6), 7. ",
+        links: "https://shikshansanshodhan.researchculturesociety.org (Original work published 2020)",
       },
       {
-        heading:
-          "Grincheva, N., “The Past and Future of Cultural Diplomacy”. 2023 vol 30. International Journal of Cultural Policy accessed at  ",
+        heading: "Grincheva, N., “The Past and Future of Cultural Diplomacy”. 2023 vol 30. International Journal of Cultural Policy accessed at  ",
         links: "https://doi.org/10.1080/10286632.2023.2183949",
       },
       {
-        heading:
-          "UNESCO, “Cutting Edge | From Standing out to Reaching Out: Cultural Diplomacy for Sustainable Development” (UNESCO News, 20 April 2023) accessed at ",
-        links:
-          "https://www.unesco.org/en/articles/cutting-edge-standing-out-reaching-out-cultural-diplomacy-sustainable-development#:~:text=Cultural%20diplomacy%20is%20the%20%E2%80%9Cexchange,Milton%20Cummings ",
+        heading: "UNESCO, “Cutting Edge | From Standing out to Reaching Out: Cultural Diplomacy for Sustainable Development” (UNESCO News, 20 April 2023) accessed at ",
+        links: "https://www.unesco.org/en/articles/cutting-edge-standing-out-reaching-out-cultural-diplomacy-sustainable-development#:~:text=Cultural%20diplomacy%20is%20the%20%E2%80%9Cexchange,Milton%20Cummings ",
       },
       {
-        heading:
-          "Ranjini, M. and Shobha, N., “India: A Cross-Cultural Overview of Intercultural Competence” in Deardoff, DK. (ed.) The Sage Handbook of Intercultural Competence  2009.  Sage Publications. accessed at ",
-        links:
-          "https://adrvantage.com/wp-content/uploads/2023/02/Communications-and-Persuasion-Hoveland-et-al..pdf#page=248 ",
+        heading: "Ranjini, M. and Shobha, N., “India: A Cross-Cultural Overview of Intercultural Competence” in Deardoff, DK. (ed.) The Sage Handbook of Intercultural Competence  2009.  Sage Publications. accessed at ",
+        links: "https://adrvantage.com/wp-content/uploads/2023/02/Communications-and-Persuasion-Hoveland-et-al..pdf#page=248 ",
       },
       {
-        heading:
-          "Douw, J., Lee, K., Tarnovski, RS. and Sen SK., “Diaspora Trade and Investment: Applied Research Project 2023/2024.” 2024. OECD. accessed at ",
-        links:
-          "https://www.graduateinstitute.ch/sites/internet/files/2024-09/ARP-2024---Diaspora-Trade-and-Investment---Riane-Lais-Tarnovski.pdf ",
+        heading: "Douw, J., Lee, K., Tarnovski, RS. and Sen SK., “Diaspora Trade and Investment: Applied Research Project 2023/2024.” 2024. OECD. accessed at ",
+        links: "https://www.graduateinstitute.ch/sites/internet/files/2024-09/ARP-2024---Diaspora-Trade-and-Investment---Riane-Lais-Tarnovski.pdf ",
       },
       {
-        heading:
-          "Mohanapriya, B. and Suriya, M., 2025. INDIAN KNOWLEDGE SYSTEMS: Principles and Practices. SSS PUBLICATIONS.",
+        heading: "Mohanapriya, B. and Suriya, M., 2025. INDIAN KNOWLEDGE SYSTEMS: Principles and Practices. SSS PUBLICATIONS.",
       },
       {
         heading: "International Day of Yoga. (n.d.). Retrieved from",
         links: "https://www.un.org/en/observances/yoga-day ",
       },
       {
-        heading:
-          "ICCR, I. (2024). Annual Reports & Accounts. Annual Reports & Accounts | Official website of Indian Council for Cultural Relations, Government of India.",
+        heading: "ICCR, I. (2024). Annual Reports & Accounts. Annual Reports & Accounts | Official website of Indian Council for Cultural Relations, Government of India.",
         links: "https://iccr.gov.in/annual-reports",
       },
       {
-        heading:
-          "G20, P. (2023, August 26). The G20 culture ministers’ meeting, under India’s presidency, concluded today in Varanasi, Uttar Pradesh. The G20 Culture Ministers’ Meeting.",
-        links:
-          "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1952542",
+        heading: "G20, P. (2023, August 26). The G20 culture ministers’ meeting, under India’s presidency, concluded today in Varanasi, Uttar Pradesh. The G20 Culture Ministers’ Meeting.",
+        links: "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1952542",
       },
       {
         heading: "UN, U. (2014). International Day of Yoga. United Nations.",
-        links:
-          " https://www.un.org/en/observances/yoga-day#:~:text=Recognizing%20its%20universal%20appeal%2C%20on%2011%20December%202014%2C,worldwide%20of%20the%20many%20benefits%20of%20practicing%20yoga",
+        links: " https://www.un.org/en/observances/yoga-day#:~:text=Recognizing%20its%20universal%20appeal%2C%20on%2011%20December%202014%2C,worldwide%20of%20the%20many%20benefits%20of%20practicing%20yoga",
       },
       {
-        heading:
-          "MEA, M. (2024, September 18). MEA | know India programme. Know India Programme. ",
+        heading: "MEA, M. (2024, September 18). MEA | know India programme. Know India Programme. ",
         links: "https://www.mea.gov.in/know-india-programme.htm",
       },
       {
-        heading:
-          "MOC, M. (2023, December 22). Year end review 2023: Ministry of Culture. Year End Review 2023: Ministry of Culture. ",
+        heading: "MOC, M. (2023, December 22). Year end review 2023: Ministry of Culture. Year End Review 2023: Ministry of Culture. ",
         links: "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1989737",
       },
       {
-        heading:
-          "TOI Sports Desk / TIMESOFINDIA.COM / Jun 11, 2025. (2025, June 11). Wuthering Waves 2.4 release date, Banner characters and more: Esports News - Times of India. The Times of India. ",
-        links:
-          "https://timesofindia.indiatimes.com/sports/esports/news/wuthering-waves-2-4-release-date-banner-characters-and-more/articleshow/121772163.cms#:~:text=Global%20Launch%20Times%3A%20The%20Countdown&text=Here’s%20a%20quick%20look%20at,June%2012%2C%208%3A30%20AM",
+        heading: "TOI Sports Desk / TIMESOFINDIA.COM / Jun 11, 2025. (2025, June 11). Wuthering Waves 2.4 release date, Banner characters and more: Esports News - Times of India. The Times of India. ",
+        links: "https://timesofindia.indiatimes.com/sports/esports/news/wuthering-waves-2-4-release-date-banner-characters-and-more/articleshow/121772163.cms#:~:text=Global%20Launch%20Times%3A%20The%20Countdown&text=Here’s%20a%20quick%20look%20at,June%2012%2C%208%3A30%20AM",
       },
       {
-        heading:
-          "Viswanathan .H(2019).India’s Soft Power Diplomacy. Ministry of external affairs, India",
+        heading: "Viswanathan .H(2019).India’s Soft Power Diplomacy. Ministry of external affairs, India",
         links: "https://www.mea.gov.in/distinguished-lectures-detail.htm?850",
       },
     ],
@@ -1276,29 +1236,11 @@ const articles = [
     id: 8,
     issue: 1,
     volume: 1,
-    title:
-      "The Intersection of  Women Empowerment and Feminism with Public Policy in India",
-    author:
-      "Utkarsha Sinha, Bajendra Singh Parihar, Caroline, Sai Nitya Palakurthy, Padiwanshe, Aayushi Shah",
+    title: "The Intersection of  Women Empowerment and Feminism with Public Policy in India",
+    author: "Utkarsha Sinha, Bajendra Singh Parihar, Caroline, Sai Nitya Palakurthy, Padiwanshe, Aayushi Shah",
     authorAbbrev: "U. Sinha, B. S. Parihar, and others",
-    abstract:
-      "This paper explores the challenges of women's empowerment in India, focusing on unpaid labor, caste-gender inequalities, wage gaps, and ineffective policy implementation. It critiques the systemic invisibility of women's work and calls for intersectional policies that address structural barriers. Key recommendations include recognizing unpaid care work, enforcing labor protections, and combating patriarchal resistance to achieve meaningful gender justice.",
-    keywords: [
-      "Women’s empowerment",
-      "Feminism",
-      "Public policy",
-      "India",
-      "Unpaid labor",
-      "Caste and gender",
-      "Wage inequality",
-      "Intersectionality",
-      "Policy implementation",
-      "Gender justice",
-      "Patriarchy",
-      "Economic disparities",
-      "Feminist movements",
-      "Social transformation",
-    ],
+    abstract: "This paper explores the challenges of women's empowerment in India, focusing on unpaid labor, caste-gender inequalities, wage gaps, and ineffective policy implementation. It critiques the systemic invisibility of women's work and calls for intersectional policies that address structural barriers. Key recommendations include recognizing unpaid care work, enforcing labor protections, and combating patriarchal resistance to achieve meaningful gender justice.",
+    keywords: ["Women’s empowerment", "Feminism", "Public policy", "India", "Unpaid labor", "Caste and gender", "Wage inequality", "Intersectionality", "Policy implementation", "Gender justice", "Patriarchy", "Economic disparities", "Feminist movements", "Social transformation"],
     status: "Submitted",
     intro: [
       "Women's empowerment in India is deeply intertwined with the complexities of unpaid employment, caste hierarchies, and intersecting social factors. Unpaid domestic and care work remains a central barrier to women's economic empowerment, with Indian women disproportionately burdened by such responsibilities. Being a woman in India often means shouldering a disproportionate burden of unpaid care work, navigating patriarchal societal norms, and facing significant barriers to education, employment, and healthcare. This work, largely invisible in economic statistics and undervalued in policy, restricts women’s labor force participation and perpetuates dependency and marginalization. According to the World Bank, women in India spend an average of 5 hours and 35 minutes per day on unpaid care work, compared to 38 minutes per day for men.(Observer Research Foundation. (2022, October 17)) [OBSERVE RESEARCH FOUNDATION,(2022, OCTOBR 17]",
@@ -1313,7 +1255,7 @@ const articles = [
           " In rural and urban settings, caste determines access to education, healthcare, mobility, employment, and security. A Dalit woman, for example, risks sexual assault, systemic police apathy, and social boycott. NCRB statistics register a steady rise in crimes against Dalit women, with conviction rates that remain hair-raisingly low. This disparity reflects a failure not only in judicial mechanisms but also in public policy, which often addresses gender violence in caste-neutral terms—ignoring the specific vulnerabilities of marginalized communities.",
           " Reservation policies in education and employment were designed to uplift marginalized groups, but they frequently fail to consider intra-caste gender disparities. A Dalit man may benefit from such policies while the Dalit woman in the same household remains confined to unpaid domestic labor, often excluded from leadership roles and political participation. Institutions like the National Commission for Women or the Ministry of Women and Child Development seldom incorporate caste-sensitive frameworks into their mandates, leaving the most vulnerable women without adequate support.",
           " 'Savarna feminism'  constitutes a serious bottleneck to all-inclusive policymaking. Even feminist activism that does not listen to Dalit and Adivasi voices tends to function as the instrument through which the existing hierarchy sustains itself in the rhetoric of empowerment. Feminism must truly challenge caste as an apparatus of domination to fulfill its promise of gender justice.",
-          " To make feminist policy truly inclusive, an intersectional approach is essential—one that combines gender justice with caste equity. This requires disaggregated data collection, support for Dalit- and Adivasi-led movements, caste- and gender-responsive budgeting, and direct representation of marginalized women in legislative and policymaking spaces. Only by centering the most oppressed can public policy move from symbolic reform to genuine social transformation.",
+          " To make feminist policy truly inclusive, an intersectional approach is essential—one that combines gender justice with caste equity. This requires disaggregated data collection, support for Dalit- and Adivasi-led movements, caste- and gender-responsive budgeting, and direct representation of marginalized women in legislative and policymaking spaces. Only by centering the most oppressed can public policy move from symbolic reform to genuine social transformation."
         ],
       },
       {
@@ -1321,19 +1263,19 @@ const articles = [
         paragraphs: [
           "To be a woman in India is to navigate a complex terrain where empowerment is simultaneously celebrated in rhetoric and denied in everyday realities, particularly through the persistent undervaluation and invisibilisation of women’s labour. To be a woman in India is to carry the economic weight of the nation invisibly — through undervalued informal labour and unpaid care work — while being systematically excluded from recognition in policy and statistical frameworks. At the intersection of feminist political economy and public policy lies the urgent issue of unaccounted work. The India Employment Report 2019 shows that while women’s labour force participation rate (LFPR) has been declining — from 42.7% in 2004–05 to 23.3% in 2017–18 — this statistical drop conceals the persistent and unpaid economic contributions of women, especially in household production, caregiving, and subsistence activities (Mehrotra & Parida, 2019). These forms of work are either excluded from labour statistics or misclassified, undermining both visibility and valuation. The I-PEEL framework critiques this erasure by asserting that unpaid domestic and care work is foundational to capitalist production, yet remains ideologically framed as “non-work,” exempting both the state and the market from redistributive responsibility (I-PEEL, n.d.). Feminist economists like Bina Agarwal have long argued that the binary between ‘productive’ and ‘reproductive’ labour, as imposed by mainstream economics, fails to reflect the material reality of Indian women’s lives. For instance, the Time Use Survey (2019) revealed that Indian women spend nearly 299 minutes per day on unpaid domestic work, compared to only 97 minutes for men. Yet this contribution is absent from national income accounts and marginal in policy discourses.",
           "Moreover, even when women are in the paid workforce, they are overwhelmingly concentrated in informal, insecure, and poorly remunerated jobs. As Dutta (2005) shows, casual work constitutes a key segment of India’s female labour market, where returns to education are negligible, and wage disparities are driven more by occupational segregation than individual characteristics. Dutta’s analysis reveals that while wage inequality among casual workers appeared to decline from 1983 to 1999, this shift masked persistent gendered segmentation and spatial concentration of women in low-value, home-based activities.",
-          "Public policy, while increasingly vocal about women’s empowerment, remains fixated on short-term welfare approaches rather than long-term structural transformation. Skill-building programmes, microfinance, and livelihood missions often promote instrumental gains without challenging the underlying systems that devalue women’s time and labour. The India Employment Report notes that rising education among women has not translated into proportionate employment, partly because of the absence of care infrastructure, safe public transport, and formal recognition of women’s labour (Mehrotra & Parida, 2019). A feminist policy framework would prioritise three Rs: recognition of unpaid work in national accounting systems; redistribution of care responsibilities through public provisioning; and representation of women in policy making bodies that shape labour and social welfare norms. To be a woman in India is to be structurally indispensable yet statistically invisible. Remedying this paradox requires rethinking the foundations of work, value, and policy accountability.",
+          "Public policy, while increasingly vocal about women’s empowerment, remains fixated on short-term welfare approaches rather than long-term structural transformation. Skill-building programmes, microfinance, and livelihood missions often promote instrumental gains without challenging the underlying systems that devalue women’s time and labour. The India Employment Report notes that rising education among women has not translated into proportionate employment, partly because of the absence of care infrastructure, safe public transport, and formal recognition of women’s labour (Mehrotra & Parida, 2019). A feminist policy framework would prioritise three Rs: recognition of unpaid work in national accounting systems; redistribution of care responsibilities through public provisioning; and representation of women in policy making bodies that shape labour and social welfare norms. To be a woman in India is to be structurally indispensable yet statistically invisible. Remedying this paradox requires rethinking the foundations of work, value, and policy accountability."
         ],
       },
       {
         heading: "Wage inequality and Choice of occupation",
         paragraphs: [
-          "Women’s empowerment in India represents a complex and multidimensional challenge that has been systematically addressed through public policy initiatives. While notable progress has been achieved in the direction, two significant barriers continue to limit women’s economic advancement in India: wage inequality and restricted occupational choices. The subject has gathered much attention in recent years owing to the structured inequalities rooted in gender, caste, and class which continue to shape women’s work experiences and earnings, despite significant attempts at policy interventions, legal safeguards, and growing awareness. According to World Economic Forum’s Global Gender Gap Report 2024, India’s low rank (129th out of 146 countries) in gender parity score, with women earning 20–30% less than men on average, communicates low female labour-force participation rates and gender disparities in leadership roles, despite the existence of comparable educational backgrounds and experience levels among women. A 2008 report by the International Labour Organization (ILO) identifies that women employment is largely seen in “typically female” job roles (e.g., caregiving, domestic work), which are often unpaid or underpaid. Systemic factors like occupational segregation, underrepresentation in leadership roles, and undervaluation of “feminine” labor perpetuate a cycle of unequal power dynamics and thus, act as key contributors to the issue. Gender wage gap and less occupational choices involve multidimensional reasons ranging from socio-cultural constraints that hinder participation to lack of human capital development among women. Societal expectations and unequal distribution of caregiving and domestic responsibilities limits women’s competence in the economic domain. Gender norms, safety concerns, family responsibilities, and lack of childcare infrastructure push women into low-paying, insecure jobs—primarily in the informal sector. There also exists disparity in professions where women are rarely promoted to leadership roles and when they do enter male-dominated professions, they often encounter a “glass ceiling”. Other social identities like caste, religion, and socio-economic background exacerbate this inequality since Dalit and Adivasi women, in particular, are often relegated to the most exploitative forms of labor with little or no legal protections. These women face severe intersectional discrimination that limits their occupational choices and well-paid jobs. This points to the fact ‘Policies exist, but their implementation lags’. Achieving gender equality is not just a matter of policy announcement but also of its effective implementation. Policies, skilling programs and employment schemes, such as Equal Remuneration Act, Skill India and PMKVY, are steps in the right direction but often fail to address local social barriers or caste-gender intersections.",
+          "Women’s empowerment in India represents a complex and multidimensional challenge that has been systematically addressed through public policy initiatives. While notable progress has been achieved in the direction, two significant barriers continue to limit women’s economic advancement in India: wage inequality and restricted occupational choices. The subject has gathered much attention in recent years owing to the structured inequalities rooted in gender, caste, and class which continue to shape women’s work experiences and earnings, despite significant attempts at policy interventions, legal safeguards, and growing awareness. According to World Economic Forum’s Global Gender Gap Report 2024, India’s low rank (129th out of 146 countries) in gender parity score, with women earning 20–30% less than men on average, communicates low female labour-force participation rates and gender disparities in leadership roles, despite the existence of comparable educational backgrounds and experience levels among women. A 2008 report by the International Labour Organization (ILO) identifies that women employment is largely seen in “typically female” job roles (e.g., caregiving, domestic work), which are often unpaid or underpaid. Systemic factors like occupational segregation, underrepresentation in leadership roles, and undervaluation of “feminine” labor perpetuate a cycle of unequal power dynamics and thus, act as key contributors to the issue. Gender wage gap and less occupational choices involve multidimensional reasons ranging from socio-cultural constraints that hinder participation to lack of human capital development among women. Societal expectations and unequal distribution of caregiving and domestic responsibilities limits women’s competence in the economic domain. Gender norms, safety concerns, family responsibilities, and lack of childcare infrastructure push women into low-paying, insecure jobs—primarily in the informal sector. There also exists disparity in professions where women are rarely promoted to leadership roles and when they do enter male-dominated professions, they often encounter a “glass ceiling”. Other social identities like caste, religion, and socio-economic background exacerbate this inequality since Dalit and Adivasi women, in particular, are often relegated to the most exploitative forms of labor with little or no legal protections. These women face severe intersectional discrimination that limits their occupational choices and well-paid jobs. This points to the fact ‘Policies exist, but their implementation lags’. Achieving gender equality is not just a matter of policy announcement but also of its effective implementation. Policies, skilling programs and employment schemes, such as Equal Remuneration Act, Skill India and PMKVY, are steps in the right direction but often fail to address local social barriers or caste-gender intersections."
         ],
       },
       {
         heading: "Role of Intersectionality on Labour Market of India",
         paragraphs: [
-          "The Indian labour market is deeply influenced by the intersecting dynamics of caste, class, gender, and ethnicity, which shape opportunities and exclusions in complex ways. The concept of intersectionality, first articulated by (Crenshaw (1989)), provides a critical lens to understand how these social categories compound disadvantages in employment contexts. In India, caste and gender play a particularly dominant role in marginalizing large sections of the workforce.(Bazaz and Akram (2021))bring to light how gender and caste intersectionality severely restricts the availability of education and work for lower caste Muslim women, who are subject to double jeopardy in patriarchal and caste-divided frameworks. Upper caste Muslim women, although still circumscribed by patriarchal structures, are comparatively more educationally and occupationally mobile on account of being able to utilise caste capital.In addition, (Jameel et al. (2024)) illustrate that Indian women’s experiences in the workplace are not the same. Dalit and Adivasi women, for instance, confront interlocking disadvantages on grounds of caste, socio-economic status, and gender, resulting in systemic marginalization and restricted career advancement in professional settings. This underlines the limitations of understanding women’s labour market participation from gender alone, calling for an intersectional lens.(Nayak (2020))reinforces this point by demonstrating that in Odisha’s coal mining industry, caste, class, and gender all combine to determine labour segmentation. Marginalized groups, particularly Dalit women, are disproportionately found in the most insecure and informal work, which means that their labour conditions are not merely economically exploitative but also socially stratified. Generally speaking, the Indian labor market is a structure of layers in which social identities construct both privilege and barriers jointly. Intersectionality provides a more nuanced framework to explain these intersecting structures of oppression and demands policy interventions which account for such complexity.",
+          "The Indian labour market is deeply influenced by the intersecting dynamics of caste, class, gender, and ethnicity, which shape opportunities and exclusions in complex ways. The concept of intersectionality, first articulated by (Crenshaw (1989)), provides a critical lens to understand how these social categories compound disadvantages in employment contexts. In India, caste and gender play a particularly dominant role in marginalizing large sections of the workforce.(Bazaz and Akram (2021))bring to light how gender and caste intersectionality severely restricts the availability of education and work for lower caste Muslim women, who are subject to double jeopardy in patriarchal and caste-divided frameworks. Upper caste Muslim women, although still circumscribed by patriarchal structures, are comparatively more educationally and occupationally mobile on account of being able to utilise caste capital.In addition, (Jameel et al. (2024)) illustrate that Indian women’s experiences in the workplace are not the same. Dalit and Adivasi women, for instance, confront interlocking disadvantages on grounds of caste, socio-economic status, and gender, resulting in systemic marginalization and restricted career advancement in professional settings. This underlines the limitations of understanding women’s labour market participation from gender alone, calling for an intersectional lens.(Nayak (2020))reinforces this point by demonstrating that in Odisha’s coal mining industry, caste, class, and gender all combine to determine labour segmentation. Marginalized groups, particularly Dalit women, are disproportionately found in the most insecure and informal work, which means that their labour conditions are not merely economically exploitative but also socially stratified. Generally speaking, the Indian labor market is a structure of layers in which social identities construct both privilege and barriers jointly. Intersectionality provides a more nuanced framework to explain these intersecting structures of oppression and demands policy interventions which account for such complexity."
         ],
       },
       {
@@ -1343,13 +1285,13 @@ const articles = [
           "India has created a great number of public policies and laws that promote women’s empowerment and gender equality. From the very principles laid out in the Constitution where equality is guaranteed [Constitution of India], to the explicitly legislative frameworks, the country's commitment towards gender justice is also indicated through: the Protection of Women from Domestic Violence Act (2005) (PWDVA, 2005) and; the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act (2013) [POSH Act, 2013]; amendment of the Hindu Succession Act that gives women equal rights to inherit property [HSA, 2005] and the government-led campaigns that aim to change society’s current outlook on improving young girls' welfare (Beti Bachao Beti Padhao) [GoI, Beti Bachao Beti Padhao]. Together, these policies in writing suggest a comprehensive and potentially progressive approach to women’s rights.",
           "Nevertheless, there exists a perennial and critical problem of the gap between the policies themselves (which may have been painstakingly developed) and the way in which they put into practice. There are many factors causing this implementation gap that are intertwined with a bunch of socio-cultural, economic and administrational factors. The major factor is the patriarchal mind-set in different areas of society. After all that said, the primary barrier is that even when there is legal protection, customary gender roles and attitudes can stigmatize women's independent choices and roles.",
           "Nevertheless, a chronic and major challenge remains in the difference between the carefully constructed policies and their implementation. This difference can be explained by a set of multi-layered socio-cultural, economic, and administrative issues. A main challenge is the pervasive patriarchal mindset manifested across the layers of society, and the pervasive and long-standing nature of certain roles and expectations assigned to women in society compounds this issue. This contributes to the possibility of underreporting of gender-based violence; contributes to societal pressure on victims to withdraw complaints; and male-oriented community responses to women asserting their rights. Such culture can essentially undermine even the strongest legal provisions. In addition to these pervasive factors there are very real, systemic administrative challenges that also impede effective implementation; some examples include resource allocation, professional development for those on the front lines, and administrative barriers to accessing knowledge [Gov. Report, 2020]. For instance, while many substantive legal rights exist under statutory law that prohibits domestic violence, when the rights (like access to services, safe shelter, and adequate legal support) are inconvenient, inaccessible and unusable they are useless to provide protection or safe pathways for victims to extricate themselves from a potentially dangerous, sometimes lethal encounter [UN Women Report, 2023]. Likewise, while there is legislation which promotes equal pay for equal work, the large majority of women working in the informal sector, and the subtle, and less subtle, discriminatory practices that exist when it comes to recruitment and career development, wage differentials will persist [Economic Survey, 2024]. The lengthy and complicated judicial process also deters many women from pursuing justice [Legal Aid Review, 2019]. Closing this important gap requires more than a strong enforcement mechanism. It will be necessary to meaningfully address the patriarchal attitude that is pervasive in society, and support women at the community level to understand and exercise their full rights and realize violence-free potential in employment.",
+
         ],
       },
       {
-        heading:
-          "Unintended Consequences of Feminist Movements on Women's Rights in India ",
+        heading: "Unintended Consequences of Feminist Movements on Women's Rights in India ",
         paragraphs: [
-          "Policymaking has long been accompanied with a predictable and unyielding reality, an adage as old as time, yet never untrue: resistance to change is inevitable. Men specifically have resisted policies that give women the autonomy and freedom to do as they please, unfortunately some women too. Only recently were women in Saudi Arabia allowed to drive (Specia, 2019), but this change has seen a rise in resistance to feminist laws - to date, activists for womens’ right to drive are still being jailed, even though this law was implemented in 2019. There are numerous other examples of resistance to policies that advocate for the freedom of women - for a country that is culturally rich and extremely patriarchal, India is no exception to this resistance. They say the road to hell is paved with good intentions, it is ironic that laws created to give women the liberty and freedom they so desire have been the catalyst for violence towards women and in some cases, even leading to death. In 2022, Genocide Watch declared a female genocide emergency in India (Kadiwa, 2023). In early 2023, Crime Record Bureau estimated that One Indian woman is killed every hour over patriarchal disputes (Al-Jazeera, 2023) and the arrest of female activists is not uncommon in India. When a government indirectly discourages a certain movement by imprisoning those who advocate for it, by repressing and silencing individuals, it brings to question whether the government truly cares for these specific rights and consequently exposes the hypocrisy and contradictions of that government. The arrests of Devangana Kalita and Natasha Narwal (International, 2020), female activists who were fighting against restrictions on female students in 2020 raises questions on the message that is trying to be delivered. Feminism has been considered threatening and undesirable by many patriarchal and oppressive regimes (Guardian, 2019), possibly because women have always been seen as property rather than people with individual desires and autonomy. Another reason why feminism is considered a threat is misconceptions on what feminism actually is, a majority of people ignorantly mistake feminism to be an agenda against men, when in reality feminism seeks only to establish women as independent entities, unshackled from society's expectations. It is also important to remember that in most cultural setups, men are considered powerful and invincible and feminism threatens this notion (Mitengu, 2019). It is truly unfortunate that the enactment of some feminist policies has resulted in violence against women, but it is the bravery of those who have suffered and died for this cause that make this movement and the policies that support it, all the more important.",
+          "Policymaking has long been accompanied with a predictable and unyielding reality, an adage as old as time, yet never untrue: resistance to change is inevitable. Men specifically have resisted policies that give women the autonomy and freedom to do as they please, unfortunately some women too. Only recently were women in Saudi Arabia allowed to drive (Specia, 2019), but this change has seen a rise in resistance to feminist laws - to date, activists for womens’ right to drive are still being jailed, even though this law was implemented in 2019. There are numerous other examples of resistance to policies that advocate for the freedom of women - for a country that is culturally rich and extremely patriarchal, India is no exception to this resistance. They say the road to hell is paved with good intentions, it is ironic that laws created to give women the liberty and freedom they so desire have been the catalyst for violence towards women and in some cases, even leading to death. In 2022, Genocide Watch declared a female genocide emergency in India (Kadiwa, 2023). In early 2023, Crime Record Bureau estimated that One Indian woman is killed every hour over patriarchal disputes (Al-Jazeera, 2023) and the arrest of female activists is not uncommon in India. When a government indirectly discourages a certain movement by imprisoning those who advocate for it, by repressing and silencing individuals, it brings to question whether the government truly cares for these specific rights and consequently exposes the hypocrisy and contradictions of that government. The arrests of Devangana Kalita and Natasha Narwal (International, 2020), female activists who were fighting against restrictions on female students in 2020 raises questions on the message that is trying to be delivered. Feminism has been considered threatening and undesirable by many patriarchal and oppressive regimes (Guardian, 2019), possibly because women have always been seen as property rather than people with individual desires and autonomy. Another reason why feminism is considered a threat is misconceptions on what feminism actually is, a majority of people ignorantly mistake feminism to be an agenda against men, when in reality feminism seeks only to establish women as independent entities, unshackled from society's expectations. It is also important to remember that in most cultural setups, men are considered powerful and invincible and feminism threatens this notion (Mitengu, 2019). It is truly unfortunate that the enactment of some feminist policies has resulted in violence against women, but it is the bravery of those who have suffered and died for this cause that make this movement and the policies that support it, all the more important."
         ],
       },
       {
@@ -1380,105 +1322,85 @@ const articles = [
       },
     ],
     conclusion: [
-      "The future of women's empowerment in India depends not only on progressive legislation but on how deeply public institutions, civil society, and local communities internalize and act upon feminist values. A transformative agenda requires persistent structural reform, participatory governance, and culturally grounded feminist policy that ensures no woman — regardless of caste, class, or occupation — is left behind.",
+      "The future of women's empowerment in India depends not only on progressive legislation but on how deeply public institutions, civil society, and local communities internalize and act upon feminist values. A transformative agenda requires persistent structural reform, participatory governance, and culturally grounded feminist policy that ensures no woman — regardless of caste, class, or occupation — is left behind."
     ],
     references: [
       {
-        heading:
-          "Al-Jazeera. (2023). One Indian woman killed every hour over dowry. Al-Jazeera.",
+        heading: "Al-Jazeera. (2023). One Indian woman killed every hour over dowry. Al-Jazeera.",
       },
       {
-        heading:
-          "Amnesty International. (2020). India: Authorities must release student activists held under draconian laws. Amnesty International.",
+        heading: "Amnesty International. (2020). India: Authorities must release student activists held under draconian laws. Amnesty International.",
       },
       {
-        heading:
-          "Bharti, P. (2023). Gender wage gap in Indian labour market and role of government policies: A theoretical perspective with an empirical overhaul.",
+        heading: "Bharti, P. (2023). Gender wage gap in Indian labour market and role of government policies: A theoretical perspective with an empirical overhaul.",
       },
       {
-        heading:
-          "Centre for Social Research. (2019). Challenges in accessing legal aid for women in India. New Delhi: Centre for Social Research.",
+        heading: "Centre for Social Research. (2019). Challenges in accessing legal aid for women in India. New Delhi: Centre for Social Research.",
       },
       {
-        heading:
-          "Dalit Women’s Collective, & Human Rights Watch. (2022). Double discrimination: Gender, caste and economic exploitation.",
+        heading: "Dalit Women’s Collective, & Human Rights Watch. (2022). Double discrimination: Gender, caste and economic exploitation.",
       },
       {
-        heading:
-          "Dutta, P. V. (2005). Accounting for wage inequality in India. Indian Journal of Labour Economics, 48(2), 273–295.",
+        heading: "Dutta, P. V. (2005). Accounting for wage inequality in India. Indian Journal of Labour Economics, 48(2), 273–295.",
       },
       {
-        heading:
-          "Government of India. (2005a). The Protection of Women from Domestic Violence Act, 2005. The Gazette of India.",
+        heading: "Government of India. (2005a). The Protection of Women from Domestic Violence Act, 2005. The Gazette of India.",
       },
       {
-        heading:
-          "Government of India. (2005b). The Hindu Succession (Amendment) Act, 2005. The Gazette of India.",
+        heading: "Government of India. (2005b). The Hindu Succession (Amendment) Act, 2005. The Gazette of India.",
       },
       {
-        heading:
-          "Government of India. (2013). The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013. The Gazette of India.",
+        heading: "Government of India. (2013). The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013. The Gazette of India.",
       },
       {
         heading: "Guardian, T. (2019). The backlash against feminism in India.",
       },
       {
-        heading:
-          "Gould, E., & Schieder, J. (2017). Women’s work and the gender pay gap: How discrimination, societal norms, and other forces affect women’s occupational choices and their pay. Economic Policy Institute.",
+        heading: "Gould, E., & Schieder, J. (2017). Women’s work and the gender pay gap: How discrimination, societal norms, and other forces affect women’s occupational choices and their pay. Economic Policy Institute.",
       },
       {
-        heading:
-          "International Labour Organization. (2008). Global employment trends for women.",
+        heading: "International Labour Organization. (2008). Global employment trends for women.",
       },
       {
-        heading:
-          "I-PEEL. (n.d.). Housework. International Political Economy of Everyday Life.",
+        heading: "I-PEEL. (n.d.). Housework. International Political Economy of Everyday Life.",
         links: " https://i-peel.org/homepage/housework/",
       },
       {
-        heading:
-          "Kadiwa, L. (2023). Critical feminism resistance in India. Taylor and Francis.",
+        heading: "Kadiwa, L. (2023). Critical feminism resistance in India. Taylor and Francis.",
       },
       {
         heading: "Kannan, K. P. (2018). Wage inequalities in India.",
       },
       {
-        heading:
-          "Ministry of Labour and Employment. (2019). Code on Wages, 2019. Government of India.",
+        heading: "Ministry of Labour and Employment. (2019). Code on Wages, 2019. Government of India.",
       },
       {
-        heading:
-          "Mitengu, I. (2019). Why feminism is a threat to some men. BBC News.",
+
+        heading: "Mitengu, I. (2019). Why feminism is a threat to some men. BBC News.",
       },
       {
-        heading:
-          "National Statistical Office. (2021). Time Use Survey (2019–20). Government of India.",
+        heading: "National Statistical Office. (2021). Time Use Survey (2019–20). Government of India.",
       },
       {
         heading: "Oxfam India. (2023). India discrimination report 2022.",
       },
       {
-        heading:
-          "Specia, M. (2019). Saudi Arabia granted women the right to drive. A year on, it’s still complicated. The New York Times.",
+        heading: "Specia, M. (2019). Saudi Arabia granted women the right to drive. A year on, it’s still complicated. The New York Times.",
       },
       {
         heading: "World Economic Forum. (2024). Global gender gap report 2024.",
       },
       {
-        heading:
-          "Rege, S. (1998). Dalit women talk differently: A critique of difference and towards a Dalit feminist standpoint position. Economic and Political Weekly, 33(44), WS39–WS46",
+        heading: "Rege, S. (1998). Dalit women talk differently: A critique of difference and towards a Dalit feminist standpoint position. Economic and Political Weekly, 33(44), WS39–WS46",
       },
       {
-        heading:
-          "World Bank. (2019). Caste, gender and jati: An intersectional analysis aimed at better targeting poverty alleviation and women’s empowerment in Bihar, Orissa and Tamil Nadu.",
+        heading: "World Bank. (2019). Caste, gender and jati: An intersectional analysis aimed at better targeting poverty alleviation and women’s empowerment in Bihar, Orissa and Tamil Nadu.",
       },
       {
-        heading:
-          "Samantroy, E. (2025, February 10). Unpaid work is the biggest stumbling block to gender equality. Policy Circle.",
+        heading: "Samantroy, E. (2025, February 10). Unpaid work is the biggest stumbling block to gender equality. Policy Circle.",
       },
       {
-        heading:
-          "Observer Research Foundation. (2022, October 17). Building India’s economy on the backs of women's unpaid work: A gendered analysis of time-use data.",
+        heading: "Observer Research Foundation. (2022, October 17). Building India’s economy on the backs of women's unpaid work: A gendered analysis of time-use data.",
       },
     ],
   },
@@ -1488,8 +1410,7 @@ const articles = [
     volume: 1,
     title:
       "Scripts, Symbols and Soft Power: Tracing the Historical Roots and Modern Interpretation of Cultural Diplomacy in Global Affairs",
-    author:
-      "Akshita Naraharisetty, Farija Akther, Jayasree, Swarnadeep Purkayastha",
+    author: "Akshita Naraharisetty, Farija Akther, Jayasree, Swarnadeep Purkayastha",
     authorAbbrev: "A. Naraharisetty, F. Akther, J. Jayasree, S. Purkayastha",
     abstract:
       "This article delves into how cultural diplomacy, particularly soft power strategies employed by countries like South Korea, Japan, and France, plays a vital role in shaping international relations. Using constructivist and postcolonial lenses, it argues that cultural influence can surpass military might in shaping public opinion, reducing geopolitical tensions, and reframing diplomatic dialogues.",
@@ -1500,7 +1421,7 @@ const articles = [
       "Postcolonialism",
       "Korean Wave",
       "International Relations",
-      "Diplomatic Strategy",
+      "Diplomatic Strategy"
     ],
     status: "Published",
     intro: [
@@ -1510,6 +1431,7 @@ const articles = [
       `Furthermore, this article explores how these diplomatic strategies influence negotiation styles, communication frameworks, and conflict resolution approaches, particularly within Eastern and postcolonial contexts. By employing constructivist and postcolonial theoretical lenses, the paper argues that cultural diplomacy does not simply beautify foreign policy; it redefines power projection.`,
       `Utilizing both primary observations and secondary analyses, this article examines the cultural subtleties embedded within diplomacy—how Korea’s indirect, collectivist communication style contrasts with Western assertiveness; how Japan’s refinement supports long-term trust-building; and how India’s cooperative strategy reflects its civilizational values.`,
       `In an increasingly multipolar global landscape marked by ideological difference and diplomatic volatility, this article positions culture not as a vocabulary to diplomacy, but as its most enduring and persuasive form.`,
+
     ],
     content: [
       {
@@ -1524,8 +1446,8 @@ const articles = [
           `China, on the other hand, remained avoidant, downplaying the incident in the media, engaging in ambiguous international dialogues, deflecting international scrutiny and heavily emphasising economic diplomacy.`,
           `The diplomatic world from the Westphalian world order through the Cold War up until the unipolar and the current multipolar world has seen the emergence of innumerable organisations and forums for peace, stability and cooperation of the global powers. BRICS+, the Shanghai Cooperation Organisation (SCO), the Association of Southeast Asian Nations (ASEAN), the Conference on Interaction and Confidence Building Measures in Asia (CICA) and several others are examples of global intergovernmental organisations that have been formed and chaired by countries that, in concrete terms, have red borders between them. Cultural diplomacy-driven soft power enables these countries to ease their tensions on these forums and collaborate for a greater good.`,
           `Whilst upholding foreign policy and principles of state on its diplomatic ties is the onus of a soft power agent, the cultural consciousness and behavioural communication of an attaché have the ability to amplify the intensity of such dialogues. The perfect and harmonised exercise of soft power and smart power is essential to prevent the need for hard power. Diplomatic disasters cost a heavy price in terms of the economy, politics and military of a country. Preventive diplomacy is better than a full-fledged conflict. `,
-          `The multipolar world of the twenty-first century does not provide the impetus for nations to take unambiguous stances and cut-throat biases in the maintenance of international relations.`,
-        ],
+          `The multipolar world of the twenty-first century does not provide the impetus for nations to take unambiguous stances and cut-throat biases in the maintenance of international relations.`
+        ]
       },
       {
         heading: "Establishing Trust and Reducing Geopolitical Tensions",
@@ -1537,7 +1459,7 @@ const articles = [
           `Crash Landing on You was a sensation with an original plot-line of a South Korean heiress and a North Korean soldier brought to life on either side of the divided peninsula and sparked discussions of unification. Itaewon Class projects a modern, multicultural perspective of Korean society while talking about matters like discrimination and entrepreneurship. In the story of a neurodivergent lawyer working for a prestigious law firm, Extraordinary Attorney Woo highlights biodiversity and inclusivity. Twenty-Five Twenty-One combines the youthful dreams of love with choice walks on life through the economic struggle of the country during the IMF crisis.`,
           `When people visit another country and see its culture for themselves, it's harder to see that country only through the lens of political rivalry or past wrongs. This personal connection sets the stage for diplomacy that is more helpful and less based on fear.`,
           `As problems around the world get harder to solve, cultural diplomacy becomes an important way to connect people, build trust, and make hard power less appealing. The experiences of France, Japan, and especially South Korea show how cultural exchange can change the way countries get along with each other, making the world more connected, understanding, and peaceful.`,
-        ],
+        ]
       },
       {
         heading: "Empowering Diplomacy With Cultural Intricacies",
@@ -1551,7 +1473,9 @@ const articles = [
           `Real-world incident analysis further illustrates pitfalls and opportunities. U.S.–Japan trade negotiations in the 1990s faltered partly because American negotiators interpreted Japanese indirect refusals as ambivalence, pushing prematurely for concessions; adjusting to Hall’s framework might have allowed more time for trust-building². At the G20 summit in 2019, when the U.S. delegation’s abrupt public remarks disrupted China’s preference for consensus statements, the result was a visible freeze in dialogue—highlighting a context mismatch. Conversely, in 2021, a protocol-savvy engagement by Nordic diplomats in Saudi Arabia—complete with formal protocol observers and hierarchical introductions—helped unlock cooperation around green energy initiatives.`,
           `Integrating these theories into diplomatic training and institutional practice transforms diplomacy from a transactional endeavor into one rooted in empathy, cultural intelligence, and relational awareness. Training modules can include Hofstede dimension interviews, Hallbased role-play simulations, and scenario analysis of civilizational narratives. Diplomatic academies might simulate the “Century of Humiliation” dialogue context or model seating protocols for high power-distance environments. Crucially, diplomats must avoid reductive stereotyping; cultural frameworks serve as flexible heuristics, not rigid scripts.`,
           `By deliberately embedding cultural theory into diplomatic engagement, practitioners can anticipate reactions, tailor messaging, and avoid missteps with precision. Adjusting negotiation spaces, rephrasing proposals to include culturally resonant metaphors, and pacing interactions according to collective versus individual decision timelines reflect this approach in action. Far from obstructing diplomacy, culture becomes its conduit—transforming transactional exchanges into bridges of mutual understanding and sustainable cooperation.`,
-        ],
+
+
+        ]
       },
       {
         heading: "Conclusion",
@@ -1559,122 +1483,91 @@ const articles = [
           `In today’s  world, which is no longer defined by singular hegemonies but shaped by a cacophony of civilizations, cultural diplomacy has the capability to influence world leaders and especially the opinion of the general public. It has transcended the realm of soft appeal to become a deliberate, calculated mechanism of influence, one that speaks through connection. As this paper has explored, the export of scripts and symbols, whether in the form of Korean dramas, Promise of the American Dream, European linguistic outreach, or Indian spiritual diplomacy, has become pivotal to how nations craft their global images and assert their dominance in international negotiations.`,
           `Theoretical frameworks such as Hofstede’s dimensions, Hall’s context spectrum, and Huntington’s civilizational discourse equip modern diplomats with cultural literacy, allowing them to decode signals and prevent misunderstandings that could spark all-out wars. `,
           `In an era where the prospect of wars, genocides and mass-killing are not a dystopian future, where individual egos withhold the final decision of who lives and who dies, Cultural diplomacy is not merely a supplement to international relations, it is the prerequisite script that alters and, hopefully, prevents it.`,
-        ],
-      },
+
+        ]
+      }
     ],
     references: [
       {
-        heading:
-          "Nye, J. S. (2004). Soft power: The means to success in world politics.",
-        links:
-          "https://www.wcfia.harvard.edu/publications/soft-power-means-success-world-politics",
+        heading: "Nye, J. S. (2004). Soft power: The means to success in world politics.",
+        links: "https://www.wcfia.harvard.edu/publications/soft-power-means-success-world-politics"
       },
       {
-        heading:
-          "Nkrumah, K. (1965). Neo-colonialism: The last stage of imperialism.",
-        links:
-          "https://www.marxists.org/subject/africa/nkrumah/neo-colonialism/introduction.htm",
+        heading: "Nkrumah, K. (1965). Neo-colonialism: The last stage of imperialism.",
+        links: "https://www.marxists.org/subject/africa/nkrumah/neo-colonialism/introduction.htm"
       },
       {
         heading: "Baris, Y. (2020). Modern West and East diplomacy study.",
-        links:
-          "https://www.abacademies.org/articles/conceptual-basis-of-the-modern-west-and-east-diplomacy-study-9148.html",
+        links: "https://www.abacademies.org/articles/conceptual-basis-of-the-modern-west-and-east-diplomacy-study-9148.html"
       },
       {
         heading: "Bown, C. P. (2019). US-China trade war tariffs.",
-        links:
-          "https://www.piie.com/research/piie-charts/2019/us-china-trade-war-tariffs-date-chart",
+        links: "https://www.piie.com/research/piie-charts/2019/us-china-trade-war-tariffs-date-chart"
       },
       {
-        heading:
-          "BBC News (2024). Why China is taking a tougher stance on Western diplomats.",
-        links: "https://www.bbc.com/news/articles/cgmj7l0lne30.amp",
+        heading: "BBC News (2024). Why China is taking a tougher stance on Western diplomats.",
+        links: "https://www.bbc.com/news/articles/cgmj7l0lne30.amp"
       },
       {
         heading: "Hofstede, G. (2023). The G-D Model of National Culture.",
-        links:
-          "https://geerthofstede.com/culture-geert-hofstede-gert-jan-hofstede/6d-model-of-national-culture/",
+        links: "https://geerthofstede.com/culture-geert-hofstede-gert-jan-hofstede/6d-model-of-national-culture/"
       },
       {
         heading: "Hall, E. T. (1976). Beyond Culture.",
-        links:
-          "https://www.ebsco.com/research-starters/communication-and-mass-media/high-context-and-low-context-cultures",
+        links: "https://www.ebsco.com/research-starters/communication-and-mass-media/high-context-and-low-context-cultures"
       },
       {
         heading: "Huntington, S. P. (1996). The Clash of Civilizations.",
-        links:
-          "https://msuweb.montclair.edu/~lebelp/1993SamuelPHuntingtonTheClashOfCivilizationsAndTheRemakingofWorldOrder.pdf",
+        links: "https://msuweb.montclair.edu/~lebelp/1993SamuelPHuntingtonTheClashOfCivilizationsAndTheRemakingofWorldOrder.pdf"
       },
       {
-        heading:
-          "Karawan, A. (2025). Cultural Dimensions and Their Relevance to Diplomacy.",
-        links: "https://www.researchgate.net/publication/388416423",
+        heading: "Karawan, A. (2025). Cultural Dimensions and Their Relevance to Diplomacy.",
+        links: "https://www.researchgate.net/publication/388416423"
       },
       {
-        heading:
-          "Agave Affairs (2025). The Iceberg Model of Culture in Diplomacy.",
-        links:
-          "https://agaveaffairs.com/2025/01/29/edward-t-hall-the-iceberg-model-of-culture-and-its-application-in-diplomacy-and-daily-life/",
+        heading: "Agave Affairs (2025). The Iceberg Model of Culture in Diplomacy.",
+        links: "https://agaveaffairs.com/2025/01/29/edward-t-hall-the-iceberg-model-of-culture-and-its-application-in-diplomacy-and-daily-life/"
       },
       {
-        heading:
-          "Nawaz, H. (2025). Cultural diplomacy in strengthening soft power.",
-        links:
-          "https://uscpublicdiplomacy.org/blog/role-cultural-diplomacy-strengthening-soft-power-globalized-world",
+        heading: "Nawaz, H. (2025). Cultural diplomacy in strengthening soft power.",
+        links: "https://uscpublicdiplomacy.org/blog/role-cultural-diplomacy-strengthening-soft-power-globalized-world"
       },
       {
-        heading:
-          "Ministry of Foreign Affairs of the Republic of Korea (2007). Goals of Korean cultural diplomacy.",
-        links: "https://overseas.mofa.go.kr/eng/brd/m_22723/view.do?seq=298757",
-      },
-    ],
+        heading: "Ministry of Foreign Affairs of the Republic of Korea (2007). Goals of Korean cultural diplomacy.",
+        links: "https://overseas.mofa.go.kr/eng/brd/m_22723/view.do?seq=298757"
+      }
+    ]
   },
   {
     id: 10,
     issue: 1,
     volume: 1,
-    title:
-      "Sovereignty, Strategy, and Systemic Strain: A Critical Assessment of International Law's Efficacy in the South China Sea",
+    title: "Sovereignty, Strategy, and Systemic Strain: A Critical Assessment of International Law's Efficacy in the South China Sea",
     author: "Aaliya Ali, Abhilasha Saikia, Himakshi Prajapati, Tia Anna Joseph",
     authorAbbrev: "A. Ali, A. Saikia, and others",
-    abstract:
-      "Breaking down the issue in the South China Sea, this study looks at the old, belief-based, and rule-related reasons for China’s large claims. The review checks how good and natural limits international rules of law have, especially UNCLOS (The United Nations Convention on the Law of the Sea) was adopted in 1982 and entered into force in 1994. It provides for a comprehensive regime of law and order for the ocean spaces of the world, laying down the rules for the distribution of rights and jurisdiction of States in maritime areas, peaceful uses of the seas, and management of their resources.) in settling this long-lasting fight. More questions go into the main behind-the-scenes political and social forces that keep up with regional trouble. This research was formed within a strong interdisciplinary analytical framework. It combined critical historical analysis of ancient Chinese practices and cartography with a rigorous assessment of the international legal regime, highlighting the 2016 Permanent Court of Arbitration decision and an analysis of geopolitical strategies, primarily the 'stupefy the people' ideology. The novel conceptual tool of maritime masculinity sheds new light on state behaviour and international law practice from a gendered perspective. The major findings shed light on some critical aspects. While China bases its expansive 'Nine-Dash Line' claims on historical narratives, more often, such claims are a product of cultural group activities rather than continuous nation-state sovereignty and strategically serve as a global distraction. Legally, they run head-on against the principles of UNCLOS. With blatant disregard for the 2016 arbitration ruling that invalidated many of its assertions, the weakness in the enforcement mechanisms of UNCLOS and the pervading influence of ‘the law of the strong’ have been brought into sharp focus. The deep-set power dynamics shown in this dispute reveal dominant 'masculine-coded behaviours’ over an aspiration to avoid even the slightest perceived vulnerability and thus create what might be described as a ‘zero-sum’ security climate. Hence, this conflict is protracted and demands enormous political will and unified multilateral commitment beyond mere legal instruments to achieve peace in that part of the world.",
-    keywords: [
-      "South China Sea",
-      "Nine-Dash Line",
-      "UNCLOS",
-      "Maritime Sovereignty",
-      "Hegemonic Masculinity",
-      "International Maritime Law",
-      "China Foreign Policy",
-      "Territorial Disputes",
-      "Permanent Court of Arbitration",
-      "Indo-Pacific security",
-    ],
+    abstract: "Breaking down the issue in the South China Sea, this study looks at the old, belief-based, and rule-related reasons for China’s large claims. The review checks how good and natural limits international rules of law have, especially UNCLOS (The United Nations Convention on the Law of the Sea) was adopted in 1982 and entered into force in 1994. It provides for a comprehensive regime of law and order for the ocean spaces of the world, laying down the rules for the distribution of rights and jurisdiction of States in maritime areas, peaceful uses of the seas, and management of their resources.) in settling this long-lasting fight. More questions go into the main behind-the-scenes political and social forces that keep up with regional trouble. This research was formed within a strong interdisciplinary analytical framework. It combined critical historical analysis of ancient Chinese practices and cartography with a rigorous assessment of the international legal regime, highlighting the 2016 Permanent Court of Arbitration decision and an analysis of geopolitical strategies, primarily the 'stupefy the people' ideology. The novel conceptual tool of maritime masculinity sheds new light on state behaviour and international law practice from a gendered perspective. The major findings shed light on some critical aspects. While China bases its expansive 'Nine-Dash Line' claims on historical narratives, more often, such claims are a product of cultural group activities rather than continuous nation-state sovereignty and strategically serve as a global distraction. Legally, they run head-on against the principles of UNCLOS. With blatant disregard for the 2016 arbitration ruling that invalidated many of its assertions, the weakness in the enforcement mechanisms of UNCLOS and the pervading influence of ‘the law of the strong’ have been brought into sharp focus. The deep-set power dynamics shown in this dispute reveal dominant 'masculine-coded behaviours’ over an aspiration to avoid even the slightest perceived vulnerability and thus create what might be described as a ‘zero-sum’ security climate. Hence, this conflict is protracted and demands enormous political will and unified multilateral commitment beyond mere legal instruments to achieve peace in that part of the world.",
+    keywords: ["South China Sea", "Nine-Dash Line", "UNCLOS", "Maritime Sovereignty", "Hegemonic Masculinity", "International Maritime Law", "China Foreign Policy", "Territorial Disputes", "Permanent Court of Arbitration", "Indo-Pacific security"],
     status: "Submitted",
-    intro: [
-      "Rich in natural riches and an essential route for international trade, the South China Sea has become a major international flashpoint with conflicting territorial claims over economic stability and regional security. The disputed 'Nine-Dash Line' is often used to depict China's vast maritime claims. This line crosses the exclusive economic zones (EEZs) of several Southeast Asian nations, including Vietnam, the Philippines, Malaysia, Brunei, and Indonesia, and encircles a sizable section of the South China Sea, which contains several islands and reefs. A hub of geopolitical complexity and heightened competition, the South China Sea is rich in fisheries resources, making up almost 12% of the world's total fish catch and essential to the livelihoods of millions in the area. It also holds substantial undeveloped oil and gas reserves, with an estimated 11 billion barrels of oil and 190 trillion cubic feet of natural gas, influencing the wealth and potential economic expansion of neighbouring countries. As a vital route handling more than one-third of all marine traffic worldwide, the South China Sea's strategic significance extends to international trade. Carrying commodities worth over $3 trillion annually and linking major Asian economies with markets in Europe, Africa, and the Americas, it becomes a focal point for overlapping marine authorities and territorial claims, underscoring its global importance. The region’s rich historical background dates back many centuries. China, the Philippines, Vietnam, Malaysia, Brunei, and Taiwan are among the powers vying for control of various islands and reefs. This rivalry has produced a complicated web of conflicts that entwine tactical advantages, national pride, and historical interpretations. The involvement of global powers like the United States adds new dimensions to this already complex situation.",
-    ],
+    intro: ["Rich in natural riches and an essential route for international trade, the South China Sea has become a major international flashpoint with conflicting territorial claims over economic stability and regional security. The disputed 'Nine-Dash Line' is often used to depict China's vast maritime claims. This line crosses the exclusive economic zones (EEZs) of several Southeast Asian nations, including Vietnam, the Philippines, Malaysia, Brunei, and Indonesia, and encircles a sizable section of the South China Sea, which contains several islands and reefs. A hub of geopolitical complexity and heightened competition, the South China Sea is rich in fisheries resources, making up almost 12% of the world's total fish catch and essential to the livelihoods of millions in the area. It also holds substantial undeveloped oil and gas reserves, with an estimated 11 billion barrels of oil and 190 trillion cubic feet of natural gas, influencing the wealth and potential economic expansion of neighbouring countries. As a vital route handling more than one-third of all marine traffic worldwide, the South China Sea's strategic significance extends to international trade. Carrying commodities worth over $3 trillion annually and linking major Asian economies with markets in Europe, Africa, and the Americas, it becomes a focal point for overlapping marine authorities and territorial claims, underscoring its global importance. The region’s rich historical background dates back many centuries. China, the Philippines, Vietnam, Malaysia, Brunei, and Taiwan are among the powers vying for control of various islands and reefs. This rivalry has produced a complicated web of conflicts that entwine tactical advantages, national pride, and historical interpretations. The involvement of global powers like the United States adds new dimensions to this already complex situation."],
     content: [
       {
         heading: "China's Ideology Behind Claiming the South China Sea",
         paragraphs: [
-          "The ancients and China practiced the way which did not enlighten the people, they usedit to stupefy the people and this is what is happening in present. Also the people who areintelligent and knowledgeable and question the world order are hard to rule. Thereforeruling a state through knowledge is to rock the state. So it's better to stupefy thembecause ruling a state through ignorance brings stability to the state.That's why China wants the whole world to be distracted in the conflicts of South China Sea and international boundary conflicts so it can grow like a lone wolf and nobody can interferein their internal matters if they keep the world distracted in outer world. It is how China make historical names on South China Sea by drawing a 9 dash line the legal basis of China's claim. 1China is actually the victim with regards to the South China Sea issue, the Chinese people were the first to discuss name and develop the South China Sea island1 .(Weidong,Z,2016) Facts that support China's claim:- In 111 BCE the Han dynasty patrolled the island in South China Sea from 220 to 265 BCE during China's three kingdoms period contained descriptions of some of these islands indicating that the Chinese had travelled there . Structure of pottery and Chinese coins dated 713 to 425 Tang and sang dynasties have been found on some of the island and reefs. A map from 1775 and a map between 1810 to 1817 all made during Qing dynasty. The protest of Qing dynasty against the survey of island conducted by Germany in 1883. Argument against the claim :- 2China's legal claims are valid and buttressed by history. These above all claims show that China as a cultural group of people rather than as particular nation, state or government 2 . China looks at the evidence of activity of Chinese people in South China Sea and these claims are inextricably intertwined despite the fact this evidence spends multiple government and thousand of years . In China's view these efforts from the Chinese people and therefore from China. (Dupuy,F,2013) According to Chinese Ambassador Liu Xiaoming, as early as 200 BC, 3during China's Han dynasty, the Chinese had large scale and frequency farming and fishing activities in the South China Sea. Actually the basis of China claiming the South China Sea is their historical evidences3 , but you cannot claim a sea only by historical evidences. So the main chinese ideology is to stupefy the world by intervening in international matters and ignoring the atrocities which they've been doing to their people in the name of development or growth.(Xiaoming,L,2016)",
+          "The ancients and China practiced the way which did not enlighten the people, they usedit to stupefy the people and this is what is happening in present. Also the people who areintelligent and knowledgeable and question the world order are hard to rule. Thereforeruling a state through knowledge is to rock the state. So it's better to stupefy thembecause ruling a state through ignorance brings stability to the state.That's why China wants the whole world to be distracted in the conflicts of South China Sea and international boundary conflicts so it can grow like a lone wolf and nobody can interferein their internal matters if they keep the world distracted in outer world. It is how China make historical names on South China Sea by drawing a 9 dash line the legal basis of China's claim. 1China is actually the victim with regards to the South China Sea issue, the Chinese people were the first to discuss name and develop the South China Sea island1 .(Weidong,Z,2016) Facts that support China's claim:- In 111 BCE the Han dynasty patrolled the island in South China Sea from 220 to 265 BCE during China's three kingdoms period contained descriptions of some of these islands indicating that the Chinese had travelled there . Structure of pottery and Chinese coins dated 713 to 425 Tang and sang dynasties have been found on some of the island and reefs. A map from 1775 and a map between 1810 to 1817 all made during Qing dynasty. The protest of Qing dynasty against the survey of island conducted by Germany in 1883. Argument against the claim :- 2China's legal claims are valid and buttressed by history. These above all claims show that China as a cultural group of people rather than as particular nation, state or government 2 . China looks at the evidence of activity of Chinese people in South China Sea and these claims are inextricably intertwined despite the fact this evidence spends multiple government and thousand of years . In China's view these efforts from the Chinese people and therefore from China. (Dupuy,F,2013) According to Chinese Ambassador Liu Xiaoming, as early as 200 BC, 3during China's Han dynasty, the Chinese had large scale and frequency farming and fishing activities in the South China Sea. Actually the basis of China claiming the South China Sea is their historical evidences3 , but you cannot claim a sea only by historical evidences. So the main chinese ideology is to stupefy the world by intervening in international matters and ignoring the atrocities which they've been doing to their people in the name of development or growth.(Xiaoming,L,2016)"
         ],
       },
       {
-        heading:
-          "Maritime Masculinity and Power Dynamics in the South China Sea",
+        heading: "Maritime Masculinity and Power Dynamics in the South China Sea",
         paragraphs: [
           "Protecting sovereignty in the South China Sea is not merely a legal or geopolitical endeavour — it is a gendered performance. China's responses to U.S. patrols and surveillance reflect hegemonic masculinity — asserting dominance through territorial control and avoiding perceived weakness (Morton, 2016). Building artificial islands, establishing military installations, and deploying ADIZs (Air Defence Identification Zones) are all displays of militarized masculinity aimed at territorial marking.",
-          "The notion of “losing face” drives both China and the U.S. into a “zero-sum” competition where security is achieved by dominance, not cooperation. Naval flyovers and symbolic military actions serve as proof of strength rather than lawful diplomacy. This is further complicated by gendered dynamics in maritime industries. Women make up only 1.2% of the seafaring workforce globally (Boström, 2024). Female mariners often “undo” their gender to fit in, highlighting a toxic masculine work environment. Post structural feminist theorists, such as Judith Butler, argue that identities like gender are performative — constructed through repeated behaviours. Onboard, gender norms shape power hierarchies, with women often sidelined or harassed. Similarly, international law’s interpretation is masculinized. The “law of the strong” privileges dominant states and sidelines the global South. Despite the universality of UNCLOS, states like China and the U.S. interpret it through strategic interests rather than ethical adherence (Seo, 2024).",
+          "The notion of “losing face” drives both China and the U.S. into a “zero-sum” competition where security is achieved by dominance, not cooperation. Naval flyovers and symbolic military actions serve as proof of strength rather than lawful diplomacy. This is further complicated by gendered dynamics in maritime industries. Women make up only 1.2% of the seafaring workforce globally (Boström, 2024). Female mariners often “undo” their gender to fit in, highlighting a toxic masculine work environment. Post structural feminist theorists, such as Judith Butler, argue that identities like gender are performative — constructed through repeated behaviours. Onboard, gender norms shape power hierarchies, with women often sidelined or harassed. Similarly, international law’s interpretation is masculinized. The “law of the strong” privileges dominant states and sidelines the global South. Despite the universality of UNCLOS, states like China and the U.S. interpret it through strategic interests rather than ethical adherence (Seo, 2024)."
         ],
       },
       {
         heading: "UNCLOS and the South China Sea",
         paragraphs: [
           "The United Nations Convention on the Law of the Sea (UNCLOS) is the governing legal framework for oceanic boundaries and maritime rights. China's Nine-Dash Line, which covers nearly 90% of the South China Sea, directly challenges the EEZs of the Philippines, Vietnam, Malaysia, and Brunei (Beckman, 2013). UNCLOS, under Article 121, differentiates islands (which can generate EEZs) from rocks and low-tide elevations (which cannot). Chinese-claimed features like Subi Reef and Fiery Cross Reef do not meet the criteria of habitable islands and hence do not qualify for EEZs (Yoshihara, 2018).",
-          "In 2016, the Permanent Court of Arbitration (PCA) ruled in favour of the Philippines, invalidating China’s “historical rights” (Permanent Court of Arbitration, 2016). The court asserted that none of the Spratly Islands is entitled to an EEZ. China, however, rejected this legally binding ruling and escalated its activities in the region. This illustrates a fundamental flaw in UNCLOS — it lacks enforcement power. While it offers arbitration and dispute resolution, compliance is voluntary. When powerful states defy international rulings, legal norms falter (Bateman, 2017). China's actions blur legality and strategy, turning UNCLOS into a symbolic rather than enforceable framework (Storey, 2020). ASEAN’s efforts to negotiate a Code of Conduct have also stalled due to internal rifts and China's economic leverage. Even the U.S., which enforces UNCLOS principles through Freedom of Navigation Operations (FONOPs), has not ratified the treaty, weakening its moral authority (Kaplan, 2011).",
+          "In 2016, the Permanent Court of Arbitration (PCA) ruled in favour of the Philippines, invalidating China’s “historical rights” (Permanent Court of Arbitration, 2016). The court asserted that none of the Spratly Islands is entitled to an EEZ. China, however, rejected this legally binding ruling and escalated its activities in the region. This illustrates a fundamental flaw in UNCLOS — it lacks enforcement power. While it offers arbitration and dispute resolution, compliance is voluntary. When powerful states defy international rulings, legal norms falter (Bateman, 2017). China's actions blur legality and strategy, turning UNCLOS into a symbolic rather than enforceable framework (Storey, 2020). ASEAN’s efforts to negotiate a Code of Conduct have also stalled due to internal rifts and China's economic leverage. Even the U.S., which enforces UNCLOS principles through Freedom of Navigation Operations (FONOPs), has not ratified the treaty, weakening its moral authority (Kaplan, 2011)."
         ],
       },
       {
@@ -1688,101 +1581,77 @@ const articles = [
         ],
       },
     ],
-    conclusion: [
-      "Despite inter-agency rivalries, China’s maritime actors operate under the Communist Party’s overall strategic umbrella, directed by Xi Jinping. His hardline stance and consolidation of power have driven a more assertive maritime policy. However, institutional reforms have generated tensions within bodies like the CCG and PLA (Jakobson, 2019). China’s sovereignty claims influence everything from state propaganda to strategic doctrines. The CCP sees these territories as non-negotiable extensions of national pride and security. As such, legal frameworks like UNCLOS remain ineffective against political ideology rooted in exceptionalism and power projection. International resistance to China’s maritime claims must thus rely not only on legal rebuttals but also on understanding China’s ideological and strategic narrative. While these claims may seem legitimate from Beijing’s view, they remain contentious under international norms, ensuring continued diplomatic and military tension in the region.",
-    ],
+    conclusion: ["Despite inter-agency rivalries, China’s maritime actors operate under the Communist Party’s overall strategic umbrella, directed by Xi Jinping. His hardline stance and consolidation of power have driven a more assertive maritime policy. However, institutional reforms have generated tensions within bodies like the CCG and PLA (Jakobson, 2019). China’s sovereignty claims influence everything from state propaganda to strategic doctrines. The CCP sees these territories as non-negotiable extensions of national pride and security. As such, legal frameworks like UNCLOS remain ineffective against political ideology rooted in exceptionalism and power projection. International resistance to China’s maritime claims must thus rely not only on legal rebuttals but also on understanding China’s ideological and strategic narrative. While these claims may seem legitimate from Beijing’s view, they remain contentious under international norms, ensuring continued diplomatic and military tension in the region."],
     references: [
       {
-        heading:
-          "Anand, H. (2024, September 22). Claims of China on South China Sea refute UNCLOS. Defence Research and Studies.",
-        links:
-          "https://dras.in/claims-of-china-on-south-china-sea-refute-unclos/",
+        heading: "Anand, H. (2024, September 22). Claims of China on South China Sea refute UNCLOS. Defence Research and Studies.",
+        links: "https://dras.in/claims-of-china-on-south-china-sea-refute-unclos/",
       },
       {
-        heading:
-          "Bateman, S. (2017). UNCLOS and its limitations in the South China Sea dispute. The Maritime Commons.",
+        heading: "Bateman, S. (2017). UNCLOS and its limitations in the South China Sea dispute. The Maritime Commons.",
         links: "https://digital-commons.usnwc.edu/maritime-commons/51",
       },
       {
-        heading:
-          "Beckman, R. (2013). The UN Convention on the Law of the Sea and the maritime disputes in the South China Sea. American Journal of International Law, 107(1), 142–163. ",
+        heading: "Beckman, R. (2013). The UN Convention on the Law of the Sea and the maritime disputes in the South China Sea. American Journal of International Law, 107(1), 142–163. ",
         links: "https://doi.org/10.5305/amerjintelaw.107.1.0142",
       },
       {
-        heading:
-          "Boström, M. (2024). Gendered hierarchies in the maritime workforce. Global Maritime Labour Review, Chen, X., Zhang, R., & Cao, M. (2022). Heavy metal pollution and ecological risks in coastal sediments of the South China Sea. Marine Pollution Bulletin, 179, 113683.",
+        heading: "Boström, M. (2024). Gendered hierarchies in the maritime workforce. Global Maritime Labour Review, Chen, X., Zhang, R., & Cao, M. (2022). Heavy metal pollution and ecological risks in coastal sediments of the South China Sea. Marine Pollution Bulletin, 179, 113683.",
         links: "https://doi.org/10.1016/j.marpolbul.202 12(2), 51–69",
       },
       {
-        heading:
-          "Dupuy, F., & Dupuy, P.-M. (2013). A legal analysis of China’s historic rights claim in the South China Sea. American Journal of International Law, 107(1), 124–141. ",
+        heading: "Dupuy, F., & Dupuy, P.-M. (2013). A legal analysis of China’s historic rights claim in the South China Sea. American Journal of International Law, 107(1), 124–141. ",
         links: "https://doi.org/10.5305/amerjintelaw.107.1.0124",
       },
       {
-        heading:
-          "Jakobson, L. (2019). China’s unpredictable maritime actors. Lowy Institute. ",
-        links:
-          "https://www.lowyinstitute.org/publications/chinas-unpredictable-maritime-actors",
+        heading: "Jakobson, L. (2019). China’s unpredictable maritime actors. Lowy Institute. ",
+        links: "https://www.lowyinstitute.org/publications/chinas-unpredictable-maritime-actors",
       },
       {
-        heading:
-          "Kaplan, R. D. (2011). Monsoon: The Indian Ocean and the future of American power. Random House.",
+        heading: "Kaplan, R. D. (2011). Monsoon: The Indian Ocean and the future of American power. Random House.",
       },
       {
-        heading:
-          "Mallory, T. (2016). China’s distant water fishing fleet: scale, impact and governance. China Dialogue Ocean.",
+        heading: "Mallory, T. (2016). China’s distant water fishing fleet: scale, impact and governance. China Dialogue Ocean.",
         links: "https://chinadialogueocean.net/en/fisheries/82232.1136",
       },
       {
-        heading:
-          "Morton, K. (2016). Sovereignty, masculinity, and militarization in the South China Sea. International Affairs Review, 68(3), 201–215.",
+        heading: "Morton, K. (2016). Sovereignty, masculinity, and militarization in the South China Sea. International Affairs Review, 68(3), 201–215.",
       },
       {
-        heading:
-          "Palomares, M. L. D., & Pauly, D. (2019). Sea Around Us Project: South China Sea.",
+        heading: "Palomares, M. L. D., & Pauly, D. (2019). Sea Around Us Project: South China Sea.",
         links: "https://www.seaaroundus.org",
       },
       {
-        heading:
-          "Permanent Court of Arbitration. (2016). The South China Sea Arbitration. ",
+        heading: "Permanent Court of Arbitration. (2016). The South China Sea Arbitration. ",
         links: "https://pca-cpa.org/en/cases/7/",
       },
       {
-        heading:
-          "Permanent Court of Arbitration. (2016). The South China Sea Arbitration (The Republic of the Philippines v. The People’s Republic of China). ",
+        heading: "Permanent Court of Arbitration. (2016). The South China Sea Arbitration (The Republic of the Philippines v. The People’s Republic of China). ",
         links: "https://pca-cpa.org/en/cases/7/",
       },
       {
-        heading:
-          "Seo, Y. (2024). Power shift, the South China Sea dispute, and the role of international law. Michigan Journal of Internationa ",
+        heading: "Seo, Y. (2024). Power shift, the South China Sea dispute, and the role of international law. Michigan Journal of Internationa ",
       },
       {
-        heading:
-          "Spalding, M. D., et al. (2012). World Atlas of Coral Reefs. University of California Press. l Law, 45(1), 93–125.",
+        heading: "Spalding, M. D., et al. (2012). World Atlas of Coral Reefs. University of California Press. l Law, 45(1), 93–125.",
       },
       {
-        heading:
-          "Storey, I. (2020). Assessing the ASEAN-China framework for the code of conduct in the South China Sea. ISEAS Perspective, 24, 1–9.",
+        heading: "Storey, I. (2020). Assessing the ASEAN-China framework for the code of conduct in the South China Sea. ISEAS Perspective, 24, 1–9.",
       },
       {
-        heading:
-          "Tao Te Ching. (n.d.). (Original work by Laozi, ~500 BCE). Translated by various authors. [Original Chinese philosophy text referenced for ideological analysis].",
+        heading: "Tao Te Ching. (n.d.). (Original work by Laozi, ~500 BCE). Translated by various authors. [Original Chinese philosophy text referenced for ideological analysis].",
       },
       {
-        heading:
-          "Weidong, Z. (2016). Some Questions and Answers on the South China Sea Issue. Ministry of Foreign Affairs, PRC.",
+        heading: "Weidong, Z. (2016). Some Questions and Answers on the South China Sea Issue. Ministry of Foreign Affairs, PRC.",
         links: " https://www.fmprc.gov.cn/",
       },
       {
-        heading:
-          "Xiaoming, L. (2016). Historical evidence of China in the South China Sea. Embassy of the People’s Republic of China. ",
+        heading: "Xiaoming, L. (2016). Historical evidence of China in the South China Sea. Embassy of the People’s Republic of China. ",
         links: "https://www.chinese-embassy.org.uk/eng/PressandMedia/",
       },
       {
-        heading:
-          "Yoshihara, T. (2018). Chinese views of the South China Sea arbitration ruling. Center for Strategic and Budgetary Assessments. ",
-        links:
-          "https://csbaonline.org/research/publications/chinese-views-of-the-south-china-sea-arbitration-ruling",
+        heading: "Yoshihara, T. (2018). Chinese views of the South China Sea arbitration ruling. Center for Strategic and Budgetary Assessments. ",
+        links: "https://csbaonline.org/research/publications/chinese-views-of-the-south-china-sea-arbitration-ruling",
       },
     ],
   },
@@ -1790,27 +1659,14 @@ const articles = [
     id: 11,
     issue: 1,
     volume: 1,
-    title:
-      "Evaluating Policy Gaps and Youth Involvement in Bangladesh to Promote Human Rights Awareness in Higher Education",
+    title: "Evaluating Policy Gaps and Youth Involvement in Bangladesh to Promote Human Rights Awareness in Higher Education",
     author: "Raihan Kobir",
     authorAbbrev: "R. Kobir",
-    abstract:
-      "This study investigates the degree of human rights consciousness among Bangladeshi university students, with particular attention to the incorporation of human rights education in postsecondary institutions and the degree of youth participation in rights-based discourse. The study highlights important gaps in policy implementation and makes specific recommendations for improvement using a mixed-method approach that includes student surveys and interviews with educators and policymakers. The results show that while students show a moderate level of human rights awareness, institutional efforts are still dispersed, and policies are not clearly operationalised. In order to improve civic engagement and more successfully incorporate human rights education into higher education policy, this study provides evidence-based recommendations.",
-    keywords: [
-      "Human Rights Education",
-      "Bangladesh",
-      "Youth Involvement",
-      "Higher Education",
-      "Policy Gaps",
-      "Civic Engagement",
-      "Institutional Support",
-      "Mixed Methods",
-      "Curriculum Development",
-      "Awareness",
-    ],
+    abstract: "This study investigates the degree of human rights consciousness among Bangladeshi university students, with particular attention to the incorporation of human rights education in postsecondary institutions and the degree of youth participation in rights-based discourse. The study highlights important gaps in policy implementation and makes specific recommendations for improvement using a mixed-method approach that includes student surveys and interviews with educators and policymakers. The results show that while students show a moderate level of human rights awareness, institutional efforts are still dispersed, and policies are not clearly operationalised. In order to improve civic engagement and more successfully incorporate human rights education into higher education policy, this study provides evidence-based recommendations.",
+    keywords: ["Human Rights Education", "Bangladesh", "Youth Involvement", "Higher Education", "Policy Gaps", "Civic Engagement", "Institutional Support", "Mixed Methods", "Curriculum Development", "Awareness"],
     status: "Submitted",
     intro: [
-      "Promoting responsible, knowledgeable, and engaged citizens starts with raising awareness of human rights. Raising awareness among young people is essential in Bangladesh, where social justice and democratic practices are still developing priorities. Institutions of higher learning are essential to this process. Human rights education is acknowledged by policy, but there is still inconsistency in how it is actually incorporated into curricula and student life. This study examines university students' level of human rights awareness, assesses how existing policy frameworks meet this need, and gauges young people's participation in discussions about rights.",
+      "Promoting responsible, knowledgeable, and engaged citizens starts with raising awareness of human rights. Raising awareness among young people is essential in Bangladesh, where social justice and democratic practices are still developing priorities. Institutions of higher learning are essential to this process. Human rights education is acknowledged by policy, but there is still inconsistency in how it is actually incorporated into curricula and student life. This study examines university students' level of human rights awareness, assesses how existing policy frameworks meet this need, and gauges young people's participation in discussions about rights."
     ],
     content: [
       {
@@ -1840,27 +1696,27 @@ const articles = [
           "Analysis of Data",
           "SPSS Version 26 was used to analyse quantitative data. To identify significant variations in awareness levels between faculties and genders, descriptive statistics, cross-tabulation, and chi-square tests were employed. The six-step framework developed by Braun and Clarke (2006) was used to transcribe, translate, and thematically analyse qualitative data.",
           "Moral Aspects to Take into Account",
-          "The Institutional Review Board (IRB) of [Name of Institution] granted prior approval. All participants gave their informed consent, and the study was conducted in an anonymous manner.",
-        ],
+          "The Institutional Review Board (IRB) of [Name of Institution] granted prior approval. All participants gave their informed consent, and the study was conducted in an anonymous manner."
+        ]
       },
       {
         heading: "Results",
         paragraphs: [
-          "The study's quantitative and qualitative findings are presented in this section.",
-        ],
+          "The study's quantitative and qualitative findings are presented in this section."
+        ]
       },
       {
         heading: "Quantitative Results",
         paragraphs: [
           "The online survey was completed by 300 undergraduate students from three public universities in Bangladesh. Of those surveyed, 46% were women and 54% were men. Three academic fields were used to choose the students: education (25%), law (35%), and social sciences (40%).",
-          "Knowledge of Human Rights: Eighty-seven percent of students said they knew what 'human rights' was. However, according to the Universal Declaration of Human Rights (UDHR), only 42% of respondents were able to correctly name at least five fundamental human rights Knowledge by Academic Year 58% of first-year students showed limited comprehension. 72% of fourth-year students showed basic to moderate comprehension. This implies that awareness level and academic seniority are positively correlated. Participation in Extracurricular Activitie. Sixty-five percent of students said they had never taken part in any human rights-related extracurricular activities, such as debates, seminars, or clubs. Just 19% reported having gone to at least one human rights-related workshop, seminar, or university event. Perceptions and Institutional Support. According to 60% of students, human rights education is not actively promoted at their university. Seventy percent said they would be interested in learning more if there were opportunities on campus.",
-        ],
+          "Knowledge of Human Rights: Eighty-seven percent of students said they knew what 'human rights' was. However, according to the Universal Declaration of Human Rights (UDHR), only 42% of respondents were able to correctly name at least five fundamental human rights Knowledge by Academic Year 58% of first-year students showed limited comprehension. 72% of fourth-year students showed basic to moderate comprehension. This implies that awareness level and academic seniority are positively correlated. Participation in Extracurricular Activitie. Sixty-five percent of students said they had never taken part in any human rights-related extracurricular activities, such as debates, seminars, or clubs. Just 19% reported having gone to at least one human rights-related workshop, seminar, or university event. Perceptions and Institutional Support. According to 60% of students, human rights education is not actively promoted at their university. Seventy percent said they would be interested in learning more if there were opportunities on campus."
+        ]
       },
       {
         heading: "Analysis of Statistics",
         paragraphs: [
-          "The association between faculty type and awareness level was investigated using a chi-square test (χ²). The findings revealed a statistically significant difference (χ² = 18.34, df = 2, p <.001), suggesting that law students were considerably more aware than those studying social science and education.",
-        ],
+          "The association between faculty type and awareness level was investigated using a chi-square test (χ²). The findings revealed a statistically significant difference (χ² = 18.34, df = 2, p <.001), suggesting that law students were considerably more aware than those studying social science and education."
+        ]
       },
       {
         heading: "Qualitative Results",
@@ -1881,8 +1737,8 @@ const articles = [
           "Additionally, the correlation between awareness level and academic year indicates that students may be exposed to more human rights concepts as they progress through their university education. This increase, however, varies by discipline, suggesting that there are gaps in the integration of the curriculum (Kabir & Chowdhury, 2017).",
           "Despite their stated interest, students' lack of participation in extracurricular activities highlights a significant gap between institutional support and student motivation. This disconnect was reaffirmed by FGDs, which showed that although students are keen to learn, their engagement opportunities are limited by institutional inertia and dormant platforms.",
           "Furthermore, an institutional policy gap is revealed by the qualitative data. Stakeholders emphasised that there is no official human rights education policy, despite the fact that some university policies make reference to civic education or values-based learning. Ahmed's (2019) criticism of Bangladesh's higher education policy, which is vague when it comes to rights-based education, is in line with this.",
-          "These findings underscore the need for structured human rights curricula and active youth engagement platforms, and they show a clear policy gap between national education aspirations and institutional implementation.",
-        ],
+          "These findings underscore the need for structured human rights curricula and active youth engagement platforms, and they show a clear policy gap between national education aspirations and institutional implementation."
+        ]
       },
       {
         heading: " Implications & Policy Gaps",
@@ -1893,8 +1749,8 @@ const articles = [
           "Furthermore, policy-making organisations (such as the Ministry of Education and UGC) and civil society actors—who have the means and know-how to create effective HRE initiatives—do not work together effectively. Students are frequently left to look for awareness on their own without this coordination, usually using social media or unofficial networks.",
           "There are wider ramifications to this policy disconnect:",
           "It restricts students' capacity to critically discuss issues pertaining to national and international rights.",
-          "It undercuts the contribution of higher education to the development of engaged citizens. It adds to a cursory knowledge of human rights, which is inadequate for fostering leadership or advocacy.",
-        ],
+          "It undercuts the contribution of higher education to the development of engaged citizens. It adds to a cursory knowledge of human rights, which is inadequate for fostering leadership or advocacy."
+        ]
       },
       {
         heading: "Suggestions",
@@ -1913,66 +1769,55 @@ const articles = [
           "6.Make Use of Digital Media and Technology",
           "Digital platforms can be useful instruments for raising awareness, especially among young people. Universities can offer micro-credentials or certificates, conduct online surveys, and distribute human rights resources through discussion boards, mobile apps, or online portals.",
           "7.Encourage Advocacy and Leadership in Youth",
-          "Through training courses, simulated UN scenarios, student-led policy discussions, and internships with human rights or legal aid groups, universities should foster student leadership.",
-        ],
-      },
+          "Through training courses, simulated UN scenarios, student-led policy discussions, and internships with human rights or legal aid groups, universities should foster student leadership."
+        ]
+      }
     ],
     conclusion: [
       "This study has brought to light the significant discrepancy that exists in Bangladesh's higher education system between the creation of policies, institutional procedures, and student participation in human rights education (HRE). Although most students are aware of the term 'human rights,' the study shows that their conceptual knowledge and practical application of it are severely limited. The development of knowledgeable and rights-aware graduates is hampered by the absence of official curriculum inclusion, dormant extracurricular activities, and a lack of institutional policy guidance.",
       "According to the data, although students show an interest in learning more about human rights, their universities do not offer sufficient frameworks or opportunities for this kind of interaction. The results highlight that while awareness rises with academic advancement, especially in fields like law, this growth is neither consistent nor systematic across all faculties. Institutional policies continue to be reactive and ambiguous rather than proactive and strategic, according to stakeholder insights.",
-      "The study comes to the conclusion that developing a human rights culture in academia and encouraging youth involvement require a comprehensive strategy that includes incorporating HRE into curricula, improving extracurricular activities, and enacting national-level policies. Giving university students the skills and information they need to comprehend, protect, and promote human rights is not only desirable but also essential as Bangladesh continues on its democratic and developmental paths.",
+      "The study comes to the conclusion that developing a human rights culture in academia and encouraging youth involvement require a comprehensive strategy that includes incorporating HRE into curricula, improving extracurricular activities, and enacting national-level policies. Giving university students the skills and information they need to comprehend, protect, and promote human rights is not only desirable but also essential as Bangladesh continues on its democratic and developmental paths."
     ],
     references: [
       {
-        heading:
-          "Ahmed, S. (2019). A critical evaluation of Bangladesh's human rights and education policies. South Asian Development Studies Journal, 6(2), 45–58.",
+        heading: "Ahmed, S. (2019). A critical evaluation of Bangladesh's human rights and education policies. South Asian Development Studies Journal, 6(2), 45–58."
       },
       {
-        heading:
-          "Bajaj, M. (2011). Approaches, location, and ideology of human rights education. Human Rights Quarterly, 33(2), 481-508.",
-        links: "https://doi.org/10.1353/hrq.2011.0019",
+        heading: "Bajaj, M. (2011). Approaches, location, and ideology of human rights education. Human Rights Quarterly, 33(2), 481-508.",
+        links: "https://doi.org/10.1353/hrq.2011.0019"
       },
       {
-        heading:
-          "Clarke, V., & Braun, V. (2006). Applying thematic analysis to psychology. Psychology: Qualitative Research, 3(2), 77–101.",
-        links: "https://doi.org/10.1191/1478088706qp063oa",
+        heading: "Clarke, V., & Braun, V. (2006). Applying thematic analysis to psychology. Psychology: Qualitative Research, 3(2), 77–101.",
+        links: "https://doi.org/10.1191/1478088706qp063oa"
       },
       {
-        heading:
-          "Plano Clark, V. L., & Creswell, J. W. (2017). Research design and execution using mixed methods (3rd ed.). SAGE Books.",
+        heading: "Plano Clark, V. L., & Creswell, J. W. (2017). Research design and execution using mixed methods (3rd ed.). SAGE Books."
       },
       {
-        heading:
-          "Islam, F., & Haque, M. S. (2022). Bangladeshi university students' awareness of human rights. Journal of Social Science Studies in Asia, 7(1), 90–101.",
-        links: "https://doi.org/10.20849/ajsss.v7i1.993",
+        heading: "Islam, F., & Haque, M. S. (2022). Bangladeshi university students' awareness of human rights. Journal of Social Science Studies in Asia, 7(1), 90–101.",
+        links: "https://doi.org/10.20849/ajsss.v7i1.993"
       },
       {
-        heading:
-          "Chowdhury, M., and Kabir, A. (2017). Human rights integration in Bangladeshi higher education: obstacles and opportunities.55–68 in Dhaka University Studies, 74(1).",
+        heading: "Chowdhury, M., and Kabir, A. (2017). Human rights integration in Bangladeshi higher education: obstacles and opportunities.55–68 in Dhaka University Studies, 74(1)."
       },
       {
-        heading:
-          "Rahman, M. A. (2021). Bangladeshi youth engagement and digital activism: An analysis of online human rights campaigns. Bangladesh Social Science Review, 38(2), 101–115.",
+        heading: "Rahman, M. A. (2021). Bangladeshi youth engagement and digital activism: An analysis of online human rights campaigns. Bangladesh Social Science Review, 38(2), 101–115."
       },
       {
-        heading:
-          "United Nations. (1948). The Universal Declaration of Human Rights.",
-        links: "https://www.un.org/en/about-us/",
+        heading: "United Nations. (1948). The Universal Declaration of Human Rights.",
+        links: "https://www.un.org/en/about-us/"
       },
       {
-        heading:
-          "Bangladesh's University Grants Commission. (2021). 2020–21 Annual Report. UGC.gov.bd",
-      },
-    ],
+        heading: "Bangladesh's University Grants Commission. (2021). 2020–21 Annual Report. UGC.gov.bd"
+      }
+    ]
   },
   {
     id: 12,
     issue: 1,
     volume: 1,
-    title:
-      "Multipolar Worldmaking: Gender, Terrorism, and the Evolution of Diplomacy",
-    author:
-      "Ahsan Shams, Shubhrajit Bhattacharjee, Priyanshi Jain, Anika Nusrat, Dakshita Choudhary, Mimansa Joshi, Shikcha Srinkhla, Dhruv Jangra,",
+    title: "Multipolar Worldmaking: Gender, Terrorism, and the Evolution of Diplomacy",
+    author: "Ahsan Shams, Shubhrajit Bhattacharjee, Priyanshi Jain, Anika Nusrat, Dakshita Choudhary, Mimansa Joshi, Shikcha Srinkhla, Dhruv Jangra,",
     authorAbbrev: "A. Shams, S. Bhattacharjee, and others",
     abstract: [
       "This study examines the dynamic changes of a multipolar international system, along with the evolving roles of gender, terrorism, and security narratives. By emphasising how power is used through discourse, framing, and selective threat recognition, it challenges traditional, state-centric assumptions in international relations. To understand how states strategically reframe issues like human trafficking, migration, and terrorism to serve domestic legitimacy and global standing, the research draws on constructivist strategies to narrative diplomacy, feminist international relations theory, and securitisation theory. ",
@@ -1996,21 +1841,21 @@ const articles = [
       "The role of emerging powers becomes crucial in this fragmented normative environment. For instance, in international diplomacy, India has established itself as a narrative leader. It presents a hybrid model of international legitimacy by addressing both sovereigntist logics and liberal rights discourses. For example, in its diplomatic response to terrorism, it asserts national sovereignty and securitised border control while focusing on moderation, legality, and moral clarity. A similar conflict between rhetorical support for gender-sensitive diplomacy and its limited domestic application can be seen in India's involvement with the Women, Peace, and Security (WPS) agenda. The broader dynamics of embedded feminism are reflected in these contradictions, where gender-inclusive language can conceal exclusionary or securitised practices. ",
       "Therefore, in the era of multipolarity, this study examines the complex relationships between gender, terrorism, migration, and diplomatic development. Instead of addressing these problems separately, it highlights how they are related: how trafficking is confused with terrorism; how feminist diplomatic tactics are appropriated or marginalised in the name of sovereignty; and how gendered framings are used to defend security interventions. The concept of 'norm contestation,' in which definitions of legitimacy, victimhood, and threat are not only discussed but also deliberately constructed, lies at the heart of this inquiry. ",
       "Utilising a multi-scalar and intersectional approach, the study assesses case studies like IndiaBangladesh border diplomacy, EU-Libya migration governance, and UNSC Resolution 2331 (2016) to investigate how state and non-state actors employ gendered narratives in diplomatic settings. The study challenges the notion that diplomacy in a multipolar world is merely a rebalancing of alliances through this lens. Instead, it implies that multipolarity radically changes the epistemic framework of diplomacy itself, moving the focus from 'what should be done?' to 'who gets to decide what matters?'",
-      "In reframing the discourse, this paper not only highlights the risks of securitised governance but also underscores the emancipatory potential of feminist and intersectional approaches in reimagining diplomacy as a space of care, justice, and survivor-led agency. ",
+      "In reframing the discourse, this paper not only highlights the risks of securitised governance but also underscores the emancipatory potential of feminist and intersectional approaches in reimagining diplomacy as a space of care, justice, and survivor-led agency. "
     ],
     content: [
       {
         heading: "Research Questions and Objectives ",
         paragraphs: [
-          "The current shift in global power from unipolar liberal hegemony to a more assertive multipolarity raises serious concerns about how norms, legitimacy, and voice are constructed in international relations. Once stable conceptions of gender, migration, terrorism, and human rights are being undermined as new powers reinterpret diplomatic priorities and contest institutional consensus. Gender, terrorism, and human trafficking/migration are three interrelated thematic lenses that this paper uses to examine the discursive and strategic development of global diplomacy in response to that moment. These are not discrete problems; instead, they are arenas of discourse that influence the structure of international governance. ",
+          "The current shift in global power from unipolar liberal hegemony to a more assertive multipolarity raises serious concerns about how norms, legitimacy, and voice are constructed in international relations. Once stable conceptions of gender, migration, terrorism, and human rights are being undermined as new powers reinterpret diplomatic priorities and contest institutional consensus. Gender, terrorism, and human trafficking/migration are three interrelated thematic lenses that this paper uses to examine the discursive and strategic development of global diplomacy in response to that moment. These are not discrete problems; instead, they are arenas of discourse that influence the structure of international governance. "
         ],
       },
       {
         heading: "Primary Research Question",
         paragraphs: [
           "1. How is the shift to multipolarity reshaping the narratives of gender, trafficking, migration, and terrorism in global diplomacy, and what does this imply for human rights, inclusive governance, and feminist foreign policy? ",
-          "This query positions diplomacy as a contested narrative space, where power is asserted through definitions, categories, and exclusions, as well as a field of geopolitical interest. Discursive decisions ingrained in state strategy and diplomatic posture are responsible for the criminalisation of migration, the framing of gendered violence, and the designation of terrorism. The study draws attention to the normative difficulties of global fragmentation as well as the possibility of pluralist reimaginings of justice by analysing how these framings are rearranged in multipolar contexts. ",
-        ],
+          "This query positions diplomacy as a contested narrative space, where power is asserted through definitions, categories, and exclusions, as well as a field of geopolitical interest. Discursive decisions ingrained in state strategy and diplomatic posture are responsible for the criminalisation of migration, the framing of gendered violence, and the designation of terrorism. The study draws attention to the normative difficulties of global fragmentation as well as the possibility of pluralist reimaginings of justice by analysing how these framings are rearranged in multipolar contexts. "
+        ]
       },
       {
         heading: "Sub-Questions ",
@@ -2021,8 +1866,8 @@ const articles = [
           "3.	How can states frame or repress dissent due to the ongoing lack of a universal definition of terrorism, and how does this fragmentation impact multilateral counterterrorism cooperation? ",
           "4.	How does India's narrative diplomacy spanning gender, trafficking, and terrorism reflect the tactics of a new Global South actor vying for moral and geopolitical legitimacy, and what part does it play in this normative contestation? ",
           "5.	Can the current frameworks of diplomacy, which are dominated by sovereignty and securitised, be effectively replaced by feminist and intersectional approaches? ",
-          "Textual and discourse analysis, thematic synthesis across sections, and empirical case studies are used to address each of these sub-questions in turn. ",
-        ],
+          "Textual and discourse analysis, thematic synthesis across sections, and empirical case studies are used to address each of these sub-questions in turn. "
+        ]
       },
       {
         heading: "Research Objectives ",
@@ -2034,15 +1879,15 @@ const articles = [
           "	To examine how states' strategic discursive flexibility is facilitated by the conceptual ambiguity surrounding terrorism, which both facilitates international diplomatic engagement and undermines the development of multilateral consensus. ",
           "	To evaluate the use of narrative diplomacy by emerging powers, particularly India, in presenting a hybrid diplomatic identity that combines postcolonial agency, liberal values, and strategic ambiguity, acting as a prism through which to view entrepreneurship in the Global South in the context of norms. ",
           "	To examine the potential and constraints of feminist diplomacy in a world order that is becoming more and more influenced by narrative fragmentation, state-led moralism, and securitisation.",
-          "The theoretical framework, empirical design, and analytical synthesis of the paper are all supported by these goals taken together. By tying feminist theory, constructivist diplomacy, and securitisation studies together, the study not only fills in gaps in the mainstream IR discourse but also makes a methodological contribution by charting the development of diplomacy in a time of disputed global meanings. ",
-        ],
+          "The theoretical framework, empirical design, and analytical synthesis of the paper are all supported by these goals taken together. By tying feminist theory, constructivist diplomacy, and securitisation studies together, the study not only fills in gaps in the mainstream IR discourse but also makes a methodological contribution by charting the development of diplomacy in a time of disputed global meanings. "
+        ]
       },
       {
         heading: "Literature Review ",
         paragraphs: [
           "The literature on international relations (IR) subjects, such as gender, security, terrorism, and diplomacy, has undergone a significant shift over the last thirty years. This shift reflects a growing awareness that traditional, state-centric approaches have historically excluded significant axes of power, particularly gender, race, and class, from meaningful analysis. The shift to feminist, intersectional, and constructivist paradigms has enabled scholars to more effectively analyse the deeply embedded biases in narratives about global governance, especially in the context of a multipolar world order. ",
-          "The literature on international relations (IR) subjects, such as gender, security, terrorism, and diplomacy, has undergone a significant shift over the last thirty years. This shift reflects a growing awareness that traditional, state-centric approaches have historically excluded significant axes of power, particularly gender, race, and class, from meaningful analysis. The shift to feminist, intersectional, and constructivist paradigms has enabled scholars to more effectively analyse the deeply embedded biases in narratives about global governance, especially in the context of a multipolar world order. ",
-        ],
+          "The literature on international relations (IR) subjects, such as gender, security, terrorism, and diplomacy, has undergone a significant shift over the last thirty years. This shift reflects a growing awareness that traditional, state-centric approaches have historically excluded significant axes of power, particularly gender, race, and class, from meaningful analysis. The shift to feminist, intersectional, and constructivist paradigms has enabled scholars to more effectively analyse the deeply embedded biases in narratives about global governance, especially in the context of a multipolar world order. "
+        ]
       },
       {
         heading: "From Gender-Blindness to Gender as Power",
@@ -2050,34 +1895,31 @@ const articles = [
           "The underlying presumptions of IR, particularly its masculinist view of security, diplomacy, and war, have been questioned by feminist scholars such as Cynthia Enloe (1990), J. Ann Tickner (1992), and Christine Sylvester (1994). Enloe's groundbreaking book 'Bananas, Beaches, and Bases' famously revealed the structural silencing of women's roles in international systems, ranging from nurses and sex workers to diplomatic spouses. Through a gendered lens, Tickner's intervention reframed realism, contending that 'national interest' is profoundly masculinised rather than neutral. ",
           "Subsequent academics such as Laura Sjoberg and Paul Kirby have highlighted 'gender as a structure of power', arguing that masculinised norms inform both the visible (such as exclusion from peace tables) and invisible (such as assumptions ingrained in national security discourse) dynamics. More comprehensive criticisms of the state's disregard for lived experiences, particularly those of women, gender minorities, and the Global South, became possible with this understanding. ",
           "By demonstrating how overlapping systems of oppression, such as race, class, sexual orientation, and nationality, produce distinct vulnerabilities and exclusions, the concept of intersectionality, first proposed by Kimberlé Crenshaw in 1989, has advanced this discussion. This results in the permanent erasure of those on the margins in international diplomacy, especially during peace talks and humanitarian crises. ",
-        ],
+        ]
       },
       {
-        heading:
-          "Feminist Approaches to Security and the Securitisation of Care ",
+        heading: "Feminist Approaches to Security and the Securitisation of Care ",
         paragraphs: [
           "Feminist international relations was partially institutionalised into formal diplomacy in 2000 with the adoption of the UN Security Council's Women, Peace and Security (WPS) agenda (Resolution 1325). However, as Shepherd (2008) and True (2020) point out, this kind of inclusion frequently works as 'embedded feminism', an appropriation of feminist criticism that advances rather than opposes state interests. As nations like China, India, and Russia increasingly reject liberal feminist frameworks in favour of sovereignty-based discourses, this critique has become more acute in the face of multipolarity. ",
           "Another essential framework for comprehending these changes is provided by the Copenhagen School's securitisation theory (Buzan et al., 1998). It asserts that problems like terrorism, migration, and human trafficking are made into 'security' issues through discursive construction rather than objective standards. These issues, once securitised, invite extraordinary state responses that often violate human rights, such as surveillance, militarisation, and emergency law. According to studies by Lobasz (2009) and Carling (2006), securitisation frequently obscures the root causes of human trafficking, which include colonial legacies, poverty, and gender inequality, in favour of portraying trafficked people as border threats. ",
-          "Thus, feminist security studies challenge conventional wisdom by posing the question, 'whose security' is being safeguarded? Feminist perspectives show how policies frequently criminalise or instrumentalise the weak under the pretence of protection, rather than presuming that state security and citizen welfare are compatible. This is particularly evident in the criminalisation of migration at the borders between India and Bangladesh and the EU and Libya, where humanitarian obligations are subordinated to national security considerations. ",
-        ],
+          "Thus, feminist security studies challenge conventional wisdom by posing the question, 'whose security' is being safeguarded? Feminist perspectives show how policies frequently criminalise or instrumentalise the weak under the pretence of protection, rather than presuming that state security and citizen welfare are compatible. This is particularly evident in the criminalisation of migration at the borders between India and Bangladesh and the EU and Libya, where humanitarian obligations are subordinated to national security considerations. "
+        ]
       },
       {
-        heading:
-          "Contesting Terrorism: Framing, Power, and Multipolar Diplomacy ",
+        heading: "Contesting Terrorism: Framing, Power, and Multipolar Diplomacy ",
         paragraphs: [
           "State-driven definitions have also been criticised in the growing body of literature on diplomacy and terrorism. Realist academics have long presented terrorism as an existential threat that must be violently put down. However, constructivists, who subscribe to Wendt's claim that 'anarchy is what states make of it,' argue that terrorism is a socially constructed concept that is often employed for geopolitical purposes. ",
           "This is best demonstrated by India's calculated application of narrative diplomacy. Its steadfast advocacy for the UN's Comprehensive Convention on International Terrorism (CCIT) seeks to establish a standard definition of terrorism. Depending on geopolitical alliances, the terms 'terrorist' and 'freedom fighter' are applied differently in different contexts, exposing the inconsistencies of the current regime. ",
-          "Scholars of critical peacebuilding contend that these framings frequently reinforce structural hierarchies rather than highlighting the underlying causes, such as inequality, exclusion, or state violence. In a multipolar world where there is little consensus and geopolitical competition exacerbates differences in legal and normative standards, this risk is exceptionally high. ",
-        ],
+          "Scholars of critical peacebuilding contend that these framings frequently reinforce structural hierarchies rather than highlighting the underlying causes, such as inequality, exclusion, or state violence. In a multipolar world where there is little consensus and geopolitical competition exacerbates differences in legal and normative standards, this risk is exceptionally high. "
+        ]
       },
       {
-        heading:
-          "Migration and Human Trafficking as Sites of Norm Contestation ",
+        heading: "Migration and Human Trafficking as Sites of Norm Contestation ",
         paragraphs: [
           "At the intersection of gender, security, and diplomacy are migration and trafficking. Both phenomena have been portrayed as threats to public order and sovereignty more and more since 9/11. The criminalisation of survival-based mobility, particularly for women, children, and LGBTQ+ individuals, is a result of the confusion between trafficking and illegal migration. ",
           "The way trafficking is treated as a rights-based issue in the Palermo Protocol is directly at odds with this rephrasing. Survivors are marginalised, and feminist diplomacy is undermined by authoritarian and sovereignty-first regimes that treat it as a criminal or terrorism-related issue. The result is a fragmented international response, with some powers prioritising border integrity and national image while liberal democracies may support survivors' rights. ",
-          "The politics of definition exacerbate this contestation. For instance, gendered trafficking was acknowledged as a threat associated with terrorism in UNSC Resolution 2331 (2016). However, its application exposed glaring differences: China and Russia downplayed gender issues in favour of sovereignty and crime prevention, while Western democracies prioritised survivor protection. ",
-        ],
+          "The politics of definition exacerbate this contestation. For instance, gendered trafficking was acknowledged as a threat associated with terrorism in UNSC Resolution 2331 (2016). However, its application exposed glaring differences: China and Russia downplayed gender issues in favour of sovereignty and crime prevention, while Western democracies prioritised survivor protection. "
+        ]
       },
       {
         heading: "India’s Norm-Entrepreneurship and Narrative Diplomacy ",
@@ -2085,14 +1927,14 @@ const articles = [
           "India's position as a 'norm entrepreneur' has started to be discussed in the literature (Finnemore & Sikkink, 1998). India has proven its ability to define and legitimise international narratives on terrorism, sovereignty, and legitimacy through programs like Operation Sindoor, its G20 presidency, and strategic communications at the UNGA and FATF. ",
           "It is especially noteworthy that India is challenging the Western monopoly on norm construction through multilateral platforms. Its stances on digital governance, counterterrorism, and development, as well as its Voice of the Global South summit, demonstrate a deliberate narrative strategy aimed at redefining the concept of legitimacy itself. ",
           "However, academics also caution about the potential drawbacks of this narrative shift. Soft power is notoriously difficult to quantify, and constructivist accounts may understate the importance of material power. Furthermore, narrative diplomacy runs the risk of backfiring when used inconsistently, as seen in India's differing reactions to the crises in Gaza and Ukraine. ",
-          "The analysis that follows, which contextualises these discussions within particular case studies to demonstrate how gendered, securitised, and contested narratives are reshaping diplomacy in a multipolar world, is framed by this body of literature. ",
-        ],
+          "The analysis that follows, which contextualises these discussions within particular case studies to demonstrate how gendered, securitised, and contested narratives are reshaping diplomacy in a multipolar world, is framed by this body of literature. "
+        ]
       },
       {
         heading: "Theoretical Framework ",
         paragraphs: [
           "To critically examine how modern global diplomacy is evolving in response to issues such as gender, terrorism, migration, and human trafficking in an increasingly multipolar world order, this paper employs a multifaceted theoretical framework. Three interconnected traditions form the conceptual foundation of this research: constructivist approaches to narrative power and norm entrepreneurship, feminist international relations (IR) theory, and securitisation theory. When combined, these frameworks allow for a thorough examination of how state and non-state actors establish, challenge, and institutionalise international norms. ",
-        ],
+        ]
       },
       {
         heading: "Feminist International Relations Theory ",
@@ -2100,16 +1942,16 @@ const articles = [
           "The structural exclusion of women and gender minorities from decision-making domains, as well as the masculinisation of international politics, are fundamentally criticised by feminist international relations. Early feminist IR scholars like Tickner (1992), Enloe (1990), and later Sjoberg (2014) contended that mainstream IR theories, such as liberalism and realism, are gender-blind because they are predicated on presumptions that universalise male experiences while obscuring the roles of women in peacebuilding, diplomacy, and conflict resolution. ",
           "'Gender as a structure of power' is one of the key concepts that emerge from this tradition. According to this framework, feminised qualities such as empathy, compromise, and care are marginalised or pathologised, while masculinised norms like aggression, independence, and rationality dominate international security and diplomatic paradigms (Enloe, 2004; Shepherd, 2008). This shows up as the institutional disregard for survivor narratives and lived gendered vulnerabilities in securitised contexts such as terrorism and migration control. ",
           "The idea of 'security' has been expanded by feminist IR from a state-centric, militarised concept to 'human security,' highlighting the daily threats faced by marginalised people, particularly women, LGBTQ+ individuals, and migrants (True, 2012). For example, counter-terrorism or border security regimes frequently include human trafficking, which disproportionately impacts women and children, and portray victims as threats or illegal migrants rather than as people deserving of protection based on their rights. ",
-          "By emphasising how gender interacts with race, class, nationality, and legal status to influence political marginalisation and institutional responses to global issues like trafficking and migration, intersectionality, a concept initially proposed by Crenshaw (1989) and adopted by feminist IR, further strengthens the analysis. Intersectionality is frequently erased when gendered violence is repackaged under general anti-crime or national security frameworks, as demonstrated by recent diplomatic discussions surrounding UNSC Resolution 2331. ",
-        ],
+          "By emphasising how gender interacts with race, class, nationality, and legal status to influence political marginalisation and institutional responses to global issues like trafficking and migration, intersectionality, a concept initially proposed by Crenshaw (1989) and adopted by feminist IR, further strengthens the analysis. Intersectionality is frequently erased when gendered violence is repackaged under general anti-crime or national security frameworks, as demonstrated by recent diplomatic discussions surrounding UNSC Resolution 2331. "
+        ]
       },
       {
         heading: "Securitisation Theory ",
         paragraphs: [
           "The Copenhagen School gave rise to securitisation theory, which provides a potent analytical framework for understanding how political actors frame problems such as human trafficking, migration, and terrorism as existential threats that necessitate extraordinary measures (Buzan et al., 1998). When these issues are securitised, they are taken out of the normal political sphere and placed in the emergency sphere, where it is acceptable to suspend rights, increase surveillance, and defend the use of force. The EU-Libya migration governance pact, which militarised border management and widely violated human rights in detention facilities by framing migration flows as security threats, is a clear example of the applicability of this theory. Despite their prevalence, gendered harms like rape, human trafficking, and reproductive violence are either ignored or not visible in these situations. ",
           "South Asia uses a similar securitisation logic. Securitised framings systematically undermine survivorcentred protection, as evidenced by the arrest, deportation, and criminalisation of vulnerable women at the India-Bangladesh border, where anti-trafficking strategies frequently fail to distinguish between irregular migration and trafficking (Ghosh, 2020). ",
-          "Securitisation theory also highlights how 'speech acts', such as policy statements, UN resolutions, or diplomatic declarations, can cause an issue to become securitised. This discursive shift is best illustrated by UNSC Resolution 2331, which reframed human trafficking as a threat associated with terrorism. However, as the documents point out, this has resulted in different state reactions: China and Russia downplayed gender and prioritised sovereignty and crime prevention, while Western states focused on gendered harms and accountability for sexual violence. ",
-        ],
+          "Securitisation theory also highlights how 'speech acts', such as policy statements, UN resolutions, or diplomatic declarations, can cause an issue to become securitised. This discursive shift is best illustrated by UNSC Resolution 2331, which reframed human trafficking as a threat associated with terrorism. However, as the documents point out, this has resulted in different state reactions: China and Russia downplayed gender and prioritised sovereignty and crime prevention, while Western states focused on gendered harms and accountability for sexual violence. "
+        ]
       },
       {
         heading: "Constructivism and Narrative Power ",
@@ -2117,28 +1959,28 @@ const articles = [
           "The third fundamental tenet of this framework is constructivism. In contrast to liberalism and realism, which place more emphasis on institutional restraints and material power, constructivism emphasises how ideas, identities, and discourses shape global politics. 'Anarchy is what states make of it,' as Wendt (1999) famously stated. Therefore, the meanings of security, threat, and diplomacy are socially constructed through language, performance, and institutional validation, rather than being based on objective realities.",
           "Understanding the politics of definition that underlie a large portion of this research requires this viewpoint. For instance, states define terrorism, frequently in ways that are ideologically charged or self-serving, rather than just reacting to it. India's diplomatic approach towards Pakistan and its demands for a UN definition of terrorism are examples of efforts to establish narrative superiority and construct global legitimacy on its terms. ",
           "A crucial constructivist idea put forth by Finnemore and Sikkink, norm entrepreneurship, further clarifies how nations like India actively shape international norms rather than merely passively receiving them. India promotes a more inclusive and less Eurocentric view of security and sovereignty through forums such as the G20, BRICS, and the UNGA, positioning itself as a moral voice of the Global South. ",
-          "Diplomacy becomes performative in this situation. Determining 'what counts', who is a terrorist, who is a victim, what constitutes a legitimate intervention, and whose security is prioritised are more important considerations than merely interests or alliances. As a result, narrative power serves as a foreign policy tool for both discourse and strategy. ",
-        ],
+          "Diplomacy becomes performative in this situation. Determining 'what counts', who is a terrorist, who is a victim, what constitutes a legitimate intervention, and whose security is prioritised are more important considerations than merely interests or alliances. As a result, narrative power serves as a foreign policy tool for both discourse and strategy. "
+        ]
       },
       {
         heading: "Integrated Framework ",
         paragraphs: [
-          "When combined, these theories offer a thorough framework for examining the definitions, debates, and institutionalisation of terrorism, migration, and trafficking in the contemporary multipolar world. Securitisation theory explains how problems are presented as security threats; constructivism exposes how language and narrative shape global legitimacy; and feminist international relations challenges the gendered exclusions of conventional diplomacy. A deeper understanding of the differences between liberal democracies and sovereignty-first regimes is also facilitated by this triadic lens, particularly about issues of gender justice, migrant rights, and counterterrorism diplomacy. This paper applies these frameworks as overlapping analytical lenses rather than treating them as mutually exclusive. Whether it is the erasure of survivor agency in securitised trafficking discourses, the legitimation of selective counterterrorism norms, or the co-optation of feminist language in state narratives, each contributes to exposing various aspects of power and silence. When combined, they facilitate the mapping of the shifting axes of international diplomacy during a period of gendered violence, geopolitical competition, and normative transformation. ",
-        ],
+          "When combined, these theories offer a thorough framework for examining the definitions, debates, and institutionalisation of terrorism, migration, and trafficking in the contemporary multipolar world. Securitisation theory explains how problems are presented as security threats; constructivism exposes how language and narrative shape global legitimacy; and feminist international relations challenges the gendered exclusions of conventional diplomacy. A deeper understanding of the differences between liberal democracies and sovereignty-first regimes is also facilitated by this triadic lens, particularly about issues of gender justice, migrant rights, and counterterrorism diplomacy. This paper applies these frameworks as overlapping analytical lenses rather than treating them as mutually exclusive. Whether it is the erasure of survivor agency in securitised trafficking discourses, the legitimation of selective counterterrorism norms, or the co-optation of feminist language in state narratives, each contributes to exposing various aspects of power and silence. When combined, they facilitate the mapping of the shifting axes of international diplomacy during a period of gendered violence, geopolitical competition, and normative transformation. "
+        ]
       },
       {
         heading: "Methodology ",
         paragraphs: [
-          "The qualitative, interpretive methodology employed in this study is grounded in constructivist analysis, securitisation theory, and feminist international relations (IR). It seeks to comprehend how gender, terrorism, migration, and human trafficking are framed as hotly debated narratives rather than just as policy issues in diplomatic discourses in a multipolar world. This approach emphasises discourse, identity, and lived experiences as the cornerstones of diplomacy and the development of international norms. ",
-        ],
+          "The qualitative, interpretive methodology employed in this study is grounded in constructivist analysis, securitisation theory, and feminist international relations (IR). It seeks to comprehend how gender, terrorism, migration, and human trafficking are framed as hotly debated narratives rather than just as policy issues in diplomatic discourses in a multipolar world. This approach emphasises discourse, identity, and lived experiences as the cornerstones of diplomacy and the development of international norms. "
+        ]
       },
       {
         heading: "Research Design ",
         paragraphs: [
           "At the heart of this research lies the premise that language and narrative construct meaning, particularly in the context of global governance. Therefore, this work deploys discourse analysis as its primary method, drawing heavily on the frameworks of Lene Hansen's “security as practice” and Laura Shepherd’s feminist reading of performativity in global politics. This approach enables the investigation of how specific issues, such as migration, trafficking, and terrorism, are “securitised” through speech acts that classify them as existential threats, thereby justifying extraordinary policy responses (Buzan et al., 1998). ",
           "Additionally, the research incorporates an intersectional lens (Crenshaw, 1989), recognising that categories such as race, gender, class, and legal status intersect to shape the visibility and vulnerability of individuals within these diplomatic and security discourses. For instance, the identity of a migrant woman may simultaneously invoke tropes of victimhood, threat, or burden, depending on the political context. For example, the identity of a migrant woman may simultaneously invoke tropes of victimhood, threat, or burden, depending on the political context. ",
-          "The approach is multi-scalar and multi-case, addressing both grassroots realities and institutional-level discourses. It links micro-level repercussions, like the silence of trafficked women in security frameworks, with macro-level geopolitics, like India's emergence as a narrative power. By placing human experience at the centre of analyses of structural power, this method embodies the feminist idea of 'scaling the everyday.' ",
-        ],
+          "The approach is multi-scalar and multi-case, addressing both grassroots realities and institutional-level discourses. It links micro-level repercussions, like the silence of trafficked women in security frameworks, with macro-level geopolitics, like India's emergence as a narrative power. By placing human experience at the centre of analyses of structural power, this method embodies the feminist idea of 'scaling the everyday.' "
+        ]
       },
       {
         heading: "Case Selection and Data Sources ",
@@ -2153,8 +1995,8 @@ const articles = [
           "Official documents and speeches from the UN, EU, and national governments.",
           "Media coverage from The Guardian, NDTV, The Hindu, and Deutsche Welle.",
           "NGO reports from Amnesty International, Human Rights Watch, and the IOM.",
-          "Scholarly literature from leading IR and feminist scholars, including Enloe (2004), Tickner (1992), True (2012), and Zimmermann and Deitelhoff (2020).",
-        ],
+          "Scholarly literature from leading IR and feminist scholars, including Enloe (2004), Tickner (1992), True (2012), and Zimmermann and Deitelhoff (2020)."
+        ]
       },
       {
         heading: "Analytical Framework ",
@@ -2164,37 +2006,36 @@ const articles = [
           "2.	To investigate how these framings perpetuate masculine-coded logics of control and protection, feminist IR theory is used (Tickner, 1992; Shepherd, 2023).",
           "3.	Constructivist analysis to evaluate the use of narrative strategies by nations such as the EU, Germany, and India to (re)construct legitimacy and norms in international diplomacy (Wendt, 1999). ",
           "Identifying key terms, metaphors, and representations in policy texts related to 'threat,' 'protection,' 'surveillance,' or 'victimhood' was the first step in the coding process. The social ramifications of these codes were then compared, with a focus on gender inclusion, marginalisation, and representation. ",
-          "For instance, the focus on 'sexual slavery' in UNSC 2331 was hailed as a step forward in acknowledging gendered violence. Analysis, however, revealed a conflict between the discourses of sovereignty and human rights as some state actors, particularly China and Russia, minimised gendered aspects in favour of crime control. ",
-        ],
+          "For instance, the focus on 'sexual slavery' in UNSC 2331 was hailed as a step forward in acknowledging gendered violence. Analysis, however, revealed a conflict between the discourses of sovereignty and human rights as some state actors, particularly China and Russia, minimised gendered aspects in favour of crime control. "
+        ]
       },
       {
         heading: "Epistemological and Ethical Positioning ",
         paragraphs: [
           "With a clear feminist epistemological foundation, this study challenges objectivist assertions and prioritises relational ethics, lived experience, and reflexivity over objective neutrality. The researcher is aware of the politics of knowledge production and their positionality, especially when it comes to representing marginalised or surviving groups. Care is taken to enhance survivor agency and steer clear of voyeuristic or dehumanising depictions whenever survivor narratives are cited. ",
-          "Additionally, this approach rejects homogenisation. The representation of Muslim women in German migration discourse, for instance, demonstrates how essentialist frames shift between suspicion and protection, exposing ingrained gendered and orientalist presumptions. ",
-        ],
+          "Additionally, this approach rejects homogenisation. The representation of Muslim women in German migration discourse, for instance, demonstrates how essentialist frames shift between suspicion and protection, exposing ingrained gendered and orientalist presumptions. "
+        ]
       },
       {
         heading: "Methodological Limitations ",
         paragraphs: [
           "Qualitative approaches have drawbacks, even though they provide deep, contextualised insights. Discourse analysis is subjective and interpretive. Furthermore, survivor-led testimonies were not widely included in the Indian-Bangladeshi context due to geopolitical limitations and access barriers. Since English-language sources comprise the majority of the sample, linguistic barriers also limit the scope of the study. ",
-          "Nonetheless, the results are guaranteed to be both solid and reflective due to the triangulation of sources, cross-case comparison, and integration of theory with empirical data. This methodological approach aims to critique and reimagine the power structures that support gendered worldmaking in diplomacy, rather than just describing it. ",
-        ],
+          "Nonetheless, the results are guaranteed to be both solid and reflective due to the triangulation of sources, cross-case comparison, and integration of theory with empirical data. This methodological approach aims to critique and reimagine the power structures that support gendered worldmaking in diplomacy, rather than just describing it. "
+        ]
       },
       {
-        heading:
-          "Global Context: Multipolarity and the Politics of Definition ",
+        heading: "Global Context: Multipolarity and the Politics of Definition ",
         paragraphs: [
-          "A significant shift is currently underway in the international system. The rise of a multipolar global order is posing a threat to the previously prevalent unipolar liberal order, which was headed by the United States and backed by multilateral organisations modelled after it. The most potent tool of international diplomacy in this emerging arrangement is the capacity to define, whether it be in terms of security, legitimacy, sovereignty, or human rights. This ideological struggle, in which countries attempt to reinterpret international norms through their own strategic and cultural prisms, is aptly described as 'politics of definition.' This change is more than just rhetoric; it is reshaping diplomatic standards, institutions, and policy outcomes in areas like gender, human trafficking, migration, and terrorism. ",
-        ],
+          "A significant shift is currently underway in the international system. The rise of a multipolar global order is posing a threat to the previously prevalent unipolar liberal order, which was headed by the United States and backed by multilateral organisations modelled after it. The most potent tool of international diplomacy in this emerging arrangement is the capacity to define, whether it be in terms of security, legitimacy, sovereignty, or human rights. This ideological struggle, in which countries attempt to reinterpret international norms through their own strategic and cultural prisms, is aptly described as 'politics of definition.' This change is more than just rhetoric; it is reshaping diplomatic standards, institutions, and policy outcomes in areas like gender, human trafficking, migration, and terrorism. "
+        ]
       },
       {
         heading: "Multipolarity and the Shifting Normative Order ",
         paragraphs: [
           "The ideological domination of liberal democracies was reflected in the unification of international norms in a unipolar world. Through organisations such as the UN, NATO, and the EU, fundamental principles like gender equality, human rights, and humanitarian intervention have been formalised. These principles served as the foundation for programs like EU asylum law, the Palermo Protocol on trafficking, and the Women, Peace, and Security agenda (WPS). However, there is growing disagreement over how to interpret these norms as power decentralises among emerging blocs, such as the Shanghai Cooperation Organisation (SCO) and the BRICS (True, 2020; Shepherd, 2023). ",
           "New actors who challenge the alleged universality of Western norms are emerging due to the rise of multipolar power dynamics. For example, Russia portrays LGBTQ+ rights and feminist agendas as threats to national identity, while China promotes 'statist feminism,' a combination of gender equality and state sovereignty. Despite its complexity, India's stance demonstrates a calculated reinterpretation of international legitimacy, grounded in moral exceptionalism and postcolonial sovereignty. These alternative interpretations show that security, migration, and gender are contested ideologies rather than neutral categories. ",
-          "Multilateral diplomacy demonstrates this ideological diversity. States argue about women's rights, trafficking, and terrorism in venues like the UN General Assembly. For example, the historic UNSC Resolution 2331 (2016) connected human trafficking to terrorism, particularly in light of ISIS's use of sexual violence. States like China and Russia boiled the problem down to crime control and sovereignty, while liberal democracies pushed for gender-sensitive accountability mechanisms (UNSC, 2016). This difference reflects a broader change: norm diffusion has given way to norm fragmentation. ",
-        ],
+          "Multilateral diplomacy demonstrates this ideological diversity. States argue about women's rights, trafficking, and terrorism in venues like the UN General Assembly. For example, the historic UNSC Resolution 2331 (2016) connected human trafficking to terrorism, particularly in light of ISIS's use of sexual violence. States like China and Russia boiled the problem down to crime control and sovereignty, while liberal democracies pushed for gender-sensitive accountability mechanisms (UNSC, 2016). This difference reflects a broader change: norm diffusion has given way to norm fragmentation. "
+        ]
       },
       {
         heading: "Securitisation in a Fragmented World",
@@ -2202,91 +2043,88 @@ const articles = [
           "The growth of securitisation, in which social or political issues are presented as existential threats deserving of extraordinary measures, is one of the most notable effects of multipolarity (Buzan et al., 1998). Such discursive changes have occurred in the areas of migration, human trafficking, and terrorism, especially since 9/11. Securitisation, however, increasingly reflects the values of the framing actor as the global consensus begins to break down.",
           "Human mobility was securitised as a border control issue, for instance, when Europe externalised migration through the EU-Libya partnership. Intercepted migrants, including victims of human trafficking, were sent back to detention facilities where they were subjected to sexual assault, abuse, and other human rights violations. Because their mobility was criminalised, women and girls in particular were not granted international protection (Hogan, 2021). The securitised response exposed a discrepancy between humanitarian discourse and carceral practice.",
           "Similar tensions are reflected in India's approach to trafficking along the Bangladeshi border. Security laws frequently criminalise women who cross borders illegally, whether they are trafficked, displaced, or escaping violence. Similar to nationalist reasoning, intersectional vulnerabilities are ignored, and diplomatic framing confuses infiltration with trafficking (Ghosh, 2020). This is part of a global trend where states, irrespective of their ideological stance, are using security and sovereignty more and more to stifle narratives that focus on survivors.",
-          "These dynamics are even more noticeable in the field of counterterrorism. The brittleness of multilateralism has been made clear by India's diplomatic initiatives, such as its support for a universal definition of terrorism through the Comprehensive Convention on International Terrorism (CCIT). India claims that in the absence of a universally accepted definition, terrorism turns into a tool of strategic ambiguity that allows certain governments to suppress domestic dissension in the name of counterterrorism while avoiding international responsibility.",
-        ],
+          "These dynamics are even more noticeable in the field of counterterrorism. The brittleness of multilateralism has been made clear by India's diplomatic initiatives, such as its support for a universal definition of terrorism through the Comprehensive Convention on International Terrorism (CCIT). India claims that in the absence of a universally accepted definition, terrorism turns into a tool of strategic ambiguity that allows certain governments to suppress domestic dissension in the name of counterterrorism while avoiding international responsibility."
+        ]
       },
       {
         heading: "Gender, Power, and Competing Feminisms",
         paragraphs: [
           "Gender becomes both a symbol and a site of geopolitical conflict in this multipolar environment. Canada and Sweden have supported feminist foreign policy that emphasises gender equality, accountability, and participation. Authoritarian governments, however, reframe these goals as manifestations of moral imperialism from the West. Russia's promotion of heteropatriarchal family norms and China's use of statist feminism are intentional oppositions to liberal gender discourses (Enloe, 2000; Shepherd, 2008).",
           "The normative consensus surrounding gender justice is weakened as a result. According to feminist IR theorists, gender runs the risk of being appropriated into the very systems it aims to undermine when it is used as a tool, whether to justify military action or monitor migration (Tickner, 1992; Sjoberg, 2014). Some critics call this 'embedded feminism,' in which the inclusion of gender in policy frameworks is solely done to promote soft power or securitisation (True, 2020).",
-          "At the same time, authoritarian conservatism and Western liberalism are being challenged by grassroots feminist diplomacy from the Global South. Although their contributions were largely omitted from the final agreement, Colombian women peacebuilders advocated for transitional justice during the FARC process. Feminist grassroots peacebuilding in South Sudan opposed patriarchal violence and ethnic militarism. These instances illustrate various approaches to diplomacy that are grounded in compassion, fairness, and personal experience.",
-        ],
+          "At the same time, authoritarian conservatism and Western liberalism are being challenged by grassroots feminist diplomacy from the Global South. Although their contributions were largely omitted from the final agreement, Colombian women peacebuilders advocated for transitional justice during the FARC process. Feminist grassroots peacebuilding in South Sudan opposed patriarchal violence and ethnic militarism. These instances illustrate various approaches to diplomacy that are grounded in compassion, fairness, and personal experience."
+        ]
       },
       {
         heading: "Normative Contestation and Narrative Sovereignty",
         paragraphs: [
           "Control over narratives emerges as the new arena of power struggle in this fractured environment. Gaining international legitimacy requires strategic framing, as exemplified by India. India's targeted counterterrorism attack, Operation Sindoor, was carefully framed as 'moral justice' rather than aggression. Similarly, to garner support from postcolonial nations facing comparable challenges, India reframed accusations during the diplomatic standoff with Canada as an assault on its internal sovereignty.",
           "India's multilateral engagements demonstrate its emergence as a 'norm entrepreneur.' It advances a developmental and security logic that combines traditional sovereignty with modern multilateralism through the G20, BRICS, and UN platforms. India has reframed itself as a global champion for justice and rule-based order at the FATF by using procedural tools to refute Pakistan's narratives surrounding the financing of terrorism.",
-          "The capacity to define and communicate meanings, or narrative sovereignty, reflects a larger shift in diplomacy. Diplomacy in a multipolar order is as much a performative storytelling as it is a form of negotiation. Constructivist IR theory emphasises how meanings influence tangible results, especially as seen in Wendt's (1999) work. Redefining terrorism, migration, and sovereignty is just as much an exercise of power for India as its economic or military prowess.",
-        ],
+          "The capacity to define and communicate meanings, or narrative sovereignty, reflects a larger shift in diplomacy. Diplomacy in a multipolar order is as much a performative storytelling as it is a form of negotiation. Constructivist IR theory emphasises how meanings influence tangible results, especially as seen in Wendt's (1999) work. Redefining terrorism, migration, and sovereignty is just as much an exercise of power for India as its economic or military prowess."
+        ]
       },
       {
         heading: "Conclusion: Multipolarity as Challenge and Opportunity",
         paragraphs: [
           "In conclusion, multipolarity poses significant challenges to the consistency of international standards. It encourages debate over definitions of gender rights, migration, trafficking, and terrorism. It highlights the shortcomings of universalist liberalism while empowering alternative conceptions of justice. The transition from norm diffusion to norm competition poses a threat to survivor-centred security approaches, erodes multilateralism, and complicates diplomatic coordination.",
           "However, this very contestation also creates space for pluralism and innovation. Feminist diplomacy, Global South leadership, and intersectional frameworks are no longer marginal; they are being advanced in forums previously dominated by hegemonic actors. If international diplomacy is to remain credible in a multipolar world, it must resist both authoritarian closure and liberal complacency. It must embrace complexity, acknowledge historical injustice, and centre the voices of those most affected by security policies.",
-          "As this section demonstrates, the global politics of definition are not abstract academic questions; they shape borders, bodies, and fundamental rights. To navigate this world with integrity, diplomacy must become as diverse, critical, and grounded as the challenges it seeks to address.",
-        ],
+          "As this section demonstrates, the global politics of definition are not abstract academic questions; they shape borders, bodies, and fundamental rights. To navigate this world with integrity, diplomacy must become as diverse, critical, and grounded as the challenges it seeks to address."
+        ]
       },
       {
         heading: "Case Study Analysis",
         paragraphs: [
-          "This section examines five key case studies that illustrate how the multipolar diplomatic environment is transforming the way people perceive security, terrorism, and gender. Every case shows how state narratives selectively frame international crises, from terrorism to human trafficking, in order to establish legitimacy, defend interventions, or consolidate power. The analysis critically examines how these cases shed light on the study's larger theoretical frameworks using a feminist, constructivist, and securitisation lens.",
-        ],
+          "This section examines five key case studies that illustrate how the multipolar diplomatic environment is transforming the way people perceive security, terrorism, and gender. Every case shows how state narratives selectively frame international crises, from terrorism to human trafficking, in order to establish legitimacy, defend interventions, or consolidate power. The analysis critically examines how these cases shed light on the study's larger theoretical frameworks using a feminist, constructivist, and securitisation lens."
+        ]
       },
       {
-        heading:
-          "UNSC Resolution 2331: Gender, Trafficking, and the Contest of Securitisation",
+        heading: "UNSC Resolution 2331: Gender, Trafficking, and the Contest of Securitisation",
         paragraphs: [
           "Human trafficking, especially gender-based trafficking, was first formally acknowledged as a threat to global peace and security in December 2016 with the adoption of UN Security Council Resolution 2331. It also played a crucial role in connecting trafficking and sexual violence to more general discussions of terrorism and international governance. The Council characterised trafficking as a tool of terror warfare rather than just a criminal or humanitarian issue after the resolution recognised that non-state actors such as ISIS weaponised sexual violence, including the enslavement of Yazidi women, as a tactic of war and ideological control.",
           "However, even though this reinterpretation made the problem more urgent, it also revealed stark geopolitical differences, highlighting how multipolarity undermines international consensus on defining and combating human trafficking. Liberal democracies, primarily from the Global North, framed the resolution through a rights-based, gender-sensitive lens, emphasising survivor-centred care and accountability for offenders. This was in line with larger pledges to the Women, Peace, and Security (WPS) agenda, which is based on feminist international relations theory and advocates for women to be meaningfully included in peace processes and for security to be redefined as everyday safety rather than merely state survival (Tickner, 1992; True, 2012). However, the gendered framing was rejected by authoritarian countries like China and Russia. They prioritised state security, legal formalism, and sovereignty over human rights or survivor narratives.",
           "Terms like 'sexual slavery' and 'gender-based violence' were mainly omitted from their contributions to the resolution's drafting, favouring instead non-interference, border control, and crime prevention, principles that are more in line with realist security doctrines than with feminist diplomacy (UNSC, 2016; Shepherd, 2023). This discrepancy captures a more profound normative divide in international governance. The securitisation of trafficking turns victims into symbolic threats rather than people with rights, according to the Copenhagen School's theory of how political actors frame social issues as existential threats (Buzan et al., 1998). Feminist academics warn that this approach instrumentalises survivors, turning them from agents with dignity and voice to mere tools for policy. According to Shepherd (2023) and True (2020), this dynamic encourages a type of 'embedded feminism,' in which gendered language is appropriated to justify military or carceral responses without promoting systemic justice.",
-          "Furthermore, despite its revolutionary visibility, UNSCR 2331 did not address the patriarchal state practices, economic precarity, and militarisation, power structures that sustain human trafficking. By concentrating on surveillance, prosecution, and deterrence, priorities that are more consistent with the logic of state sovereignty than with feminist ethics of care, it avoided the underlying causes of gendered exploitation.",
-        ],
+          "Furthermore, despite its revolutionary visibility, UNSCR 2331 did not address the patriarchal state practices, economic precarity, and militarisation, power structures that sustain human trafficking. By concentrating on surveillance, prosecution, and deterrence, priorities that are more consistent with the logic of state sovereignty than with feminist ethics of care, it avoided the underlying causes of gendered exploitation."
+        ]
       },
       {
-        heading:
-          "EU–Libya Migration Pact: Externalising Borders and Gendered Risk",
+        heading: "EU–Libya Migration Pact: Externalising Borders and Gendered Risk",
         paragraphs: [
           "One example of how migration governance can be used as a tool for securitised diplomacy that outsources violence under the pretence of humanitarian protection is the EU-Libya migration pact. The European Union has made greater investments in externalising its borders since the 'migration crisis' of 2015, primarily by supporting third-party states like Libya to hold and discourage migrants before they arrive in Europe. On the surface, what seems like a practical strategy to lessen irregular migration is a policy architecture that abdicates legal responsibility while enabling systemic abuses, especially against women and girls.",
           "A contradiction at the core of this arrangement is that the EU, a self-described leader in human rights, has established a border regime that partners with appalling countries that have human rights records. The Coast Guard has been accused of widespread brutality, including intercepting migrant boats, holding survivors in arbitrary facilities, and engaging in practices that amount to slavery. The Libyan Coast Guard was trained and equipped through EU initiatives, such as EUNAVFOR MED Operation Sophia. Human rights organisations and UN investigations have shown that rape, sexual slavery, and trafficking are common in these detention facilities.",
-          "Feminist critiques frame this arrangement as a purposeful political action that reconfigures human mobility through racialised and gendered lenses, rather than just as a policy failure. Women and girls are caught between domestic violence and dehumanisation while travelling, particularly those escaping forced marriage, domestic abuse, or female genital mutilation. Their movement is regarded as criminal trespass rather than a means of survival. Policymakers are unable to see the trauma experienced by women when they are detained by Libyan forces and taken back to detention facilities. This invisibility is structural rather than incidental. The logic underlying the EU-Libya policy architecture prioritises border integrity over human dignity.",
-        ],
+          "Feminist critiques frame this arrangement as a purposeful political action that reconfigures human mobility through racialised and gendered lenses, rather than just as a policy failure. Women and girls are caught between domestic violence and dehumanisation while travelling, particularly those escaping forced marriage, domestic abuse, or female genital mutilation. Their movement is regarded as criminal trespass rather than a means of survival. Policymakers are unable to see the trauma experienced by women when they are detained by Libyan forces and taken back to detention facilities. This invisibility is structural rather than incidental. The logic underlying the EU-Libya policy architecture prioritises border integrity over human dignity."
+        ]
       },
       {
-        heading:
-          "India–Bangladesh Border: Trafficking, Migration, and Gendered Surveillance",
+        heading: "India–Bangladesh Border: Trafficking, Migration, and Gendered Surveillance",
         paragraphs: [
           "The India–Bangladesh border is one of the most dynamic and heavily securitised borders in South Asia. Stretching over 4,096 km and running through densely populated and economically vulnerable regions, this frontier is marked not only by its geopolitical tension but also by a complex interplay of migration, trafficking, and gendered state surveillance. At its core, this case reflects how securitisation processes often conflate irregular migration with human trafficking, rendering victims invisible and reifying statecentric narratives of control and protection.",
           "In India’s current border governance, cross-border movement, particularly by women, is treated with suspicion and criminality. Regardless of whether these women are trafficked victims, fleeing domestic or communal violence, or economic migrants escaping destitution, their identities are flattened into the category of 'illegal infiltrators.' The porous and historically fluid nature of the border is reimagined through the lens of national security, often with communal overtones. The 'illegal Bangladeshi' trope, frequently employed in domestic Indian political discourse, has served as a mechanism to both justify militarised border infrastructure and inflame public sentiment around internal security and national identity.",
-          "This securitised framing leaves little room for humanitarian or intersectional engagement. As Ghosh (2020) notes, few gender-sensitive mechanisms exist to differentiate between trafficked persons and undocumented migrants. Consequently, many trafficked women are detained, deported, or subjected to judicial neglect, a process that is deeply dehumanising and violates both Indian constitutional guarantees and international human rights standards. Women’s mobility across the border, already fraught with risk, is compounded by bureaucratic apathy and legal ambiguity, often pushing survivors back into cycles of exploitation.",
-        ],
+          "This securitised framing leaves little room for humanitarian or intersectional engagement. As Ghosh (2020) notes, few gender-sensitive mechanisms exist to differentiate between trafficked persons and undocumented migrants. Consequently, many trafficked women are detained, deported, or subjected to judicial neglect, a process that is deeply dehumanising and violates both Indian constitutional guarantees and international human rights standards. Women’s mobility across the border, already fraught with risk, is compounded by bureaucratic apathy and legal ambiguity, often pushing survivors back into cycles of exploitation."
+        ]
       },
       {
         heading: "Operation Sindoor: Counterterrorism as Diplomacy",
         paragraphs: [
           "A critical lens into how states frame counterterrorism operations, not only militarily but also diplomatically, is Operation Sindoor, which India launched on May 7, 2025, in response to the Pahalgam terror attack. Operation Sindoor was essentially a purposeful narrative construction exercise in addition to a surgical strike on militant infrastructure in Pakistan-occupied Kashmir. A significant turning point in India's counterterrorism diplomacy was the operation's framing and aftermath, which demonstrated the growing convergence of performativity, symbolism, and legitimacy in international relations.",
           "The name 'Sindoor' itself evokes a gendered national narrative, alluding to the traditions of widowhood and mourning. In the service of the country, it elevates the suffering of loss and evokes the collective trauma of loss. This discursive action turns grief into moral legitimacy from the standpoint of feminist international relations (IR). It is problematic, however. By grounding the concept of national harm in feminised imagery, it perpetuates traditional gender roles in which the nation is viewed as a widow or grieving mother whose loss needs to be made right by masculine state power.",
-          "India's strategic restraint and strict information control, which allowed Pakistani media to break the news of the strike first, demonstrate a mastery of narrative sequencing from a constructivist perspective. India was able to present itself as a responsible actor carrying out justice with minor collateral damage, rather than as an aggressor, thanks to this symbolic diplomacy. In addition to removing tactical threats, the operation aimed to influence global perception. Indian officials reinforced a cooperative stance within international counterterrorism norms by providing advanced briefings to key allies, such as the United States.",
-        ],
+          "India's strategic restraint and strict information control, which allowed Pakistani media to break the news of the strike first, demonstrate a mastery of narrative sequencing from a constructivist perspective. India was able to present itself as a responsible actor carrying out justice with minor collateral damage, rather than as an aggressor, thanks to this symbolic diplomacy. In addition to removing tactical threats, the operation aimed to influence global perception. Indian officials reinforced a cooperative stance within international counterterrorism norms by providing advanced briefings to key allies, such as the United States."
+        ]
       },
       {
         heading: "G20 and Global South Diplomacy: Gendered Norm-Setting",
         paragraphs: [
           "A significant turning point in India's diplomatic history was its G20 presidency in 2023, which enabled it to establish itself as a leader in norm-setting and a voice for the Global South, in addition to its role as a participant in global governance. India employed a narrative approach centred on inclusive multilateralism, soft power projection, and postcolonial legitimacy, under the overarching theme of 'One Earth, One Family, One Future.'",
           "Held in early 2023, the Voice of the Global South Summit was both symbolic and strategic, uniting more than 120 countries from Asia, Africa, and Latin America in a virtual alliance against the North's monopoly on norms. India promoted non-Western ideas of cooperation, security, and development, positioning itself as a moral bridge connecting power. Significantly, India did not rely on hard power posturing in its diplomatic tone during this time. Rather than the militarised masculinities typically associated with great power status, it placed more emphasis on consensual norm-building, civilizational ethos, and narrative diplomacy.",
-          "In the G20 context, India's diplomatic approach stands out for its implicit gender engagement, which is achieved through the substantive inclusion of gender-sensitive policy priorities rather than through overt feminist foreign policy branding. India's agenda was centred on issues like food security, climate justice, digital public infrastructure, and women-led entrepreneurship. Due to their historical feminisation, that is, their association with social development or 'soft' politics, these fields have been marginalised in conventional diplomacy. India questioned the masculine-coded hierarchy of global governance priorities by integrating these into the main G20 discussions.",
-        ],
+          "In the G20 context, India's diplomatic approach stands out for its implicit gender engagement, which is achieved through the substantive inclusion of gender-sensitive policy priorities rather than through overt feminist foreign policy branding. India's agenda was centred on issues like food security, climate justice, digital public infrastructure, and women-led entrepreneurship. Due to their historical feminisation, that is, their association with social development or 'soft' politics, these fields have been marginalised in conventional diplomacy. India questioned the masculine-coded hierarchy of global governance priorities by integrating these into the main G20 discussions."
+        ]
       },
       {
         heading: "Conclusion of Case Studies",
         paragraphs: [
           "When taken as a whole, these five case studies highlight a key realisation: global concerns like migration, terrorism, and human trafficking are no longer subject to universal standards in a multipolar world. Instead, rival powers use them to bolster alliances, reshape international law, and project legitimacy.",
           "The examples demonstrate how feminist theory offers a way to rethink world politics from the bottom up, in addition to a critique. Care, justice, and intersectionality are the foundations of feminist diplomacy, which continues to serve as a radical alternative to the prevailing security frameworks based on the concept of sovereignty. However, it is frequently marginalised, appropriated, or used selectively within the dominant state-centric logic, as these examples demonstrate.",
-          "The study analyses narrative conflicts and identifies opportunities to reframe global governance in ways that prioritise human rights over geopolitical calculations, examining these cases through an integrated lens of gender, diplomacy, and security.",
-        ],
-      },
+          "The study analyses narrative conflicts and identifies opportunities to reframe global governance in ways that prioritise human rights over geopolitical calculations, examining these cases through an integrated lens of gender, diplomacy, and security."
+        ]
+      }
     ],
     conclusion: [
       {
@@ -2300,7 +2138,7 @@ const articles = [
           "A different vocabulary for comprehending and addressing these issues is offered by feminist international relations (FIR). Women's instrumental participation in peace processes or development discussions is only one aspect of FIR. It provides a research approach that prioritises intersectionality, lived experience, and the politics of visibility. It recasts diplomacy as an ethical endeavour, a forum for recognising and resolving historically marginalised voices, and more than just a geopolitical game. In addition to asking who defines security, FIR also asks whose security matters and whether the current diplomatic methods can ever bring about justice without structural change. ",
           "When examining performative diplomatic actions, such as India's Operation Sindoor, this lens becomes crucial. Symbols such as 'sindoor' were used to gender nationalist grief in this instance, making widowhood a metaphor for national trauma and normalising retaliatory violence within a moralistic framework. In a similar vein, India's G20 presidency emphasises women's empowerment and digital equity. However, it also raises important questions: Does the gendered language lead to institutional reform, or is it merely a diplomatic aesthetic meant to boost status without questioning patriarchy? These arguments directly address the core of how legitimacy is created and disputed in international politics; they are not merely semantic. ",
           "This paper concludes that, in a multipolar world, diplomacy is increasingly about creating narratives and expressing and globalising one's ideas about justice, security, and order. These narratives run the risk of reproducing the very disparities they purport to address, unless feminist ideals of justice, care, and intersectionality are applied. Diplomacy must be based on more than conflicting state interests; it must be grounded in the agency of survivors, ethical responsibility, and the courage to envision global governance that transcends nationalism, militarism, and performative inclusion. ",
-          "States must pledge to listen, especially to those whose bodies, stories, and borders have long served as the battlefields of international politics, in addition to sharing power if they are to embrace the potential of a more equitable international order. ",
+          "States must pledge to listen, especially to those whose bodies, stories, and borders have long served as the battlefields of international politics, in addition to sharing power if they are to embrace the potential of a more equitable international order. "
         ],
       },
       {
@@ -2311,168 +2149,129 @@ const articles = [
           "2. Institutionalise Feminist Diplomacy Beyond Symbolism",
           "Despite being enshrined in international norms, the Women, Peace, and Security (WPS) agenda remains underutilised and is frequently co-opted into militarised or carceral forms of governance. States must structurally integrate feminist diplomacy to avoid the pitfalls of 'embedded feminism.' This calls for significant changes in the formulation of foreign policy, going beyond gender parity in representation. For example, feminist grassroots actors from the Global South, in particular, must be included in peacebuilding because their ideas of justice, care, and reconciliation diverge from conventional masculinist conceptions of international security.",
           "3. Democratise Narrative Power in International Relations",
-          "The significance of narrative legitimacy is emphasised by constructivist IR theory. However, legitimacy cannot be monopolised. Voices from the Global South, LGBTQ+ activists, and feminist movements must balance out the Global North's dominance in defining diplomatic language, especially when it comes to framing terrorism or human trafficking. The potential for pluralist narrative construction is demonstrated by India's recent discursive interventions at the UN and G20. Such interventions must, nevertheless, continue to be held to the principles they purport to support. Power comes from discourse, which also entails the duty to listen, share, and decentralise the capacity to speak for others.",
-        ],
+          "The significance of narrative legitimacy is emphasised by constructivist IR theory. However, legitimacy cannot be monopolised. Voices from the Global South, LGBTQ+ activists, and feminist movements must balance out the Global North's dominance in defining diplomatic language, especially when it comes to framing terrorism or human trafficking. The potential for pluralist narrative construction is demonstrated by India's recent discursive interventions at the UN and G20. Such interventions must, nevertheless, continue to be held to the principles they purport to support. Power comes from discourse, which also entails the duty to listen, share, and decentralise the capacity to speak for others."
+        ]
       },
       {
         heading: "Final Reflection",
         paragraphs: [
           "To sum up, this essay does more than just support the inclusion of gender, migration, and human trafficking in international relations. It argues that these fields are at the forefront of an ideological conflict over the definition of legitimacy in international relations. The shift from a unipolar to a multipolar order is both epistemological and geopolitical in nature. It alters not just who is in charge, but also how authority is defended and challenged.",
           "Through its criticisms and alternatives, feminist international relations calls for a rethinking of diplomacy as a gendered, racialised, and politicised arena where justice and care are continuously negotiated, rather than as a neutral area of statecraft. There has never been a more pressing need for ethical diplomacy in a world beset by geopolitical rivalry, forced relocation, and misinformation.",
-          "A feminist viewpoint challenges us to think of diplomacy as more than strikes and summits. It asks if caring can take the place of coercion, whether pluralism can replace monopoly, and whether diplomacy can concentrate on survival rather than states. Whether or not that future is possible, this article contends that diplomacy will remain complicit in the very injustices it claims to remedy in the absence of such a reframing.",
-        ],
+          "A feminist viewpoint challenges us to think of diplomacy as more than strikes and summits. It asks if caring can take the place of coercion, whether pluralism can replace monopoly, and whether diplomacy can concentrate on survival rather than states. Whether or not that future is possible, this article contends that diplomacy will remain complicit in the very injustices it claims to remedy in the absence of such a reframing."
+        ]
       },
     ],
     references: [
       {
-        heading:
-          "Ashok, M.R. (2025). The Evolution of India’s ‘Counter-Terrorism (CT)’ Policy in the 21st Century. Journal of Terrorism Studies, 7(1), p.6.",
+        heading: "Ashok, M.R. (2025). The Evolution of India’s ‘Counter-Terrorism (CT)’ Policy in the 21st Century. Journal of Terrorism Studies, 7(1), p.6.",
       },
       {
-        heading:
-          "Asia Pacific Foundation of Canada. (2023). Modi’s G7 Invitation Marks a Diplomatic Breakthrough, But With Hurdles.",
-        links:
-          "https://www.asiapacific.ca/publication/modisg7-invitation-marks-diplomatic-breakthrough-hurdles",
+        heading: "Asia Pacific Foundation of Canada. (2023). Modi’s G7 Invitation Marks a Diplomatic Breakthrough, But With Hurdles.",
+        links: "https://www.asiapacific.ca/publication/modisg7-invitation-marks-diplomatic-breakthrough-hurdles"
       },
       {
-        heading:
-          "Buzan, B., Wæver, O. & de Wilde, J. (1998). Security: A New Framework for Analysis. Boulder, CO: Lynne Rienner.",
+        heading: "Buzan, B., Wæver, O. & de Wilde, J. (1998). Security: A New Framework for Analysis. Boulder, CO: Lynne Rienner.",
       },
       {
-        heading:
-          "Council for Strategic and Defence Research. (2025). Operation Sindoor: A Timeline. CSDR Report, May 2025.",
+        heading: "Council for Strategic and Defence Research. (2025). Operation Sindoor: A Timeline. CSDR Report, May 2025.",
       },
       {
-        heading:
-          "Crenshaw, K. (1989). Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine. University of Chicago Legal Forum, 1989(1), pp.139–167.",
+        heading: "Crenshaw, K. (1989). Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine. University of Chicago Legal Forum, 1989(1), pp.139–167.",
       },
       {
-        heading:
-          "Economic Times. (2025). Strait of Hormuz Closure: India Sitting Pretty on Oil Front.",
-        links:
-          "https://economictimes.indiatimes.com/industry/energy/oil-gas/strait-of-hormuz-closureindia-sitting-pretty-on-oil-front-no-worries-on-gas-atall/articleshow/122004600.cms?from=mdr",
+        heading: "Economic Times. (2025). Strait of Hormuz Closure: India Sitting Pretty on Oil Front.",
+        links: "https://economictimes.indiatimes.com/industry/energy/oil-gas/strait-of-hormuz-closureindia-sitting-pretty-on-oil-front-no-worries-on-gas-atall/articleshow/122004600.cms?from=mdr"
       },
       {
-        heading:
-          "Elshtain, J.B. (1995). Women and War. Chicago: University of Chicago Press.",
+        heading: "Elshtain, J.B. (1995). Women and War. Chicago: University of Chicago Press.",
       },
       {
-        heading:
-          "Enloe, C. (2000). Maneuvers: The International Politics of Militarizing Women’s Lives. Berkeley: University of California Press.",
+        heading: "Enloe, C. (2000). Maneuvers: The International Politics of Militarizing Women’s Lives. Berkeley: University of California Press.",
       },
       {
-        heading:
-          "Enloe, C. (2014). Bananas, Beaches and Bases: Making Feminist Sense of International Politics (2nd ed.). Berkeley: University of California Press.",
+        heading: "Enloe, C. (2014). Bananas, Beaches and Bases: Making Feminist Sense of International Politics (2nd ed.). Berkeley: University of California Press.",
       },
       {
-        heading:
-          "Freedman, J. (2010). Protecting Women Asylum Seekers and Refugees: From International Norms to National Protection?. International Migration, 48(1), pp.175–198.",
+        heading: "Freedman, J. (2010). Protecting Women Asylum Seekers and Refugees: From International Norms to National Protection?. International Migration, 48(1), pp.175–198.",
       },
       {
-        heading:
-          "Ghosh, S. (2020). India-Bangladesh Border Governance and Gendered Surveillance. South Asia Journal of Human Rights, 16(2), pp.221–243.",
+        heading: "Ghosh, S. (2020). India-Bangladesh Border Governance and Gendered Surveillance. South Asia Journal of Human Rights, 16(2), pp.221–243.",
       },
       {
-        heading:
-          "Hogan, J. (2021). The Externalisation of European Border Control and Gendered Violence. Journal of Borderlands Studies, 36(1), pp.15–33.",
+        heading: "Hogan, J. (2021). The Externalisation of European Border Control and Gendered Violence. Journal of Borderlands Studies, 36(1), pp.15–33.",
       },
       {
-        heading:
-          "India Today. (2025, June 23). How India Sees Its Ties with Iran, the Kashmir Issue, Chabahar Port, and the Israel War: A Balancing Act.",
-        links:
-          "https://www.indiatoday.in/india/story/how-india-sees-iran-ties-kashmir-issue-chabahar-portisrael-war-balancing-act-2744875-2025-06-23",
+        heading: "India Today. (2025, June 23). How India Sees Its Ties with Iran, the Kashmir Issue, Chabahar Port, and the Israel War: A Balancing Act.",
+        links: "https://www.indiatoday.in/india/story/how-india-sees-iran-ties-kashmir-issue-chabahar-portisrael-war-balancing-act-2744875-2025-06-23"
       },
       {
-        heading:
-          "Lobasz, J.K. (2009). Beyond Border Security: Feminist Approaches to Human Trafficking. Security Studies, 18(2), pp.319–344.",
+        heading: "Lobasz, J.K. (2009). Beyond Border Security: Feminist Approaches to Human Trafficking. Security Studies, 18(2), pp.319–344.",
       },
       {
-        heading:
-          "Man, W. (2025). The Evolution of Great Power Diplomacy: Historical Analysis of Strategic Alliances and Rivalry in International Relations.",
+        heading: "Man, W. (2025). The Evolution of Great Power Diplomacy: Historical Analysis of Strategic Alliances and Rivalry in International Relations.",
       },
       {
-        heading:
-          "NDTV. (2025, May 7). 5 Things PM Narendra Modi Told US President Donald Trump in 35-Minute Phone Call.",
-        links:
-          "https://www.ndtv.com/india-news/5-things-pm-narendra-modi-told-uspresident-donald-trump-in-35-minute-phone-call-terrorism-pahalgam-attack-pakistan-8696425",
+        heading: "NDTV. (2025, May 7). 5 Things PM Narendra Modi Told US President Donald Trump in 35-Minute Phone Call.",
+        links: "https://www.ndtv.com/india-news/5-things-pm-narendra-modi-told-uspresident-donald-trump-in-35-minute-phone-call-terrorism-pahalgam-attack-pakistan-8696425"
       },
       {
-        heading:
-          "Oettler, A. (2025). Against Simplification: De-/Postcolonial Thought, Peace and Conflict Studies and the Circulation of Knowledge.",
+        heading: "Oettler, A. (2025). Against Simplification: De-/Postcolonial Thought, Peace and Conflict Studies and the Circulation of Knowledge.",
       },
       {
-        heading:
-          "Richmond, O.P. & Pogodda, S. (2025). Peacemaking and the Maintenance of International Order: Alignment under Hegemony Versus Multipolar Misalignment. Global Studies Quarterly, 5(1), p.ksae094.",
+        heading: "Richmond, O.P. & Pogodda, S. (2025). Peacemaking and the Maintenance of International Order: Alignment under Hegemony Versus Multipolar Misalignment. Global Studies Quarterly, 5(1), p.ksae094.",
       },
       {
-        heading:
-          "Shepherd, L.J. (2008). Gender, Violence and Security: Discourse as Practice. London: Zed Books.",
+        heading: "Shepherd, L.J. (2008). Gender, Violence and Security: Discourse as Practice. London: Zed Books.",
       },
       {
-        heading:
-          "Shepherd, L.J. (2023). The Gender of Security. London: Routledge.",
+        heading: "Shepherd, L.J. (2023). The Gender of Security. London: Routledge.",
       },
       {
-        heading:
-          "Sjoberg, L. (2014). Gendering Global Conflict: Toward a Feminist Theory of War. New York: Columbia University Press.",
+        heading: "Sjoberg, L. (2014). Gendering Global Conflict: Toward a Feminist Theory of War. New York: Columbia University Press.",
       },
       {
-        heading:
-          "The Independent. (2025). Israel–Iran Conflict: Timeline of Attacks and Nuclear Escalation.",
-        links:
-          "https://www.independent.co.uk/news/world/middle-east/israel-iran-mapstimeline-attacks-nuclear-sites-b2775269.html",
+        heading: "The Independent. (2025). Israel–Iran Conflict: Timeline of Attacks and Nuclear Escalation.",
+        links: "https://www.independent.co.uk/news/world/middle-east/israel-iran-mapstimeline-attacks-nuclear-sites-b2775269.html"
       },
       {
-        heading:
-          "Tickner, J.A. (1992). Gender in International Relations: Feminist Perspectives on Achieving Global Security. New York: Columbia University Press.",
+        heading: "Tickner, J.A. (1992). Gender in International Relations: Feminist Perspectives on Achieving Global Security. New York: Columbia University Press.",
       },
       {
-        heading:
-          "Tickner, J.A. (1996). You Just Don't Understand: Troubled Engagements Between Feminists and IR Theorists. Working Paper No. 1996/6, Australian National University.",
-        links: "https://openresearch-repository.anu.edu.au/handle/1885/40161",
+        heading: "Tickner, J.A. (1996). You Just Don't Understand: Troubled Engagements Between Feminists and IR Theorists. Working Paper No. 1996/6, Australian National University.",
+        links: "https://openresearch-repository.anu.edu.au/handle/1885/40161"
       },
       {
-        heading:
-          "True, J. (2012). The Political Economy of Violence Against Women. Oxford: Oxford University Press.",
+        heading: "True, J. (2012). The Political Economy of Violence Against Women. Oxford: Oxford University Press.",
       },
       {
-        heading:
-          "True, J. (2020). Gendering War and Peace: Militarised Masculinities in International Relations. In: E. Stern and L.J. Shepherd, eds. Feminist IR in the Poststructuralist Era. London: Routledge, pp.33–51.",
+        heading: "True, J. (2020). Gendering War and Peace: Militarised Masculinities in International Relations. In: E. Stern and L.J. Shepherd, eds. Feminist IR in the Poststructuralist Era. London: Routledge, pp.33–51.",
       },
       {
-        heading:
-          "UN Women. (2020). Women, Peace and Security in Action: Annual Report 2019–2020. New York: UN Women.",
+        heading: "UN Women. (2020). Women, Peace and Security in Action: Annual Report 2019–2020. New York: UN Women.",
       },
       {
         heading: "United Nations Security Council. (2016). Resolution 2331.",
-        links:
-          "https://www.un.org/securitycouncil/content/resolutions-adopted-security-council-2016",
+        links: "https://www.un.org/securitycouncil/content/resolutions-adopted-security-council-2016"
       },
       {
-        heading:
-          "Waso, A.A. & Majeed, M. (2025). The Evolution of U.S. Strategy from the Asia-Pacific to the Indo-Pacific Region. Zanco Journal of Law and Politics, pp.252–280.",
+        heading: "Waso, A.A. & Majeed, M. (2025). The Evolution of U.S. Strategy from the Asia-Pacific to the Indo-Pacific Region. Zanco Journal of Law and Politics, pp.252–280.",
       },
       {
-        heading:
-          "Wendt, A. (1999). Social Theory of International Politics. Cambridge: Cambridge University Press.",
+        heading: "Wendt, A. (1999). Social Theory of International Politics. Cambridge: Cambridge University Press.",
       },
       {
-        heading:
-          "Zimmermann, L. and Deitelhoff, N. (2020). Norms under Challenge: Unpacking the Dynamics of Norm Contestation. Journal of Global Security Studies, 5(1), pp.88–106.",
-      },
+        heading: "Zimmermann, L. and Deitelhoff, N. (2020). Norms under Challenge: Unpacking the Dynamics of Norm Contestation. Journal of Global Security Studies, 5(1), pp.88–106.",
+      }
     ],
   },
   {
     id: 13,
     issue: 1,
     volume: 1,
-    title:
-      "Bridging the Education Gap: A Policy Analysis of the Quality of Education in India’s Public Schooling System",
+    title: "Bridging the Education Gap: A Policy Analysis of the Quality of Education in India’s Public Schooling System",
     author: "Angel Soni, Misba Mehraj",
     authorAbbrev: "A. Soni, M. Mehraj",
-    abstract: [
-      "This article looks at two major challenges in India’s public education system: the gap between boys and girls in education and the poor quality of teaching in many schools. Even though India has passed important laws and launched several programs—like the Right to Education Act, Sarva Shiksha Abhiyan, and the National Education Policy (NEP) 2020—many girls still face difficulties in staying in school, especially in rural and low-income areas. At the same time, many teachers lack proper training or don’t teach the right subjects, which affects the learning of all students. This paper shows how social issues like poverty, safety, and cultural beliefs about girls’ roles, combined with weak teacher preparation, keep education unequal. It also explains how new policies, such as the Gender Inclusion Fund and teacher training platforms like NISHTHA and DIKSHA, aim to solve these problems. The article argues that improving education in India needs both better teaching and stronger support for girls, along with real efforts to change attitudes in society. Only then can schools become truly inclusive and fair for every child.",
-    ],
+    abstract: ["This article looks at two major challenges in India’s public education system: the gap between boys and girls in education and the poor quality of teaching in many schools. Even though India has passed important laws and launched several programs—like the Right to Education Act, Sarva Shiksha Abhiyan, and the National Education Policy (NEP) 2020—many girls still face difficulties in staying in school, especially in rural and low-income areas. At the same time, many teachers lack proper training or don’t teach the right subjects, which affects the learning of all students. This paper shows how social issues like poverty, safety, and cultural beliefs about girls’ roles, combined with weak teacher preparation, keep education unequal. It also explains how new policies, such as the Gender Inclusion Fund and teacher training platforms like NISHTHA and DIKSHA, aim to solve these problems. The article argues that improving education in India needs both better teaching and stronger support for girls, along with real efforts to change attitudes in society. Only then can schools become truly inclusive and fair for every child."],
     keywords: [
       "gender disparity",
       "teacher quality",
@@ -2485,62 +2284,62 @@ const articles = [
       "socio-cultural barriers",
       "teacher training institutions",
       "marginalized communities",
-      "Gender Inclusion Fund",
+      "Gender Inclusion Fund"
     ],
     status: "Submitted",
     intro: [
       "Education in India stands at a critical intersection of demographic opportunity and systemic challenge. With over 248 million school-going children and the world’s largest youth population, the country has immense potential to leverage education as a tool for equitable development. However, two persistent and interlinked barriers continue to undermine this goal: gender disparity in educational access and the uneven quality and accountability of teachers in the public system.  ",
-      "Researchers such as Bandopadhyay (2008) and White et al. (2016) have emphasized how patriarchal norms, poverty, poor infrastructure, and safety concerns significantly hinder girls’ access to education, particularly among marginalized communities. Despite national efforts—such as the Sarva Shiksha Abhiyan, the Right to Education Act, and the Gender Inclusion Fund under NEP 2020—gaps in enrolment, retention, and learning outcomes between boys and girls remain deeply entrenched.  Parallelly, the literature on teacher quality and professional accountability, such as studies by Hill (2011) and Mukherjee (2024), reveals critical deficiencies in both training institutions and systemic oversight. These gaps are magnified in rural and low-income areas. The Justice Verma Commission (2012) and recent Tata Institute of Social Sciences (TISS) studies (2023–24) have exposed the commercialization of teacher education and stark subject mismatches that further exacerbate inequities in learning outcomes.  This review explores how gender disparities in education are not just shaped by socio-cultural barriers, but also reinforced—or potentially mitigated—by the quality and accountability of teachers. By examining intersecting policy frameworks, institutional structures, and socio-cultural dynamics, this article seeks to highlight the dual need for gender-responsive reforms and systemic improvements in teacher education to achieve inclusive, quality education for all. ",
+      "Researchers such as Bandopadhyay (2008) and White et al. (2016) have emphasized how patriarchal norms, poverty, poor infrastructure, and safety concerns significantly hinder girls’ access to education, particularly among marginalized communities. Despite national efforts—such as the Sarva Shiksha Abhiyan, the Right to Education Act, and the Gender Inclusion Fund under NEP 2020—gaps in enrolment, retention, and learning outcomes between boys and girls remain deeply entrenched.  Parallelly, the literature on teacher quality and professional accountability, such as studies by Hill (2011) and Mukherjee (2024), reveals critical deficiencies in both training institutions and systemic oversight. These gaps are magnified in rural and low-income areas. The Justice Verma Commission (2012) and recent Tata Institute of Social Sciences (TISS) studies (2023–24) have exposed the commercialization of teacher education and stark subject mismatches that further exacerbate inequities in learning outcomes.  This review explores how gender disparities in education are not just shaped by socio-cultural barriers, but also reinforced—or potentially mitigated—by the quality and accountability of teachers. By examining intersecting policy frameworks, institutional structures, and socio-cultural dynamics, this article seeks to highlight the dual need for gender-responsive reforms and systemic improvements in teacher education to achieve inclusive, quality education for all. "
     ],
     content: [
       {
         heading: "Bridging the Gap: Gender Disparity in Education in India",
         paragraphs: [
-          "Gender disparity in India encompasses systemic inequalities in health, education, employment, and politics, disproportionately affecting women. Rooted in patriarchal traditions, this disparity begins even before birth. Although India’s Constitution guarantees equal rights, deep-seated biases continue to restrict opportunities for women, especially in education. As per UNICEF and census data, between 2006 and 2010, only 26% of girls completed high school versus 50% of boys, and nearly 68% of girls remain undereducated. The 2011 Census shows an alarming gap: 82% literacy among boys compared to just 65% among girls. These inequalities are most visible among economically disadvantaged and rural populations.",
-        ],
+          "Gender disparity in India encompasses systemic inequalities in health, education, employment, and politics, disproportionately affecting women. Rooted in patriarchal traditions, this disparity begins even before birth. Although India’s Constitution guarantees equal rights, deep-seated biases continue to restrict opportunities for women, especially in education. As per UNICEF and census data, between 2006 and 2010, only 26% of girls completed high school versus 50% of boys, and nearly 68% of girls remain undereducated. The 2011 Census shows an alarming gap: 82% literacy among boys compared to just 65% among girls. These inequalities are most visible among economically disadvantaged and rural populations."
+        ]
       },
       {
         heading: "Education and Gender: India’s Policy Commitments",
         paragraphs: [
-          "India's efforts to address gender disparities in education have included ratifying international treaties such as the Convention on the Rights of the Child and the Convention on the Elimination of All Forms of Discrimination Against Women. The 2002 Constitutional Amendment made education a fundamental right for children aged 6–14, launching the Education for All (Sarva Shiksha Abhiyan) campaign. Despite these strides, there is a significant gap between legal commitments and on-ground realities. UNICEF reports that 23% of girls drop out of school at puberty due to the lack of sanitation and privacy facilities, with many missing up to 50 school days per year due to menstruation",
-        ],
+          "India's efforts to address gender disparities in education have included ratifying international treaties such as the Convention on the Rights of the Child and the Convention on the Elimination of All Forms of Discrimination Against Women. The 2002 Constitutional Amendment made education a fundamental right for children aged 6–14, launching the Education for All (Sarva Shiksha Abhiyan) campaign. Despite these strides, there is a significant gap between legal commitments and on-ground realities. UNICEF reports that 23% of girls drop out of school at puberty due to the lack of sanitation and privacy facilities, with many missing up to 50 school days per year due to menstruation"
+        ]
       },
       {
         heading: "Structural Barriers and Cultural Norms",
         paragraphs: [
-          "According to White, Ruther, and Kahn (2016), gender inequality in educational outcomes is not only about access but about how social background, time use, and cultural attitudes intersect. Girls, especially in rural areas, are often burdened with sibling care or household chores, reducing their study time and leading to dropout. Traditional attitudes toward girl’s education, particularly among low-income and rural households, also contribute. Parents often perceive education for daughters as an unnecessary investment, especially when they face pressure to save for dowries instead.",
-        ],
+          "According to White, Ruther, and Kahn (2016), gender inequality in educational outcomes is not only about access but about how social background, time use, and cultural attitudes intersect. Girls, especially in rural areas, are often burdened with sibling care or household chores, reducing their study time and leading to dropout. Traditional attitudes toward girl’s education, particularly among low-income and rural households, also contribute. Parents often perceive education for daughters as an unnecessary investment, especially when they face pressure to save for dowries instead."
+        ]
       },
       {
         heading: "Factors Contributing to Gender Gaps",
         paragraphs: [
-          "Dr. Radhika Kapur identifies multiple drivers of inequality, including poverty, traditional viewpoints, weak school infrastructure, discriminatory household practices, and the occurrence of violence. For instance, many families believe investing in girls’ education is futile as they will marry and leave. Poor school infrastructure—such as lack of toilets, libraries, and transportation—also deters girls from attending, particularly after puberty. Additionally, when girls experience harassment in or around schools, their safety becomes a concern for parents.",
-        ],
+          "Dr. Radhika Kapur identifies multiple drivers of inequality, including poverty, traditional viewpoints, weak school infrastructure, discriminatory household practices, and the occurrence of violence. For instance, many families believe investing in girls’ education is futile as they will marry and leave. Poor school infrastructure—such as lack of toilets, libraries, and transportation—also deters girls from attending, particularly after puberty. Additionally, when girls experience harassment in or around schools, their safety becomes a concern for parents."
+        ]
       },
       {
         heading: "Policies and the National Policy on Education (NPE)",
         paragraphs: [
-          "The NPE 1986 (revised in 1992) took a positive stance toward women’s education, calling it “an agent of basic change in the status of women.” It focused on curriculum revision, teacher training, and the promotion of women's studies. Yet, as Bhattacharjee (2015) critiques, these initiatives lacked specificity, adequate monitoring, and grassroots inclusion. Many of its goals were not fully realized due to weak implementation and a top-down approach that failed to address intersectional inequalities.",
-        ],
+          "The NPE 1986 (revised in 1992) took a positive stance toward women’s education, calling it “an agent of basic change in the status of women.” It focused on curriculum revision, teacher training, and the promotion of women's studies. Yet, as Bhattacharjee (2015) critiques, these initiatives lacked specificity, adequate monitoring, and grassroots inclusion. Many of its goals were not fully realized due to weak implementation and a top-down approach that failed to address intersectional inequalities."
+        ]
       },
       {
         heading: "Reservations and Targeted Initiatives",
         paragraphs: [
-          "India’s approach has included the reservation of 40% of Non-Formal Education centres for girls and 30% reservation in technical education in some states. Yet, as noted in a 2023 study by Pandey and Henry, these efforts, though well-intended, are not sufficient without complementary social reform. Initiatives like the Kasturba Gandhi Balika Vidyalayas (KGBVs) offer residential schooling from grades VI–XII to disadvantaged girls and are a positive step forward. As of June 2023, 5,639 KGBVs had enrolled over 6.88 lakh girls nationwide.",
-        ],
+          "India’s approach has included the reservation of 40% of Non-Formal Education centres for girls and 30% reservation in technical education in some states. Yet, as noted in a 2023 study by Pandey and Henry, these efforts, though well-intended, are not sufficient without complementary social reform. Initiatives like the Kasturba Gandhi Balika Vidyalayas (KGBVs) offer residential schooling from grades VI–XII to disadvantaged girls and are a positive step forward. As of June 2023, 5,639 KGBVs had enrolled over 6.88 lakh girls nationwide."
+        ]
       },
       {
         heading: "Intersecting Inequalities and Regional Variations",
         paragraphs: [
-          "Girls from Scheduled Castes (SCs), Scheduled Tribes (STs), and Muslim communities often face double or triple discrimination. White et al. emphasize how gender bias is intensified when a girl has multiple siblings or comes from a low-income household. Rural-urban disparities also persist; schools in rural regions are more likely to lack infrastructure and female teachers, affecting enrolment and retention. These intersecting inequalities require tailored, region-specific interventions.",
-        ],
+          "Girls from Scheduled Castes (SCs), Scheduled Tribes (STs), and Muslim communities often face double or triple discrimination. White et al. emphasize how gender bias is intensified when a girl has multiple siblings or comes from a low-income household. Rural-urban disparities also persist; schools in rural regions are more likely to lack infrastructure and female teachers, affecting enrolment and retention. These intersecting inequalities require tailored, region-specific interventions."
+        ]
       },
       {
         heading: "The NEP 2020: Redefining Inclusion",
         paragraphs: [
           "The National Education Policy (NEP) 2020 marked a significant shift in India’s educational discourse by putting inclusivity at its core. It recognized that gender equality cannot be achieved without addressing the needs of Socio-Economically Disadvantaged Groups (SEDGs), which include girls and transgender individuals. For the first time, gender was framed not as an isolated concern but as a cross-cutting priority.",
-          "One of the landmark provisions of NEP 2020 is the creation of a Gender Inclusion Fund (GIF). This fund aims to build the nation’s capacity to provide equitable, quality education to all girls and transgender students. The NEP also mandates state governments to create local policies ensuring school access and retention for girls. The policy also pushes for gender-sensitive learning materials and the recruitment of more female teachers, especially in rural areas.",
-        ],
+          "One of the landmark provisions of NEP 2020 is the creation of a Gender Inclusion Fund (GIF). This fund aims to build the nation’s capacity to provide equitable, quality education to all girls and transgender students. The NEP also mandates state governments to create local policies ensuring school access and retention for girls. The policy also pushes for gender-sensitive learning materials and the recruitment of more female teachers, especially in rural areas."
+        ]
       },
       {
         heading: "Samagra Shiksha 2.0 and Supportive Infrastructure",
@@ -2551,14 +2350,14 @@ const articles = [
           "Establishment of separate toilets for girls",
           "Construction of hostels and teacher quarters in remote regions",
           "Residential schooling through Kasturba Gandhi Balika Vidyalayas (KGBVs)",
-          "As of mid-2023, 5,639 KGBVs were active across India, offering residential education to nearly 6.88 lakh girls. Over 2,300 of these schools have been upgraded to include education up to Class 12.",
-        ],
+          "As of mid-2023, 5,639 KGBVs were active across India, offering residential education to nearly 6.88 lakh girls. Over 2,300 of these schools have been upgraded to include education up to Class 12."
+        ]
       },
       {
         heading: "Comparative Insights: NEP 2020 vs. NPE 1986/92",
         paragraphs: [
-          "While the NPE 1986 emphasized equality, its approach was often broad and vague. In contrast, NEP 2020 employs a more data-driven, inclusive, and intersectional framework. The following table summarizes the major differences:",
-        ],
+          "While the NPE 1986 emphasized equality, its approach was often broad and vague. In contrast, NEP 2020 employs a more data-driven, inclusive, and intersectional framework. The following table summarizes the major differences:"
+        ]
       },
       {
         heading: "Policy Component | NPE 1986/1992 | NEP 2020",
@@ -2568,8 +2367,8 @@ const articles = [
           "Infrastructure | General provisions | Dedicated sanitation, hostels, teacher housing",
           "Inclusivity Scope | Primarily for girls | Girls, transgender, SC/ST/OBC, minorities",
           "Implementation Mechanism | Central planning | Decentralized, state-led, community engagement",
-          "Monitoring & Accountability | Minimal | Data-driven, linked with real-time tracking and reviews",
-        ],
+          "Monitoring & Accountability | Minimal | Data-driven, linked with real-time tracking and reviews"
+        ]
       },
       {
         heading: "Critical Challenges in Realizing Gender Parity",
@@ -2580,8 +2379,8 @@ const articles = [
           "3. Girls have less access to digital devices and the internet, widening the learning gap.",
           "4. Despite legal prohibitions, early marriage remains a barrier to girls’ education.",
           "5. Girls remain underrepresented in STEM fields.",
-          "As Dr. Radhika Kapur highlights, systemic inequalities are compounded by criminal and violent acts—ranging from verbal abuse to sexual harassment—which force girls to leave school prematurely. Addressing these challenges requires more than educational reform; it demands cultural transformation.",
-        ],
+          "As Dr. Radhika Kapur highlights, systemic inequalities are compounded by criminal and violent acts—ranging from verbal abuse to sexual harassment—which force girls to leave school prematurely. Addressing these challenges requires more than educational reform; it demands cultural transformation."
+        ]
       },
       {
         heading: "Recommendations: Toward a Holistic Solution",
@@ -2591,38 +2390,37 @@ const articles = [
           "2.	Enforcing anti-child marriage and anti-harassment laws more strictly.",
           "3.	Customizing interventions based on caste, region, and language.",
           "4.	Creating job-oriented programs for girls.",
-          "5.	Using real-time data to track gender-based outcomes and adapt strategies.",
-        ],
+          "5.	Using real-time data to track gender-based outcomes and adapt strategies."
+        ]
       },
       {
         heading: "A Note on the Role of Teachers and Parents ",
         paragraphs: [
-          "Both teachers and parents play critical roles in either reinforcing or breaking down gender stereotypes. Teachers must be sensitized through training modules, while parents must be encouraged to treat sons and daughters equally in terms of educational investment. As White, Ruther, and Kahn suggest, maternal education is especially influential in determining girls’ school outcomes.",
-        ],
+          "Both teachers and parents play critical roles in either reinforcing or breaking down gender stereotypes. Teachers must be sensitized through training modules, while parents must be encouraged to treat sons and daughters equally in terms of educational investment. As White, Ruther, and Kahn suggest, maternal education is especially influential in determining girls’ school outcomes."
+        ]
       },
       {
         heading: "Toward an Equal Future ",
         paragraphs: [
           "Gender disparity in education is both a symptom and a cause of broader social inequalities. India has taken significant steps—from constitutional commitments and policy initiatives to financial schemes and community engagement—but the gender gap persists. NEP 2020 marks a critical departure from previous approaches by embedding inclusivity and intersectionality in every layer of the education system.",
-          "Real change will occur only when educational reforms are accompanied by shifts in cultural norms, enhanced parental awareness, community vigilance, and stronger enforcement of rights. Education must not only empower girls with knowledge but also equip them to challenge and transform the very systems that marginalize them. Bridging the gender gap in education is not just a policy goal—it is the foundation of a more equal, empowered, and enlightened India.",
-        ],
+          "Real change will occur only when educational reforms are accompanied by shifts in cultural norms, enhanced parental awareness, community vigilance, and stronger enforcement of rights. Education must not only empower girls with knowledge but also equip them to challenge and transform the very systems that marginalize them. Bridging the gender gap in education is not just a policy goal—it is the foundation of a more equal, empowered, and enlightened India."
+        ]
       },
       {
         heading: "Bridging the Gap: Teacher Quality and Accountability",
         paragraphs: [
-          "India, one of the fastest-growing nations, has 580 million people aged 5–24 years and over 248 million school-going students—the highest globally—alongside 4.7 crore students in higher education. This demographic profile makes quality education a foundational pillar for equitable economic growth and improved living standards. India has shown a long-standing commitment to SDG 4, which emphasizes inclusive and equitable quality education for all. At the core of achieving this within public schools lies the enhancement of teacher quality and accountability, which plays a significant role in improving the effectiveness of teaching (Hill, 2011). This has also been highlighted under Target 4.c, which calls for significantly increasing the number of qualified, trained, and competent teachers. Aligned with this, India has introduced key reforms such as the National Education Policy (NEP) 2020, large-scale training programs like NISHTHA, and digital platforms like DIKSHA to equip every classroom with capable and accountable educators. However, despite these initiatives, persistent learning gaps in government schools are closely linked to variations in teacher competence, motivation, and weak systemic oversight (Yates, 2024). The Justice J.S. Verma Commission (2012) revealed that over 10,000 stand-alone TEIs were essentially commercializing degrees rather than providing quality teacher education. Furthermore, a 2024 TISS study across eight states found that 35–41% of mathematics teachers lacked a relevant degree, indicating critical subject mismatches. This sub-theme a critical evaluation of India’s policy framework on teacher quality, highlighting structural and implementation-level.",
-        ],
+          "India, one of the fastest-growing nations, has 580 million people aged 5–24 years and over 248 million school-going students—the highest globally—alongside 4.7 crore students in higher education. This demographic profile makes quality education a foundational pillar for equitable economic growth and improved living standards. India has shown a long-standing commitment to SDG 4, which emphasizes inclusive and equitable quality education for all. At the core of achieving this within public schools lies the enhancement of teacher quality and accountability, which plays a significant role in improving the effectiveness of teaching (Hill, 2011). This has also been highlighted under Target 4.c, which calls for significantly increasing the number of qualified, trained, and competent teachers. Aligned with this, India has introduced key reforms such as the National Education Policy (NEP) 2020, large-scale training programs like NISHTHA, and digital platforms like DIKSHA to equip every classroom with capable and accountable educators. However, despite these initiatives, persistent learning gaps in government schools are closely linked to variations in teacher competence, motivation, and weak systemic oversight (Yates, 2024). The Justice J.S. Verma Commission (2012) revealed that over 10,000 stand-alone TEIs were essentially commercializing degrees rather than providing quality teacher education. Furthermore, a 2024 TISS study across eight states found that 35–41% of mathematics teachers lacked a relevant degree, indicating critical subject mismatches. This sub-theme a critical evaluation of India’s policy framework on teacher quality, highlighting structural and implementation-level."
+        ]
       },
       {
         heading: "Importance of Teacher Quality and Accountability",
         paragraphs: [
           "For a vibrant and effective education system, it is of paramount importance that a vibrant teaching system is in place. The responsibilities of a teacher extend far beyond the confines of a classroom, encompassing the holistic development of students to equip them with the skills and resilience needed to navigate future life challenges. According to the World Bank (2018) and UNESCO (2021), teacher effectiveness has a greater impact on student performance than infrastructural inputs or class size. Thus, as teachers are the cornerstone of effective learning and student success, it becomes imperative that the quality of teaching evolves in tandem with advancements in the education system.",
-          "Apart from quality, the accountability of teachers also holds great weight when it comes to the goal of quality education and bridging persistent learning gaps. Accountability ensures that teachers are not only present but also actively engaged, pedagogically effective, and aligned with curriculum goals (UNESCO, 2020). In public education systems, particularly in developing countries like India, the absence of strong accountability mechanisms has been linked to low teacher motivation, high absenteeism, and ineffective classroom practices (Muralidharan et al., 2017). When teachers are held responsible through supportive and outcome-driven mechanisms, it creates a ripple effect—raising classroom standards, enhancing student achievement, and building public trust in the education system. ",
-        ],
+          "Apart from quality, the accountability of teachers also holds great weight when it comes to the goal of quality education and bridging persistent learning gaps. Accountability ensures that teachers are not only present but also actively engaged, pedagogically effective, and aligned with curriculum goals (UNESCO, 2020). In public education systems, particularly in developing countries like India, the absence of strong accountability mechanisms has been linked to low teacher motivation, high absenteeism, and ineffective classroom practices (Muralidharan et al., 2017). When teachers are held responsible through supportive and outcome-driven mechanisms, it creates a ripple effect—raising classroom standards, enhancing student achievement, and building public trust in the education system. "
+        ]
       },
       {
-        heading:
-          "India’s Policy Framework on Teacher Quality and Accountability:",
+        heading: "India’s Policy Framework on Teacher Quality and Accountability:",
         paragraphs: [
           "A robust mechanism for ensuring teacher quality and accountability is imperative for evolving an equitable and quality education system (Bwembya et al., 2024). Having a keen focus on this aim, various initiatives have been taken by the Government of India to enhance teacher quality and strengthen accountability. These efforts aim to ensure that every child receives meaningful learning from a qualified, motivated, and responsible educator.",
           "Right to Education Act, 2009",
@@ -2632,8 +2430,8 @@ const articles = [
           "Samagra Shiksha Abhiyan (SSA)",
           "Launched in 2018, SSA integrates Sarva Shiksha Abhiyan, Rashtriya Madhyamik Shiksha Abhiyan, and Teacher Education to provide a holistic approach to school reform. A core focus is on improving teacher capacity through in-service training, ICT integration, and subject-specific pedagogy. SSA supports academic mentoring via Block and Cluster Resource Centres, and promotes professional development through initiatives like SLDP, NISHTHA, and DIKSHA.",
           "Roles of NCTE and SCERTs",
-          "The NCTE oversees the regulation and quality assurance of over 16,000 TEIs, having de-recognized nearly 1,000 substandard institutions. In alignment with NEP 2020, it is leading reforms like the integrated B.Ed. and NPST. At the state level, SCERTs design and implement pre-service and in-service teacher training, contextualize national curricula, and coordinate with DIETs, BRCs, and CRCs. For example, SCERT-Delhi trained over 91,000 educators and developed 200+ teaching resources to support pedagogical improvement (SCERT Delhi, 2006). Together, NCTE and SCERTs provide the structural and academic backbone for improving teacher quality and accountability across India.",
-        ],
+          "The NCTE oversees the regulation and quality assurance of over 16,000 TEIs, having de-recognized nearly 1,000 substandard institutions. In alignment with NEP 2020, it is leading reforms like the integrated B.Ed. and NPST. At the state level, SCERTs design and implement pre-service and in-service teacher training, contextualize national curricula, and coordinate with DIETs, BRCs, and CRCs. For example, SCERT-Delhi trained over 91,000 educators and developed 200+ teaching resources to support pedagogical improvement (SCERT Delhi, 2006). Together, NCTE and SCERTs provide the structural and academic backbone for improving teacher quality and accountability across India."
+        ]
       },
       {
         heading: "Critical Gaps and Challenges",
@@ -2642,8 +2440,8 @@ const articles = [
           "2.	B.Ed. curricula across institutions vary widely in content, depth, and pedagogical focus. For example, a study in Meghalaya found that 95% of in-service teacher training workshops lacked proper needs assessments or follow-up mechanisms (NIEPA, 2022).",
           "3.	Although the NCTE regulates over 16,000–18,000 TEIs, it has acknowledged that many are “diploma mills”.  In 2017, it withdrew recognition from nearly 1,000 TEIs for failing to meet quality norms. Moreover, a significant number of institutions lack proper infrastructure, qualified faculty, or practical teaching components, leading to underprepared graduates entering the system.",
           "4.	A 2023 TISS study revealed that 35–41% of teachers teaching mathematics in government schools do not hold an undergraduate degree in the subject (Times of India, 2024). This mismatch undermines both content delivery and students’ conceptual understanding, particularly in foundational learning stages.",
-          "5.	While biometric and app-based attendance systems have been introduced to reduce absenteeism, their implementation has been inconsistent. In Maharashtra, for instance, poor network connectivity and frequent technical failures in the 'Pavitra Portal' and mobile attendance apps led to widespread teacher dissatisfaction, affecting morale and compliance(The Hindu, 2023).",
-        ],
+          "5.	While biometric and app-based attendance systems have been introduced to reduce absenteeism, their implementation has been inconsistent. In Maharashtra, for instance, poor network connectivity and frequent technical failures in the 'Pavitra Portal' and mobile attendance apps led to widespread teacher dissatisfaction, affecting morale and compliance(The Hindu, 2023)."
+        ]
       },
       {
         heading: "Key Policy Recommendations ",
@@ -2652,111 +2450,90 @@ const articles = [
           "2.	The B.Ed. and D.Ed. curricula across institutions should be standardized nationally through NCTE and aligned with NPST and NEP 2020 guidelines. The curriculum must emphasize practical teaching skills, classroom management, inclusive pedagogy, and digital literacy, while ensuring subject–pedagogy alignment.",
           "3.	Every in-service teacher should have a personalized Continuous Professional Development (CPD) plan updated annually (Mahananda, 2024). Training programs like NISHTHA must shift from one-time workshops to modular, blended learning formats linked to real-time school data. CPD completion should be tied to performance appraisals, promotions, and salary increments.",
           "4.	In addition to routine administrative oversight, schools must establish robust academic supervision mechanisms through dedicated boards comprising senior faculty members. These boards should be responsible for closely monitoring teacher–student interactions, providing pedagogical guidance, and implementing context-specific strategies to enhance instructional effectiveness and learning outcomes.",
-          "5.	Accountability should go hand-in-hand with support. Mental health programs, manageable workloads, and recognition schemes should be instituted to enhance teacher morale and retention. A respected and supported teacher is more likely to deliver quality learning.",
-        ],
+          "5.	Accountability should go hand-in-hand with support. Mental health programs, manageable workloads, and recognition schemes should be instituted to enhance teacher morale and retention. A respected and supported teacher is more likely to deliver quality learning."
+        ]
       },
       {
         heading: "Towards An Efficient Future ",
         paragraphs: [
-          "India’s bold education reforms—from the RTE Act to NEP 2020—have laid a visionary foundation for improving teacher quality and accountability. However, policies alone do not transform classrooms; it is their implementation that determines real impact. Without robust monitoring, institutional support, and community engagement, even the most progressive reforms risk remaining aspirational. Bridging the gap between intention and execution is essential to empower educators, uplift learning outcomes, and ensure no child is left behind. The future of equitable education lies not in more promises, but in measurable, sustained action.",
-        ],
-      },
+          "India’s bold education reforms—from the RTE Act to NEP 2020—have laid a visionary foundation for improving teacher quality and accountability. However, policies alone do not transform classrooms; it is their implementation that determines real impact. Without robust monitoring, institutional support, and community engagement, even the most progressive reforms risk remaining aspirational. Bridging the gap between intention and execution is essential to empower educators, uplift learning outcomes, and ensure no child is left behind. The future of equitable education lies not in more promises, but in measurable, sustained action."
+        ]
+      }
     ],
     conclusion: [
-      "In conclusion, bridging the learning gap in India requires a dual focus on dismantling gender-based barriers and strengthening teacher quality and accountability. While policies like NEP 2020 provide a progressive framework, real transformation hinges on effective implementation, community involvement, and cultural change. Empowering girls through inclusive education and equipping teachers with skills, support, and oversight are not parallel goals—they are deeply interconnected. Together, they form the cornerstone of a just, equitable, and high-quality public education system that leaves no child behind.",
+      "In conclusion, bridging the learning gap in India requires a dual focus on dismantling gender-based barriers and strengthening teacher quality and accountability. While policies like NEP 2020 provide a progressive framework, real transformation hinges on effective implementation, community involvement, and cultural change. Empowering girls through inclusive education and equipping teachers with skills, support, and oversight are not parallel goals—they are deeply interconnected. Together, they form the cornerstone of a just, equitable, and high-quality public education system that leaves no child behind."
     ],
     references: [
       {
-        heading:
-          "Bandopadhyay, M. & Subrahmanian, R. (2008). Gender Equity in Education: A Review of Trends and Factors. New Delhi: National University of Educational Planning and Administration.",
+        heading: "Bandopadhyay, M. & Subrahmanian, R. (2008). Gender Equity in Education: A Review of Trends and Factors. New Delhi: National University of Educational Planning and Administration."
       },
       {
-        heading:
-          "Singh, R., Mukherjee, P., & Kumar, A. (2023). Exploring Factors Affecting Gender Inequality in Completion of Higher Education in India: A Survival Model Analysis. Oxford: Young Lives.",
+        heading: "Singh, R., Mukherjee, P., & Kumar, A. (2023). Exploring Factors Affecting Gender Inequality in Completion of Higher Education in India: A Survival Model Analysis. Oxford: Young Lives."
       },
       {
-        heading:
-          "Hill, S. (2011). Improving Access and Quality in the Indian Education System. OECD Economics Department Working Papers no. 885, 24.",
+        heading: "Hill, S. (2011). Improving Access and Quality in the Indian Education System. OECD Economics Department Working Papers no. 885, 24."
       },
       {
-        heading:
-          "Yates, C. A. (2024). Educational Inequities and Achievement Gap: Which Way Forward. 535–552.",
-        links: "https://doi.org/10.22492/issn.2188-1162.2024.43",
+        heading: "Yates, C. A. (2024). Educational Inequities and Achievement Gap: Which Way Forward. 535–552.",
+        links: "https://doi.org/10.22492/issn.2188-1162.2024.43"
       },
       {
-        heading:
-          "Bhattacharjee, R. (2017). Gender Disparity in Education and Health in India: A Comprehensive Analysis. International Journal of English Literature and Social Sciences, Vol. 7, No. 1.",
-        links: "https://dx.doi.org/10.22161/ijels.71.49",
+        heading: "Bhattacharjee, R. (2017). Gender Disparity in Education and Health in India: A Comprehensive Analysis. International Journal of English Literature and Social Sciences, Vol. 7, No. 1.",
+        links: "https://dx.doi.org/10.22161/ijels.71.49"
       },
       {
-        heading:
-          "Karak, S. & Sen, K. (2017). A Study on Gender Inequality in Higher Education in Indian Context. PANCHAKOTesSAYS, Vol. 8, No. 2, pp. 111–117. ISSN: 0976-4968",
+        heading: "Karak, S. & Sen, K. (2017). A Study on Gender Inequality in Higher Education in Indian Context. PANCHAKOTesSAYS, Vol. 8, No. 2, pp. 111–117. ISSN: 0976-4968"
       },
       {
-        heading:
-          "Pandey, S. & Henry, A.S. (2023). Gender Disparities in Indian Education System. International Journal of Social Research and Development, Vol. 5, Issue 2, pp. 12–16.",
+        heading: "Pandey, S. & Henry, A.S. (2023). Gender Disparities in Indian Education System. International Journal of Social Research and Development, Vol. 5, Issue 2, pp. 12–16."
       },
       {
-        heading:
-          "Kapur, R. (n.d.). Gender Inequality in Education. Unpublished Manuscript.",
+        heading: "Kapur, R. (n.d.). Gender Inequality in Education. Unpublished Manuscript."
       },
       {
-        heading:
-          "White, H., Ruther, M., & Kahn, M. (2016). Gendered Time Use, Inequality and Educational Outcomes in India.",
+        heading: "White, H., Ruther, M., & Kahn, M. (2016). Gendered Time Use, Inequality and Educational Outcomes in India."
       },
       {
-        heading:
-          "Bwembya, I., Daka, H., & C. S., J. (2024). Achieving Accountability and Quality Education through Assessments: A Comprehensive Exploration of Assessment Practices in Zambia. Deleted Journal, 4(6), 600–607.",
-        links: "https://doi.org/10.62225/2583049x.2024.4.6.3481",
+        heading: "Bwembya, I., Daka, H., & C. S., J. (2024). Achieving Accountability and Quality Education through Assessments: A Comprehensive Exploration of Assessment Practices in Zambia. Deleted Journal, 4(6), 600–607.",
+        links: "https://doi.org/10.62225/2583049x.2024.4.6.3481"
       },
       {
-        heading:
-          "Muralidharan, K., Das, J., Holla, A., & Mohpal, A. (2017). The fiscal cost of weak governance: Evidence from teacher absence in India. Journal of Public Economics, 145, 116–135.",
-        links: "https://doi.org/10.1016/j.jpubeco.2016.11.005",
+        heading: "Muralidharan, K., Das, J., Holla, A., & Mohpal, A. (2017). The fiscal cost of weak governance: Evidence from teacher absence in India. Journal of Public Economics, 145, 116–135.",
+        links: "https://doi.org/10.1016/j.jpubeco.2016.11.005"
       },
       {
-        heading:
-          "Singh, S. (2022). Gender Disparity in Education and Health in India: A Comprehensive Analysis. International Journal of English Literature and Social Sciences, Vol. 7, Issue 1. ",
-        links: "https://dx.doi.org/10.22161/ijels.71.49",
+        heading: "Singh, S. (2022). Gender Disparity in Education and Health in India: A Comprehensive Analysis. International Journal of English Literature and Social Sciences, Vol. 7, Issue 1. ",
+        links: "https://dx.doi.org/10.22161/ijels.71.49"
       },
       {
-        heading:
-          "Mahananda, I. (2024). Overcoming the Challenges of Teacher Education Programmes in India. International Journal For Multidisciplinary Research.",
-        links: "https://doi.org/10.36948/ijfmr.2024.v06i01.17266",
+        heading: "Mahananda, I. (2024). Overcoming the Challenges of Teacher Education Programmes in India. International Journal For Multidisciplinary Research.",
+        links: "https://doi.org/10.36948/ijfmr.2024.v06i01.17266"
       },
       {
-        heading:
-          "Ministry of Education, Government of India (2023). National Education Policy, 2020 – Gender Inclusion Measures. Press Information Bureau, Delhi.",
-        links: "https://pib.gov.in/PressReleasePage.aspx?PRID=1944431",
+        heading: "Ministry of Education, Government of India (2023). National Education Policy, 2020 – Gender Inclusion Measures. Press Information Bureau, Delhi.",
+        links: "https://pib.gov.in/PressReleasePage.aspx?PRID=1944431"
       },
       {
-        heading:
-          "Ministry of Education, Government of India (2023). Samagra Shiksha 2.0 Implementation Report.",
+        heading: "Ministry of Education, Government of India (2023). Samagra Shiksha 2.0 Implementation Report."
       },
       {
-        heading:
-          "Ministry of Education. (2020). National Education Policy 2020. Government of India.",
-        links:
-          "https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf",
+        heading: "Ministry of Education. (2020). National Education Policy 2020. Government of India.",
+        links: "https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf"
       },
       {
-        heading:
-          "NCTE. (2017). Annual Report 2016–17. National Council for Teacher Education.",
-        links: "http://ncte.gov.in/Website/AnnualReports.aspx",
+        heading: "NCTE. (2017). Annual Report 2016–17. National Council for Teacher Education.",
+        links: "http://ncte.gov.in/Website/AnnualReports.aspx"
       },
       {
-        heading:
-          "World Bank. (2010). Teacher absence in India. World Bank Human Development Unit, South Asia Region.",
-        links: "https://documents.worldbank.org",
+        heading: "World Bank. (2010). Teacher absence in India. World Bank Human Development Unit, South Asia Region.",
+        links: "https://documents.worldbank.org"
       },
       {
-        heading:
-          "National Institute of Educational Planning and Administration (NIEPA). (2022). Evaluation of In-Service Training Programmes in North-Eastern States.",
+        heading: "National Institute of Educational Planning and Administration (NIEPA). (2022). Evaluation of In-Service Training Programmes in North-Eastern States."
       },
       {
-        heading:
-          "The Hindu. (2023, March 17). Teachers protest Maharashtra’s Pavitra Portal glitches and app attendance issues.",
-        links: "https://www.thehindu.com/news/national/maharashtra",
+        heading: "The Hindu. (2023, March 17). Teachers protest Maharashtra’s Pavitra Portal glitches and app attendance issues.",
+        links: "https://www.thehindu.com/news/national/maharashtra"
       },
     ],
   },
@@ -2765,12 +2542,11 @@ const articles = [
     issue: 1,
     volume: 1,
     title: "India-US Bilateral Relations under President Trump’s Second Tenure",
-    author:
-      "Priyanka T P, Aastha Sharma, Vidhi Chugh, Saifullah Bashir, Prachi Arya, Anurag Khatik, Paridhi Singh",
+    author: "Priyanka T P, Aastha Sharma, Vidhi Chugh, Saifullah Bashir, Prachi Arya, Anurag Khatik, Paridhi Singh",
     authorAbbrev: "P. T. P., A. Sharma and others",
     abstract: [
       "The Indo-U.S. bilateral relationship has undergone a remarkable transformation, evolving from the contested relations during the Cold War, into a strategic partnership shaped by mutual interests. Both nations have deepened their cooperation in defence, technology, innovation and other key sectors. Despite its potential, Indo-U.S. bilateral relations have become unpredictable ever since President Trump took office as the 47th President of the United States earlier this year. While expressing mutual interest and maintaining a good rapport with Prime Minister Modi, rising tariffs and trade barriers, mass deportations and increasing racial discrimination towards the Indian diaspora in the U.S. have strained the stability of this partnership.",
-      "This article aims to trace the Indo-U.S. bilateral developments in seven parts, starting through the backdrop of President Biden’s administration followed by the tariff and trade practices and their implications. Then we critically examine defence relations, particularly the CAATSA sanctions, the plight of Indian students in the U.S. through the Harvard issue, the potential of transnational diplomacy, and the H-1B visa restrictions and the legacy of the Indian diaspora on the U.S. economy. The article concludes by evaluating the geopolitical implications of Indo-U.S. relations and its impact on international issues.",
+      "This article aims to trace the Indo-U.S. bilateral developments in seven parts, starting through the backdrop of President Biden’s administration followed by the tariff and trade practices and their implications. Then we critically examine defence relations, particularly the CAATSA sanctions, the plight of Indian students in the U.S. through the Harvard issue, the potential of transnational diplomacy, and the H-1B visa restrictions and the legacy of the Indian diaspora on the U.S. economy. The article concludes by evaluating the geopolitical implications of Indo-U.S. relations and its impact on international issues."
     ],
     keywords: [
       "Indo-U.S. relations",
@@ -2783,12 +2559,12 @@ const articles = [
       "cultural influence",
       "H-1B visa",
       "strategic partnership",
-      "immigration policy",
+      "immigration policy"
     ],
     intro: [
       "The Indo-U.S. bilateral ties have been one of the most dynamic geopolitical relationships in the past century. Rooted in a history of dependency during the inception of an Independent India and a relationship of mistrust during the Non-Aligned Movement, both India and the U.S. have redefined their bilateral relations by increasing cooperation in various sectors. As two of the major players in the Indian ocean over maritime security, the cooperation between them is important to the geopolitics of the Indo-Pacific region. Emerging from the idea of the American Dream amongst aspiring Indians leading to an increase in population, the Indian diaspora in the U.S. and their cultural influence has played a significant role in the bilateral ties.",
       "Despite this deepening partnership, recent developments in their bilateral relationship is posing a major threat of uncertainty, particularly under President Trump’s administration during his second tenure. Areas such as tariffs, immigration and racial equity have been of great concern over the past few months. While high level diplomatic engagement between President Trump and Prime Minister Narendra Modi, the domestic political shift in the United States seems to hinder the broader trajectory of this bilateral cooperation.",
-      "This article aims to analyse the current scenario and the evolving nature of the Indo-U.S. relations by examining key areas of concern which can be detrimental to both the U.S. and India in the long run. This can be observed through seven sections commencing with a backdrop of Indo-U.S. relations under President Biden’s administration, followed by a critical analysis of the emerging trade barriers, defense cooperation and the CAATSA sanctions, the increase in rampant racism against the Indian diaspora in the U.S., its effects on the academic and diplomatic outreach, the H1-B visa dynamics, and the role of the Indian diaspora in the larger picture of the United States’ exponential growth in science and technology. Through this analysis, the article evaluates the strategic and geopolitical implications of this evolving partnership in the constantly evolving international order.",
+      "This article aims to analyse the current scenario and the evolving nature of the Indo-U.S. relations by examining key areas of concern which can be detrimental to both the U.S. and India in the long run. This can be observed through seven sections commencing with a backdrop of Indo-U.S. relations under President Biden’s administration, followed by a critical analysis of the emerging trade barriers, defense cooperation and the CAATSA sanctions, the increase in rampant racism against the Indian diaspora in the U.S., its effects on the academic and diplomatic outreach, the H1-B visa dynamics, and the role of the Indian diaspora in the larger picture of the United States’ exponential growth in science and technology. Through this analysis, the article evaluates the strategic and geopolitical implications of this evolving partnership in the constantly evolving international order."
     ],
     content: [
       {
@@ -2803,22 +2579,20 @@ const articles = [
           "Indian-Americans now form one of the most influential diasporas in the US, with over 4.5 million people contributing to various sectors, including Silicon Valley, medicine, and academia. President Biden’s appointments of key Indian-origin officials—such as Neera Tanden, Vivek Murthy, and Uzra Zeya—had enhanced the dimension for diplomacy and strengthened cultural exchange bonds between the two nations ",
           "Academic and scientific cooperation remains vibrant, with over 200,000 Indian students enrolled in US universities (2023 data), contributing nearly $8 billion to the US economy annually. Collaboration in STEM education, skilled workforce mobility, and technological advancements remain a cornerstone of the relationship ",
           "Under Biden, the India-US relationship has upgraded beyond mere symbolic gestures to a significant advancement. The scope of bilateral ties and agendas has expanded from defence and security to include climate change, public health, advanced technology, and sustainable development. Although trade friction persists in areas like market access and digital taxation, the institutional resilience built under Biden ensures such issues are managed without derailing strategic cooperation.",
-          "Ultimately, the Biden administration has not only reinforced traditional strategic ties but also charted new avenues for collaboration, positioning the India-US partnership as one of the most comprehensive and future-ready bilateral relationships in the 21st century.",
-        ],
+          "Ultimately, the Biden administration has not only reinforced traditional strategic ties but also charted new avenues for collaboration, positioning the India-US partnership as one of the most comprehensive and future-ready bilateral relationships in the 21st century."
+        ]
       },
       {
-        heading:
-          "2.	Tariffed Partnership: Is Trump's Second-Term Trade Pressure Rewriting the Rules of Economic Engagement Between India and the U.S.?",
+        heading: "2.	Tariffed Partnership: Is Trump's Second-Term Trade Pressure Rewriting the Rules of Economic Engagement Between India and the U.S.?",
         paragraphs: [
           "India–U.S. relations have come a long way historically, from an ideological distance to a pragmatic—not always harmonious—cooperation. India’s non-alignment during the Cold War symbolized that India was not easily courted by the United States. India’s liberalization in the 1990s and, most importantly, the 2005 civil nuclear agreement, ushered in a new period of engagement and trust (Wikipedia, 2025). In 2022–2023, bilateral trade in goods and services crossed $190 billion, maintaining its remarkable growth trajectory (Rao, 2024). India found itself to be a key market and strategic partner in Asia, and the United States became India’s largest trading partner. However, tensions simmered under the surface, particularly over trade imbalances and tariff structures. The United States operates a large deficit in its trade with India, an issue that President Trump has complained about incessantly since his electoral victory last fall. India received preferential market access under the U.S. Generalized System of Preferences (GSP), which provided for duty-free exports of roughly $5.6 billion per year (USTR, 2019). In 2019, Trump rescinded India’s GSP advantages, claiming that it had not supplied “fair and cheap” (USTR, 2019).",
           "Yet in Trump’s second term, this friction quickly transformed into a major trade conflict. The administration announced a retaliatory tariff on selected Indian goods of 26% in April 2025 that was suspended temporarily (90 days) to give time for negotiations to find common ground (Kumar, 2025). Following immediately, President Trump ended US preferential treatment of imports from India, and criticized India’s average applied tariff of 17.6%, one of the highest for any major economy, and calling India the “tariff king”. Sectors such as agriculture, automobile and medical devices were especially focused on. This seems to be Trump’s goal of “reciprocity”—to force India to lower its tariff wall while it raises imports of U.S. energy, defense, and high-tech products. India has countered, noting that its tariff rates are far below WTO-bound rates, and that its retaliatory duties on almonds, walnuts, and apples are valid responses to the U.S.’s security-based retaliatory tariffs on steel and aluminum from 2018 (TOI, 2025).",
           "This reflects what many describe as Trump’s broader tactic—used not just with India, but globally. It's a “maximum pressure, minimum compromise” strategy: issue extreme tariff threats, provoke panic, then delay or soften them slightly and call it a win. This creates the illusion of negotiation while crediting himself with resolution. India appears a pawn in this larger model of transactional diplomacy, where perception trumps fair policy (Graham, 2025). Trump used similar approaches with the EU and China—threatening 25% auto tariffs and securing symbolic concessions (Reuters, 2025), or raising tariffs to pressure China into the “Phase One” deal (Gattiker et al., 2025).",
-          "India needs to exercise caution. Avoiding tariffs may feel like success, but genuine negotiation requires mutual respect. India’s counter strategy must reflect strategic autonomy—not appeasement. Only then can it define its trade future from a position of strength.",
-        ],
+          "India needs to exercise caution. Avoiding tariffs may feel like success, but genuine negotiation requires mutual respect. India’s counter strategy must reflect strategic autonomy—not appeasement. Only then can it define its trade future from a position of strength."
+        ]
       },
       {
-        heading:
-          "3.	S‑400 Dilemma: Can U.S.–India Defence Ties Survive CAATSA Sanctions in Trump’s Second-Term?",
+        heading: "3.	S‑400 Dilemma: Can U.S.–India Defence Ties Survive CAATSA Sanctions in Trump’s Second-Term?",
         paragraphs: [
           "With Donald Trump reintroduced once more on January 20, 2025, for his second non-consecutive term as the 47th U.S. president, the issue of CAATSA sanctions on India’s S-400 buy has taken on renewed criticality. The current U.S. organisation, firmly rooted in the “America First” ideology, faces a fundamental test: implement the spirit of sanctions, or shift toward a pragmatic organisation?",
           "Amid Trump’s to begin with term, his administration transparently cautioned India about CAATSA punishments, whereas opening the door partially open for a waiver in the event that New Delhi moved toward U.S. military gear. Presently, four of the five S-400 regiments are currently deployed along India’s borders with China and Pakistan, with the ultimate framework anticipated by early 2026 .This buy, imperative to India’s defence calculus, has drawn renewed attention in Washington and reignited the talk about over vital consistency versus lawful commitment.",
@@ -2827,31 +2601,29 @@ const articles = [
           "A more discretionary course would be a carefully organised CAATSA waiver for India. But it shouldn't be a clear check. The White House seem to require steps like expanded acquisition of U.S. defence frameworks, more significant joint development projects—for example, missile-tracking radars or ramble systems—and more profound participation in shared security alliances. This mirrors Trump’s first-term dialect: India “will discover out” on the off chance that it remains too close to Russian weapons, but that a waiver is conceivable under the correct conditions.  For India, exploring this requires subtlety. Delhi might depict the S-400 as a transitional defence fence, signalling preparation to slowly turn toward American stages.",
           "That might incorporate committing to construct more U.S.-supplied frameworks domestically—extending the India-U.S. defence-industrial base—and emphasising interoperability in military drills and insights sharing. ",
           "At its centre, the S-400 issue may be a stretch test, for CAATSA's unbending nature and for India's vital belief. Beneath President Trump’s momentous term, the stakes have risen. But in case both nations select exchange over authoritative opinion, the result might reaffirm their shared interest in building a strong, multipolar, and equitable Indo-Pacific.",
-          "For India, this implies keeping up its teaching of vital independence, while signalling a future direction more adjusted with American tech and tenet. For Trump’s organisation, it is an opportunity to illustrate vital adaptability without undermining authoritative expectations.",
-        ],
+          "For India, this implies keeping up its teaching of vital independence, while signalling a future direction more adjusted with American tech and tenet. For Trump’s organisation, it is an opportunity to illustrate vital adaptability without undermining authoritative expectations."
+        ]
       },
       {
-        heading:
-          "4.	How has the “Harvard Issue” affected the landscape of Educational Collaborations between India and the US since Donald Trump's Re-election?",
+        heading: "4.	How has the “Harvard Issue” affected the landscape of Educational Collaborations between India and the US since Donald Trump's Re-election?",
         paragraphs: [
           "In 2025, A political and legal conflict emerged between Harvard University and Trump administration, now commonly being referred to as the “Harvard Issue.” This issue has attracted global attention regarding academic freedom, International Student Rights, and foreign relations. The issue unfolded as the Federal Government of the US accused Harvard of failing to comply with federal guidelines, started citing concerns over ideological extremism, race – based practices and non-cooperation in the student monitoring. The actions to these accusations lead to a policy decision, which includes Threats to revoke Visa, termination of research grants and a suspension of Harvard’s ability to host foreign students. These proposed changes led to reactions of shock across the International academic community, including India.  ",
           "India, being one of the largest contributors to the student base in the majority of the US Institutions has felt a significant impact. Hundreds and Thousands of Indian students apply to American Institutions annually, with Harvard being one of the topmost of choices for advanced study and research. On April 16, 2025, the Trump Administration issued a directive more of a threat to revoke Harvard’s membership for the Student and Exchange Visitor Program, SEVP which directly jeopardized the enrolment of International Students, including Indians. This temporary barring led to widespread anxiety and disrupted academic plans for students across the globe.",
           "Further escalating the issue, on June 4, President Trump signed a proclamation suspending Visas F, M and J categories for new enrolments/ students at Harvard, which cities concerns for foreign ties, although a federal judge later issued an injunction against Trump’s Proclamation on June 20. This to-and-fro between the Federal government and Harvard highlights the vulnerability of international students to shifting political climates.",
           "Indian students were affected in many ways. First, there was increased uncertainty around visa insurance and renewals which led to many prospective students to either delay applications or consider alternative destinations for study and research such as Canada or Europe. Second, The Political opinions of the federal government labelling some foreign students radical or anti–American created an alarming effect where students felt compelled to self–censor academic or political opinion. Third, Indian scholars engaged in research associations with Harvard faces disruptions due to the suspension of federal grants and funding, thereby limiting academic exchange.",
           "With funding for Joint research programs suddenly stopped and access for Indian students blocked, the Indian universities faced both academic and administrative lags, the situation highlighted that how quickly politics could disrupt academic ties. The threat to Harvard tax exempt status and the sweeping visa restrictions served as a wake–up call. In response many Indian academic institutions started reassessing the risk of heavy dependence on US-based academic networks.",
-          "At its core, the Harvard issue reflects a growing intersection between education, politics and international relations. For Indian students and institutions, this issue serves as an eye opener that academic opportunities are not immune to geopolitical shifts and also emphasizes the importance of diversifying global partnership and advocating for the protection of academic mobility and freedom. While the legal outcomes of the conflict are still evolving, the implications for India-US academic relations are clear. Transparency, mutual respect and policy stability are essential to sustaining educational exchange in an increasingly polarized world.",
-        ],
+          "At its core, the Harvard issue reflects a growing intersection between education, politics and international relations. For Indian students and institutions, this issue serves as an eye opener that academic opportunities are not immune to geopolitical shifts and also emphasizes the importance of diversifying global partnership and advocating for the protection of academic mobility and freedom. While the legal outcomes of the conflict are still evolving, the implications for India-US academic relations are clear. Transparency, mutual respect and policy stability are essential to sustaining educational exchange in an increasingly polarized world."
+        ]
       },
       {
-        heading:
-          "5.	To What Extent Did Culture, Media, and Diaspora Outweigh Transactional Diplomacy in India-US Relations Under Trump’s Second-Term Policies?",
+        heading: "5.	To What Extent Did Culture, Media, and Diaspora Outweigh Transactional Diplomacy in India-US Relations Under Trump’s Second-Term Policies?",
         paragraphs: [
           "The Indo- American relationship is built upon diverse threads, woven together by their shared strategic interests, economic ties, democratic values, and vibrant people-to-people connections, strengthened over decades by migration and flow of cultural exchange, and mutual aspirations across the Pacific. The soft-power elements of culture, media, and especially the Indo-American diaspora foster a transnational synergy that blends Indian traditions with American innovation, shaping both countries’ cultural identities, political values, and foreign policies.",
           "With President Trump’s return to the White House, the tone of this relationship shifted. The administration’s focus on transactional diplomacy, defined by a relentless focus on immediate and reciprocal gains over long-term strategic partnership, sidelined the soft-power diplomacy (Rossow, 2024). First, the Trump administration targeted USAID which had a $35 billion budget, mostly for health, education, and governance, especially in Africa. While the agency still exists on paper, it has been effectively dismantled. Cutting USAID has reduced U.S. presence in poor countries resulting in weakening of its soft- power influence and global messaging (Weinstein, 2025). Along with this, the 1,116th page ‘One Big Beautiful Bill’ imposes a 3.5% tax on remittances sent by US’s non-citizens, impacting Indians who are a significant portion of the US immigrant population. CA Manoj K Pahwa, FEMA & International Tax Consultant, says “To avoid paying 3.5% tax, many of them would now increasingly invest money in the US itself.” Thus, the tax would discourage remittances to India and prompt increased US investments (ADAJANIA, 2025).",
           "Trump’s second-term agenda had also rapidly expanded deportation operations, directly impacting Indian communities, with over 20,000 undocumented Indians facing removal orders or detention. The crackdown has heightened fear and instability among mixed-status Indian families and the broader diaspora. This shift has diminished the role of the U.S. soft power by projecting an image of exclusion rather than openness, making it harder for the Indian diaspora to contribute to American innovation and culture. Policies prioritizing increased tariffs, trade balances, and immigration quotas often clash with the living realities of the diaspora and the aspirations of young Indians and Americans alike.",
           "Despite the dominance of transactional diplomacy, soft power elements have shown resilience. The Indian diaspora in the United States, now numbering over 4.5 million, continues to play a critical role in shaping bilateral ties through enhanced political integration and advocacy. Indian-Americans secured influential positions within the Trump administration, including Harmeet Kaur Dhillon as Assistant Attorney General for Civil Rights, Vivek Ramaswamy in government efficiency, and Kash Patel’s nomination as FBI Director. These appointments amplified the diaspora’s voice, which enabled protection of the interests of Indian professionals and students. With U.S. funded programs scaled back, India leaned into its own soft power, supporting academic partnerships, diaspora-led festivals, and digital diplomacy. High-profile diaspora-driven cultural events such as “Howdy, Modi!” and “Namaste Trump” along with Indian cuisine, yoga, and Bollywood symbolized the community’s ability to act as a cultural bridge. Media, meanwhile, became both a battleground and a bridge. As trade disputes and policy disagreements made headlines, Indian diplomats, diaspora leaders, and think tanks worked to reframe the narrative. ",
-          "Yet, for all their resilience, these soft power forces faced real limits. Transactional diplomacy often sets the boundaries of possibility. Tariffs were not undone by goodwill, and visa restrictions could not be lifted by community advocacy alone. Even the strongest diaspora voices confronted the harsh realities of “America First” policies. As Joseph Nye warned, Trump’s coercive, transactional view of power risked eroding U.S. soft power, much like China’s aggressive diplomacy backfired (Nye, 2004). So, to what extent did culture, media, and diaspora outweigh transactional diplomacy in this new era? While they did not always prevail, these soft power elements softened tensions, kept channels open, and ensured the relationship remained more than a series of deals. They may not have shaped every outcome, but they safeguarded the relationship’s soul. They did not outweigh transactional diplomacy but they endured beyond it, laying the groundwork for a more inclusive and enduring chapter in India- U.S. relations.",
-        ],
+          "Yet, for all their resilience, these soft power forces faced real limits. Transactional diplomacy often sets the boundaries of possibility. Tariffs were not undone by goodwill, and visa restrictions could not be lifted by community advocacy alone. Even the strongest diaspora voices confronted the harsh realities of “America First” policies. As Joseph Nye warned, Trump’s coercive, transactional view of power risked eroding U.S. soft power, much like China’s aggressive diplomacy backfired (Nye, 2004). So, to what extent did culture, media, and diaspora outweigh transactional diplomacy in this new era? While they did not always prevail, these soft power elements softened tensions, kept channels open, and ensured the relationship remained more than a series of deals. They may not have shaped every outcome, but they safeguarded the relationship’s soul. They did not outweigh transactional diplomacy but they endured beyond it, laying the groundwork for a more inclusive and enduring chapter in India- U.S. relations."
+        ]
       },
       {
         heading: "6.	The H-1B Visa and Indian Contribution to the U.S. Economy ",
@@ -2860,12 +2632,11 @@ const articles = [
           "Indian immigrants were initially limited to the H1 visa, which was provided to qualified immigrant workers of about 65,000 per year, who intended to work temporarily in the U.S. These provisions were relaxed over time, eventually leading to the American Competitiveness and Work Force Improvement Act of 1998, which increased the number from 65,000 to 1,15,000. This increase was lobbied by tech companies who recruited more foreign workers due to lack of skilled labour among American workers.",
           "One of the major criticisms is against Indian tech companies who follow a system of offshore development centres in India with an on-site presence in the U.S., raising concerns as they directly generate revenue to the host country. This, clubbed with the mass lay-offs and unemployment during the pandemic served as a catalyst for anti-immigration sentiments under President Trump’s administration. Policies such as ‘Buy American, Hire American’  were intended to increase employment opportunities for American workers. However, research suggests that for every H-1B visa rejection, companies hired 0.4 employees abroad, undermining the intended goal of protecting American jobs.",
           "The Indian influence on American technology and innovation is particularly profound. For instance, 16 of the Fortune 500 companies in 2023  were led by CEOs of Indian origin. A 2015 study observed data from 219 cities conducted between 1990 to 2010 and concluded that H-1B visa holders had increased innovation and job opportunities in the U.S., particularly in STEM branches and the tech sector, as well as increasing wages among non-skilled native workers (Peri, 2015). Another study shows increased patent registrations in the U.S. from 1975 to 2004, among Chinese and Indian immigrants in STEM research and development (Kerr, 2010). This shows that Indian immigrants are not just participating in American innovation, but are also driving it.",
-          "Most bilateral cooperations such as the Transforming Relations Utilising Strategic Technologies (TRUST)  depends on talent mobility, and limiting Indian access to work visas can weaken such initiatives. These restrictions can also shrink access to critical STEM research, potentially stalling global innovation. With China’s rapid excellence in science and technology, a stronger India-U.S. tech collaboration has never been more critical. Therefore, the relaxation of H-1B visa restrictions is paramount in order to sustain true innovation.",
-        ],
+          "Most bilateral cooperations such as the Transforming Relations Utilising Strategic Technologies (TRUST)  depends on talent mobility, and limiting Indian access to work visas can weaken such initiatives. These restrictions can also shrink access to critical STEM research, potentially stalling global innovation. With China’s rapid excellence in science and technology, a stronger India-U.S. tech collaboration has never been more critical. Therefore, the relaxation of H-1B visa restrictions is paramount in order to sustain true innovation."
+        ]
       },
       {
-        heading:
-          "7.	How has India-US geopolitical alignment shifted under Trump's second term and what strategic adjustments should India consider?",
+        heading: "7.	How has India-US geopolitical alignment shifted under Trump's second term and what strategic adjustments should India consider?",
         paragraphs: [
           "7.1. India-US in balancing China",
           "Trump claimed that his trade policy would completely eliminate US dependency on China by revoking its most favored nation trade status given his best cabinet choices and business interests India emerged as the next best alternative due to its skilled workforce and geo-economics and strategic linkage to the Indo-Pacific (Mishra et al., 2025). As China remains the world’s leading semiconductor producer with an advanced fabrication facility, India needs to leverage its own resources particularly after the recent discovery of over 5.9 million tons of lithium in Jammu and Kashmir. If harnessed successfully will strengthen India's ambition of becoming Atma Nirbhar and at the same time make it an important player in the global supply chain. ",
@@ -2877,199 +2648,148 @@ const articles = [
           "Trump has also supported the idea of attacking Iranian oil fields. Although this could be perceived as a decision aimed at escalating Israel's war on Iran, it is merely an aspect of Trump's real politic inspired isolationist policy towards the middle East aimed at terminating the Iran issue (Mishra et al., 2025) Strategic infrastructure like the Chabahar Port and the India-Middle East-Europe Economic Corridor (IMEEC) are key to India’s connectivity to Central Asia and Europe and serves as a perfect counter to China’s Belt and Road Initiative. Since the attacks on October 7 and mounting tensions between Iran and Israel seem to have cast a long shadow on the development, potentially pulling the plug on India’s connectivity aspirations. In light of all this, India must keep its engagement with the U.S. transactional, based on shared interests, not values, without surrendering its core values or sacrificing its leadership in the Global South. ",
           "7.4. The Progress India Is Making on Climate Without Global U.S. Talks",
           "There is a growing divide between the Global North and Global South on climate issues. The North developed its economies at high carbon emissions levels and now the South, and particularly countries like India, are feeling the worst effects of climate change. A recent report from the World Meteorological Organization lay bare the loss and damage already being caused by the climate crisis and its disproportionate impact on those least responsible in developing countries. In view of these challenges Global frameworks such as the Paris Agreement and Sustainable Development Goals address the imbalance and push for climate change technology transfer and climate finance from North to South to allow developing countries to achieve goals such as net zero by 2070. ",
-          "Under Trump the US disengaged with the Paris Agreement followed by the UK, Germany, Netherlands, France and Canada. Furthermore, US absence in the 2025 Bonn Climate Conference (SB62) raised concerns. Besides, finance was not even on the agenda as a topic of discussion. As per Press Information Bureau India, Coal is vital to India’s energy needs, supplying over half of the country’s power. Despite renewable energy growth, coal-based thermal power will remain essential, with its share projected at 55% by 2030 and 27% by 2047. India is moving from 70 percent coal dependence to renewable energy like solar and hydro so support from global partners is essential. Therefore, it is imperative for India to push the US to return to climate talks and fulfil promises on finance and technology. ",
-        ],
-      },
+          "Under Trump the US disengaged with the Paris Agreement followed by the UK, Germany, Netherlands, France and Canada. Furthermore, US absence in the 2025 Bonn Climate Conference (SB62) raised concerns. Besides, finance was not even on the agenda as a topic of discussion. As per Press Information Bureau India, Coal is vital to India’s energy needs, supplying over half of the country’s power. Despite renewable energy growth, coal-based thermal power will remain essential, with its share projected at 55% by 2030 and 27% by 2047. India is moving from 70 percent coal dependence to renewable energy like solar and hydro so support from global partners is essential. Therefore, it is imperative for India to push the US to return to climate talks and fulfil promises on finance and technology. "
+        ]
+      }
     ],
     conclusion: [
       "In the current context, the Indo-U.S. relationship finds itself at an inflection point - reflecting not only on the progress of this relationship but through a turbulent political climate. While collaboration in areas of trade, defence, technology, and education brought these military partners closer, new developments have uncovered a glaring vulnerability. Indian immigrants are facing a crisis in holding dual status within the state, as anti-immigration sentiments and massive layoffs might evolve into long-term policies. ",
       "Yet, no evidence suggests the relationship is on the verge of rupture. Members of the Indian diaspora, along with numerous shared interests, continue to promote the interdependence of these two nations. Given the meteoric rise of China with respect to economic, technological, and regional power, these two nations must have stronger coordination. The Trump administration requires consistency in policies and sensitivity to culture if it hopes to altercations bilateral relations healthily. ",
-      "If these bilateral and institutional partnerships keep on increasing ties between our peoples, these two countries can create mediums, provide greater innovation and research technology/science. That said, it would be important for mutual understanding of how to navigate and manage emerging temporal conflicts of interest. As similar nations, Indo-U.S. relations will endure and shape global order through policy sanctions and diplomacy. ",
+      "If these bilateral and institutional partnerships keep on increasing ties between our peoples, these two countries can create mediums, provide greater innovation and research technology/science. That said, it would be important for mutual understanding of how to navigate and manage emerging temporal conflicts of interest. As similar nations, Indo-U.S. relations will endure and shape global order through policy sanctions and diplomacy. "
     ],
     references: [
       {
-        heading:
-          "ADAJANIA, K. E. (2025, May 26). 3.5% remittance tax: Sending money from US to India to upset many. The Economic Times. ",
-        links:
-          "https://economictimes.indiatimes.com/wealth/tax/3-5-remittance-tax-sending-money-from-us-to-india%20-to-u%20set-many-heres-what-nris-can-do-to-save-tax-on-remittances/articleshow/121373583.cms?from%20=mdr",
+        heading: "ADAJANIA, K. E. (2025, May 26). 3.5% remittance tax: Sending money from US to India to upset many. The Economic Times. ",
+        links: "https://economictimes.indiatimes.com/wealth/tax/3-5-remittance-tax-sending-money-from-us-to-india%20-to-u%20set-many-heres-what-nris-can-do-to-save-tax-on-remittances/articleshow/121373583.cms?from%20=mdr",
       },
       {
-        heading:
-          "Bhattacharya, S. (2020, October–December). India-US Relations under the Biden Administration: Future through Prism of the Past. Indian Foreign Affairs Journal, 15(4), 312–319. ",
-        links: "10.32381/IFAJ.jstor.org/stable/48630196",
+        heading: "Bhattacharya, S. (2020, October–December). India-US Relations under the Biden Administration: Future through Prism of the Past. Indian Foreign Affairs Journal, 15(4), 312–319. ",
+        links: "10.32381/IFAJ.jstor.org/stable/48630196"
       },
       {
-        heading:
-          "Davies, P. (2018, October Thursday). US President Donald Trump warns of possible sanctions after India purchases a Russian missile system. euronews. ",
-        links:
-          "https://www.euronews.com/2018/10/11/trump-warns-india-after-their-purchase-of-russian-missile-system",
+        heading: "Davies, P. (2018, October Thursday). US President Donald Trump warns of possible sanctions after India purchases a Russian missile system. euronews. ",
+        links: "https://www.euronews.com/2018/10/11/trump-warns-india-after-their-purchase-of-russian-missile-system"
       },
       {
-        heading:
-          "Gattiker, C., Altermatt, S., & Tang, R. (2025, May 28). Tariffs, trade, and tensions: Analyzing the US-China deal and its implications. Julius Baer. Retrieved June 24, 2025, from ",
-        links:
-          "https://www.juliusbaer.com/en/insights/market-insights/market-outlook/tariffs-trade-and-tensions-analyzing-the-us-china-deal-and-its-implications/",
+        heading: "Gattiker, C., Altermatt, S., & Tang, R. (2025, May 28). Tariffs, trade, and tensions: Analyzing the US-China deal and its implications. Julius Baer. Retrieved June 24, 2025, from ",
+        links: "https://www.juliusbaer.com/en/insights/market-insights/market-outlook/tariffs-trade-and-tensions-analyzing-the-us-china-deal-and-its-implications/"
       },
       {
-        heading:
-          "Glennon, B. (2023, March 15). How Do Restrictions on High-Skilled Immigration Affect Offshoring? Evidence from the H-1B Program. Management Science, 70(2), 671-1342. INFORMS PubsOnline. ",
-        links: "https://doi.org/10.1287/mnsc.2023.4715",
+        heading: "Glennon, B. (2023, March 15). How Do Restrictions on High-Skilled Immigration Affect Offshoring? Evidence from the H-1B Program. Management Science, 70(2), 671-1342. INFORMS PubsOnline. ",
+        links: "https://doi.org/10.1287/mnsc.2023.4715"
       },
       {
-        heading:
-          "Graham, D. A. (2025, May 30). The TACO Presidency. The Atlantic. Retrieved June 24, 2025, from ",
-        links:
-          "https://www.theatlantic.com/newsletters/archive/2025/05/taco-donald-trump-wall-street-tariffs/682994/?",
+        heading: "Graham, D. A. (2025, May 30). The TACO Presidency. The Atlantic. Retrieved June 24, 2025, from ",
+        links: "https://www.theatlantic.com/newsletters/archive/2025/05/taco-donald-trump-wall-street-tariffs/682994/?"
       },
       {
-        heading:
-          "Kerr, W. R. (2010, July). The Supply Side of Innovation: H‐1B Visa Reforms and U.S. Ethnic Invention. Journal of Labor Economics, 28(3), 473-508. JSTOR. ",
-        links: "https://doi.org/10.1086/651934",
+        heading: "Kerr, W. R. (2010, July). The Supply Side of Innovation: H‐1B Visa Reforms and U.S. Ethnic Invention. Journal of Labor Economics, 28(3), 473-508. JSTOR. ",
+        links: "https://doi.org/10.1086/651934"
       },
       {
-        heading:
-          "Kumar, M. (2025, June 10). India and US advance toward interim trade deal after four-day talks, say sources. Reuters. Retrieved June 24, 2025, from ",
-        links:
-          "https://www.reuters.com/world/india/india-us-advance-toward-interim-trade-deal-after-four-day-talks-say-sources-2025-06-10/?",
+        heading: "Kumar, M. (2025, June 10). India and US advance toward interim trade deal after four-day talks, say sources. Reuters. Retrieved June 24, 2025, from ",
+        links: "https://www.reuters.com/world/india/india-us-advance-toward-interim-trade-deal-after-four-day-talks-say-sources-2025-06-10/?"
       },
       {
-        heading:
-          "The Loss and Damage Collaboration. (2025, June 13). What Is at Stake on Loss and Damage at the 2025 Bonn Climate Conference? The Loss and Damage Collaboration. ",
-        links:
-          "https://www.lossanddamagecollaboration.org/resources/what-is-at-stake-on-loss-and-damage-at-the-2025-bonn-climate-conference",
+        heading: "The Loss and Damage Collaboration. (2025, June 13). What Is at Stake on Loss and Damage at the 2025 Bonn Climate Conference? The Loss and Damage Collaboration. ",
+        links: "https://www.lossanddamagecollaboration.org/resources/what-is-at-stake-on-loss-and-damage-at-the-2025-bonn-climate-conference"
       },
       {
-        heading:
-          "Lowell, L. (2000). Temporary Workers and Evolution of the Specialty H-1B Visa. In Defense of the Alien, 23, 33-43. JSTOR. ",
-        links: "https://www.jstor.org/stable/23141256",
+        heading: "Lowell, L. (2000). Temporary Workers and Evolution of the Specialty H-1B Visa. In Defense of the Alien, 23, 33-43. JSTOR. ",
+        links: "https://www.jstor.org/stable/23141256"
       },
       {
-        heading:
-          "Mahapatra, C. (2020, October–December). Indo‑US Relations under the Biden Administration: Predictable Difficulties Ahead. Indian Foreign Affairs Journal, 15(4), 280–285. ",
-        links:
-          " https://www.associationdiplomats.org/Publications/ifaj/Vol15/15.4/IFAJ-15%284%29-02-CMahapatra.pdf",
+        heading: "Mahapatra, C. (2020, October–December). Indo‑US Relations under the Biden Administration: Predictable Difficulties Ahead. Indian Foreign Affairs Journal, 15(4), 280–285. ",
+        links: " https://www.associationdiplomats.org/Publications/ifaj/Vol15/15.4/IFAJ-15%284%29-02-CMahapatra.pdf"
       },
       {
-        heading:
-          "Mishra, V. (2025, February 07). The India-U.S. Story: Biden’s Legacy and Trump 2.0. Observer Research Foundation.",
-        links:
-          "https://www.orfonline.org/research/the-india-us-story-bidens-legacy-and-trump-2-0",
+        heading: "Mishra, V. (2025, February 07). The India-U.S. Story: Biden’s Legacy and Trump 2.0. Observer Research Foundation.",
+        links: "https://www.orfonline.org/research/the-india-us-story-bidens-legacy-and-trump-2-0"
       },
       {
-        heading:
-          "Naqvi, S. (2025, June 20). What the Hindu Right sees in Israel. Frontline. ",
-        links:
-          "https://frontline.thehindu.com/columns/india‑foreign‑policy‑gaza‑israel‑un‑abstention‑vishwaguru/article69707371.ece",
+        heading: "Naqvi, S. (2025, June 20). What the Hindu Right sees in Israel. Frontline. ",
+        links: "https://frontline.thehindu.com/columns/india‑foreign‑policy‑gaza‑israel‑un‑abstention‑vishwaguru/article69707371.ece"
       },
       {
-        heading:
-          "Nautiyal, A. (2020, October–December). India and the Biden Presidency. Indian Foreign Affairs Journal, 15(4), 297–303. ",
-        links:
-          "https://www.associationdiplomats.org/Publications/ifaj/Vol15/15.4/IFAJ-15%284%29-04-ANautiyal.pdf",
+        heading: "Nautiyal, A. (2020, October–December). India and the Biden Presidency. Indian Foreign Affairs Journal, 15(4), 297–303. ",
+        links: "https://www.associationdiplomats.org/Publications/ifaj/Vol15/15.4/IFAJ-15%284%29-04-ANautiyal.pdf"
       },
       {
-        heading:
-          "Nye, J. S. (2004). Soft Power: The Means To Success In World Politics. PublicAffairs.",
+        heading: "Nye, J. S. (2004). Soft Power: The Means To Success In World Politics. PublicAffairs.",
       },
       {
-        heading:
-          "Parpiani, K. (2024). Biden, Trump, and India‑US Technology Partnership. Observer Research Foundation (ORF), (No. 447), 28 pages. ",
-        links:
-          "https://www.orfonline.org/research/biden-trump-and-india-us-technology-partnership",
+        heading: "Parpiani, K. (2024). Biden, Trump, and India‑US Technology Partnership. Observer Research Foundation (ORF), (No. 447), 28 pages. ",
+        links: "https://www.orfonline.org/research/biden-trump-and-india-us-technology-partnership"
       },
       {
-        heading:
-          "Peri, G. (2025, July). STEM Workers, H-1B Visas, and Productivity in US Cities. Journal of Labor Economics, 33(S1), S225-S255. JSTOR. ",
-        links: "https://doi.org/10.1086/679061",
+        heading: "Peri, G. (2025, July). STEM Workers, H-1B Visas, and Productivity in US Cities. Journal of Labor Economics, 33(S1), S225-S255. JSTOR. ",
+        links: "https://doi.org/10.1086/679061"
       },
       {
-        heading:
-          "Prahladrao, S. (2025, April 10). India’s Power Sector: A Balancing Act Between Coal and Renewables. ARC Advisory Group. ",
-        links:
-          "https://www.arcweb.com/blog/indias-power-sector-balancing-act-between-coal-renewables",
+        heading: "Prahladrao, S. (2025, April 10). India’s Power Sector: A Balancing Act Between Coal and Renewables. ARC Advisory Group. ",
+        links: "https://www.arcweb.com/blog/indias-power-sector-balancing-act-between-coal-renewables"
       },
       {
-        heading:
-          "Rao, A. (2024, May 14). India's Trade Performance in FY 2023-24 and Strategy to Explore New Export Markets. India Briefing. Retrieved June 24, 2025, from ",
-        links:
-          "https://www.india-briefing.com/news/indias-trade-performance-fy-2023-24-exploring-new-export-markets-32612.html/?",
+        heading: "Rao, A. (2024, May 14). India's Trade Performance in FY 2023-24 and Strategy to Explore New Export Markets. India Briefing. Retrieved June 24, 2025, from ",
+        links: "https://www.india-briefing.com/news/indias-trade-performance-fy-2023-24-exploring-new-export-markets-32612.html/?"
       },
       {
-        heading:
-          "Reuters. (2025, May 23). Reuters. Retrieved June 24, 2025, from ",
-        links:
-          "https://www.reuters.com/business/autos-transportation/reaction-trumps-threat-50-tariffs-eu-goods-2025-05-23/",
+        heading: "Reuters. (2025, May 23). Reuters. Retrieved June 24, 2025, from ",
+        links: "https://www.reuters.com/business/autos-transportation/reaction-trumps-threat-50-tariffs-eu-goods-2025-05-23/"
       },
       {
-        heading:
-          "Rose, A. (2025, June 20). Attacks on Harvard by Trump administration have built for months. A timeline of the dispute. CNN. ",
-        links:
-          "https://edition.cnn.com/2025/04/26/us/harvard-university-trump-timeline",
+        heading: "Rose, A. (2025, June 20). Attacks on Harvard by Trump administration have built for months. A timeline of the dispute. CNN. ",
+        links: "https://edition.cnn.com/2025/04/26/us/harvard-university-trump-timeline"
       },
       {
-        heading:
-          "Rossow, R. M. (2024, November 12). U.S.-India under Trump 2.0: A Return to Reciprocity. CSIS. ",
-        links:
-          "https://www.csis.org/analysis/us-india-under-trump-20-return-reciprocity",
+        heading: "Rossow, R. M. (2024, November 12). U.S.-India under Trump 2.0: A Return to Reciprocity. CSIS. ",
+        links: "https://www.csis.org/analysis/us-india-under-trump-20-return-reciprocity"
       },
       {
-        heading:
-          "Saberin, Z. (2018, October 5). India signs S-400 deal with Russia sidestepping US opposition | Narendra Modi. Al Jazeera. ",
-        links:
-          "https://www.aljazeera.com/features/2018/10/5/india-signs-s-400-deal-with-russia-sidestepping-us-opposition",
+        heading: "Saberin, Z. (2018, October 5). India signs S-400 deal with Russia sidestepping US opposition | Narendra Modi. Al Jazeera. ",
+        links: "https://www.aljazeera.com/features/2018/10/5/india-signs-s-400-deal-with-russia-sidestepping-us-opposition"
       },
       {
-        heading:
-          "Sibal, K. (2021). India and the Biden Administration. National Security, IV (4)(II (2)), 105–112. Vivekananda International Foundation e-journal archive. ",
-        links:
-          "https://www.vifindia.org/sites/default/files/national-security-vol-4-issue-2-essay-KSibal.pdf",
+        heading: "Sibal, K. (2021). India and the Biden Administration. National Security, IV (4)(II (2)), 105–112. Vivekananda International Foundation e-journal archive. ",
+        links: "https://www.vifindia.org/sites/default/files/national-security-vol-4-issue-2-essay-KSibal.pdf"
       },
       {
-        heading:
-          "Siddiqui, H. (2025, January Monday). Trump 2.0: Transforming global geopolitics and fortifying India-US relations. Financial Express. Trump 2.0: Transforming global geopolitics and fortifying India-US relations TOI. (2025, May 13). Times of India. Retrieved June 24, 2025, from ",
-        links:
-          "https://timesofindia.indiatimes.com/business/india-business/indias-proposed-retaliatory-tariffs-on-us-goods-may-cast-shadow-on-trade-deal-talks/articleshow/121136032.cms?",
+        heading: "Siddiqui, H. (2025, January Monday). Trump 2.0: Transforming global geopolitics and fortifying India-US relations. Financial Express. Trump 2.0: Transforming global geopolitics and fortifying India-US relations TOI. (2025, May 13). Times of India. Retrieved June 24, 2025, from ",
+        links: "https://timesofindia.indiatimes.com/business/india-business/indias-proposed-retaliatory-tariffs-on-us-goods-may-cast-shadow-on-trade-deal-talks/articleshow/121136032.cms?"
       },
       {
         heading: "USTR. (2019, March 4). USTR. Retrieved June 24, 2025, from",
-        links:
-          "https://ustr.gov/about-us/policy-offices/press-office/press-releases/2019/march/united-states-will-terminate-gsp",
+        links: "https://ustr.gov/about-us/policy-offices/press-office/press-releases/2019/march/united-states-will-terminate-gsp"
       },
       {
-        heading:
-          "Weinstein, A. (2025, June 11). Trump Is Blowing Up Soft Power. The Nation.",
-        links:
-          "https://www.thenation.com/article/world/trump-diplomacy-power-aid-development/",
+        heading: "Weinstein, A. (2025, June 11). Trump Is Blowing Up Soft Power. The Nation.",
+        links: "https://www.thenation.com/article/world/trump-diplomacy-power-aid-development/"
       },
       {
-        heading:
-          "Wikipedia. (2025, June 24). India–United States Civil Nuclear Agreement - Wikipedia. Wikipedia. Retrieved June 28, 2025, from",
-        links:
-          "https://en.wikipedia.org/wiki/India%E2%80%93United_States_Civil_Nuclear_Agreement?",
-      },
+        heading: "Wikipedia. (2025, June 24). India–United States Civil Nuclear Agreement - Wikipedia. Wikipedia. Retrieved June 28, 2025, from",
+        links: "https://en.wikipedia.org/wiki/India%E2%80%93United_States_Civil_Nuclear_Agreement?"
+      }
     ],
   },
   {
     id: 15,
     issue: 1,
     volume: 1,
-    title:
-      "Diplomacy Beyond Diplomats: ADR and Its Promise in High-Stakes International Conflicts",
-    author:
-      "Shivanshi Mishra, Rukhsar Sayed, Joseph Stone Phiri, Shekhar Parmar",
+    title: "Diplomacy Beyond Diplomats: ADR and Its Promise in High-Stakes International Conflicts",
+    author: "Shivanshi Mishra, Rukhsar Sayed, Joseph Stone Phiri, Shekhar Parmar",
     authorAbbrev: "S. Mishra, R. Sayed and others",
     abstract: [
       "This research paper examines the evolving role of Alternative Dispute Resolution (ADR) mechanisms in navigating contemporary international conflicts that have proven resistant to traditional diplomacy and military deterrence. It brings together a diverse array of case studies—India–China–Pakistan’s territorial and hydropolitical disputes, Rwanda and the Democratic Republic of Congo’s complex legacy of genocide and regional insurgency, and the Russia–Ukraine war—situating each within the broader framework of international law, multilateral mediation, and state sovereignty.",
       "Through doctrinal analysis and comparative case study, the paper assesses how ADR instruments such as arbitration, mediation, conciliation, and community-based justice systems have been employed or evaded in these conflict zones. In South Asia, treaty-based mechanisms under the Indus Waters Treaty have functioned as rare instances of successful legal ADR, whereas bilateral stalemates in Kashmir and Sino–Indian borders reveal the structural and political resistance to third-party intervention. In Central Africa, the study explores both the grassroots justice of Rwanda’s Gacaca courts and the failure of inclusive mediation in the DRC despite multilateral efforts like the Luanda and Nairobi Processes. The Russia–Ukraine war serves as a cautionary exemplar of the collapse of international ADR frameworks when great power politics and unilateralism overtake dialogue and law.",
       "The analysis foregrounds the strengths of ADR in creating legal, depoliticized channels for negotiation, especially in high-tension environments, but also acknowledges the fragility of such frameworks in the face of asymmetrical power, nationalist rhetoric, and lack of enforcement. It critiques the underutilization of institutional ADR—such as the International Court of Justice, Permanent Court of Arbitration, and African Court on Human and Peoples’ Rights—and examines the promise of Track II diplomacy and hybrid regional processes.",
-      "Ultimately, the paper argues that ADR, when institutionally embedded and politically supported, holds transformative potential for long-term peacebuilding. Its success hinges not only on legal design, but also on the willingness of regional powers to prioritize cooperative sovereignty, the strengthening of multilateral institutions, and the integration of local actors in the resolution architecture. By treating ADR not as a diplomatic afterthought but as a core peacebuilding mechanism, the international community can reclaim space for law and justice amid an increasingly fractured global order.",
+      "Ultimately, the paper argues that ADR, when institutionally embedded and politically supported, holds transformative potential for long-term peacebuilding. Its success hinges not only on legal design, but also on the willingness of regional powers to prioritize cooperative sovereignty, the strengthening of multilateral institutions, and the integration of local actors in the resolution architecture. By treating ADR not as a diplomatic afterthought but as a core peacebuilding mechanism, the international community can reclaim space for law and justice amid an increasingly fractured global order."
     ],
     intro: [
       "In an era marked by resurgent authoritarianism, hardened borders, and shifting power alignments, the question of how to resolve conflict without violence is more urgent than ever. Conventional diplomacy and military deterrence have repeatedly failed to prevent protracted conflict across the globe, exposing the limitations of state-centric, security-first approaches to peace. In this context, Alternative Dispute Resolution (ADR), encompassing methods such as arbitration, mediation, conciliation, and community-based mechanisms, offers a compelling legal and institutional alternative. Its appeal lies not only in its adaptability and cultural flexibility, but also in its potential to de-escalate high-stakes conflicts where formal adjudication is politically unviable or diplomatically taboo.",
       "This paper explores the viability of ADR as a peacebuilding mechanism across three conflict zones that, despite differing geographies and histories, share a common thread of legal uncertainty, strategic rivalry, and contested sovereignty: South Asia, the African Great Lakes region, and Eastern Europe. In each, the limits of traditional diplomacy have left space for alternative frameworks that either have been tested in practice or remain critically underutilized. The objective is not only to assess where and how ADR has been applied, but also to interrogate the legal, political, and cultural conditions under which it can meaningfully succeed.",
       "From the community-based Gacaca courts of post-genocide Rwanda to the stalled neutral expert processes in the Indus Waters Treaty between India and Pakistan, ADR mechanisms have taken radically different institutional shapes—rooted variously in local tradition, international law, and treaty frameworks. In some cases, like Rwanda’s hybrid reconciliation courts or India–Pakistan’s use of the Permanent Court of Arbitration, ADR has facilitated dialogue and conflict management even amid political hostility. In others, such as the India–China border disputes or the ongoing Russia–Ukraine war, states have systematically avoided legal ADR mechanisms altogether—favoring unilateralism, great-power politics, or non-binding diplomacy over third-party adjudication.",
       "What emerges across these regions is a pattern of underused legal potential: where ADR is deployed, it often works within narrow technical confines; where it is avoided, it is not because of lack of relevance but because of political resistance to ceding authority to neutral forums. Sovereignty sensitivities, institutional mistrust, and fears of precedent-setting all contribute to the fragility of international ADR. And yet, the very intractability of these conflicts points to the need for neutral, rules-based dispute resolution outside the constraints of power politics.",
-      "This research thus examines how ADR has operated within these complex regional ecosystems—both formally and informally—and what legal, diplomatic, and institutional innovations might be necessary to render it a more central pillar of global peacebuilding. By drawing on treaty analysis, institutional case studies, and comparative legal scholarship, the paper aims to reimagine ADR not as a secondary alternative to statecraft, but as a legitimate, adaptable, and urgently needed mode of international conflict resolution.",
+      "This research thus examines how ADR has operated within these complex regional ecosystems—both formally and informally—and what legal, diplomatic, and institutional innovations might be necessary to render it a more central pillar of global peacebuilding. By drawing on treaty analysis, institutional case studies, and comparative legal scholarship, the paper aims to reimagine ADR not as a secondary alternative to statecraft, but as a legitimate, adaptable, and urgently needed mode of international conflict resolution."
     ],
     content: [
       {
@@ -3081,15 +2801,15 @@ const articles = [
           "South Asia provides a distinct lens through which to analyze ADR at the interstate level. The Indus Waters Treaty (IWT) between India and Pakistan, brokered by the World Bank in 1960, is often cited as a rare example of successful treaty-based ADR. Scholars such as Salman (2002) have examined the treaty’s embedded multi-tiered dispute resolution framework, including neutral expert review and Permanent Court of Arbitration (PCA) proceedings, as instrumental in de-escalating water disputes despite recurring hostilities. Yet, as India continues to reject third-party mediation in politically sensitive areas like Kashmir, ADR remains constrained by political will and strategic sovereignty concerns. The India–China conflict similarly avoids formal ADR processes, with both states opting instead for confidence-building measures and bilateral diplomatic dialogues, which lack legal enforceability. ",
           "In the Russia–Ukraine conflict, ADR mechanisms have largely been sidelined, with formal diplomacy failing to prevent full-scale war. The annexation of Crimea in 2014 and the 2022 invasion reflect a broader breakdown in international legal norms and institutions. While some scholarship highlights the role of the Minsk Agreements as a failed ADR initiative, others point to the erosion of trust in international bodies like the UN or OSCE as a critical barrier. The literature increasingly views the conflict as a case of 'lawfare'—the strategic use and manipulation of international law as a tool of war rather than peace.",
           "Finally, scholars such as Jones (2015) have emphasized the growing relevance of Track II diplomacy—informal legal dialogue among non-state actors, including academics, civil society, and former diplomats. These softer forms of ADR are seen as essential precursors to formal negotiation, particularly in deeply polarized environments. However, institutionalizing such frameworks and ensuring their uptake at the state level remain major challenges.",
-          "Taken together, the literature reveals that while ADR holds substantial promise in theory, its practical application is often impeded by power asymmetries, weak enforcement structures, and cultural divergences in conflict resolution norms. The challenge lies not merely in designing ADR mechanisms, but in fostering the political, legal, and social ecosystems in which such mechanisms can thrive.",
+          "Taken together, the literature reveals that while ADR holds substantial promise in theory, its practical application is often impeded by power asymmetries, weak enforcement structures, and cultural divergences in conflict resolution norms. The challenge lies not merely in designing ADR mechanisms, but in fostering the political, legal, and social ecosystems in which such mechanisms can thrive."
         ],
       },
       {
         heading: "Theme 1: Legal ADR in South Asia’s Nuclear Triangle",
         paragraphs: [
           "The India–Pakistan–China triangle remains one of the world’s most persistent and dangerous zones of geopolitical volatility. All three are nuclear powers with longstanding territorial and strategic disputes, minimal mutual trust, and low institutional cooperation. Despite intermittent dialogue and confidence-building measures, the region has failed to establish sustainable peace. Traditional diplomacy, limited to formal talks and military deterrence, has often escalated tensions or yielded fragile outcomes. In this context, Alternative Dispute Resolution (ADR) offers a legally structured and depoliticized pathway to conflict resolution.",
-          "ADR methods, including arbitration, mediation, and neutral expert review, function outside the constraints of formal litigation, allowing for greater flexibility, confidentiality, and preservation of state sovereignty (Lando, 2021). Particularly in high-stakes international conflicts, ADR provides structured legal mechanisms that can de-escalate tensions and avoid protracted diplomatic deadlocks. In South Asia, where political grievances intersect with issues of water sharing, territorial demarcation, and infrastructure spillover, ADR mechanisms offer underutilized, yet promising, legal routes toward stability.",
-        ],
+          "ADR methods, including arbitration, mediation, and neutral expert review, function outside the constraints of formal litigation, allowing for greater flexibility, confidentiality, and preservation of state sovereignty (Lando, 2021). Particularly in high-stakes international conflicts, ADR provides structured legal mechanisms that can de-escalate tensions and avoid protracted diplomatic deadlocks. In South Asia, where political grievances intersect with issues of water sharing, territorial demarcation, and infrastructure spillover, ADR mechanisms offer underutilized, yet promising, legal routes toward stability."
+        ]
       },
       {
         heading: "a.	Conflict Background: Disputes and Diplomatic Deadlocks",
@@ -3097,8 +2817,8 @@ const articles = [
           "India and China share a 3,488 km long undemarcated border, with territorial disputes concentrated in Aksai Chin (claimed by India but controlled by China) and Arunachal Pradesh (claimed by China). Despite bilateral agreements like the 1993 Agreement on Peace and Tranquility and the 1996 CBMs, there has been no lasting resolution. The Doklam standoff (2017) and the Galwan Valley clash (2020) revealed the ineffectiveness of existing mechanisms and the lack of trust in bilateral diplomatic channels (MEA India, 2020; Panda, 2021).",
           "China’s longstanding rejection of third-party adjudication poses a structural barrier to ADR. This posture was reaffirmed when Beijing refused to participate in the PCA’s 2016 South China Sea arbitration, reinforcing its preference for unilateral or bilateral approaches over legal internationalism (PCA, 2016).",
           "The India–Pakistan conflict centers on the status of Jammu and Kashmir, marked by insurgency and cross-border violence. The Simla Agreement (1972) stipulates bilateral resolution, but political shifts, particularly India’s revocation of Article 370 in 2019, have exacerbated tensions and challenged previous legal frameworks (Qureshi, 2020). While India resists external mediation in Kashmir, it has engaged in structured ADR through other treaty mechanisms.",
-          "One notable success is the Indus Waters Treaty (1960), which regulates the use of shared rivers and embeds a formal ADR mechanism. Article IX of the treaty provides a tiered system: disputes are first addressed by the Permanent Indus Commission (PIC), then a Neutral Expert, and if unresolved, arbitration under the Permanent Court of Arbitration (PCA). This model has endured wars and regime changes, offering a rare example of legal continuity.",
-        ],
+          "One notable success is the Indus Waters Treaty (1960), which regulates the use of shared rivers and embeds a formal ADR mechanism. Article IX of the treaty provides a tiered system: disputes are first addressed by the Permanent Indus Commission (PIC), then a Neutral Expert, and if unresolved, arbitration under the Permanent Court of Arbitration (PCA). This model has endured wars and regime changes, offering a rare example of legal continuity."
+        ]
       },
       {
         heading: "b.	ADR in Action: Case Studies and Institutional Limitations",
@@ -3109,8 +2829,8 @@ const articles = [
           "China’s resistance to adjudication extends beyond India. Its categorical rejection of the PCA’s jurisdiction in the Philippines v. China case over the South China Sea reflects a consistent opposition to legal arbitration. This refusal to accept neutral forums makes ADR nearly impossible unless mutually agreed upon in advance via treaty—a condition not currently met.",
           "The Permanent Court of Arbitration (PCA) remains the most relevant ADR forum in South Asia, especially under treaty-based mechanisms like the IWT. Its ability to function despite political tensions demonstrates the strength of embedded legal structures. However, its role is limited where no treaty exists or where parties refuse to submit to its jurisdiction.",
           "The International Court of Justice (ICJ) offers another forum, but its jurisdiction is based on mutual consent. India has expressly excluded disputes involving Commonwealth countries and national security from ICJ jurisdiction, further limiting its utility.",
-          "UNCLOS mechanisms, though available for maritime and environmental disputes, have not been invoked in the Himalayan context. Future riverine conflicts may test its applicability, particularly if transboundary environmental harm becomes legally actionable. Regional organizations like SAARC and SCO lack standing arbitration panels or dispute resolution mandates, and deep-seated inter-state distrust has stalled progress on this front.",
-        ],
+          "UNCLOS mechanisms, though available for maritime and environmental disputes, have not been invoked in the Himalayan context. Future riverine conflicts may test its applicability, particularly if transboundary environmental harm becomes legally actionable. Regional organizations like SAARC and SCO lack standing arbitration panels or dispute resolution mandates, and deep-seated inter-state distrust has stalled progress on this front."
+        ]
       },
       {
         heading: "c.	Pathways Forward: Designing a Trilateral ADR Framework",
@@ -3119,14 +2839,14 @@ const articles = [
           "Second, regional forums like SAARC or SCO should establish permanent arbitration panels, composed of legal, technical, and diplomatic experts nominated by member states. These panels should operate under transparent procedural rules, with opt-in jurisdiction for states willing to resolve disputes legally.",
           "Third, Track II legal diplomacy must be formalized. These informal expert dialogues, engaging retired judges, scholars, and ADR professionals, can serve as precursors to formal arbitration, particularly when political sensitivities make official engagement untenable. Such forums could promote cross-border legal education, collaborative research, and shared ADR training, helping build trust over time.",
           "Lastly, mechanisms such as hybrid ADR models, combining technical conciliation with optional legal escalation, could be applied to issues where political or legal standstills prevail. This phased approach balances sovereignty concerns with dispute resolution needs, especially in riverine or environmental disputes.",
-          "In conclusion, ADR's promise in South Asia is demonstrated through functional examples like the IWT but is curtailed by sovereignty concerns, lack of institutional platforms, and political resistance to third-party resolution. Addressing these challenges through legal treaties, regional mechanisms, and informal diplomacy is not merely idealistic—it is essential for preventing the next escalation in one of the world's most fragile trilateral relationships.",
-        ],
+          "In conclusion, ADR's promise in South Asia is demonstrated through functional examples like the IWT but is curtailed by sovereignty concerns, lack of institutional platforms, and political resistance to third-party resolution. Addressing these challenges through legal treaties, regional mechanisms, and informal diplomacy is not merely idealistic—it is essential for preventing the next escalation in one of the world's most fragile trilateral relationships."
+        ]
       },
       {
         heading: "Theme 2: Rwanda and Democratic Republic of Congo",
         paragraphs: [
-          "The conflict in the eastern Democratic Republic of Congo (DRC) stands as one of the most enduring and devastating crises in the modern era, rooted in a complex web of historical grievances, regional rivalries, and the global scramble for natural resources. The most recent escalation, marked by the March 23 Movement (M23)’s seizure of Goma in early 2025, cannot be viewed in isolation. It is the latest episode in a long history of violence that began in the aftermath of the 1994 Rwandan Genocide, which saw nearly one million ethnic Tutsis and moderate Hutus slaughtered by Hutu extremists. ",
-        ],
+          "The conflict in the eastern Democratic Republic of Congo (DRC) stands as one of the most enduring and devastating crises in the modern era, rooted in a complex web of historical grievances, regional rivalries, and the global scramble for natural resources. The most recent escalation, marked by the March 23 Movement (M23)’s seizure of Goma in early 2025, cannot be viewed in isolation. It is the latest episode in a long history of violence that began in the aftermath of the 1994 Rwandan Genocide, which saw nearly one million ethnic Tutsis and moderate Hutus slaughtered by Hutu extremists. "
+        ]
       },
       {
         heading: "a.	Background of the Conflict",
@@ -3134,167 +2854,137 @@ const articles = [
           "As the Rwandan Patriotic Front (RPF), led by Paul Kagame, took control in Rwanda, over a million Hutu refugees, including perpetrators of the genocide, fled into eastern Zaire, now the DRC. Their presence destabilized the region, as Tutsi minorities in Congo, particularly the Banyamulenge, felt increasingly threatened by these exiled militias. Rwanda’s subsequent military interventions in the DRC were officially justified as efforts to neutralize these extremist elements.",
           "This refugee crisis and the resulting militarization catalyzed the First Congo War (1996–1997), during which a Rwandan-backed coalition ousted the dictator Mobutu Sese Seko and installed Laurent Kabila as president. The alliance soon crumbled, leading to the Second Congo War (1998–2003), a conflict involving nine African countries and numerous armed groups. Estimates suggest that the death toll, both from direct violence and the humanitarian catastrophe it unleashed, reached upwards of six million. Although a transitional government was established in 2003 and elections were held in 2006, the eastern provinces remained plagued by instability, with various armed groups continuing to operate.",
           "Among these groups, M23 emerged as a prominent force in the early 2010s, primarily composed of Tutsi fighters claiming to defend their communities from persecution. Supported by Rwanda, according to multiple UN reports, M23’s insurgency reignited regional tensions. Though the group was temporarily defeated in 2013 through joint efforts by the Congolese army and an offensive UN peacekeeping brigade, its resurgence in the 2020s culminated in the 2025 offensive on Goma, during which hundreds to possibly thousands were killed and massive displacement ensued. Rwanda’s alleged role in supporting M23 continues to provoke diplomatic confrontation, with the DRC accusing Kigali of violating its sovereignty and facilitating violence through proxies.",
-          "At the core of this conflict lies not only ethnic and political strife but also a fierce contest over resources. The eastern DRC holds some of the world’s largest reserves of cobalt, copper, and other minerals vital to the global electronics and clean energy sectors. Over the last decade, Chinese firms—often with direct ties to Beijing—have acquired significant stakes in Congolese mining operations, displacing prior Western investments. These commercial interests are intertwined with the militarization of the region; Congolese forces have frequently been deployed to protect Chinese-operated sites, and Chinese military equipment, including drones and arms, has been used by both the Congolese government and regional actors. Reports of corruption, labor exploitation, and even child labor have marred these operations, further complicating the international community’s engagement with the DRC.",
-        ],
+          "At the core of this conflict lies not only ethnic and political strife but also a fierce contest over resources. The eastern DRC holds some of the world’s largest reserves of cobalt, copper, and other minerals vital to the global electronics and clean energy sectors. Over the last decade, Chinese firms—often with direct ties to Beijing—have acquired significant stakes in Congolese mining operations, displacing prior Western investments. These commercial interests are intertwined with the militarization of the region; Congolese forces have frequently been deployed to protect Chinese-operated sites, and Chinese military equipment, including drones and arms, has been used by both the Congolese government and regional actors. Reports of corruption, labor exploitation, and even child labor have marred these operations, further complicating the international community’s engagement with the DRC."
+        ]
       },
       {
         heading: "b.	Regional and International ADR and Mediation Efforts ",
         paragraphs: [
           "Efforts to mediate the conflict have been led by both regional and international actors. The Nairobi Process, under the East African Community (EAC), aims to foster dialogue between the Congolese government and domestic armed groups. In parallel, the Luanda Process, facilitated by Angola and operating through the International Conference on the Great Lakes Region (ICGLR), focuses on de-escalating tensions between the DRC and Rwanda. Despite diplomatic overtures and the involvement of multilateral institutions, both processes have been hampered by mutual mistrust, competing political agendas, and escalatory military developments. A humanitarian truce brokered by the United States and Angola in mid-2024 offered a brief respite but fell short of catalyzing a durable resolution.",
-          "The conflict has also entered the legal arena. In 2023, the DRC brought a case before the African Court on Human and Peoples’ Rights, accusing Rwanda of breaching international law through its support for M23 and deployment of troops on Congolese soil. Rwanda challenged the court’s jurisdiction, but as both countries are signatories to the African Charter, they are bound to respect the court’s eventual ruling. The case is being closely watched, as it could set a significant precedent for conflict resolution and interstate accountability on the continent.",
-        ],
+          "The conflict has also entered the legal arena. In 2023, the DRC brought a case before the African Court on Human and Peoples’ Rights, accusing Rwanda of breaching international law through its support for M23 and deployment of troops on Congolese soil. Rwanda challenged the court’s jurisdiction, but as both countries are signatories to the African Charter, they are bound to respect the court’s eventual ruling. The case is being closely watched, as it could set a significant precedent for conflict resolution and interstate accountability on the continent."
+        ]
       },
       {
         heading: "c.	Humanitarian Impact and Regional Spillover",
         paragraphs: [
           "The humanitarian toll continues to mount. Over seven million people are internally displaced, and more than twenty-one million require immediate assistance. The violence has devastated communities, strained regional stability, and raised alarms within the United Nations and the African Union. In recent briefings, MONUSCO, the UN’s stabilization mission in the DRC, warned that the M23 crisis risks igniting a broader regional war, especially in light of the continued presence of over 250 armed groups in the region. The Congolese government maintains that any meaningful negotiation is impossible, so long as Rwandan troops and proxy militias operate within its territory, while Rwanda insists that the DRC’s governance failures have endangered its national security and Tutsi populations.",
-          "Amid these dynamics, the African Union has underscored the need for a harmonized response. The proliferation of peace initiatives across various regional blocs has led to calls for better coordination. The AU’s quadripartite process—bringing together the EAC, ICGLR, ECCAS, and SADC—seeks to streamline these efforts and ensure coherent strategies. Additionally, discussions are underway to revitalize the 2013 Peace, Security, and Cooperation Framework for the DRC and the Region, a landmark but under-implemented agreement. Despite the overwhelming challenges, the African Union and its partners continue to emphasize that only a sustained political process, rooted in mutual respect for sovereignty and regional stability, can deliver lasting peace in the eastern DRC.",
-        ],
+          "Amid these dynamics, the African Union has underscored the need for a harmonized response. The proliferation of peace initiatives across various regional blocs has led to calls for better coordination. The AU’s quadripartite process—bringing together the EAC, ICGLR, ECCAS, and SADC—seeks to streamline these efforts and ensure coherent strategies. Additionally, discussions are underway to revitalize the 2013 Peace, Security, and Cooperation Framework for the DRC and the Region, a landmark but under-implemented agreement. Despite the overwhelming challenges, the African Union and its partners continue to emphasize that only a sustained political process, rooted in mutual respect for sovereignty and regional stability, can deliver lasting peace in the eastern DRC."
+        ]
       },
       {
         heading: "Theme 3: Russia Ukraine Conflict",
         paragraphs: [
           "The early conflict annexation of Cremia by the Russia in 2014.That sparked the international tensions and pro-Russian protest which erupted in eastern Ukraine and Russia backed these  separatist. And the naval incidents and cyber warfare also involved between these nations and the tensions has rose and it became a whole escalation invasion on February 24, 2022 , Russia invaded Ukraine and marked a significant escalation of the conflict. Why Russia invaded by Ukraine because Russia never really wanted the expansion of NATO because NATO has formed to counter the expansion of USSR after World War II.",
           "And Russia was really concerned about that Ukraine might  join NATO,  then it could be a threat to Russia’s existence. Because a major power like  USA can use its bases after taking  Ukraine in NATO , then USA’s hegemony will become dominant  and the multipolar world will soon become a unipolar world again and the situation will go beyond the hands of humanity. In between all these things, the innocents are struggling and dying. But in politics and power no one cares about the civilians because the greed of expansionist policy will never end .And it will go like this only. and just for the sake of humanity and peace every world leader will sugar-coat it’s voters .",
-          "And the same thing has done by trump also he has also promised to stop the war in Russia Ukraine after his oath ceremony . But he didn’t do so ,infect USA is  the only who’s backing Ukraine and funding Ukraine to stretch it along . That’s why this world nobody can do anything about war and peace, because it’s a cycle of creation, destruction and recreation. That’s how we all evolve. ",
-        ],
+          "And the same thing has done by trump also he has also promised to stop the war in Russia Ukraine after his oath ceremony . But he didn’t do so ,infect USA is  the only who’s backing Ukraine and funding Ukraine to stretch it along . That’s why this world nobody can do anything about war and peace, because it’s a cycle of creation, destruction and recreation. That’s how we all evolve. "
+        ]
       },
       {
         heading: "Additional Remarks",
         paragraphs: [
           "Across the modern geopolitical landscape, protracted conflicts such as those between India, China, and Pakistan; Rwanda and the Democratic Republic of Congo; and Russia and Ukraine, reflect not isolated disputes but a broader pattern of contested sovereignty, historical grievances, and shifting power dynamics. While the actors, regions, and rhetoric differ, commonalities emerge: the weaponization of ethnicity and nationalism, the manipulation of international legal norms, and the recurrent failure of mediation mechanisms to yield durable peace. The persistence of such conflicts reveals not merely the limitations of bilateral diplomacy, but the structural inertia within multilateral systems—often marred by geopolitical interests, competing alliances, and selective enforcement of international law.",
-          "In South Asia, the India-China-Pakistan triangle remains encumbered by unresolved borders, mutual mistrust, and a security-first approach that sidelines civilian agency. In Africa’s Great Lakes region, the Rwanda-DRC conflict is driven by deep ethnic fault lines and resource predation, entangled further by historical trauma and external interference. In Europe, the Russia-Ukraine war has become emblematic of power-based unilateralism in the face of collective security frameworks. These regions differ in their histories and geopolitical relevance, yet each reveals how fragile peace is when accountability is fragmented and international resolve is conditional. The lessons drawn from one theatre of conflict resonate in others—underscoring the urgent need for equitable, consistent, and context-sensitive approaches to conflict resolution and post-conflict reconstruction.",
-        ],
-      },
+          "In South Asia, the India-China-Pakistan triangle remains encumbered by unresolved borders, mutual mistrust, and a security-first approach that sidelines civilian agency. In Africa’s Great Lakes region, the Rwanda-DRC conflict is driven by deep ethnic fault lines and resource predation, entangled further by historical trauma and external interference. In Europe, the Russia-Ukraine war has become emblematic of power-based unilateralism in the face of collective security frameworks. These regions differ in their histories and geopolitical relevance, yet each reveals how fragile peace is when accountability is fragmented and international resolve is conditional. The lessons drawn from one theatre of conflict resonate in others—underscoring the urgent need for equitable, consistent, and context-sensitive approaches to conflict resolution and post-conflict reconstruction."
+        ]
+      }
     ],
     conclusion: [
       "The multiplicity of modern conflicts, whether in Eastern Europe, Sub-Saharan Africa, or South Asia, signals a deep crisis in the global order’s ability to prevent violence, uphold sovereignty, and ensure justice. Despite the presence of regional organizations, international courts, and bilateral forums, enduring peace remains elusive where power politics override legal commitments and political expediency eclipses moral responsibility. The failures of mediation in the DRC, the stalemates in Kashmir and Ladakh, and the breakdown of deterrence in Ukraine all reflect a disconcerting erosion of collective security principles.",
-      "Yet these crises also present an opportunity: to reevaluate peacebuilding as more than just ceasefires and border negotiations. Sustainable peace must include transitional justice, historical truth-telling, economic equity, and the centering of local voices in policymaking. International mechanisms, whether the African Court on Human and Peoples' Rights, the United Nations Security Council, or regional summits, must act not as reactive platforms but as proactive guarantors of international norms. Ultimately, peace cannot survive where impunity flourishes. Whether in Kinshasa, Kyiv, Srinagar, or Sikkim, the only enduring antidote to conflict lies in inclusive diplomacy, institutional integrity, and the unwavering political will to prioritize people over power.",
+      "Yet these crises also present an opportunity: to reevaluate peacebuilding as more than just ceasefires and border negotiations. Sustainable peace must include transitional justice, historical truth-telling, economic equity, and the centering of local voices in policymaking. International mechanisms, whether the African Court on Human and Peoples' Rights, the United Nations Security Council, or regional summits, must act not as reactive platforms but as proactive guarantors of international norms. Ultimately, peace cannot survive where impunity flourishes. Whether in Kinshasa, Kyiv, Srinagar, or Sikkim, the only enduring antidote to conflict lies in inclusive diplomacy, institutional integrity, and the unwavering political will to prioritize people over power."
     ],
     references: [
       {
-        heading:
-          "Amani Africa. (2024, July 14). Briefing on mediation and reconciliation in conflict resolution in the Eastern Democratic Republic of Congo. ",
-        links:
-          "https://amaniafrica-et.org/brief-on-mediation-and-reconciliation-in-conflict-resolution-in-the-eastern-democratic-republic-of-congo/",
+        heading: "Amani Africa. (2024, July 14). Briefing on mediation and reconciliation in conflict resolution in the Eastern Democratic Republic of Congo. ",
+        links: "https://amaniafrica-et.org/brief-on-mediation-and-reconciliation-in-conflict-resolution-in-the-eastern-democratic-republic-of-congo/"
       },
       {
-        heading:
-          "Autesserre, S. (2010). The trouble with the Congo: Local violence and the failure of international peacebuilding. Cambridge University Press.",
+        heading: "Autesserre, S. (2010). The trouble with the Congo: Local violence and the failure of international peacebuilding. Cambridge University Press."
       },
       {
-        heading:
-          "Clark, P. (2010). The Gacaca courts, post-genocide justice and reconciliation in Rwanda: Justice without lawyers. Cambridge University Press.",
+        heading: "Clark, P. (2010). The Gacaca courts, post-genocide justice and reconciliation in Rwanda: Justice without lawyers. Cambridge University Press."
       },
       {
-        heading:
-          "Council on Foreign Relations. (2025, June 9). Conflict in the Democratic Republic of Congo. Global Conflict Tracker. ",
-        links:
-          "https://www.cfr.org/global-conflict-tracker/conflict/violence-democratic-republic-congo",
+        heading: "Council on Foreign Relations. (2025, June 9). Conflict in the Democratic Republic of Congo. Global Conflict Tracker. ",
+        links: "https://www.cfr.org/global-conflict-tracker/conflict/violence-democratic-republic-congo"
       },
       {
-        heading:
-          "Daza-Clark, A.M. (2021). Dispute Settlement Mechanisms in Transboundary Water Conflicts. ",
+        heading: "Daza-Clark, A.M. (2021). Dispute Settlement Mechanisms in Transboundary Water Conflicts. "
       },
       {
-        heading:
-          "Hill, D. (2006). The politics of water in South Asia. Transforming Cultures eJournal, 1(2).",
-        links: "https://doi.org/10.5130/tfc.v1i2.255",
+        heading: "Hill, D. (2006). The politics of water in South Asia. Transforming Cultures eJournal, 1(2).",
+        links: "https://doi.org/10.5130/tfc.v1i2.255"
       },
       {
-        heading:
-          "International Alert (2022). Peacebuilding with the people: Addressing the local dimensions of violence and conflict in the DRC. ",
-        links:
-          "https://www.international-alert.org/app/uploads/2022/08/DRC-Great-Lakes-Situation-Brief-EN-2022.pdf",
+        heading: "International Alert (2022). Peacebuilding with the people: Addressing the local dimensions of violence and conflict in the DRC. ",
+        links: "https://www.international-alert.org/app/uploads/2022/08/DRC-Great-Lakes-Situation-Brief-EN-2022.pdf"
       },
       {
-        heading:
-          "Jacob, H., & Jones, P. (2016). [Review of Track Two Diplomacy: In Theory and Practice]. St Antony’s International Review, 11(2), 163–167.",
-        links: "https://www.jstor.org/stable/26229153",
+        heading: "Jacob, H., & Jones, P. (2016). [Review of Track Two Diplomacy: In Theory and Practice]. St Antony’s International Review, 11(2), 163–167.",
+        links: "https://www.jstor.org/stable/26229153"
       },
       {
-        heading:
-          "Jones, P. (2015). Track Two Diplomacy in Theory and Practice. Redwood City: Stanford University Press.",
-        links: "https://doi.org/10.1515/9780804796323.",
+        heading: "Jones, P. (2015). Track Two Diplomacy in Theory and Practice. Redwood City: Stanford University Press.",
+        links: "https://doi.org/10.1515/9780804796323."
       },
       {
-        heading:
-          "Lando, M. (2016). The advisory jurisdiction of the International Tribunal for the Law of the Sea: Comments on the Request for an advisory Opinion submitted by the Sub-Regional Fisheries Commission. Leiden Journal of International Law, 29(2), 441–461.",
-        links: "https://doi.org/10.1017/s0922156516000091",
+        heading: "Lando, M. (2016). The advisory jurisdiction of the International Tribunal for the Law of the Sea: Comments on the Request for an advisory Opinion submitted by the Sub-Regional Fisheries Commission. Leiden Journal of International Law, 29(2), 441–461.",
+        links: "https://doi.org/10.1017/s0922156516000091"
       },
       {
-        heading:
-          "Lone, F.N. (2023). Report on Sino–Indian Border Disputes: International Law and International Relations Perspectives. Chinese Journal of Comparative Law.",
+        heading: "Lone, F.N. (2023). Report on Sino–Indian Border Disputes: International Law and International Relations Perspectives. Chinese Journal of Comparative Law.",
       },
       {
-        heading:
-          "Malat, J., & Malat, J. (2023, September 11). Does Article IX of the Indus Water Treaty Constitute a Multi-Tiered Arbitration Clause? Cambridge Core Blog.",
-        links:
-          "https://www.cambridge.org/core/blog/2023/09/12/does-article-ix-of-the-indus-water-treaty-constitute-a-multi-tiered-arbitration-clause-reflecting-on-the-permanent-court-of-arbitrations-award-on-the-competence-of-the-court-in-the-indus-wat/",
+        heading: "Malat, J., & Malat, J. (2023, September 11). Does Article IX of the Indus Water Treaty Constitute a Multi-Tiered Arbitration Clause? Cambridge Core Blog.",
+        links: "https://www.cambridge.org/core/blog/2023/09/12/does-article-ix-of-the-indus-water-treaty-constitute-a-multi-tiered-arbitration-clause-reflecting-on-the-permanent-court-of-arbitrations-award-on-the-competence-of-the-court-in-the-indus-wat/"
       },
       {
-        heading:
-          "Meshel, T. (2016). The evolution of interstate arbitration and the peaceful resolution of transboundary freshwater disputes. J. Disp. Resol. PDF",
+        heading: "Meshel, T. (2016). The evolution of interstate arbitration and the peaceful resolution of transboundary freshwater disputes. J. Disp. Resol. PDF"
       },
       {
-        heading:
-          "Moussa, J. (2015). Implications of the Indus Water Kishenganga Arbitration for the International Law of Watercourses and the Environment. The International and Comparative Law Quarterly, 64(3), 697–715.",
-        links: "http://www.jstor.org/stable/24760849",
+        heading: "Moussa, J. (2015). Implications of the Indus Water Kishenganga Arbitration for the International Law of Watercourses and the Environment. The International and Comparative Law Quarterly, 64(3), 697–715.",
+        links: "http://www.jstor.org/stable/24760849"
       },
       {
-        heading:
-          "Qureshi, W.A. (2018). Dispute resolution mechanisms: an analysis of the Indus Waters Treaty. Pepp. Disp. Resol. LJ, 18. HeinOnline",
+        heading: "Qureshi, W.A. (2018). Dispute resolution mechanisms: an analysis of the Indus Waters Treaty. Pepp. Disp. Resol. LJ, 18. HeinOnline"
       },
       {
-        heading:
-          "Salman, S. M. A., & Uprety, K. (2002). Conflict and cooperation on South Asia’s international rivers: A legal perspective. World Bank.",
-        links:
-          "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/274801632729540058/",
+        heading: "Salman, S. M. A., & Uprety, K. (2002). Conflict and cooperation on South Asia’s international rivers: A legal perspective. World Bank.",
+        links: "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/274801632729540058/"
       },
       {
-        heading:
-          "Trivedi, A. (2017, July 22). ICJ Jurisdiction on bilateral issues: Possibilities regarding Jammu and Kashmir dispute. Modern Diplomacy.",
-        links:
-          "https://moderndiplomacy.eu/2017/07/22/icj-jurisdiction-on-bilateral-issues-possibilities-regarding-jammu-and-kashmir-dispute/",
+        heading: "Trivedi, A. (2017, July 22). ICJ Jurisdiction on bilateral issues: Possibilities regarding Jammu and Kashmir dispute. Modern Diplomacy.",
+        links: "https://moderndiplomacy.eu/2017/07/22/icj-jurisdiction-on-bilateral-issues-possibilities-regarding-jammu-and-kashmir-dispute/"
       },
       {
-        heading:
-          "Uprety, K. (2015). The Kishenganga Arbitration: Reviving the Indus Treaty and managing transboundary hydropolitics. Chinese Journal of International Law, 14(3), 497–543.",
-        links: "https://doi.org/10.1093/chinesejil/jmv029",
+        heading: "Uprety, K. (2015). The Kishenganga Arbitration: Reviving the Indus Treaty and managing transboundary hydropolitics. Chinese Journal of International Law, 14(3), 497–543.",
+        links: "https://doi.org/10.1093/chinesejil/jmv029"
       },
       {
-        heading:
-          "Viljoen, F. (2024, March 25). DRC vs Rwanda at the African Court: Why it could be a decisive moment for human rights and justice on the continent. Democracy in Africa.",
-        links:
-          "https://democracyinafrica.org/drc-vs-rwanda-at-the-african-court-why-it-could-be-a-decisive-moment-for-human-rights-and-justice-on-the-continent/",
+        heading: "Viljoen, F. (2024, March 25). DRC vs Rwanda at the African Court: Why it could be a decisive moment for human rights and justice on the continent. Democracy in Africa.",
+        links: "https://democracyinafrica.org/drc-vs-rwanda-at-the-african-court-why-it-could-be-a-decisive-moment-for-human-rights-and-justice-on-the-continent/"
       },
       {
-        heading:
-          "Yılmaz, M. E. (2004). Track-two diplomacy as a resolution approach to international and inter-societal conflicts. Dokuz Eylül Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, 6(2), 118–135.",
-        links: "https://www.researchgate.net/publication/237444353",
+        heading: "Yılmaz, M. E. (2004). Track-two diplomacy as a resolution approach to international and inter-societal conflicts. Dokuz Eylül Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, 6(2), 118–135.",
+        links: "https://www.researchgate.net/publication/237444353"
       },
       {
-        heading:
-          "Zimmer, M. B. (2014). Rwanda’s Gacaca courts: An innovative experiment in the post-genocide pursuit of criminal justice. International Journal for Court Administration, 6(2), 1–9.",
-        links: "https://doi.org/10.18352/ijca.100",
-      },
-    ],
+        heading: "Zimmer, M. B. (2014). Rwanda’s Gacaca courts: An innovative experiment in the post-genocide pursuit of criminal justice. International Journal for Court Administration, 6(2), 1–9.",
+        links: "https://doi.org/10.18352/ijca.100"
+      }
+    ]
   },
   {
     id: 16,
     issue: 1,
     volume: 1,
-    title:
-      "From Gram Sabha To Echo Swaraj: Decentralized Environmental Governance Through PRIs and Community Initiatives in South India",
+    title: "From Gram Sabha To Echo Swaraj: Decentralized Environmental Governance Through PRIs and Community Initiatives in South India",
     author: "Diganta Singha Roy, Devanshi Shrotriya, and Arunima Singh",
     authorAbbrev: "D. S. Roy, D. Shroytiya, and others",
-    abstract:
-      "This article explores the concept of Eco Swaraj, a decentralized, community-led model of environmental governance rooted in sustainability, equity, and participatory democracy. Focusing on South India, the study examines how Panchayati Raj Institutions (PRIs) and local initiatives have implemented Eco Swaraj principles to address ecological challenges. It highlights key policies like the 73rd Constitutional Amendment, Forest Rights Act, and Green India Mission, alongside grassroots success stories such as Kerala's Kudumbashree and Tamil Nadu's water conservation projects. The analysis identifies gaps in implementation, including structural inequalities and capacity deficits, while proposing policy recommendations to strengthen local governance, integrate traditional knowledge, and foster inclusive ecological stewardship. The article underscores the potential of Eco Swaraj to reconcile environmental sustainability with democratic participation, offering a pathway for resilient and equitable development.",
+    abstract: "This article explores the concept of Eco Swaraj, a decentralized, community-led model of environmental governance rooted in sustainability, equity, and participatory democracy. Focusing on South India, the study examines how Panchayati Raj Institutions (PRIs) and local initiatives have implemented Eco Swaraj principles to address ecological challenges. It highlights key policies like the 73rd Constitutional Amendment, Forest Rights Act, and Green India Mission, alongside grassroots success stories such as Kerala's Kudumbashree and Tamil Nadu's water conservation projects. The analysis identifies gaps in implementation, including structural inequalities and capacity deficits, while proposing policy recommendations to strengthen local governance, integrate traditional knowledge, and foster inclusive ecological stewardship. The article underscores the potential of Eco Swaraj to reconcile environmental sustainability with democratic participation, offering a pathway for resilient and equitable development.",
     intro: [
       "Across the world, 'ordinary' people are mounting extraordinary responses to the escalating ecological crises. Communities are extending alternatives to the paradigm of ‘development.’ One such alternative is India’s eco-swaraj movement—a decentralized, community-led model of EG and self-reliance. Eco-Swaraj offers a counter-narrative rooted in sustainability, equity, and participatory democracy.  Eco Swaraj, derived from the Gandhian principle of Swaraj, reinterprets environmental governance by emphasizing ecological sustainability rooted in community autonomy.  The term is used by Kothari to describe  hundreds of initiatives across India that are fighting destructive development. ",
       "In India, Eco Swaraj aligns closely with the goals of the 73rd Amendment, which institutionalized PRIs as vehicles of decentralized governance. Through this institutional framework, the MoRD  has been highly successful in states such as Kerala, Karnataka, etc., where it has been able to set up task forces. ",
       "Rethinking EG via the lens of eco-swaraj is increasingly relevant in South India, where rural populations are deeply dependent on local natural resources. In particular, these states have demonstrated notable progress by transferring significant powers in nature conservation to local governments through the PRIs. The region offers striking instances of how grassroots innovation, decentralized governance, and environmental justice converge, rooted in participatory ideals and reinforced by best practices. ",
-      "This article  explores the philosophical roots and analyzes related policies, initiatives and case studies of Eco- Swaraj in South India through PRIs, assessing both successes and challenges. The study offers actionable insights and policy pathways that could pave the way toward a more equitable and environmentally resilient future.",
+      "This article  explores the philosophical roots and analyzes related policies, initiatives and case studies of Eco- Swaraj in South India through PRIs, assessing both successes and challenges. The study offers actionable insights and policy pathways that could pave the way toward a more equitable and environmentally resilient future."
     ],
     content: [
       {
@@ -3307,18 +2997,18 @@ const articles = [
           "Lele and Menon (2014) highlight that decentralization doesn’t  automatically result in better environmental outcomes.  Kashwan et al. show that EG works better with strong institutions and capacity building. Recent studies link decentralized governance with climate resilience  also highlighting PRIs’ limits in ensuring ecological justice.",
           "There is a lacuna in region-specific studies on institutional mechanisms advancing Eco Swaraj in South India. Though articles and documentaries exist, current literature overlooks how ideals translate into practice in specific contexts.",
           "Community  involvement is restricted by EG’s  disregard for structural injustices, such as caste, gender, class, religion, etc (Agrawal & Gibson, 1999).  Dalit and Adivasi populations are marginalized by government programs, promoting inclusion (Dasgupta, 2019). Standardized methods ignore regional beliefs, hindering support.",
-          "Language, procedural, and digital barriers limit rural access to legal tools like CPGRAMS. There is a lack of interdisciplinary frameworks, assessing ecological outcomes and democratic participation. Our research addresses this gap by examining how Eco Swaraj is practically implemented through PRIs in South India. ",
-        ],
+          "Language, procedural, and digital barriers limit rural access to legal tools like CPGRAMS. There is a lack of interdisciplinary frameworks, assessing ecological outcomes and democratic participation. Our research addresses this gap by examining how Eco Swaraj is practically implemented through PRIs in South India. "
+        ]
       },
       {
         heading: "POLICY AND LEGAL FRAMEWORK",
         paragraphs: [
           "A good policy is based on evidence, guided by principles, and implemented through institutions. In the context of environmental decentralization in India, this triad manifests through a diverse array of local and state institutions operationalized through PRIs. There is a widely shared belief in the potential of decentralization to lead to more efficient, responsive and accountable government, provided that appropriate powers and sufficient funds are devolved and that resources and responsibilities of local governments are made to match . This is critical to actualizing the principles of Eco‑Swaraj. The current policies on Eco Swaraj reflect a shift toward rights-based and ecosystem-sensitive governance.",
-          "73rd CAA (1992)  laid the constitutional groundwork for participatory planning and environmental decision-making.  The term Panchayati Raj signifies the system of rural local self -government.  The evolution of Panchayati Raj in India was shaped by key committees. The Balwant Rai Mehta Committee (1957) proposed a three-tier Panchayati Raj system with genuine devolution.   The G.V.K. Rao Committee (1985) emphasized district-level planning and stronger Zila Parishads.  The V.N. Gadgil Committee (1988) called for constitutional status and fiscal powers for PRIs. These ideas finally led to the 73rd Amendment (1993), which institutionalized democratic decentralization—paving the way for Eco Swaraj and EG. The features of this act have pioneered democratic decentralization, which can be regarded as a step towards “Eco- Swaraj” and “environmental decentralization”.",
-        ],
+          "73rd CAA (1992)  laid the constitutional groundwork for participatory planning and environmental decision-making.  The term Panchayati Raj signifies the system of rural local self -government.  The evolution of Panchayati Raj in India was shaped by key committees. The Balwant Rai Mehta Committee (1957) proposed a three-tier Panchayati Raj system with genuine devolution.   The G.V.K. Rao Committee (1985) emphasized district-level planning and stronger Zila Parishads.  The V.N. Gadgil Committee (1988) called for constitutional status and fiscal powers for PRIs. These ideas finally led to the 73rd Amendment (1993), which institutionalized democratic decentralization—paving the way for Eco Swaraj and EG. The features of this act have pioneered democratic decentralization, which can be regarded as a step towards “Eco- Swaraj” and “environmental decentralization”."
+        ]
       },
       {
-        heading: "Study teams and committees on Panchayati Raj:",
+        heading: "Study teams and committees on Panchayati Raj:"
       },
       {
         heading: "CHAIRMAN | NAME OF STUDY TEAM/COMMITTEE",
@@ -3335,8 +3025,8 @@ const articles = [
           "G. Ramachandran | Committee on Panchayati Raj Training Centres (1966).",
           "V.Ramanathan | Study Team on the Involvement of Community Development Agency and Panchayati Raj Institutions in the Implementation of Basic Land Reform Measures (1969).",
           "N. Ramakrishnayya | Working Group for Formulation of Fifth Five Year Plan on Community Development and Panchayati Raj (1972).",
-          "Smt. Daya Choubey | Committee on Community Development and Panchayati Raj (1976).",
-        ],
+          "Smt. Daya Choubey | Committee on Community Development and Panchayati Raj (1976)."
+        ]
       },
       {
         heading: "",
@@ -3347,15 +3037,14 @@ const articles = [
           "The central government, through the MOEFCC and the CPCB, is responsible for planning and formulating national policies and standards. The implementation and enforcement are decentralised and are the responsibility of the SPCB. In 2010, the MoRD along with the MoEF came up with a new initiative under which The JFM Committees in scheduled areas of nine states were agreed to be shifted to the authority of the Panchayats. WPA, 1972 mandates that issues like declaration and relocation of sanctuaries, etc. should be carried out after discussion with the Panchayats. ",
           "In  Kerala PPC was launched,  decentralizing  planning authority to Panchayats. Early successes included watershed development, participatory waste management, conservation through local groups like Kudumbashree and the Haritha Keralam initiative. Through the Tamil Nadu State Environmental Policy 2017 PRIs' role in local environmental management was recognized.  Karnataka Panchayati Raj Act 1993 includes provisions for natural resource management- the  state's Bhoomi land records system facilitates transparent environmental clearance. The Kerala Panchayati Raj Act 1994 establishes environmental protection as a core function of local self-government institutions. Andhra Pradesh and Telangana have developed institutional mechanisms for watershed management and climate resilience and Telangana has  introduced  innovative digital governance approaches. ",
           "Despite a strong legal framework, implementation remains weak due to structural challenges being marred by fragmented authority, weak institutional capacities, and limited access to reliable local data. PRIs often face capacity deficits, lacking trained personnel, inadequate fiscal devolution, bureaucratic silos and overlapping jurisdictions resulting in frequent conflicts- undermining coordination.The issue is gaining relevance as environmental activists and NGOs are fighting for greater autonomy and decentralization on environmental issues to the States and Panchayat Raj Institutions. ",
-          "Using these policy and legal frameworks—as well as complementary private and community-led initiatives—Eco Swaraj has taken root in South India, manifesting through a range of successful localized initiatives by communities and private entities.  ",
-        ],
+          "Using these policy and legal frameworks—as well as complementary private and community-led initiatives—Eco Swaraj has taken root in South India, manifesting through a range of successful localized initiatives by communities and private entities.  "
+        ]
       },
       {
-        heading:
-          "KEY INITIATIVES: A Step towards Participatory Environmental Development.",
+        heading: "KEY INITIATIVES: A Step towards Participatory Environmental Development.",
         paragraphs: [
-          "'The greatest threat to our planet is the belief that someone else will save it.'- Mahatma Gandhi. The above statement highlights the need for a collaborative and participatory approach to fight against environmental degradation. In the post LPG (Appendix A) period concerns regarding environmental degradation have gained a significant surge, to address these concerns several government initiatives have been implemented.",
-        ],
+          "'The greatest threat to our planet is the belief that someone else will save it.'- Mahatma Gandhi. The above statement highlights the need for a collaborative and participatory approach to fight against environmental degradation. In the post LPG (Appendix A) period concerns regarding environmental degradation have gained a significant surge, to address these concerns several government initiatives have been implemented."
+        ]
       },
       {
         heading: "- KEY INITIATIVES ",
@@ -3390,81 +3079,80 @@ const articles = [
           "2.	IoT Devices-The Internet of Things technology is used in agriculture to monitor and control various aspects of farming such as irrigation systems, livestock tracking and environmental conditions.",
           "3.	Waste-to-energy technologies- Biomethanation utilizes organic waste to produce biogas, which can be used to generate power, Gasification converts waste into synthetic gas which can be used to generate electricity. Production of biodegradable plastics and plastic recycling innovations addresses the growing threat of plastic wastes. ",
           "4.	e-Gram Swaraj portals and mobile monitoring apps- The mobile monitoring apps with the e-gram swaraj portals enabled the PRIs to monitor environmental assets and implementation progress.",
-          "5.	Kerala’s Haritha Keralam Mission is a notable example of technology enabled decentralized environment planning. ",
-        ],
+          "5.	Kerala’s Haritha Keralam Mission is a notable example of technology enabled decentralized environment planning. "
+        ]
       },
       {
-        heading:
-          "ECHOES OF ECO- SWARAJ: STORIES OF RURAL RESILIENCE AND ECOLOGICAL RENEWAL",
+        heading: "ECHOES OF ECO- SWARAJ: STORIES OF RURAL RESILIENCE AND ECOLOGICAL RENEWAL",
         paragraphs: [
-          "We scrutinize Eco-Swaraj as a framework for sustainable living through case studies from Kerala, Tamil Nadu, Karnataka, Andhra Pradesh, and Puducherry, highlighting how community participation, TEK and innovative governance address key environmental issues.",
-        ],
+          "We scrutinize Eco-Swaraj as a framework for sustainable living through case studies from Kerala, Tamil Nadu, Karnataka, Andhra Pradesh, and Puducherry, highlighting how community participation, TEK and innovative governance address key environmental issues."
+        ]
       },
       {
         heading: "- KERALA",
         paragraphs: [
           "Long before the Internet era, the Silent Valley movement in Palakkad saved a pristine forest from a hydroelectric project  demonstrating the power of people's action. River Research Centre in Thrissur empowers indigenous tribal women through forest-based enterprises like beeswax processing, seed jewellery, etc.  Kudumbashree [25 years] has made its mark in large-scale organic farming, sustainable vegetable cultivation, greening campaigns like “Women for Trees”, community waste management, public sanitation facilities (with Haritha Keralam Mission) etc. Under MGNREGA, women have restored the Gayathripuzha river in areas like Pallassena and Polpully, while panchayats like Kuruvai and Attappady promote sustainable farming. ",
           "ATREE’s Vembanad conservation centre empowers rural women, focusing on upcycling invasive water hyacinths. Initiatives like Jalapaadom, lake protection forums, waste management, sustainable menstruation practices are key efforts. In Muhamma, panchayat collaboration has driven a project to make it India’s first synthetic pad-free village.  The organic compost pits  across Alappuzha have set an international example of municipal solid waste management. ",
-          "At Meenangadi panchayat initiatives like tree banking, planting of bamboo trees, rejuvenation of existing water bodies, implementation of energy efficient measures, etc were introduced  [Carbon Neutral Meenangadi]. Kerala is the first state to complete the preparation of PBRs.  ",
-        ],
+          "At Meenangadi panchayat initiatives like tree banking, planting of bamboo trees, rejuvenation of existing water bodies, implementation of energy efficient measures, etc were introduced  [Carbon Neutral Meenangadi]. Kerala is the first state to complete the preparation of PBRs.  "
+        ]
       },
       {
         heading: "- TAMIL NADU",
         paragraphs: [
           "In Dharmapuri, a project has improved groundwater levels, enhanced soil and biodiversity,  boosted farmer incomes through non-timber forest produce.  Mannivakkam became a zero garbage village with the establishment of a micro compost yard, ensuring complete source segregation of wastes, managing both solid and liquid waste.  Villages like Ayyalur have achieved complete waste segregation and processing through community participation.",
           "In Vellore, local women under MGNREGA  organized themselves to clean the riverbed of a dried-up local river, constructing small check dams to  restore the natural flow of water.  Research on Eastern Tamil Nadu's fishing and farming communities details strategies like mangrove restoration, elevated housing, and diversifying livelihoods to cope with sea-level rise and cyclones.  The SST has desilted 276 irrigation tanks,  rejuvenated forest waterholes, helped  mitigate human-animal conflict, reduced forest fires and ensured strong community participation benefiting 1.6 million people across 2,500 villages.",
-          "R. Elango [former Panchayat President, Kuthambakkam] intiated a range of sustainable practices, including eco-friendly housing, revival of traditional water bodies, promotion of organic farming,  environmental education, etc.",
-        ],
+          "R. Elango [former Panchayat President, Kuthambakkam] intiated a range of sustainable practices, including eco-friendly housing, revival of traditional water bodies, promotion of organic farming,  environmental education, etc."
+        ]
       },
       {
         heading: "- KARNATAKA",
         paragraphs: [
           "In Male Mahadeshwara Hills, ATREE works with Soliga and Bedagampana communities to promote forest restoration, sustainable use of non-timber forest products and control of invasive species [Lantana camara].",
           "Amasebailu village [Udupi district] stands out as Karnataka’s first fully solar-powered panchayat, where this model has improved education, livelihoods, and social inclusion in a once Naxal-affected region. ",
-          "Initiatives like Sujala Watershed Program have transformed nearly 500,000 hectares across more than 1,200 villages.   Panchayats in Sirsi region with support from NGOs like Prakruti and Vanasamrakshana Samitis, promoted conservation-based areca nut agroforestry with forest buffer zone protection, boosting farmer incomes. ",
-        ],
+          "Initiatives like Sujala Watershed Program have transformed nearly 500,000 hectares across more than 1,200 villages.   Panchayats in Sirsi region with support from NGOs like Prakruti and Vanasamrakshana Samitis, promoted conservation-based areca nut agroforestry with forest buffer zone protection, boosting farmer incomes. "
+        ]
       },
       {
         heading: "- ANDHRA PRADESH",
         paragraphs: [
           "RySS has empowered  farmers to adopt agroecological and chemical-free practices and has  fostered local leadership, boosts yields, cuts emissions, and to build climate resilience. Snake Speek, led by 15-year-old Sampath in Andhra Pradesh, educates rural communities about the ecological importance of snakes and personifies “people and nature together.” ",
-          " “Ananta Niru Sanrakshanam” in Anantapur  has revived degraded water bodies with the help of traditional Vadde stone workers- reviving  local craftsmanship and generating rural employment. ",
-        ],
+          " “Ananta Niru Sanrakshanam” in Anantapur  has revived degraded water bodies with the help of traditional Vadde stone workers- reviving  local craftsmanship and generating rural employment. "
+        ]
       },
       {
         heading: "- TELANGANA",
         paragraphs: [
           "In Sangareddy, the women-led DDS has revived indigenous crops, restored over 1,000 acres of land, planted a million trees, and preserved 80+ traditional seed varieties through community-managed seed banks. ",
-          "In Medak, Lambada communities use CFR governance via JFMCs and panchayats to regenerate forests, harvest NTFPs sustainably, and collaborate  with the Forest Department and NGOs.",
-        ],
+          "In Medak, Lambada communities use CFR governance via JFMCs and panchayats to regenerate forests, harvest NTFPs sustainably, and collaborate  with the Forest Department and NGOs."
+        ]
       },
       {
         heading: "- PUDUCHERRY",
         paragraphs: [
           "A startup Faborg has done sustainable innovation with Calotropis gigantea, developing “Vegan Wool”, Arka- an organic insect repellent /soil nutrient,  used on over 6,000 acres in Tamil Nadu and revives traditional rice cultivation methods where Calotropis was used as mulch. ",
-          "Puducherry’s Jal Swaraj initiative transformed neglected or encroached ponds into clean, biodiversity-rich, water-retentive ecosystems through community-driven efforts. ",
-        ],
+          "Puducherry’s Jal Swaraj initiative transformed neglected or encroached ponds into clean, biodiversity-rich, water-retentive ecosystems through community-driven efforts. "
+        ]
       },
       {
         heading: "CRITICAL ANALYSIS AND THE WAY FORWARD",
         paragraphs: [
-          "South Indian conservation strategies give greater importance to state authority, sacrificing local initiative.  Despite sharing an ideological stance with eco-swaraj, CBC models encounter difficulties in their application.  Equal participation is hindered by internal social hierarchies, gender-based exclusions, and NGOs' financial vulnerabilities.  Despite being recognized, TEK  is still not sufficiently incorporated into official conservation planning. This section aims to highlight these gaps and extend some policy recommendations to address and rectify these gaps",
-        ],
+          "South Indian conservation strategies give greater importance to state authority, sacrificing local initiative.  Despite sharing an ideological stance with eco-swaraj, CBC models encounter difficulties in their application.  Equal participation is hindered by internal social hierarchies, gender-based exclusions, and NGOs' financial vulnerabilities.  Despite being recognized, TEK  is still not sufficiently incorporated into official conservation planning. This section aims to highlight these gaps and extend some policy recommendations to address and rectify these gaps"
+        ]
       },
       {
         heading: "- VERNMENT INITIATIVES AND THEIR LIMITATIONS",
         paragraphs: [
           "Numerous government programs highlight the gap between sustainability and infrastructure provision. The MGNREGS has improved conservation efforts but encounters issues with conflicted ownership of produced assets, scarce funds, and delayed wage payments. Rural sanitation initiatives like SBM-G prioritize the development of toilets, ignoring behavioural change, hampered by caste standards, notions of purity, and dereliction.",
-          " Although they encourage access to clean energy, DRE projects are limited by high capital costs, lack of regulations and livelihood convergence to match supply . Although technological tools like GIS and AI have potential, they are nevertheless unavailable because of infrastructure and digital gaps. ",
-        ],
+          " Although they encourage access to clean energy, DRE projects are limited by high capital costs, lack of regulations and livelihood convergence to match supply . Although technological tools like GIS and AI have potential, they are nevertheless unavailable because of infrastructure and digital gaps. "
+        ]
       },
       {
         heading: "- BEST PRACTICES",
         paragraphs: [
           "South India provides examples of eco-swaraj-inspired projects that have been effective. Eco-Villages Project in coastal areas effectively connected ecotechnology, environmental consciousness, and the development of women's livelihoods. Through their conversion of invasive species into handicrafts that generate revenue, ATREE's work in Kerala and Karnataka promotes both ecological restoration and economic empowerment.",
           "Kerala's 'Carbon Neutral Meenangadi' project shows how science along with local expertise and local government fosters efficiency. Similarly, the SST shows how private sector-backed NGOs can use participatory approaches to address issues like water scarcity, and human-animal conflict.",
-          "Programs like the women-led Vellore River restoration under MGNREGS, combining governmental assistance with local initiative, are prime examples. Hybrid concepts like Community and Conservation Reserves have been made possible by conservation policy changes like the Wildlife Amendment Act, 2002, which encourage inclusive stewardship. In contrast, livelihood-driven models based on TEK and community solidarity are marked by agro ecological movements such as the Andhra Pradesh-based RySS and the Keralan women-led collectives like Kudumbashree.",
-        ],
+          "Programs like the women-led Vellore River restoration under MGNREGS, combining governmental assistance with local initiative, are prime examples. Hybrid concepts like Community and Conservation Reserves have been made possible by conservation policy changes like the Wildlife Amendment Act, 2002, which encourage inclusive stewardship. In contrast, livelihood-driven models based on TEK and community solidarity are marked by agro ecological movements such as the Andhra Pradesh-based RySS and the Keralan women-led collectives like Kudumbashree."
+        ]
       },
       {
         heading: "- POLICY RECOMMENDATIONS AND THE WAY FORWARD",
@@ -3476,310 +3164,236 @@ const articles = [
           "Introduction of Integrated Environmental Schemes should be practiced, aligning MGNREGS, NEP objectives, water initiatives, CAMPA, and biodiversity conservation into coherent local-level environmental plans. Moreover, Interdepartmental Coordination: Departments for forestry, irrigation, and agriculture should be institutionally mandated to seek Gram Sabha consent in PESA/FRA areas, enhancing policy coherence.",
           "Environmental awareness plays a crucial role in its conservation, hence an education system must be implemented, highlighting the importance of environmental conservation and the means of achieving the same. It must be ensured that this system of education is implemented at the grassroot level. Awareness drives and programs must be organized to cultivate sensitivity and consciousness amongst civilians.",
           "Furthermore, the government should adopt a qualitative approach over a quantitative one, emphasising context-based solutions over mere participation metrics. Instead of harmful practices like mass eucalyptus planting, focus should be on ecologically suitable species. Policies must consider ingrained socio-economic realities of a particular place —caste, gender, notion of purity, toilet insecurity of women—to address issues like open defecation through holistic, curative approaches.",
-          "Finally, in order to secure a check and balance system, a grievance redressal mechanism for environmental harms at the local level must be introduced along with an annual parliamentary or state assembly review which would require to table a compliance report before the parliament to ensure democratic accountability",
-        ],
-      },
+          "Finally, in order to secure a check and balance system, a grievance redressal mechanism for environmental harms at the local level must be introduced along with an annual parliamentary or state assembly review which would require to table a compliance report before the parliament to ensure democratic accountability"
+        ]
+      }
     ],
     conclusion: [
       "The South Indian experience shows  eco-swaraj as a practical and developing framework for rethinking environmental governance and that there is no single model for successful environmental decentralization. Successful initiatives illustrate how ancient water systems, forgotten crops, and community forests are being reborn through local stewardship.  As India moves toward its climate commitments and SDGs the role of PRIs in environmental governance will become increasingly important. Eco‑Swaraj holds promise for a truly sustainable and democratic EG where devolution of policy-making powers enables bottom-up experimentation, enhances citizen participation, and supports greater policy responsiveness.",
-      "The 73rd Amendment has proven its significance in a short span of time,  enabling many villages to progress through environmental protection efforts.  Despite the challenges of uneven progress–  policy clarity, digital inclusion, institutional innovation can strengthen Panchayat -led ecological stewardship.  These echoes of Eco Swaraj inspire a larger movement — one that respects the land, the people, and their shared future.",
+      "The 73rd Amendment has proven its significance in a short span of time,  enabling many villages to progress through environmental protection efforts.  Despite the challenges of uneven progress–  policy clarity, digital inclusion, institutional innovation can strengthen Panchayat -led ecological stewardship.  These echoes of Eco Swaraj inspire a larger movement — one that respects the land, the people, and their shared future."
     ],
     references: [
       {
-        heading:
-          "Agrawal, A., & Gibson, C. C. (1999). Enchantment and disenchantment: The role of community in natural resource conservation. World Development, 27(4), 629–649.",
-        links: "https://doi.org/10.1016/S0305-750X(98)00161-2",
+        heading: "Agrawal, A., & Gibson, C. C. (1999). Enchantment and disenchantment: The role of community in natural resource conservation. World Development, 27(4), 629–649.",
+        links: "https://doi.org/10.1016/S0305-750X(98)00161-2"
       },
       {
-        heading:
-          "Agrawal, A. (2005). Environ mentality: Technologies of Government and the Making of Subjects. Duke University Press. ",
+        heading: "Agrawal, A. (2005). Environ mentality: Technologies of Government and the Making of Subjects. Duke University Press. "
       },
       {
-        heading:
-          "All Research Journal. (2017). Environmental deterioration: Water conservation management in Anantapur district of Andhra Pradesh Indore: All Research Journal, 3(6), Retrieved from",
-        links:
-          "https://www.allresearchjournal.com/archives/2017/vol3issue6/PartH/3-6-78-500.pdf",
+        heading: "All Research Journal. (2017). Environmental deterioration: Water conservation management in Anantapur district of Andhra Pradesh Indore: All Research Journal, 3(6), Retrieved from",
+        links: "https://www.allresearchjournal.com/archives/2017/vol3issue6/PartH/3-6-78-500.pdf"
       },
       {
-        heading:
-          "Appannagari, R. R. (2017). Environmental deterioration: Water conservation management in Anantapur district of Andhra Pradesh [PDF]. International Journal of Applied Research, 3(6), 503–512. Retrieved June 27, 2025, from ",
-        links:
-          "https://www.allresearchjournal.com/archives/2017/vol3issue6/PartH/3-6-78-500.pdf",
+        heading: "Appannagari, R. R. (2017). Environmental deterioration: Water conservation management in Anantapur district of Andhra Pradesh [PDF]. International Journal of Applied Research, 3(6), 503–512. Retrieved June 27, 2025, from ",
+        links: "https://www.allresearchjournal.com/archives/2017/vol3issue6/PartH/3-6-78-500.pdf"
       },
       {
-        heading:
-          "Ashoka Trust for Research in Ecology and the Environment (ATREE). (n.d.). Ashoka Trust for Research in Ecology and the Environment [Homepage]. Bangalore: ATREE. Retrieved from ",
-        links: "https://www.atree.org",
+        heading: "Ashoka Trust for Research in Ecology and the Environment (ATREE). (n.d.). Ashoka Trust for Research in Ecology and the Environment [Homepage]. Bangalore: ATREE. Retrieved from ",
+        links: "https://www.atree.org"
       },
       {
-        heading:
-          "ATREE (2024, March 12). Sustainable farming in rural India [Video]. YouTube. Retrieved from ",
-        links: "https://www.youtube.com/watch?v=9zjiS2wVwBg",
+        heading: "ATREE (2024, March 12). Sustainable farming in rural India [Video]. YouTube. Retrieved from ",
+        links: "https://www.youtube.com/watch?v=9zjiS2wVwBg"
       },
       {
-        heading:
-          "Baviskar, A. (2005). In the belly of the river: Tribal conflicts over development in the Narmada Valley (2nd ed.). New Delhi: Oxford University Press.",
+        heading: "Baviskar, A. (2005). In the belly of the river: Tribal conflicts over development in the Narmada Valley (2nd ed.). New Delhi: Oxford University Press."
       },
       {
-        heading:
-          "Beevy, S. S., & Kamarudeen, M. (June 2021). Biodiversity register for submission to University [PDF]. University of Kerala. Retrieved from ",
-        links:
-          "https://www.keralauniversity.ac.in/downloads/Biodiversity_Register_for_submission_to_University_june_2021.pdf",
+        heading: "Beevy, S. S., & Kamarudeen, M. (June 2021). Biodiversity register for submission to University [PDF]. University of Kerala. Retrieved from ",
+        links: "https://www.keralauniversity.ac.in/downloads/Biodiversity_Register_for_submission_to_University_june_2021.pdf"
       },
       {
-        heading:
-          "Counterview. (2023, April). OSOP: Puducherry’s Jal Swaraj model to revive ponds with community participation. PondyCAN. Counterview. Retrieved from ",
-        links:
-          "https://www.counterview.in/2023/04/osop-puducherrys-jal-swaraj-model-to.html",
+        heading: "Counterview. (2023, April). OSOP: Puducherry’s Jal Swaraj model to revive ponds with community participation. PondyCAN. Counterview. Retrieved from ",
+        links: "https://www.counterview.in/2023/04/osop-puducherrys-jal-swaraj-model-to.html"
       },
       {
-        heading:
-          "Conservation India. (n.d.). Silent Valley: A people’s movement that saved a forest. London, UK: World Habitat. Retrieved June 27, 2025, from ",
-        links:
-          "https://www.conservationindia.org/case-studies/silent-valley-a-peoples-movement-that-saved-a-forest",
+        heading: "Conservation India. (n.d.). Silent Valley: A people’s movement that saved a forest. London, UK: World Habitat. Retrieved June 27, 2025, from ",
+        links: "https://www.conservationindia.org/case-studies/silent-valley-a-peoples-movement-that-saved-a-forest"
       },
       {
-        heading:
-          "Dasgupta, R. (2019). Development justice and the exclusion of Dalits and Adivasis in India. Indian Journal of Human Development, 13(2), 192–210. ",
-        links: "https://doi.org/10.1177/0973703020909113",
+        heading: "Dasgupta, R. (2019). Development justice and the exclusion of Dalits and Adivasis in India. Indian Journal of Human Development, 13(2), 192–210. ",
+        links: "https://doi.org/10.1177/0973703020909113"
       },
       {
-        heading:
-          "Department of Land Resources. (2020). Guidelines for Watershed Development. Government of India. ",
-        links: "https://dolr.gov.in/",
+        heading: "Department of Land Resources. (2020). Guidelines for Watershed Development. Government of India. ",
+        links: "https://dolr.gov.in/"
       },
       {
-        heading:
-          "Down To Earth. (2023, June 8). Seed saviours: These Telangana women preserve native seeds; here is why. Down To Earth. Retrieved June 27, 2025, from ",
-        links:
-          "https://www.downtoearth.org.in/agriculture/seed-saviours-these-telangana-women-preserve-native-seeds-here-is-why-89894",
+        heading: "Down To Earth. (2023, June 8). Seed saviours: These Telangana women preserve native seeds; here is why. Down To Earth. Retrieved June 27, 2025, from ",
+        links: "https://www.downtoearth.org.in/agriculture/seed-saviours-these-telangana-women-preserve-native-seeds-here-is-why-89894"
       },
       {
-        heading:
-          "Eco India. (2024, February). Eco India: Discover Tamil Nadu tribe's craft using invasive plants [Short video]. YouTube. Retrieved from ",
-        links: "https://youtu.be/e-3AyOV9spo",
+        heading: "Eco India. (2024, February). Eco India: Discover Tamil Nadu tribe's craft using invasive plants [Short video]. YouTube. Retrieved from ",
+        links: "https://youtu.be/e-3AyOV9spo"
       },
       {
-        heading:
-          "Eco India. (2021, October 3). Eco India: A source of sustainable fibre, the calotropis plant is Puducherry’s best kept secret [Video]. YouTube. Retrieved from ",
-        links: "https://youtu.be/VjhHWvRbWmk",
+        heading: "Eco India. (2021, October 3). Eco India: A source of sustainable fibre, the calotropis plant is Puducherry’s best kept secret [Video]. YouTube. Retrieved from ",
+        links: "https://youtu.be/VjhHWvRbWmk"
       },
       {
-        heading:
-          "ECO INDIA  (2023, January). Why it is essential to protect our wetland ecosystems from degrading. YouTube. Retrieved from ",
-        links: "https://www.youtube.com/watch?v=0LwfkkJvFuU&t=184s",
+        heading: "ECO INDIA  (2023, January). Why it is essential to protect our wetland ecosystems from degrading. YouTube. Retrieved from ",
+        links: "https://www.youtube.com/watch?v=0LwfkkJvFuU&t=184s"
       },
       {
-        heading:
-          "Elango, R. (n.d.). Rangaswamy Elango [Web page]. Bangalore: Unsung India. Retrieved from ",
-        links: "https://www.unsung.in/rangaswamy-elango/",
+        heading: "Elango, R. (n.d.). Rangaswamy Elango [Web page]. Bangalore: Unsung India. Retrieved from ",
+        links: "https://www.unsung.in/rangaswamy-elango/"
       },
       {
-        heading:
-          "Gadgil, M., Berkes, F., & Folke, C. (1993). Indigenous knowledge for biodiversity conservation. Ambio, 22(2–3), 151–156. ",
-        links: "http://www.jstor.org/stable/4314060",
+        heading: "Gadgil, M., Berkes, F., & Folke, C. (1993). Indigenous knowledge for biodiversity conservation. Ambio, 22(2–3), 151–156. ",
+        links: "http://www.jstor.org/stable/4314060"
       },
       {
-        heading:
-          "Government of India. (2006). The Mahatma Gandhi National Rural Employment Guarantee Act. ",
+        heading: "Government of India. (2006). The Mahatma Gandhi National Rural Employment Guarantee Act. "
       },
       {
-        heading:
-          "Government of India, Ministry of Rural Development. (n.d.). Haritha Haram [Web page]. MyScheme. Retrieved June 27, 2025, from ",
-        links: "https://www.myscheme.gov.in/schemes/haritha-haram",
+        heading: "Government of India, Ministry of Rural Development. (n.d.). Haritha Haram [Web page]. MyScheme. Retrieved June 27, 2025, from ",
+        links: "https://www.myscheme.gov.in/schemes/haritha-haram"
       },
       {
-        heading:
-          "Government of Odisha, Department of Panchayati Raj & Drinking Water. (n.d.). Grama Panchayats rules, 1968[PDF]. Government of Odisha. Retrieved June 27, 2025, from ",
-        links:
-          "https://cdnbbsr.s3waas.gov.in/s316026d60ff9b54410b3435b403afd226/uploads/2023/05/2023050183.pdf",
+        heading: "Government of Odisha, Department of Panchayati Raj & Drinking Water. (n.d.). Grama Panchayats rules, 1968[PDF]. Government of Odisha. Retrieved June 27, 2025, from ",
+        links: "https://cdnbbsr.s3waas.gov.in/s316026d60ff9b54410b3435b403afd226/uploads/2023/05/2023050183.pdf"
       },
       {
-        heading: "Gupta, J. (2012). Community-Based Conservation in India.",
+        heading: "Gupta, J. (2012). Community-Based Conservation in India."
       },
       {
-        heading:
-          "Harilal, K. N., & Isaac, T. M. T. (2003). Development planning in Kerala: Retrospect and prospect. In M. Mukherjee & R. Bhattacharya (Eds.), Planning and policy in South Asia. New Delhi: Sage Publications.",
+        heading: "Harilal, K. N., & Isaac, T. M. T. (2003). Development planning in Kerala: Retrospect and prospect. In M. Mukherjee & R. Bhattacharya (Eds.), Planning and policy in South Asia. New Delhi: Sage Publications."
       },
       {
-        heading:
-          "Hemalatha, K. (2021, May 18). How these Telangana women farmers rode out the pandemic. Mint Lounge. Retrieved June 27, 2025, from ",
-        links:
-          "https://www.livemint.com/mint-lounge/ideas/how-these-telangana-women-farmers-rode-out-the-pandemic-111621251362211.html",
+        heading: "Hemalatha, K. (2021, May 18). How these Telangana women farmers rode out the pandemic. Mint Lounge. Retrieved June 27, 2025, from ",
+        links: "https://www.livemint.com/mint-lounge/ideas/how-these-telangana-women-farmers-rode-out-the-pandemic-111621251362211.html"
       },
       {
-        heading:
-          "India Science, Technology and Innovation. (n.d.). An Approach for Integrated Sustainable Rural Development: Development and Implementation Working Frameworks for a Climate smart village approach ",
-        links:
-          "https://www.indiascienceandtechnology.gov.in/research/development-and-implementation-working-frameworks-climate-smart-village-approach-integrated",
+        heading: "India Science, Technology and Innovation. (n.d.). An Approach for Integrated Sustainable Rural Development: Development and Implementation Working Frameworks for a Climate smart village approach ",
+        links: "https://www.indiascienceandtechnology.gov.in/research/development-and-implementation-working-frameworks-climate-smart-village-approach-integrated"
       },
       {
-        heading:
-          "Institute for Development and Research in Banking Technology (IDRonline). (n.d.). Panchayats can help conserve India’s common lands. Hyderabad: IDRonline. Retrieved from ",
-        links:
-          "https://idronline.org/article/advocacy-government/panchayats-can-help-conserve-indias-common-lands/",
+        heading: "Institute for Development and Research in Banking Technology (IDRonline). (n.d.). Panchayats can help conserve India’s common lands. Hyderabad: IDRonline. Retrieved from ",
+        links: "https://idronline.org/article/advocacy-government/panchayats-can-help-conserve-indias-common-lands/"
       },
       {
-        heading:
-          "Johnson, C., & Baviskar, A. (2003). Social movements and the state in India. Environment and Urbanization, 15(2), 71–86. ",
-        links: "https://doi.org/10.1177/095624780301500207",
+        heading: "Johnson, C., & Baviskar, A. (2003). Social movements and the state in India. Environment and Urbanization, 15(2), 71–86. ",
+        links: "https://doi.org/10.1177/095624780301500207"
       },
       {
-        heading:
-          "Joseph, B. (2018). Environmental federalism and practice in India: An overview. International Journal of Humanities and Social Science Invention, 7(4), 46–50. ",
-        links:
-          "https://www.ijhssi.org/papers/vol7(4)/Version-1/F0704014650.pdf",
+        heading: "Joseph, B. (2018). Environmental federalism and practice in India: An overview. International Journal of Humanities and Social Science Invention, 7(4), 46–50. ",
+        links: "https://www.ijhssi.org/papers/vol7(4)/Version-1/F0704014650.pdf"
       },
       {
-        heading:
-          "Kantimahanti, S. (2024, March 6). Sampath Kantimahanti’s Snake Speek project educates rural communities on snake conservation in Andhra Pradesh. The Hindu. Retrieved June 27, 2025, from ",
-        links:
-          "https://www.thehindu.com/sci-tech/energy-and-environment/sampath-kantimahantis-snake-speek-project-educates-rural-communities-on-snake-conservation-in-andhra-pradesh/article68416657.ece",
+        heading: "Kantimahanti, S. (2024, March 6). Sampath Kantimahanti’s Snake Speek project educates rural communities on snake conservation in Andhra Pradesh. The Hindu. Retrieved June 27, 2025, from ",
+        links: "https://www.thehindu.com/sci-tech/energy-and-environment/sampath-kantimahantis-snake-speek-project-educates-rural-communities-on-snake-conservation-in-andhra-pradesh/article68416657.ece"
       },
       {
-        heading:
-          "Kashwan, P., MacLean, L. M., & García-López, G. A. (2019). Rethinking power and institutions in the shadows of neoliberalism: (An introduction to a special issue of World Development). World Development, 120, 133–146. ",
-        links: "https://doi.org/10.1016/j.worlddev.2019.04.017",
+        heading: "Kashwan, P., MacLean, L. M., & García-López, G. A. (2019). Rethinking power and institutions in the shadows of neoliberalism: (An introduction to a special issue of World Development). World Development, 120, 133–146. ",
+        links: "https://doi.org/10.1016/j.worlddev.2019.04.017"
       },
       {
-        heading:
-          "Kothari, A. (2009). Radical ecological democracy: A path forward for India and beyond. Development, 52(3), 403–410. ",
-        links: "https://doi.org/10.1057/dev.2009.47",
+        heading: "Kothari, A. (2009). Radical ecological democracy: A path forward for India and beyond. Development, 52(3), 403–410. ",
+        links: "https://doi.org/10.1057/dev.2009.47"
       },
       {
-        heading:
-          "Kothari, A. (2014). Eco-Swaraj: Paths to a Sustainable India.",
-        links: "https://ashishkothari.in/ ",
+        heading: "Kothari, A. (2014). Eco-Swaraj: Paths to a Sustainable India.",
+        links: "https://ashishkothari.in/ "
       },
       {
-        heading:
-          "Kothari, A. (2014). Radical ecological democracy: A framework for sustainable and equitable futures. Development, 57(1), 36–45. ",
-        links: "https://doi.org/10.1057/dev.2014.2",
+        heading: "Kothari, A. (2014). Radical ecological democracy: A framework for sustainable and equitable futures. Development, 57(1), 36–45. ",
+        links: "https://doi.org/10.1057/dev.2014.2"
       },
       {
-        heading:
-          "Kumar, D. S. (2025, March 26). Water bodies come to life in drought‑hit district in Andhra Pradesh. The New Indian Express. Retrieved June 27, 2025, from ",
-        links:
-          "https://www.newindianexpress.com/states/andhra-pradesh/2025/Mar/26/water-bodies-come-to-life-in-drought-hit-district-in-andhra-pradesh",
+        heading: "Kumar, D. S. (2025, March 26). Water bodies come to life in drought‑hit district in Andhra Pradesh. The New Indian Express. Retrieved June 27, 2025, from ",
+        links: "https://www.newindianexpress.com/states/andhra-pradesh/2025/Mar/26/water-bodies-come-to-life-in-drought-hit-district-in-andhra-pradesh"
       },
       {
-        heading:
-          "Lele, S., & Menon, A. (2014). Democratizing forest governance in India. New Delhi: Oxford University Press.",
+        heading: "Lele, S., & Menon, A. (2014). Democratizing forest governance in India. New Delhi: Oxford University Press."
       },
       {
-        heading:
-          "Mathew, B., & Suresh, R. (2019). Farmer-led agroecology in Andhra Pradesh and Kerala: A case for resilient agricultural practices. Journal of Agrarian Change, 19(4), 609–627. ",
-        links: "https://doi.org/10.1111/joac.12293",
+        heading: "Mathew, B., & Suresh, R. (2019). Farmer-led agroecology in Andhra Pradesh and Kerala: A case for resilient agricultural practices. Journal of Agrarian Change, 19(4), 609–627. ",
+        links: "https://doi.org/10.1111/joac.12293"
       },
       {
-        heading:
-          "Menon, A. (2018). Commons, climate and community: Struggles for sustainability in coastal South India. Hyderabad: Orient BlackSwan.",
+        heading: "Menon, A. (2018). Commons, climate and community: Struggles for sustainability in coastal South India. Hyderabad: Orient BlackSwan."
       },
       {
-        heading:
-          "Ministry of Environment, Forest and Climate Change. (2012). Green India Mission (GIM) Guidelines. Ministry of Environment, Forest and Climate Change. ",
-        links: "https://moef.gov.in/green-india-mission-gim",
+        heading: "Ministry of Environment, Forest and Climate Change. (2012). Green India Mission (GIM) Guidelines. Ministry of Environment, Forest and Climate Change. ",
+        links: "https://moef.gov.in/green-india-mission-gim"
       },
       {
         heading: "Ministry of Jal Shakti. Ministry of Jal Shakti. ",
-        links: "https://www.jalshakti-dowr.gov.in/",
+        links: "https://www.jalshakti-dowr.gov.in/"
       },
       {
-        heading:
-          "National Disaster Management Authority. (2020). Technology Tools in Disaster Management",
+        heading: "National Disaster Management Authority. (2020). Technology Tools in Disaster Management"
       },
       {
-        heading:
-          "National University of Juridical Sciences. (2022, November). ROLE OF PANCHAYATI RAJ INSTITUTIONS IN THE PROTECTION OF ENVIRONMENT ",
-        links: "https://www.nujs.edu/wp-content/uploads/2022/11/File-36.pdf",
+        heading: "National University of Juridical Sciences. (2022, November). ROLE OF PANCHAYATI RAJ INSTITUTIONS IN THE PROTECTION OF ENVIRONMENT ",
+        links: "https://www.nujs.edu/wp-content/uploads/2022/11/File-36.pdf"
       },
       {
-        heading:
-          "National University of Juridical Sciences. (2022, November). ROLE OF PANCHAYATI RAJ INSTITUTIONS IN THE PROTECTION OF ENVIRONMENT ",
-        links: "https://www.nujs.edu/wp-content/uploads/2022/11/File-36.pdf",
+        heading: "National University of Juridical Sciences. (2022, November). ROLE OF PANCHAYATI RAJ INSTITUTIONS IN THE PROTECTION OF ENVIRONMENT ",
+        links: "https://www.nujs.edu/wp-content/uploads/2022/11/File-36.pdf"
       },
       {
-        heading:
-          "Nisarga FMM Sisters. (n.d.). Sujala Watershed Project [Web page]. Nisarga FMM Sisters. Retrieved June 27, 2025, from ",
-        links:
-          "https://www.nisargafmm.in/programs/sujala_watershed_project.html",
+        heading: "Nisarga FMM Sisters. (n.d.). Sujala Watershed Project [Web page]. Nisarga FMM Sisters. Retrieved June 27, 2025, from ",
+        links: "https://www.nisargafmm.in/programs/sujala_watershed_project.html"
       },
       {
-        heading:
-          "Ostrom, E. (1990). Governing the commons: The evolution of institutions for collective action. Cambridge: Cambridge University Press.",
+        heading: "Ostrom, E. (1990). Governing the commons: The evolution of institutions for collective action. Cambridge: Cambridge University Press."
       },
       {
-        heading:
-          "Prakash, A. (2019). Local institutions and adaptation to climate change: Case studies from South India. Climate and Development, 11(10), 875–885. ",
-        links: "https://doi.org/10.1080/17565529.2019.1596064",
+        heading: "Prakash, A. (2019). Local institutions and adaptation to climate change: Case studies from South India. Climate and Development, 11(10), 875–885. ",
+        links: "https://doi.org/10.1080/17565529.2019.1596064"
       },
       {
-        heading:
-          "Ramakrishnan, V. (2020, March 23). Conservation through private initiative: A case study in the Western Ghats, India. Gland, Switzerland: International Union for Conservation of Nature (IUCN). Retrieved June 27, 2025, from ",
-        links:
-          "https://www.iucn.org/news/commission-environmental-economic-and-social-policy/202003/conservation-through-private-initiative-a-case-study-western-ghats-india",
+        heading: "Ramakrishnan, V. (2020, March 23). Conservation through private initiative: A case study in the Western Ghats, India. Gland, Switzerland: International Union for Conservation of Nature (IUCN). Retrieved June 27, 2025, from ",
+        links: "https://www.iucn.org/news/commission-environmental-economic-and-social-policy/202003/conservation-through-private-initiative-a-case-study-western-ghats-india"
       },
       {
-        heading: "REN21. (2019). Renewables 2019 Global Status Report.",
+        heading: "REN21. (2019). Renewables 2019 Global Status Report."
       },
       {
-        heading:
-          "Rondinelli D. A., & Nellis J. R. (1986). Assessing decentralization policies in developing countries: The case for cautious optimism. Development Policy Review, 4(1), 3–23. ",
-        links: "https://doi.org/10.1111/j.1467-7679.1986.tb00494",
+        heading: "Rondinelli D. A., & Nellis J. R. (1986). Assessing decentralization policies in developing countries: The case for cautious optimism. Development Policy Review, 4(1), 3–23. ",
+        links: "https://doi.org/10.1111/j.1467-7679.1986.tb00494"
       },
       {
-        heading:
-          "Sharma, N. (2021, March 16). River revived: MGNREGA brings Palakkad women to the water conservation forefront. New Delhi: Down To Earth. Retrieved from ",
-        links:
-          "https://www.downtoearth.org.in/water/river-revived-mgnrega-bring-palakkad-women-to-water-conservation-forefront-75969",
+        heading: "Sharma, N. (2021, March 16). River revived: MGNREGA brings Palakkad women to the water conservation forefront. New Delhi: Down To Earth. Retrieved from ",
+        links: "https://www.downtoearth.org.in/water/river-revived-mgnrega-bring-palakkad-women-to-water-conservation-forefront-75969"
       },
       {
-        heading:
-          "Shiva, V. (1988). Staying alive: Women, ecology and development. London: Zed Books.",
+        heading: "Shiva, V. (1988). Staying alive: Women, ecology and development. London: Zed Books."
       },
       {
-        heading:
-          "Shiva, V. (2005). Earth democracy: Justice, sustainability, and peace. Cambridge, MA: South End Press. ",
-        links: "https://haritham.kerala.gov.in/ ",
+        heading: "Shiva, V. (2005). Earth democracy: Justice, sustainability, and peace. Cambridge, MA: South End Press. ",
+        links: "https://haritham.kerala.gov.in/ "
       },
       {
-        heading:
-          "Tiwari, N. (n.d.). Centrality of Panchayati Raj. New Delhi: India Environment Portal. Retrieved from ",
-        links:
-          "http://re.indiaenvironmentportal.org.in/files/Centrality%20of%20panchayati%20raj.pdf",
+        heading: "Tiwari, N. (n.d.). Centrality of Panchayati Raj. New Delhi: India Environment Portal. Retrieved from ",
+        links: "http://re.indiaenvironmentportal.org.in/files/Centrality%20of%20panchayati%20raj.pdf"
       },
       {
-        heading:
-          "The New Indian Express. (2025, March 26). Water bodies come to life in drought-hit district in Andhra Pradesh. Vijayawada: The New Indian Express. Retrieved from ",
-        links:
-          "https://www.newindianexpress.com/states/andhra-pradesh/2025/Mar/26/water-bodies-come-to-life-in-drought-hit-district-in-andhra-pradesh",
+        heading: "The New Indian Express. (2025, March 26). Water bodies come to life in drought-hit district in Andhra Pradesh. Vijayawada: The New Indian Express. Retrieved from ",
+        links: "https://www.newindianexpress.com/states/andhra-pradesh/2025/Mar/26/water-bodies-come-to-life-in-drought-hit-district-in-andhra-pradesh"
       },
       {
-        heading:
-          "The Climate Group. (n.d.). Carbon Neutral Meenangadi: Integrating climate action & development [Web page]. The Climate Group. Retrieved June 27, 2025, from ",
-        links:
-          "https://www.theclimategroup.org/our-work/resources/carbon-neutral-meenangadi-bottom-model-integrating-climate-action-development",
+        heading: "The Climate Group. (n.d.). Carbon Neutral Meenangadi: Integrating climate action & development [Web page]. The Climate Group. Retrieved June 27, 2025, from ",
+        links: "https://www.theclimategroup.org/our-work/resources/carbon-neutral-meenangadi-bottom-model-integrating-climate-action-development"
       },
       {
-        heading:
-          "Zawya (2023, July)  How Indian villages are becoming zero‑waste towns. Zawya. Retrieved from ",
-        links:
-          "https://www.zawya.com/en/world/indian-sub-continent/how-indian-villages-are-becoming-zero-waste-towns-dlxidg4g",
-      },
-    ],
+        heading: "Zawya (2023, July)  How Indian villages are becoming zero‑waste towns. Zawya. Retrieved from ",
+        links: "https://www.zawya.com/en/world/indian-sub-continent/how-indian-villages-are-becoming-zero-waste-towns-dlxidg4g"
+      }
+    ]
   },
   {
     id: 17,
     issue: 1,
     volume: 1,
-    title:
-      "IMPACT OF SOCIAL PROTECTION POLICIES ON RURAL POVERTY, PARTICULARLY IN LOW INCOME COUNTRIES",
-    author:
-      "Maria-Ioana Stănescu, Sharmila Bommadevara, Akansha Jhamb, Monalisha Mohanty, Yusuf Shaba",
+    title: "IMPACT OF SOCIAL PROTECTION POLICIES ON RURAL POVERTY, PARTICULARLY IN LOW INCOME COUNTRIES",
+    author: "Maria-Ioana Stănescu, Sharmila Bommadevara, Akansha Jhamb, Monalisha Mohanty, Yusuf Shaba",
     authorAbbrev: "M. Stănescu, S. Bommadevara, and others",
     abstract: [
       "This article explores how social protection policies in low income countries are evolving especially in rural areas where poverty is persistent and complex. Using examples from countries like Pakistan, Ethiopia and Kenya the article shows how recent shifts especially after the pandemic are moving beyond short-term aid to more long-term investment approach. Additionally it discusses the often overlooked near poor and also provides recommendations to build an equitable system in policy making that will help the SDG agenda.",
-      "It also tackles common challenges like poor infrastructure, weak institutional capacity and exclusion errors in targeting. The key argument here is that social protection needs to be more inclusive, flexible and grounded in people’s actual needs not just their income level. By rethinking how we design and fund these systems, especially for groups on the edge of poverty we can build more resilient and fairer rural communities. ",
+      "It also tackles common challenges like poor infrastructure, weak institutional capacity and exclusion errors in targeting. The key argument here is that social protection needs to be more inclusive, flexible and grounded in people’s actual needs not just their income level. By rethinking how we design and fund these systems, especially for groups on the edge of poverty we can build more resilient and fairer rural communities. "
     ],
     keywords: [
       "social protection",
@@ -3795,32 +3409,32 @@ const articles = [
       "resilience",
       "low income countries",
       "youth focused programs",
-      "adaptive systems",
+      "adaptive systems"
     ],
     status: "Submitted",
     intro: [
       "Rural poverty remains one of the most persistent and complex development challenges in low-income countries. Despite decades of targeted interventions, rural populations continue to experience disproportionately high levels of distress not only in terms of income, but also in access to education, healthcare, social services and opportunities for quality life. According to the World Bank, four out of five people living below the international poverty line reside in rural areas and poverty rates in these regions have declined at less than half the pace of urban areas over the past two decades (World Bank, 2022).",
-      "Social protection policies have emerged as critical tools in the fight against rural poverty, offering pathways to resilience and human development through short-term relief and long-term structural support. While many low income countries have implemented programs such as conditional cash transfers, public works and food subsidies, their design and reach remain uneven. This article explores the impact of social protection policies on rural poverty, while rethinking inclusion frameworks through a multidimensional lens that moves beyond income based approach to address the vulnerability of groups like the near poor.",
+      "Social protection policies have emerged as critical tools in the fight against rural poverty, offering pathways to resilience and human development through short-term relief and long-term structural support. While many low income countries have implemented programs such as conditional cash transfers, public works and food subsidies, their design and reach remain uneven. This article explores the impact of social protection policies on rural poverty, while rethinking inclusion frameworks through a multidimensional lens that moves beyond income based approach to address the vulnerability of groups like the near poor."
     ],
     content: [
       {
         heading: "Background and Objectives",
         paragraphs: [
-          "Globally, social protection has been increasingly recognized as central to achieving poverty reduction and inclusive development. However, rural areas continue to lag behind in both access to social services and the depth of support received. The COVID-19 pandemic exposed the inadequacies of narrowly targeted systems and prompted a rethinking of protection mechanisms highlighting the need for adaptive, shock-responsive and more inclusive strategies. Against this backdrop the article reviews key policy shifts, examines sustainable financing approaches, identifies implementation challenges and makes forward-looking recommendations to strengthen social protection frameworks for rural populations, particularly the near poor. It also explores how well-designed and inclusive social protection programs can serve not only as safety nets but also as enablers of structural transformation addressing both income and non-income dimensions of poverty. The article also sheds light on policy frameworks through a critical lens looking at whom current systems serve, whom they leave out and what financing and design reforms are required to enhance long-term effectiveness.",
-        ],
+          "Globally, social protection has been increasingly recognized as central to achieving poverty reduction and inclusive development. However, rural areas continue to lag behind in both access to social services and the depth of support received. The COVID-19 pandemic exposed the inadequacies of narrowly targeted systems and prompted a rethinking of protection mechanisms highlighting the need for adaptive, shock-responsive and more inclusive strategies. Against this backdrop the article reviews key policy shifts, examines sustainable financing approaches, identifies implementation challenges and makes forward-looking recommendations to strengthen social protection frameworks for rural populations, particularly the near poor. It also explores how well-designed and inclusive social protection programs can serve not only as safety nets but also as enablers of structural transformation addressing both income and non-income dimensions of poverty. The article also sheds light on policy frameworks through a critical lens looking at whom current systems serve, whom they leave out and what financing and design reforms are required to enhance long-term effectiveness."
+        ]
       },
       {
         heading: "Social Protection Policies & Post-Pandemic Shift",
         paragraphs: [
-          "The COVID-19 pandemic dramatically changed the way people look at social protection systems. While the majority of low-income countries had limited welfare assistance with a focus on simply alleviating poverty, the pandemic prompted a wave of new policies to be established and expanded. Emergency responses, especially in rural areas, pushed governments to find new solutions, which reflected a new way of thinking that views social protection as not just assistance but also investment. This shift is especially visible in situations where governments sought to empower marginalized groups, like rural youth, as part of post-pandemic recovery strategies.",
-        ],
+          "The COVID-19 pandemic dramatically changed the way people look at social protection systems. While the majority of low-income countries had limited welfare assistance with a focus on simply alleviating poverty, the pandemic prompted a wave of new policies to be established and expanded. Emergency responses, especially in rural areas, pushed governments to find new solutions, which reflected a new way of thinking that views social protection as not just assistance but also investment. This shift is especially visible in situations where governments sought to empower marginalized groups, like rural youth, as part of post-pandemic recovery strategies."
+        ]
       },
       {
         heading: "A. From Redistribution to Strategic Investment",
         paragraphs: [
           "James Midgley's (1999) theory of social investment provides an explanatory framework for understanding the developments in welfare systems during the pandemic. Instead of considering social protection as a reduction, Midgley prefers programs that are future-oriented, which aim to develop people's capacities, increase community assets, and encourage individuals to work. During the pandemic, many states echoed this approach as a great deal of the government investment went into health care, on-line learning, and cash payment, which resulted in extending social policy beyond mere wealth redistribution.",
-          "It is very difficult to sustain these reforms in poor areas. According to Hofman (2020), the majority of developing countries had enormous financial and structural problems. Unlike advanced economies, they lacked the borrowing capacity and institutional frameworks to maintain large-scale welfare responses. High informality, weak health systems, and flight of capital left them particularly vulnerable, which reveals that investment-based protection remains aspirational without structural reform.",
-        ],
+          "It is very difficult to sustain these reforms in poor areas. According to Hofman (2020), the majority of developing countries had enormous financial and structural problems. Unlike advanced economies, they lacked the borrowing capacity and institutional frameworks to maintain large-scale welfare responses. High informality, weak health systems, and flight of capital left them particularly vulnerable, which reveals that investment-based protection remains aspirational without structural reform."
+        ]
       },
       {
         heading: "B. Pakistan: Rural Youth at the Center of Innovation",
@@ -3828,394 +3442,294 @@ const articles = [
           "A prime example of a low-income nation seeking to span short-term crisis management and long-term development is that of Pakistan. As detailed in Ahmed’s policy brief COVID-19 Pandemic Recovery: Putting Youth of Pakistan at the Forefront, the government launched several initiatives specifically targeting rural youth, a group doubly impacted by education disruption and informal labor instability. The Kamyab Jawan Programme, for instance, combined entrepreneurship training, vocational skills development, and interest-free loans, which meant directly investing in youth employability outside formal systems (Ahmed, 2022, pp. 188–191).",
           "Another key initiative was the Corona Tiger Force, a volunteer platform that mobilized youth in public health outreach and service delivery. Although it was primarily designed for crisis response, the program also allowed youth in rural areas to take a direct role in governance and reconstruction, which reflects Midgley's focus on participation and community building. Thus, this involvement reflects a deeper trend: that certain policies of the pandemic era saw citizens not just as individuals being assisted but as agents actively engaged in development.",
           "In education, Pakistan introduced Matric-TECH streams, where general studies are combined with vocational and technical training and so, the aim was for these newly implemented streams to expand public labs and online skill training to allow young people to gain the required skills after the pandemic. Still, access challenges persisted: with only 51% smartphone penetration and rural women 38% less likely to own a device, which means that digital inclusion still remained a significant barrier to equitable protection, making it harder for everyone to gain equal opportunities (Ahmed, 2022, pp. 191–192).",
-          "Lastly, these programs, although imperfect, represent a profound shift away from austerity welfare. However, Hofman’s (2020) broader critique reminds us that such innovations are constrained by fiscal space and international financial architecture. Pakistan, like many LMICs, remains exposed to debt pressures and donor dependency, which are problems that impose the boundaries to their institutionalization.",
-        ],
+          "Lastly, these programs, although imperfect, represent a profound shift away from austerity welfare. However, Hofman’s (2020) broader critique reminds us that such innovations are constrained by fiscal space and international financial architecture. Pakistan, like many LMICs, remains exposed to debt pressures and donor dependency, which are problems that impose the boundaries to their institutionalization."
+        ]
       },
       {
         heading: "C. Toward a Broader Vision for Rural Protection",
         paragraphs: [
           "The Pakistani case study illustrates a significant evolution in the scope of social protection. With COVID-19 having transformed rural youth from an overlooked demographic into a central focus of recovery, the sustainability of this transformation depends on both national priorities and global support. As Hofman (2020) emphasises, without addressing underlying vulnerabilities, those being informality, weak infrastructure, limited fiscal autonomy, the pandemic-era developments will turn out to be temporary.",
-          "So ultimately, the shift seen in Pakistan shows what is possible when a crisis generates inclusion. But to truly reduce rural poverty in low-income countries, this singular moment must not be treated as an exception, but as a model for future welfare design.",
-        ],
+          "So ultimately, the shift seen in Pakistan shows what is possible when a crisis generates inclusion. But to truly reduce rural poverty in low-income countries, this singular moment must not be treated as an exception, but as a model for future welfare design."
+        ]
       },
       {
-        heading:
-          "Sustainable Financing of Social Policy to Address Poverty Reduction",
+        heading: "Sustainable Financing of Social Policy to Address Poverty Reduction",
         paragraphs: [
-          "Sustainable and equitable financing is essential for poverty reduction in low income countries. While international aid and partnerships can act as catalysts, continued progress requires effective domestic systems that reflect national priorities and long-term development goals. ",
-        ],
+          "Sustainable and equitable financing is essential for poverty reduction in low income countries. While international aid and partnerships can act as catalysts, continued progress requires effective domestic systems that reflect national priorities and long-term development goals. "
+        ]
       },
       {
-        heading:
-          "A: Catalytic Impact of Official Development Assistance, Ethiopia",
+        heading: "A: Catalytic Impact of Official Development Assistance, Ethiopia",
         paragraphs: [
-          "Official Development Assistance(ODA) was catalytic in Ethiopia’s Productive Safety Net Program(PSNP). Chronic food insecurity has long been a defining feature of poverty in Ethiopia. Before the PSNP, the government relied on near-annual emergency policies for food aid, which failed to offer a sustainable solution for addressing food insecurity and led to a growing number of people requiring emergency assistance each year(Tadesse). In response, the government initiated the PSNP, co-funded by the World Bank, European Union and USAID. Aimed at breaking the cycle of dependence, it consists of  two main components–public works and direct support(Bishop and Hilhorst). The program has successfully created a labor market for unskilled workers that contributes to household asset building and supports the most vulnerable groups unable to engage in labor-intensive public works. (Tadesse)",
-        ],
+          "Official Development Assistance(ODA) was catalytic in Ethiopia’s Productive Safety Net Program(PSNP). Chronic food insecurity has long been a defining feature of poverty in Ethiopia. Before the PSNP, the government relied on near-annual emergency policies for food aid, which failed to offer a sustainable solution for addressing food insecurity and led to a growing number of people requiring emergency assistance each year(Tadesse). In response, the government initiated the PSNP, co-funded by the World Bank, European Union and USAID. Aimed at breaking the cycle of dependence, it consists of  two main components–public works and direct support(Bishop and Hilhorst). The program has successfully created a labor market for unskilled workers that contributes to household asset building and supports the most vulnerable groups unable to engage in labor-intensive public works. (Tadesse)"
+        ]
       },
       {
         heading: "B: Role of Public-Private Partnerships, Kenya",
         paragraphs: [
-          "Public-private partnerships(PPP) can be valuable for infrastructure development when risks are transparently managed. Kenya’s PPP with the Chinese Belt and Road Initiative regarding  the development of the Standard Gauge Railway (SGR) illustrates the benefits and potential downsides. While the SGR contributes to economic diversification and aligns with Kenya’s domestic priorities of infrastructure development and poverty reduction, 90% of its costs were financed by Chinese loans, increasing Kenyan debt, to 68% of its GDP (Himmer and Rod;World Bank 2025). With overly optimistic projections of profitability and inflated construction costs, the SGR faces limited potential for financial viability. This creates a cycle of dependence on Chinese funding and influence alongside unsustainable debt(Kell). This PPP ultimately undermines long-term poverty reduction goals. ",
-        ],
+          "Public-private partnerships(PPP) can be valuable for infrastructure development when risks are transparently managed. Kenya’s PPP with the Chinese Belt and Road Initiative regarding  the development of the Standard Gauge Railway (SGR) illustrates the benefits and potential downsides. While the SGR contributes to economic diversification and aligns with Kenya’s domestic priorities of infrastructure development and poverty reduction, 90% of its costs were financed by Chinese loans, increasing Kenyan debt, to 68% of its GDP (Himmer and Rod;World Bank 2025). With overly optimistic projections of profitability and inflated construction costs, the SGR faces limited potential for financial viability. This creates a cycle of dependence on Chinese funding and influence alongside unsustainable debt(Kell). This PPP ultimately undermines long-term poverty reduction goals. "
+        ]
       },
       {
         heading: "C: Necessity of Domestic Revenue Mobilization, Uruguay",
         paragraphs: [
-          "While aid and partnership can be catalytic, sustainable financing requires establishing effective domestic tax systems. Domestic revenue mobilization preserves fiscal sovereignty and enables long-term poverty alleviation. However, it is often associated with increased tax rates to balance budgets which can challenge macroeconomic stability. To mitigate this, states have adopted alternative systems, particularly to address leakages. This includes tackling tax evasion, capital flight, and the contributions of the informal market. One example of a financing mechanism to leverage the informal market is Uruguay’s monotax. The system consolidates tax collection and social security contributions into a single payment, increasing government revenue.(WIEGO). In return it provides access to healthcare and retirement benefits,  incentivizing formalization(Ulrichs). Uruguay’s informal employment rate fell significantly, from 43% in 2001 to 21.5% in 2022, highlighting the long-term fiscal and social potential of such inclusive tax strategies(International Labour Organization). ",
-        ],
+          "While aid and partnership can be catalytic, sustainable financing requires establishing effective domestic tax systems. Domestic revenue mobilization preserves fiscal sovereignty and enables long-term poverty alleviation. However, it is often associated with increased tax rates to balance budgets which can challenge macroeconomic stability. To mitigate this, states have adopted alternative systems, particularly to address leakages. This includes tackling tax evasion, capital flight, and the contributions of the informal market. One example of a financing mechanism to leverage the informal market is Uruguay’s monotax. The system consolidates tax collection and social security contributions into a single payment, increasing government revenue.(WIEGO). In return it provides access to healthcare and retirement benefits,  incentivizing formalization(Ulrichs). Uruguay’s informal employment rate fell significantly, from 43% in 2001 to 21.5% in 2022, highlighting the long-term fiscal and social potential of such inclusive tax strategies(International Labour Organization). "
+        ]
       },
       {
         heading: "D:Effective Allocation of Public Expenditure, Egypt",
         paragraphs: [
-          "In many low-income countries, inefficient spending diverts resources from poverty-reduction policies(Eltokhy). Therefore, improving public expenditure efficiency through reallocation is as important as revenue generation. Egypt’s reform of fuel subsidies to fund social policies is an example. While fossil fuel subsidies maintained low consumer prices of petroleum products, they disproportionately  favored the wealthiest(World Resources Institute). The government redirected these funds towards targeted conditional (Takaful) and unconditional (Karama) cash transfers for poor women, children, orphans and widows. These programs aim at breaking cycles of intergenerational poverty by linking assistance to health and education requirements, thereby promoting human capital accumulation(World Bank Group 2020). ",
-        ],
+          "In many low-income countries, inefficient spending diverts resources from poverty-reduction policies(Eltokhy). Therefore, improving public expenditure efficiency through reallocation is as important as revenue generation. Egypt’s reform of fuel subsidies to fund social policies is an example. While fossil fuel subsidies maintained low consumer prices of petroleum products, they disproportionately  favored the wealthiest(World Resources Institute). The government redirected these funds towards targeted conditional (Takaful) and unconditional (Karama) cash transfers for poor women, children, orphans and widows. These programs aim at breaking cycles of intergenerational poverty by linking assistance to health and education requirements, thereby promoting human capital accumulation(World Bank Group 2020). "
+        ]
       },
       {
         heading: "E:Summary",
         paragraphs: [
-          "Sustainable social policy financing requires more than external aid—it depends on strong domestic systems. Examples from Ethiopia, Kenya, Uruguay, and Egypt show that tailored approaches to aid, partnerships, taxation, and spending are essential for reducing poverty and promoting long-term social development.",
-        ],
+          "Sustainable social policy financing requires more than external aid—it depends on strong domestic systems. Examples from Ethiopia, Kenya, Uruguay, and Egypt show that tailored approaches to aid, partnerships, taxation, and spending are essential for reducing poverty and promoting long-term social development."
+        ]
       },
       {
-        heading:
-          "The Uphill Battle: Limitations and Challenges in Social Protection Policies for Low-Income Countries",
+        heading: "The Uphill Battle: Limitations and Challenges in Social Protection Policies for Low-Income Countries",
         paragraphs: [
-          "Achieving comprehensive and equitable social protection in rural areas of low-income countries remains a pressing developmental challenge. Despite policy advancements, a large segment of rural populations, especially informal workers, continues to be excluded from formal social protection systems. This exclusion is rooted in the structural design of most existing frameworks, which are historically oriented toward formal employment sectors. As a result, rural and agricultural workers, who often operate in informal, seasonal, or subsistence-based economies, are left unprotected (ILO, 2021). The failure to include these vulnerable groups undermines broader global goals, particularly Sustainable Development Goal 1 (No Poverty), which calls for universal access to social protection for the poor and vulnerable.",
-        ],
+          "Achieving comprehensive and equitable social protection in rural areas of low-income countries remains a pressing developmental challenge. Despite policy advancements, a large segment of rural populations, especially informal workers, continues to be excluded from formal social protection systems. This exclusion is rooted in the structural design of most existing frameworks, which are historically oriented toward formal employment sectors. As a result, rural and agricultural workers, who often operate in informal, seasonal, or subsistence-based economies, are left unprotected (ILO, 2021). The failure to include these vulnerable groups undermines broader global goals, particularly Sustainable Development Goal 1 (No Poverty), which calls for universal access to social protection for the poor and vulnerable."
+        ]
       },
       {
         heading: "A. Administrative and Logistical Barriers",
         paragraphs: [
-          "Several administrative and logistical barriers further inhibit access to social protection in rural areas. Geographic remoteness, lack of digital infrastructure, poor transportation, and bureaucratic red tape contribute to the inaccessibility of services. Many rural workers are not registered with government systems due to the absence of legal identity documentation or literacy in digital tools. These factors reinforce cycles of poverty and exclusion, rendering social protection policies ineffective where they are needed most (World Bank, 2020). In many regions, such as Burundi, Sierra Leone, and Pakistan, rural populations face an acute shortage of administrative infrastructure and service delivery channels. Digital divides, limited public awareness, and inadequate local governance mean that even where programs exist, people are simply unable to access or benefit from them in any meaningful way.",
-        ],
+          "Several administrative and logistical barriers further inhibit access to social protection in rural areas. Geographic remoteness, lack of digital infrastructure, poor transportation, and bureaucratic red tape contribute to the inaccessibility of services. Many rural workers are not registered with government systems due to the absence of legal identity documentation or literacy in digital tools. These factors reinforce cycles of poverty and exclusion, rendering social protection policies ineffective where they are needed most (World Bank, 2020). In many regions, such as Burundi, Sierra Leone, and Pakistan, rural populations face an acute shortage of administrative infrastructure and service delivery channels. Digital divides, limited public awareness, and inadequate local governance mean that even where programs exist, people are simply unable to access or benefit from them in any meaningful way."
+        ]
       },
       {
         heading: "B. Implementation Gaps and Financial Constraints",
-        paragraphs: [
-          "Another major challenge lies in the limited enforcement capacity of existing institutions. Even where social protection policies exist on paper, the absence of monitoring mechanisms, especially in informal settings, allows non-compliance by employers and neglect of worker entitlements. Additionally, funding constraints, both at the national and community levels, restrict the scope and sustainability of many schemes. Governments in low-income countries often face trade-offs between investing in infrastructure, health, education, and social protection. Without stable and predictable financing, expansion of coverage remains elusive. Furthermore, donor-dependence in many low-income countries weakens long-term resilience and self-reliance in social protection delivery.",
-        ],
+        paragraphs: ["Another major challenge lies in the limited enforcement capacity of existing institutions. Even where social protection policies exist on paper, the absence of monitoring mechanisms, especially in informal settings, allows non-compliance by employers and neglect of worker entitlements. Additionally, funding constraints, both at the national and community levels, restrict the scope and sustainability of many schemes. Governments in low-income countries often face trade-offs between investing in infrastructure, health, education, and social protection. Without stable and predictable financing, expansion of coverage remains elusive. Furthermore, donor-dependence in many low-income countries weakens long-term resilience and self-reliance in social protection delivery."]
       },
       {
         heading: "C. Awareness, Stigma, and Social Trust Deficits",
-        paragraphs: [
-          "Lack of awareness is another significant barrier. Many rural residents remain unaware of the entitlements and services available to them. Social stigma, cultural biases, and distrust in public institutions also discourage people from registering or applying for benefits. Further, the invisibility of vulnerable populations such as landless workers, women, migrants, indigenous groups, and persons with disabilities means that policies often fail to reflect the lived realities and specific needs of these communities.",
-        ],
+        paragraphs: ["Lack of awareness is another significant barrier. Many rural residents remain unaware of the entitlements and services available to them. Social stigma, cultural biases, and distrust in public institutions also discourage people from registering or applying for benefits. Further, the invisibility of vulnerable populations such as landless workers, women, migrants, indigenous groups, and persons with disabilities means that policies often fail to reflect the lived realities and specific needs of these communities."]
       },
       {
         heading: "D. Inclusivity as a Core Pillar of Effective Policy",
-        paragraphs: [
-          "One of the most critical elements in improving the effectiveness of social protection systems is inclusion. Inclusive policy design ensures that no one is left behind, aligning with the core philosophy of the SDGs. Inclusion entails recognizing and addressing the unique vulnerabilities of different groups and involving them in the policy-making and implementation processes. When policies are co-created with the participation of marginalized communities, they become more responsive, context-specific, and sustainable. This participatory approach builds trust, improves awareness, and enhances uptake of social protection programs. Social protection is not only a tool to reduce poverty but also a fundamental human right that fosters resilience, economic inclusion, and human dignity.",
-        ],
+        paragraphs: ["One of the most critical elements in improving the effectiveness of social protection systems is inclusion. Inclusive policy design ensures that no one is left behind, aligning with the core philosophy of the SDGs. Inclusion entails recognizing and addressing the unique vulnerabilities of different groups and involving them in the policy-making and implementation processes. When policies are co-created with the participation of marginalized communities, they become more responsive, context-specific, and sustainable. This participatory approach builds trust, improves awareness, and enhances uptake of social protection programs. Social protection is not only a tool to reduce poverty but also a fundamental human right that fosters resilience, economic inclusion, and human dignity."]
       },
       {
-        heading:
-          "Rethinking Social Protection Service : Addressing the Near-Poor",
-        paragraphs: [
-          "Social protection systems around the world are continuously evolving. For decades, governments focused on people living in extreme poverty and those who couldn't afford basic food, shelter, or healthcare. But now the ‘missing middle’ phenomenon has become particularly pronounced, where households earn too much to qualify for poverty targeted programs but lack sufficient resources to weather economic shocks or invest in long-term development. The first idea of near poverty was proposed by Mollie Orshansky. She defined the near poor as those living from 100 to 133 percent of the poverty threshold. ( A.S.P 2016 ) Unlike the extremely poor, the near-poor may have some assets, formal employment or education but these advantages can disappear quickly during economic downturns, health emergencies, or climate related disasters and they can easily slip into poverty. ",
-        ],
+        heading: "Rethinking Social Protection Service : Addressing the Near-Poor",
+        paragraphs: ["Social protection systems around the world are continuously evolving. For decades, governments focused on people living in extreme poverty and those who couldn't afford basic food, shelter, or healthcare. But now the ‘missing middle’ phenomenon has become particularly pronounced, where households earn too much to qualify for poverty targeted programs but lack sufficient resources to weather economic shocks or invest in long-term development. The first idea of near poverty was proposed by Mollie Orshansky. She defined the near poor as those living from 100 to 133 percent of the poverty threshold. ( A.S.P 2016 ) Unlike the extremely poor, the near-poor may have some assets, formal employment or education but these advantages can disappear quickly during economic downturns, health emergencies, or climate related disasters and they can easily slip into poverty. "]
       },
       {
         heading: "A. The Error with Current Models",
-        paragraphs: [
-          "Rethinking social protection through the lens of inclusivity and adaptability is essential. Proxy Means Testing (PMT) the usual targeting tool in many countries, often exclude the near poor due to minor fluctuations in reported income or assets. This results in high exclusion errors and leaves those on the brink of poverty without support (Brown et al., 2023). Studies from India and other low and middle-income countries also show programs such as BPL based ration cards have experienced high exclusion errors and many deserving households are missing out due to outdated or inaccurate data. Additionally categorical targeting based on caste, occupation, or geography can reinforce stigma and complexity especially for marginalised sections.",
-        ],
+        paragraphs: ["Rethinking social protection through the lens of inclusivity and adaptability is essential. Proxy Means Testing (PMT) the usual targeting tool in many countries, often exclude the near poor due to minor fluctuations in reported income or assets. This results in high exclusion errors and leaves those on the brink of poverty without support (Brown et al., 2023). Studies from India and other low and middle-income countries also show programs such as BPL based ration cards have experienced high exclusion errors and many deserving households are missing out due to outdated or inaccurate data. Additionally categorical targeting based on caste, occupation, or geography can reinforce stigma and complexity especially for marginalised sections."]
       },
       {
         heading: "B. Evidence from Successful Policies",
-        paragraphs: [
-          "The effectiveness of social protection rests not only on the size or generosity of schemes but on who gets included and who is left out. All if not bleak as there are some programs that have addressed this issue. Community-based or hybrid targeting models like those used in Indonesia’s PNPM Mandiri have shown some success in identifying vulnerable households in a better manner (Alatas et al., 2012). Programs like Brazil’s Bolsa Família later restructured as Auxílio Brasil have  also demonstrated measurable reductions in multidimensional poverty. In addition to boosting household income the program increased school attendance, improved nutrition and reduced child mortality (Rasella et al., 2013). Similarly Ethiopia’s Productive Safety Net Programme (PSNP) offered a combination of cash and food for work that contributed to greater food security and improved health and education indicators especially among rural households (Berhane et al., 2014). These approaches are not only more responsive to local context but also better suited to capturing multidimensional forms of poverty as poverty is not merely about income. Expanding social protection to include them is not just a matter of short term safety nets but also a long term investment in rural resilience.",
-        ],
+        paragraphs: ["The effectiveness of social protection rests not only on the size or generosity of schemes but on who gets included and who is left out. All if not bleak as there are some programs that have addressed this issue. Community-based or hybrid targeting models like those used in Indonesia’s PNPM Mandiri have shown some success in identifying vulnerable households in a better manner (Alatas et al., 2012). Programs like Brazil’s Bolsa Família later restructured as Auxílio Brasil have  also demonstrated measurable reductions in multidimensional poverty. In addition to boosting household income the program increased school attendance, improved nutrition and reduced child mortality (Rasella et al., 2013). Similarly Ethiopia’s Productive Safety Net Programme (PSNP) offered a combination of cash and food for work that contributed to greater food security and improved health and education indicators especially among rural households (Berhane et al., 2014). These approaches are not only more responsive to local context but also better suited to capturing multidimensional forms of poverty as poverty is not merely about income. Expanding social protection to include them is not just a matter of short term safety nets but also a long term investment in rural resilience."]
       },
       {
         heading: "C. Way Forward ",
-        paragraphs: [
-          "A forward looking approach to social protection in rural areas must move beyond strict targeting. This includes designing responsive systems that can rise in times of crisis, using universal basic services where feasible, and embedding adaptive social registries that reflect real time changes in vulnerability. The countries can also abide by the concept of “responsible graduation” that ensures social protection systems provide flexible support that allows for movement both out of and back into programs as circumstances change. Rethinking protection for the near poor is not just about plugging gaps it’s about building buffers that ensure people don’t fall through them to begin with while addressing the multidimensional nature of poverty.",
-        ],
+        paragraphs: ["A forward looking approach to social protection in rural areas must move beyond strict targeting. This includes designing responsive systems that can rise in times of crisis, using universal basic services where feasible, and embedding adaptive social registries that reflect real time changes in vulnerability. The countries can also abide by the concept of “responsible graduation” that ensures social protection systems provide flexible support that allows for movement both out of and back into programs as circumstances change. Rethinking protection for the near poor is not just about plugging gaps it’s about building buffers that ensure people don’t fall through them to begin with while addressing the multidimensional nature of poverty."]
       },
       {
-        heading:
-          "Policy Recommendation for Reducing Rural Poverty: Strengthening Social Protection Frameworks",
-        paragraphs: [
-          "Despite years of development efforts, rural poverty continues to persist as a stubborn challenge in many low-income countries (Suttie, 2020). The vulnerability of rural populations is increased by limited access to basic services, volatile markets and environmental shocks. Some examples of the vulnerable people are: informal workers, women and children (Lazarte, 2021). Strengthening social protection frameworks is one of the best strategies to mitigate the condition.",
-        ],
+        heading: "Policy Recommendation for Reducing Rural Poverty: Strengthening Social Protection Frameworks",
+        paragraphs: ["Despite years of development efforts, rural poverty continues to persist as a stubborn challenge in many low-income countries (Suttie, 2020). The vulnerability of rural populations is increased by limited access to basic services, volatile markets and environmental shocks. Some examples of the vulnerable people are: informal workers, women and children (Lazarte, 2021). Strengthening social protection frameworks is one of the best strategies to mitigate the condition."]
       },
       {
-        heading:
-          "A. Expanding coverage through targeted and inclusive mechanisms",
-        paragraphs: [
-          "Many social protection systems have narrow reach as a key limitation. A World Bank report (2022) found that only 18% of the poorest rural households in Sub-Saharan Africa receive any form of formal social protection (International Labour Organization, 2020). Expanding coverage can help strengthen impact by adopting targeted and inclusive identification methods. In Malawi, for instance, the Social Cash Transfer Programme (SCTP) has demonstrated improved results by targeting ultra-poor and labor-constrained households, thereby ensuring that limited resources reach those in need (Government, 2024). Policies should also include vulnerable groups who are often excluded. Moreover, digital ID systems and mobile platforms can enhance outreach in remote areas (Musoni et al., 2023).",
-        ],
+        heading: "A. Expanding coverage through targeted and inclusive mechanisms",
+        paragraphs: ["Many social protection systems have narrow reach as a key limitation. A World Bank report (2022) found that only 18% of the poorest rural households in Sub-Saharan Africa receive any form of formal social protection (International Labour Organization, 2020). Expanding coverage can help strengthen impact by adopting targeted and inclusive identification methods. In Malawi, for instance, the Social Cash Transfer Programme (SCTP) has demonstrated improved results by targeting ultra-poor and labor-constrained households, thereby ensuring that limited resources reach those in need (Government, 2024). Policies should also include vulnerable groups who are often excluded. Moreover, digital ID systems and mobile platforms can enhance outreach in remote areas (Musoni et al., 2023)."]
       },
       {
-        heading:
-          "B. Strengthening institutional capacity and funding mechanisms",
-        paragraphs: [
-          "Sustainable funding and strong institution frameworks are the core of effective social protection. In many low-income countries, inefficiency is caused by administrative weaknesses such as poor coordination among ministries and data fragmentation (ILO, 2023). Governments should invest in institutional capacity-building through training, digitized systems and decentralized delivery models. For example, Rwanda’s Local Administrative Entities Development Agency (LODA) has shown how local control of social protection programs can improve responsiveness and monitoring (LODA, 2023). Additionally, predictable and diversified financing is essential. This includes allocating a dedicated percentage of GDP to social protection (Bierbaum & Schmitt, 2022). In Ethiopia, the Productive Safety Net Programme (PSNP) has successfully combined government funds with donor support to ensure continuity even during drought years (Tadesse, 2020).",
-        ],
+        heading: "B. Strengthening institutional capacity and funding mechanisms",
+        paragraphs: ["Sustainable funding and strong institution frameworks are the core of effective social protection. In many low-income countries, inefficiency is caused by administrative weaknesses such as poor coordination among ministries and data fragmentation (ILO, 2023). Governments should invest in institutional capacity-building through training, digitized systems and decentralized delivery models. For example, Rwanda’s Local Administrative Entities Development Agency (LODA) has shown how local control of social protection programs can improve responsiveness and monitoring (LODA, 2023). Additionally, predictable and diversified financing is essential. This includes allocating a dedicated percentage of GDP to social protection (Bierbaum & Schmitt, 2022). In Ethiopia, the Productive Safety Net Programme (PSNP) has successfully combined government funds with donor support to ensure continuity even during drought years (Tadesse, 2020)."]
       },
       {
-        heading:
-          "C. Integrating social protection with broader development goals",
-        paragraphs: [
-          "Integrated development planning is key, social protection should be aligned with national goals in education, health, agriculture and climate resilience (UNDP, 2020). For example; the productive inclusion model, which links cash transfers with skills training, access to inputs and market support (Bossuroy & Premand, 2021). In Sahel countries, the Sahel Adaptive Social Protection Program (SASPP) combines social safety nets with climate resilience tools, showing positive outcomes in food security and income diversification (Focus et al., 2023). Moreover, linking social protection to universal health coverage, school feeding programs and climate adaptation strategies ensures that the impact of interventions is multiplied across sectors (Watkins et al., 2024). Governments should therefore implement integrated development planning and coordinating with NGOs, donors and community stakeholders.",
-        ],
+        heading: "C. Integrating social protection with broader development goals",
+        paragraphs: ["Integrated development planning is key, social protection should be aligned with national goals in education, health, agriculture and climate resilience (UNDP, 2020). For example; the productive inclusion model, which links cash transfers with skills training, access to inputs and market support (Bossuroy & Premand, 2021). In Sahel countries, the Sahel Adaptive Social Protection Program (SASPP) combines social safety nets with climate resilience tools, showing positive outcomes in food security and income diversification (Focus et al., 2023). Moreover, linking social protection to universal health coverage, school feeding programs and climate adaptation strategies ensures that the impact of interventions is multiplied across sectors (Watkins et al., 2024). Governments should therefore implement integrated development planning and coordinating with NGOs, donors and community stakeholders."]
       },
       {
         heading: "D. Overview of recommendations",
-        paragraphs: [
-          "Strengthening social protection is important for effectively reducing rural poverty in low-income countries. Key strategies: expanding inclusive coverage, enhancing institutional and financial capacity and integrating protection with broader development goals like agriculture have been explained as solutions. For lasting impact, a rights-based, inclusive and well-funded approach is needed. With strong political will and community involvement, social protection can become a powerful tool for achieving SDG1: No Poverty.",
-        ],
-      },
+        paragraphs: ["Strengthening social protection is important for effectively reducing rural poverty in low-income countries. Key strategies: expanding inclusive coverage, enhancing institutional and financial capacity and integrating protection with broader development goals like agriculture have been explained as solutions. For lasting impact, a rights-based, inclusive and well-funded approach is needed. With strong political will and community involvement, social protection can become a powerful tool for achieving SDG1: No Poverty."]
+      }
     ],
     conclusion: [
-      "Social protection policies are essential to the pursuit of poverty reduction in low-income countries, particularly in rural areas where structural disadvantages persist. While existing programs have made progress in addressing extreme poverty, they often fail to account for the precarious position of the near poor and the multidimensional nature of rural deprivation. Income-based targeting methods, though common, leave many vulnerable households unsupported, especially during periods of crisis or transition. Importantly, social protection does more than alleviate poverty, it also enables rural development. When effectively implemented, it strengthens local economies through better living conditions, improves school attendance and health outcomes and reduces harmful coping strategies like child labor or debt. These spillover effects contribute to stronger rural institutions, enhanced human capital and long term development gains, that help build a resilient community. A shift toward inclusive and multidimensionally aware policies is not only necessary it is urgent. Without it rural poverty will remain deep rooted and broader goals of sustainable and equitable development will continue to fall short.",
+      "Social protection policies are essential to the pursuit of poverty reduction in low-income countries, particularly in rural areas where structural disadvantages persist. While existing programs have made progress in addressing extreme poverty, they often fail to account for the precarious position of the near poor and the multidimensional nature of rural deprivation. Income-based targeting methods, though common, leave many vulnerable households unsupported, especially during periods of crisis or transition. Importantly, social protection does more than alleviate poverty, it also enables rural development. When effectively implemented, it strengthens local economies through better living conditions, improves school attendance and health outcomes and reduces harmful coping strategies like child labor or debt. These spillover effects contribute to stronger rural institutions, enhanced human capital and long term development gains, that help build a resilient community. A shift toward inclusive and multidimensionally aware policies is not only necessary it is urgent. Without it rural poverty will remain deep rooted and broader goals of sustainable and equitable development will continue to fall short."
     ],
     references: [
       {
-        heading:
-          "Ahmed, D. (2022). COVID-19 pandemic recovery: Putting youth of Pakistan at the forefront. ",
+        heading: "Ahmed, D. (2022). COVID-19 pandemic recovery: Putting youth of Pakistan at the forefront. "
       },
       {
-        heading:
-          "In Beyond the pandemic: Leaving no one behind (Policy Brief Series), 188–192.",
+        heading: "In Beyond the pandemic: Leaving no one behind (Policy Brief Series), 188–192."
       },
       {
-        heading: "Hofman, B. (2020). The global pandemic. Ho, (16), 61–71.",
+        heading: "Hofman, B. (2020). The global pandemic. Ho, (16), 61–71."
       },
       {
-        heading:
-          "Midgley, J. (1999). Growth, redistribution, and welfare: Toward social investment. Social Service Review, 73(1), 3–21. ",
-        links: "https://doi.org/10.1086/515795",
+        heading: "Midgley, J. (1999). Growth, redistribution, and welfare: Toward social investment. Social Service Review, 73(1), 3–21. ",
+        links: "https://doi.org/10.1086/515795"
       },
       {
-        heading:
-          "Anami, Ali Keya. 'China's Belt and Road Initiative (BRI) and Its Role in Developing Africa's Economies. Case Study: Kenya's Standard Gauge Railway (SGR), Kenya.' Magna Scientia Advanced Research and Reviews, vol. 10, no. 1, 30 Jan. 2024, pp. 001-013, ",
-        links: "https://doi.org/10.30574/msarr.2024.10.1.0152",
+        heading: "Anami, Ali Keya. 'China's Belt and Road Initiative (BRI) and Its Role in Developing Africa's Economies. Case Study: Kenya's Standard Gauge Railway (SGR), Kenya.' Magna Scientia Advanced Research and Reviews, vol. 10, no. 1, 30 Jan. 2024, pp. 001-013, ",
+        links: "https://doi.org/10.30574/msarr.2024.10.1.0152"
       },
       {
-        heading:
-          "Bishop, Carly, and Dorothea Hilhorst. 'From Food Aid to Food Security: The Case of the Safety Net Policy in Ethiopia.' JSTOR, 2010, ",
-        links:
-          "www.jstor.org/stable/40864714?searchText=PSNP&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DPSNP%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A9fc933a8a43f9ca155f506a56accdfcd",
+        heading: "Bishop, Carly, and Dorothea Hilhorst. 'From Food Aid to Food Security: The Case of the Safety Net Policy in Ethiopia.' JSTOR, 2010, ",
+        links: "www.jstor.org/stable/40864714?searchText=PSNP&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DPSNP%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A9fc933a8a43f9ca155f506a56accdfcd"
       },
       {
-        heading:
-          "Eltokhy, Khaled. 'Public Investment Management Bottlenecks in Low-income Countries.' IMF Working Papers, vol. 2024, no. 232, Nov. 2024, p. 1, ",
-        links: "https://doi.org/10.5089/9798400289231.001",
+        heading: "Eltokhy, Khaled. 'Public Investment Management Bottlenecks in Low-income Countries.' IMF Working Papers, vol. 2024, no. 232, Nov. 2024, p. 1, ",
+        links: "https://doi.org/10.5089/9798400289231.001"
       },
       {
-        heading:
-          "Himmer, Michal, and Zden?k Rod. 'Chinese Debt Trap Diplomacy: Reality or Myth?' Journal of the Indian Ocean Region, vol. 18, no. 3, 2 Sept. 2022, pp. 250-72, ",
-        links: "https://doi.org/10.1080/19480881.2023.2195280",
+        heading: "Himmer, Michal, and Zden?k Rod. 'Chinese Debt Trap Diplomacy: Reality or Myth?' Journal of the Indian Ocean Region, vol. 18, no. 3, 2 Sept. 2022, pp. 250-72, ",
+        links: "https://doi.org/10.1080/19480881.2023.2195280"
       },
       {
-        heading:
-          "Monotax and Social Monotax in Uruguay. 2023. International Labour Organization, ",
-        links:
-          "www.social-protection.org/gimi/ShowRessource.action;jsessionid=e0PdJfOQwg8Us004sVBiL5WruHLe4pnvxA4f3n9AxoPpDTDr5pzt!87869965?id=58912",
+        heading: "Monotax and Social Monotax in Uruguay. 2023. International Labour Organization, ",
+        links: "www.social-protection.org/gimi/ShowRessource.action;jsessionid=e0PdJfOQwg8Us004sVBiL5WruHLe4pnvxA4f3n9AxoPpDTDr5pzt!87869965?id=58912"
       },
       {
-        heading:
-          "Kell, Fergus. 'Kenya's Debt Struggles Go Far Deeper than Chinese Loans.' Chatham House, 31 May 2023, ",
-        links:
-          "www.chathamhouse.org/2023/05/kenyas-debt-struggles-go-far-deeper-chinese-loans?utm",
+        heading: "Kell, Fergus. 'Kenya's Debt Struggles Go Far Deeper than Chinese Loans.' Chatham House, 31 May 2023, ",
+        links: "www.chathamhouse.org/2023/05/kenyas-debt-struggles-go-far-deeper-chinese-loans?utm"
       },
       {
-        heading:
-          "Tadesse, Tasew, and Tariku Gebremedhin Zeleke. 'The Impact of the Productive Safety Net Program (PSNP) on Food Security and Asset Accumulation of Rural Households': Evidence from Gedeo Zone, Southern Ethiopia.' Cogent Economics and Finance, vol. 10, no. 1, 14 June 2022, ",
-        links: "https://doi.org/10.1080/23322039.2022.2087285",
+        heading: "Tadesse, Tasew, and Tariku Gebremedhin Zeleke. 'The Impact of the Productive Safety Net Program (PSNP) on Food Security and Asset Accumulation of Rural Households': Evidence from Gedeo Zone, Southern Ethiopia.' Cogent Economics and Finance, vol. 10, no. 1, 14 June 2022, ",
+        links: "https://doi.org/10.1080/23322039.2022.2087285"
       },
       {
-        heading:
-          "Ulrichs, Martina. 'Extending Social Protection Coverage.'' Informality, Women and Social Protection: Identifying Barriers to Provide Effective Coverage, ODI, 2016, pp. 27-36. JSTOR, ",
-        links: "www.jstor.org/stable/resrep49674.10",
+        heading: "Ulrichs, Martina. 'Extending Social Protection Coverage.'' Informality, Women and Social Protection: Identifying Barriers to Provide Effective Coverage, ODI, 2016, pp. 27-36. JSTOR, ",
+        links: "www.jstor.org/stable/resrep49674.10"
       },
       {
-        heading:
-          "'Monotax and Social Monotax in Uruguay.' 22 Aug. 2023. Women in Informal Employment: Globalizing and Organizing(WIEGO), ",
-        links:
-          "www.wiego.org/research-library-publications/monotax-and-social-monotax-uruguay/",
+        heading: "'Monotax and Social Monotax in Uruguay.' 22 Aug. 2023. Women in Informal Employment: Globalizing and Organizing(WIEGO), ",
+        links: "www.wiego.org/research-library-publications/monotax-and-social-monotax-uruguay/"
       },
       {
-        heading:
-          "'Beyond the Budget : Fiscal Policy for Growth and Jobs - A Public Finance Review for Kenya (English).' World Bank Group, 2025, ",
-        links:
-          "documents1.worldbank.org/curated/en/099052625064075957/pdf/P508617-0037cc2b-2412-4d93-af21-b1a559f4c775.pdf",
+        heading: "'Beyond the Budget : Fiscal Policy for Growth and Jobs - A Public Finance Review for Kenya (English).' World Bank Group, 2025, ",
+        links: "documents1.worldbank.org/curated/en/099052625064075957/pdf/P508617-0037cc2b-2412-4d93-af21-b1a559f4c775.pdf"
       },
       {
-        heading:
-          "'Takaful and Karama: A Social Safety Net Project That Promotes Egyptian Women Empowerment and Human Capital.' 2020. World Bank Group, Takaful and Karama: A Social Safety Net project that Promotes Egyptian Women Empowerment and Human Capital. Accessed 29 June 2025.",
+        heading: "'Takaful and Karama: A Social Safety Net Project That Promotes Egyptian Women Empowerment and Human Capital.' 2020. World Bank Group, Takaful and Karama: A Social Safety Net project that Promotes Egyptian Women Empowerment and Human Capital. Accessed 29 June 2025."
       },
       {
-        heading:
-          "'Egypt: Transitioning Away from Subsidizing Fossil Fuels.' World Resources Institute, 1 Apr. 2021, ",
-        links:
-          "www.wri.org/snapshots/egypt-transitioning-away-subsidizing-fossil-fuels",
+        heading: "'Egypt: Transitioning Away from Subsidizing Fossil Fuels.' World Resources Institute, 1 Apr. 2021, ",
+        links: "www.wri.org/snapshots/egypt-transitioning-away-subsidizing-fossil-fuels"
       },
       {
-        heading:
-          " International Labour Organization. (n.d.). Challenges and opportunities in extending social security to workers in the informal economy (Chapter 1). In Social Protection[E‑module].",
-        links: "https://www.social-protection.org/gimi/Emodule.action?id=25",
+        heading: " International Labour Organization. (n.d.). Challenges and opportunities in extending social security to workers in the informal economy (Chapter 1). In Social Protection[E‑module].",
+        links: "https://www.social-protection.org/gimi/Emodule.action?id=25"
       },
       {
-        heading:
-          "Barrientos, A. & United Nations Research Institute for Social Development. (2010). Poverty Reduction and policy regimes",
-        links:
-          "https://cdn.unrisd.org/assets/library/papers/pdf-files/barrientos-pp.pdf",
+        heading: "Barrientos, A. & United Nations Research Institute for Social Development. (2010). Poverty Reduction and policy regimes",
+        links: "https://cdn.unrisd.org/assets/library/papers/pdf-files/barrientos-pp.pdf"
       },
       {
-        heading:
-          "Kind, M., & Lee, Y. F. (2021). Social protection in rural areas: achieving universal access for all. In the United Nations Department of Economic and Social Affairs, United Nations Department of Economic and Social Affairs [Policy Brief].",
-        links:
-          "https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/publication/PB_107.pdf",
+        heading: "Kind, M., & Lee, Y. F. (2021). Social protection in rural areas: achieving universal access for all. In the United Nations Department of Economic and Social Affairs, United Nations Department of Economic and Social Affairs [Policy Brief].",
+        links: "https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/publication/PB_107.pdf"
       },
       {
-        heading:
-          "Anna Sączewska-Piotrowska, 2016, Near poverty - definition, factors, predictions",
-        links: "https://share.google/vvgNpLkjGkaaMYzqv",
+        heading: "Anna Sączewska-Piotrowska, 2016, Near poverty - definition, factors, predictions",
+        links: "https://share.google/vvgNpLkjGkaaMYzqv"
       },
       {
-        heading:
-          "M. Kind, Yern Fai Lee, 2021, Social Protection in Rural Areas : Achieving Universal Access for All",
-        links:
-          "https://www.semanticscholar.org/paper/Social-Protection-in-Rural-Areas%3A-Achieving-Access-Kind-Lee/7fa06bb33a38e67efe35cf4ef3927992fc497521",
+        heading: "M. Kind, Yern Fai Lee, 2021, Social Protection in Rural Areas : Achieving Universal Access for All",
+        links: "https://www.semanticscholar.org/paper/Social-Protection-in-Rural-Areas%3A-Achieving-Access-Kind-Lee/7fa06bb33a38e67efe35cf4ef3927992fc497521"
       },
       {
-        heading:
-          "Rasella, D., et al, 2013, Effect of a conditional cash transfer programme on childhood mortality: A nationwide analysis of Brazilian municipalities",
-        links:
-          "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(13)60715-1/fulltext",
+        heading: "Rasella, D., et al, 2013, Effect of a conditional cash transfer programme on childhood mortality: A nationwide analysis of Brazilian municipalities",
+        links: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(13)60715-1/fulltext"
       },
       {
-        heading:
-          "Berhane, G., et al, 2014 , Can social protection work in Africa? The impact of Ethiopia’s Productive Safety Net Programme",
-        links: "https://doi.org/10.2499/9780896298748_04",
+        heading: "Berhane, G., et al, 2014 , Can social protection work in Africa? The impact of Ethiopia’s Productive Safety Net Programme",
+        links: "https://doi.org/10.2499/9780896298748_04"
       },
       {
-        heading:
-          "Alatas, V. et al, 2012, Targeting the poor: Evidence from a field experiment in Indonesia",
-        links: "https://www.aeaweb.org/articles?id=10.1257/aer.102.4.1206",
+        heading: "Alatas, V. et al, 2012, Targeting the poor: Evidence from a field experiment in Indonesia",
+        links: "https://www.aeaweb.org/articles?id=10.1257/aer.102.4.1206"
       },
       {
         heading: "Graduation from Social Protection",
-        links:
-          "https://capacity4dev.europa.eu/articles/graduation-social-protection-what-it-means-how-it-works",
+        links: "https://capacity4dev.europa.eu/articles/graduation-social-protection-what-it-means-how-it-works"
       },
       {
-        heading:
-          " Bierbaum, M., & Schmitt, V. (2022). Investing better in universal social protection: Applying international social security standards in social protection policy and financing, ILO Working Paper 43. ",
-        links: "www.ilo.org/global/publications/working-papers",
+        heading: " Bierbaum, M., & Schmitt, V. (2022). Investing better in universal social protection: Applying international social security standards in social protection policy and financing, ILO Working Paper 43. ",
+        links: "www.ilo.org/global/publications/working-papers"
       },
       {
-        heading:
-          "Bossuroy, T., & Premand, P. (2021). Productive inclusion measures in the Sahel. ",
-        links:
-          "https://thedocs.worldbank.org/en/doc/6ec01c2ff322bbe52aa9772f7506dc59-0380022021/original/CKEx-May-5-Economic-Inclusion-Sahel-Niger.pdf",
+        heading: "Bossuroy, T., & Premand, P. (2021). Productive inclusion measures in the Sahel. ",
+        links: "https://thedocs.worldbank.org/en/doc/6ec01c2ff322bbe52aa9772f7506dc59-0380022021/original/CKEx-May-5-Economic-Inclusion-Sahel-Niger.pdf"
       },
       {
-        heading:
-          "Focus, C., Security, C., On, S., Protection, S., & Adaptation, C. C. (2023). REACTIVE ASSISTANCE OR PROACTIVE PROTECTION ? SOCIAL PROTECTION AND CLIMATE RESILIENCE IN THE SAHEL REGION CGIAR FOCUS CLIMATE SECURITY SERIES ON SOCIAL PROTECTION AND CLIMATE CHANGE ADAPTATION December 2023. December. ",
-        links:
-          "https://cgspace.cgiar.org/bitstreams/e875fe86-5d20-4385-8231-699bec29776f/download",
+        heading: "Focus, C., Security, C., On, S., Protection, S., & Adaptation, C. C. (2023). REACTIVE ASSISTANCE OR PROACTIVE PROTECTION ? SOCIAL PROTECTION AND CLIMATE RESILIENCE IN THE SAHEL REGION CGIAR FOCUS CLIMATE SECURITY SERIES ON SOCIAL PROTECTION AND CLIMATE CHANGE ADAPTATION December 2023. December. ",
+        links: "https://cgspace.cgiar.org/bitstreams/e875fe86-5d20-4385-8231-699bec29776f/download"
       },
       {
-        heading:
-          "Government, M. (2024). Malawi Social Cash Transfer Programme ( SCTP ) Longitudinal Impact Evaluation. ",
-        links:
-          "https://mtukula.com/userdata/repo/Malawi_SCTP_Baseline_Report_A4_Web 1.pdf",
+        heading: "Government, M. (2024). Malawi Social Cash Transfer Programme ( SCTP ) Longitudinal Impact Evaluation. ",
+        links: "https://mtukula.com/userdata/repo/Malawi_SCTP_Baseline_Report_A4_Web 1.pdf"
       },
       {
-        heading:
-          "ILO, O. and I. (2023). Sustainable Financing of Social Protection Technical paper prepared for the 1 st meeting of the Employment Working Group under the Indian presidency. January, 1–26.",
+        heading: "ILO, O. and I. (2023). Sustainable Financing of Social Protection Technical paper prepared for the 1 st meeting of the Employment Working Group under the Indian presidency. January, 1–26."
       },
       {
-        heading:
-          "International Labour Organization. (2020). World Social Protection Report Regional companion report for Africa. ",
-        links:
-          "https://www.social-protection.org/gimi/RessourcePDF.action?id=57822",
+        heading: "International Labour Organization. (2020). World Social Protection Report Regional companion report for Africa. ",
+        links: "https://www.social-protection.org/gimi/RessourcePDF.action?id=57822"
       },
       {
-        heading:
-          "Bierbaum, M., & Schmitt, V. (2022). Investing better in universal social protection: Applying international social security standards in social protection policy and financing, ILO Working Paper 43. ",
-        links: "www.ilo.org/global/publications/working-papers",
+        heading: "Bierbaum, M., & Schmitt, V. (2022). Investing better in universal social protection: Applying international social security standards in social protection policy and financing, ILO Working Paper 43. ",
+        links: "www.ilo.org/global/publications/working-papers"
       },
       {
-        heading:
-          "Bossuroy, T., & Premand, P. (2021). Productive inclusion measures in the Sahel. ",
-        links:
-          "https://thedocs.worldbank.org/en/doc/6ec01c2ff322bbe52aa9772f7506dc59-0380022021/original/CKEx-May-5-Economic-Inclusion-Sahel-Niger.pdf Focus, C., Security, C., On, S., Protection, S., & Adaptation, C. C. (2023).",
+        heading: "Bossuroy, T., & Premand, P. (2021). Productive inclusion measures in the Sahel. ",
+        links: "https://thedocs.worldbank.org/en/doc/6ec01c2ff322bbe52aa9772f7506dc59-0380022021/original/CKEx-May-5-Economic-Inclusion-Sahel-Niger.pdf Focus, C., Security, C., On, S., Protection, S., & Adaptation, C. C. (2023)."
       },
       {
-        heading:
-          "REACTIVE ASSISTANCE OR PROACTIVE PROTECTION ? SOCIAL PROTECTION AND CLIMATE RESILIENCE IN THE SAHEL REGION CGIAR FOCUS CLIMATE SECURITY SERIES ON SOCIAL PROTECTION AND CLIMATE CHANGE ADAPTATION December 2023. December. ",
-        links:
-          "https://cgspace.cgiar.org/bitstreams/e875fe86-5d20-4385-8231-699bec29776f/download",
+        heading: "REACTIVE ASSISTANCE OR PROACTIVE PROTECTION ? SOCIAL PROTECTION AND CLIMATE RESILIENCE IN THE SAHEL REGION CGIAR FOCUS CLIMATE SECURITY SERIES ON SOCIAL PROTECTION AND CLIMATE CHANGE ADAPTATION December 2023. December. ",
+        links: "https://cgspace.cgiar.org/bitstreams/e875fe86-5d20-4385-8231-699bec29776f/download"
       },
       {
-        heading:
-          "Government, M. (2024). Malawi Social Cash Transfer Programme ( SCTP ) Longitudinal Impact Evaluation.",
-        links:
-          "https://mtukula.com/userdata/repo/Malawi_SCTP_Baseline_Report_A4_Web 1.pd ILO, O. and I. (2023). ",
+        heading: "Government, M. (2024). Malawi Social Cash Transfer Programme ( SCTP ) Longitudinal Impact Evaluation.",
+        links: "https://mtukula.com/userdata/repo/Malawi_SCTP_Baseline_Report_A4_Web 1.pd ILO, O. and I. (2023). "
       },
       {
-        heading:
-          "Sustainable Financing of Social Protection Technical paper prepared for the 1 st meeting of the Employment Working Group under the Indian presidency. January, 1–26.",
+        heading: "Sustainable Financing of Social Protection Technical paper prepared for the 1 st meeting of the Employment Working Group under the Indian presidency. January, 1–26."
       },
       {
-        heading:
-          "International Labour Organization. (2020). World Social Protection Report Regional companion report for Africa. ",
-        links:
-          "https://www.social-protection.org/gimi/RessourcePDF.action?id=57822",
+        heading: "International Labour Organization. (2020). World Social Protection Report Regional companion report for Africa. ",
+        links: "https://www.social-protection.org/gimi/RessourcePDF.action?id=57822"
       },
       {
-        heading:
-          "Lazarte, A. (2021). in Rural Economies. International Labour Office (ILO), 214. ",
-        links: "https://www.ilo.org/media/423391/download ODA. (2023). ",
+        heading: "Lazarte, A. (2021). in Rural Economies. International Labour Office (ILO), 214. ",
+        links: "https://www.ilo.org/media/423391/download ODA. (2023). "
       },
       {
-        heading:
-          "VUP_OPERATIONAL_MANUAL-_SUSTAINABLE_LIVELIHOOD_ENHANCEMENT_SCHEMES_AND_PARA_SOCIAL_WORKERS.pdf. ",
-        links:
-          "https://www.loda.gov.rw/index.php?eID=dumpFile&t=f&f=107041&token=3731ea1e592966c36004864d11e9b928b903e527",
+        heading: "VUP_OPERATIONAL_MANUAL-_SUSTAINABLE_LIVELIHOOD_ENHANCEMENT_SCHEMES_AND_PARA_SOCIAL_WORKERS.pdf. ",
+        links: "https://www.loda.gov.rw/index.php?eID=dumpFile&t=f&f=107041&token=3731ea1e592966c36004864d11e9b928b903e527"
       },
       {
-        heading:
-          "Musoni, M., Domingo, E., & Ogah, E. (2023). Digital ID systems in Africa: Challenges, risks and opportunities. 360.",
+        heading: "Musoni, M., Domingo, E., & Ogah, E. (2023). Digital ID systems in Africa: Challenges, risks and opportunities. 360."
       },
       {
-        heading:
-          "Suttie, D. (2020). Overview: Rural Poverty in Developing Countries: Issues, Policies and Challenges. Investing in Rural People, 1–23. ",
-        links:
-          "https://social.desa.un.org/sites/default/files/migrated/22/2019/03/EGM-eradicating-rural-poverty-IFAD_final.pdf",
+        heading: "Suttie, D. (2020). Overview: Rural Poverty in Developing Countries: Issues, Policies and Challenges. Investing in Rural People, 1–23. ",
+        links: "https://social.desa.un.org/sites/default/files/migrated/22/2019/03/EGM-eradicating-rural-poverty-IFAD_final.pdf"
       },
       {
-        heading:
-          "Tadesse, G. (2020). Agriculture and Social Protection : The Experience of Ethiopia ’ s Productive. 16–33. ",
-        links:
-          "https://cgspace.cgiar.org/server/api/core/bitstreams/58ba303a-5c0f-4838-a1d3-9e9d10b2ca11/content",
+        heading: "Tadesse, G. (2020). Agriculture and Social Protection : The Experience of Ethiopia ’ s Productive. 16–33. ",
+        links: "https://cgspace.cgiar.org/server/api/core/bitstreams/58ba303a-5c0f-4838-a1d3-9e9d10b2ca11/content"
       },
       {
-        heading:
-          "UNDP. (2020). Integrated Planning &amp; Sustainable Development: Challenges and Opportunities Synthesis Report. 136. ",
-        links:
-          "http://www.undp.org/content/dam/undp/library/Sustainable Development/PAGE_Integrated_Planning_and_SD_SynthesisReport.pdf",
+        heading: "UNDP. (2020). Integrated Planning &amp; Sustainable Development: Challenges and Opportunities Synthesis Report. 136. ",
+        links: "http://www.undp.org/content/dam/undp/library/Sustainable Development/PAGE_Integrated_Planning_and_SD_SynthesisReport.pdf"
       },
       {
-        heading:
-          "Watkins, K., Fiala, O., Haag, P., & Zubairi, A. (2024). School feeding and the Sustainable Development Goals transform food systems and strengthen equity. September. ",
-        links:
-          "https://schoolmealscoalition.org/sites/default/files/2024-11/ODI_School_feeding_and_the_SDGs.pdf",
-      },
-    ],
+        heading: "Watkins, K., Fiala, O., Haag, P., & Zubairi, A. (2024). School feeding and the Sustainable Development Goals transform food systems and strengthen equity. September. ",
+        links: "https://schoolmealscoalition.org/sites/default/files/2024-11/ODI_School_feeding_and_the_SDGs.pdf"
+      }
+    ]
   },
   {
     id: 1,
     issue: 2,
     volume: 1,
-    title:
-      "REWIRING THE ENGINES OF GROWTH: SMART INFRASTRUCTURE FOR RESILIENT CITIES IN THE GLOBAL SOUTH",
-    author:
-      "Abhay Kumar, Vidushi Dwivedi, Munira Mahmud, Oluwatosin Owolabi Lajuwomi, Kashak Soni, Sayma Akter Santa, Kashak Soni",
+    title: "REWIRING THE ENGINES OF GROWTH: SMART INFRASTRUCTURE FOR RESILIENT CITIES IN THE GLOBAL SOUTH",
+    author: "Abhay Kumar, Vidushi Dwivedi, Munira Mahmud, Oluwatosin Owolabi Lajuwomi, Kashak Soni, Sayma Akter Santa, Kashak Soni",
     authorAbbrev: "A. Kumar, V. Dwivedi and others",
     abstract: [
       `Urbanisation is no longer a choice but a condition of the 21st century. With over half the world’s population now living in cities—and much of that growth concentrated in the Global South—the question is not whether cities will expand, but whether they will do so equitably, sustainably, and humanely. This research reimagines cities as not just engines of economic growth but as ecosystems of care, coexistence, and collective well-being. Against the backdrop of infrastructural decay, informal settlements, and deepening inequalities, this paper proposes a reframing of "smart cities"—not as technologically saturated spaces but as inclusive, adaptive, and just habitats that respond to the needs of all, not just the privileged few.`,
@@ -4223,12 +3737,12 @@ const articles = [
       `At the core is the proposed 3A Framework: infrastructure must be Adaptive to climate and systemic shocks, Accessible to historically excluded communities, and Agile enough to evolve with dynamic urban needs. The study critiques how dominant urban models marginalise the lived experiences of women, LGBTQIA+ persons, migrants, and non-human species by prioritising top-down, technocratic planning.`,
       `Gender-inclusive planning, the integration of mental health and psychosocial support (MHPSS), and recognition of animal life as part of urban ecosystems emerge as critical pillars of inclusive smart cities. From Pune’s trans-inclusive toilets to Nairobi’s digital literacy for LGBTQIA+ youth and Jaipur’s humane animal control programs, the study documents how cities can be reimagined as sites of belonging and dignity.`,
       `The research also calls for transforming urban governance into a co-governed, multi-actor process that breaks down institutional silos and embeds ethics in planning. Ultimately, it presents a blueprint for building cities in the Global South that are not only digitally enabled, but emotionally, socially, and ecologically intelligent. It asks: What if smart cities were not just about better tools—but better values?`,
+
     ],
     status: "Submitted",
     content: [
       {
-        heading:
-          "Smart Cities, Smarter Futures: Building Inclusive Infrastructure",
+        heading: "Smart Cities, Smarter Futures: Building Inclusive Infrastructure",
         paragraphs: [
           `Cities have long been considered the engines of economic growth. “Over 80% of global economic activity is concentrated in cities. And there is no country that has ever reached middle income status without urbanizing, and none has reached high income status without vibrant cities” (Mohieldin, 2017).`,
           `Yet today, cities are increasingly struggling to keep pace with the pressures of rapid urbanisation. An apt analogy can help explain this. Think of cities as cars built in the 1960s—originally designed for fewer passengers, basic roads & slower speeds. Over time, they’ve been retrofitted, patched, and pushed to perform in high-pressure conditions, but without major upgrades, they sputter under modern demands. Just as a vintage car needs a new engine, sensors, GPS, and fuel efficiency to run today, our cities too need smart infrastructure, data integration, and inclusive design to serve 21st-century populations. This, in essence, is what defines a smart city, an urban ecosystem that leverages technology and inclusive planning to deliver sustainable and resilient living for all.`,
@@ -4242,7 +3756,7 @@ const articles = [
           `The 3A Framework: A Model for Inclusive Urban Resilience`,
           `Building on the principles of established models like the Smart–Green–Resilient framework used in Hong Kong for sustainable urban planning (ResearchGate, 2022), and the Smart–Resilience–Sustainability triangle from Cañavera Herrera et al. (2022), the 3A framework—Adaptive, Accessible & Agile—offers a practical approach for Global South cities seeking truly inclusive smart infrastructure. Infrastructure should be adaptive, using real-time data and sensor technology to anticipate and respond to urban challenges like flooding, power outages, or traffic congestion. It must be accessible, reaching marginalized communities, informal settlements, and persons with disabilities through equitable service delivery, universal design, and language-inclusive digital platforms. Finally, it must be agile—integrating climate-resilient and nature-based solutions such as sponge pavements, decentralized energy systems, and modular housing that can evolve with urban needs. Together, these three pillars ensure that smart infrastructure is not only efficient, but also equitable and resilient in the face of dynamic urban pressures.`,
           `So just upgrading legacy cities is not a luxury—it’s imperative. Smart infrastructure must go beyond digital shine to serve slums, informal labor hubs, and marginalized zones. Policymakers must invest in data-driven upgrades, embed equity at design stage, and foster community co-creation. Only then will our Global South cities run like modern, inclusive engines—fit for both economic growth and social resilience.`,
-        ],
+        ]
       },
       {
         heading: "Sustainable Infrastructure: A Pressing Priority",
@@ -4261,7 +3775,7 @@ const articles = [
           `A Cost-Effective Path to Sustainable and Resilient Cities: Nature-Based Solutions (NBS) offer climate-resilient, cost-effective urban infrastructure. Examples include floodable parks in Bangkok and green roofs in Singapore. NBS reduces costs by 42% and delivers co-benefits like cleaner air, biodiversity, and well-being while supporting other sustainable systems like energy and mobility.`,
           `Living infrastructure: Living infrastructure—green, blue, and grey systems—enhances urban resilience by delivering ecological, social, and economic benefits. Examples like urban forests and wetlands offer cooling, carbon capture, and habitat support. Canberra’s case highlights global strategies for integrating nature-based solutions into sustainable urban renewal and planning.`,
           `IoT in Urban Development: The MDPI review highlights how IoT enhances Green Storm water Infrastructure by integrating sensors, data communication, and automated controls—like smart rain barrels, green roofs, and bioretention systems—for real-time water quantity and quality management. Examples include soil-moisture sensors and RTC-controlled detention ponds, boosting efficiency and flood resilience.`,
-        ],
+        ]
       },
       {
         heading: `Urban Governance 2.0: Harnessing Actors and Innovations for Resilient and Sustainable Cities `,
@@ -4297,16 +3811,18 @@ const articles = [
           `•	Urban climate adaptation networks (e.g., C40 Cities, 100 Resilient Cities)`,
           `•	Inclusive slum upgrading projects (e.g., Pune, Cape Town)`,
           `Urban governance must be adaptive, inclusive, and transparent to meet the challenges of 21st-century urbanization. Effective coordination between actors and strategic planning is key to sustainable development. Future governance models should prioritize participation and social justice.`,
-        ],
+
+        ]
       },
       {
         heading: `Political Inclusion: A Catalyst for Equitable Urban Planning and Effective Public Service Delivery `,
-        paragraphs: [
+        paragraphs:[
           `Exclusion of migrants from decision-making in their host community often limits their access to certain public goods, highlighting a common issue migrants face in participating in local governance. The migration of people seeking better livelihoods has led to rapid urbanization within and between countries, leading to intense competition for limited resources and affecting public service delivery (World Migration Report, 2015). Elections, which are the foundation of a democratic system, provide an avenue for citizens to choose their representatives.  While a significant portion of urban populations consists of migrants (migration data, 2022), they are often ineligible to vote for their representatives or compete for principal positions. How citizens are represented directly impacts their satisfaction (Metwally & Samir, 2024), giving governments insights on how to improve the experiences of different demographic groups with public services. According to Alba and Foner (2015), the level of representation of individuals with a migrant background is a key indicator of a society’s inclusion capacity. It is also vital for communities to create channels or policies for immigrants to voice their concerns.`,
           `Research has been conducted on the political representation and participation of migrants, exploring how migration politics are played out (Gherghina and Basarabă, 2024; Zogu & Schönthaler, 2023). As the share of the world’s population living in urban areas is expected to increase by 60% in 2030 (United Nations, 2018), urban planning should therefore be a priority for governments in addressing societal issues. Town planners have often ignored the issue of migrant populations, which has often jeopardized the effective delivery of public services (Patel, Patel & Tailor, 2024). The political inclusion of migrants in decision-making is essential for urban planning to ensure equitable access to public services.`,
           `The lack of participation of migrants in decision-making has created inequality between migrants and the indigenous people of such communities (International Organization for Migration, n.d.). The idea that a better life is available elsewhere and that moving can help reduce the differences between their situation and that of people in more prosperous areas is common. However, migrants often face the harsh reality that they may have unequal access to rights and public resources. While local governments play a significant role in making sure urban areas are inclusive, many people in large urban populations still lack access to adequate public resources (World Migration Report, 2015), most of whom are migrants because they are new to the environment. `,
           `In low-income settings such as communities in the global south, rapid urbanization can lead to high levels of inaccessible infrastructure, housing shortages, and service gaps, placing pressure on local governments and national agencies due to congestion. This can bring a positive outcome if properly managed through collective governance, it can boost economic growth in the urban area (World Migration Report, 2015). `,
-        ],
+
+        ]
       },
       {
         heading: `Gender Inclusion: Rethinking Participation, Presence, and Power`,
@@ -4336,11 +3852,12 @@ const articles = [
           `However, the real shift lies in reclaiming who holds the pen in planning processes. Participation means power. Women and LGBTQIA+ persons must not only be consulted but placed within the core decision-making architecture, defining priorities, shaping budgets, and evaluating success. And crucially, their voices must be heard not as a monolith but in their rich diversity marked by intersections of class, caste, religion, disability, and age.`,
           `There are models to learn from, though not to copy blindly. Still, it’s worth remembering that no imported model will work without deep contextual understanding. Inclusive smart cities cannot be engineered from above. They must emerge from listening, co-creating, and rethinking what success means in urban life.`,
           `Ultimately, at stake is not just access to services or digital tools, it is the fundamental right to belong in, shape, and transform the city. A truly smart city is not one filled with sensors and apps, but one where every resident, regardless of identity, can live with dignity, security, and voice.`,
-        ],
+
+        ]
       },
       {
         heading: `Building Minds, Not Just Cities: Integrating Mental Health and Psychosocial Support`,
-        paragraphs: [
+        paragraphs:[
           `In South Asia, urbanization is occurring at an alarming rate, with megacities such as Dhaka, Mumbai, and Karachi experiencing significant changes due to the implementation of metro rail services, expressway development, and the redevelopment of mass housing (WHO, 2022). Such infrastructural improvements, which are integrated with the plans of a smart city, will benefit the efficiency of transportation, access to housing, and economic viability (UN-Habitat, 2020). Nevertheless, because of these advancements, the marginalized communities and existing informal settlements are usually displaced, thus causing extreme imbalances in their social and psychological health (Cernea, 2000; Srinivasan and Nuthalapati, 2020).`,
           `Displacement not only implies a change of residence; it destroys social bonds, familial connections, and emotional attachments, particularly in helpless populations like women, older people, and youth (Bhugra & Becker, 2005; Fernandez, 2014). Although most of the projects have provisions of financial compensation or housing options, most are inadequate to record the long-term impacts of the psychological health effects caused by the trauma of resettlement (Lakshman & Rajan, 2023).`,
           `The AECom landscape in infrastructure planning is just one of the symptoms of a larger policy silo: the mental health is ignored by the agencies of the urban development and transport ministries that center their work on engineering and logistics, and the domain of psychosocial care is almost always assigned to underfunded and overstretched health ministries (Saxena et al., 2007; WHO, 2014). It is the argument made in this paper to incorporate Mental Health and Psychosocial Support (MHPSS) services into planning, implementing, and following up infrastructure projects to re-conceptualize the view of development as not merely a physical, but an anthropocentric adaptation of resilience (Patel, 2007).`,
@@ -4366,7 +3883,8 @@ const articles = [
           `Governments and donors would be well-advised to invest in the pilot projects testing the viability and effectiveness of MHPSS integration in cities such as Dhaka, Mumbai, or Colombo to establish empirical evidence (Kanai, & Schindler, 2022). These pilots ought to have systems of monitoring and evaluation to create data on scaling up.`,
           `In the effort of South Asian cities turning towards smart and sustainable development, it is also important that they need to embark on socially responsible and psychologically astute urban planning. Incorporation of mental health into construction activities makes the process of displacement a smooth one, rather than an ordeal that violates human dignity and well-being (Oswald et al., 2024).`,
           `Such a policy is novel and consistent with other international structures, including SDG 3 (Health and Well-being), SDG 10 (Reduced Inequality), and SDG 11 (Sustainable Cities and Communities) (UNDP, 2020). South Asia has the opportunity to show the way in creating not only smart, but also emotionally resilient cities of the future through incorporating MHPSS into the governance of infrastructure.`,
-        ],
+
+        ]
       },
       {
         heading: `Coexistence, Not Control: Welfare of the voiceless`,
@@ -4377,244 +3895,245 @@ const articles = [
           `Take the example of Jaipur, which has introduced community feeding zones, sterilisation initiatives, and GPS-enabled monitoring for stray dog populations. While not without flaws, these efforts suggest a different vision: one where coexistence is managed with care, not cruelty. Similar models in cities like Thiruvananthapuram or Kathmandu have also shown that conflict mitigation, veterinary access, and civic awareness can replace punitive approaches.`,
           `The question, then, is not whether animals should exist in cities, but how we choose to live with them. A truly inclusive smart city cannot be defined only by broadband speed or efficient traffic. It must also be measured by how it treats its most vulnerable beings—human and non-human alike. In this context, urban planners and policy-makers must integrate animal welfare into environmental sustainability, public health, and ethical urbanism frameworks. Humane birth control, access to clean water, and designated shelters are not luxuries; they are signs of a city that recognises compassion as a civic virtue.`,
           `After all, the future of cities does not belong to humans alone. And if our goal is to build cities that are truly intelligent, they must be ones that make room for empathy, interdependence, and coexistence.`,
-        ],
-      },
+        ]
+      }
     ],
-    references: [
-      {
-        heading: `Acuto, M., Steenmans, K., & Iwaszuk, E. (2021). Smart cities, sustainable development, and data-driven urbanism: A conceptual framework. Urban Studies, 58(5), 971–988. https://doi.org/10.1177/0042098020937245`,
-      },
-      {
-        heading: `Ager, A., & Strang, A. (2008). Understanding integration: A conceptual framework. Journal of Refugee Studies, 21(2), 166–191.`,
-      },
-      {
-        heading: `Alba, R., & Foner, N. (2015). Strangers no more: Immigration and the challenges of integration in North America and Western Europe. Princeton University Press. https://doi.org/10.1080/01419870.2016.1203451`,
-      },
-      {
-        heading: `Asian Development Bank. (2022). Strengthening Social Safeguards in Infrastructure Investments in Asia.`,
-      },
-      {
-        heading: `Bardhan, R., Sarkar, S., Jana, A., & Velaga, N. R. (2015). Mumbai slums since independence: Evaluating the policy outcomes. Habitat International, 50, 1–11.`,
-      },
-      {
-        heading: `Bhan, G. (2009). “This is no longer the city I once knew”: Evictions, the urban poor and the right to the city in millennial Delhi. Environment and Urbanization, 21(1), 127–142.`,
-      },
-      {
-        heading: `Bhan, G. (2020). Notes on a Southern urban practice. Environment and Urbanization, 32(1), 7–22. https://doi.org/10.1177/0956247819896405`,
-      },
-      {
-        heading: `Bhugra, D., & Becker, M. A. (2005). Migration, cultural bereavement and cultural identity. World Psychiatry, 4(1), 18–24.`,
-      },
-      {
-        heading: `British Standards Institution. (2014). PAS 180: Smart cities vocabulary. https://shop.bsigroup.com/`,
-      },
-      {
-        heading: `British Standards Institution. (2014). PAS 181: Smart city framework. https://shop.bsigroup.com/`,
-      },
-      {
-        heading: `Bulkeley, H., & Betsill, M. M. (2003). Cities and climate change: Urban sustainability and global environmental governance. Routledge. https://doi.org/10.4324/9780203304847`,
-      },
-      {
-        heading: `Cañavera-Herrera, I., Chicaiza, L., & Paredes, J. (2022). Smart, resilient and sustainable cities: A systematic literature review of integration frameworks. Sustainability, 14(12), 7093. https://doi.org/10.3390/su14127093`,
-      },
-      {
-        heading: `Cernea, M. M. (2000). Risks, safeguards and reconstruction: A model for population displacement and resettlement. Economic and Political Weekly, 3659–3678.`,
-      },
-      {
-        heading: `Chen, J., Zhang, S. X., Yin, A., & Yáñez, J. A. (2022). Mental health symptoms during the COVID-19 pandemic in developing countries: A systematic review and meta-analysis. Journal of Global Health, 12, 05011.`,
-      },
-      {
-        heading: `Chatham House. (n.d.). Building sustainable infrastructure. https://www.jstor.org/stable/resrep16098`,
-      },
-      {
-        heading: `Cosgrove, L., Mills, C., Karter, J. M., Mehta, A., & Kalathil, J. (2020). A critical review of the Lancet Commission on global mental health and sustainable development: Time for a paradigm change. Critical Public Health, 30(5), 624–631.`,
-      },
-      {
-        heading: `Das, A. (2015). Participatory slum upgrading: Lessons from post-decentralization India and Indonesia. Journal of Indonesian Regional Development and Environment, 1(1), 15–34.`,
-      },
-      {
-        heading: `Datta, A. (2018). The digital turn in postcolonial urbanism: Smart citizenship in the making of India's 100 smart cities. Transactions of the Institute of British Geographers, 43(3), 405–419. https://doi.org/10.1111/tran.12225`,
-      },
-      {
-        heading: `Desjarlais, R., Eisenberg, L., Good, B., & Kleinman, A. (1995). World Mental Health: Problems and Priorities in Low-Income Countries. Oxford University Press.`,
-      },
-      {
-        heading: `Fung, A., & Wright, E. O. (2003). Deepening democracy: Institutional innovations in empowered participatory governance. Verso.`,
-      },
-      {
-        heading: `Gherghina, S., & Basarabă, A. (2024). Migrants' voter turnout in the home country elections: Non‐integration or political anchor? Politics and Governance, 12. https://doi.org/10.17645/pag.7396`,
-      },
-      {
-        heading: `Global Infrastructure Hub. (n.d.). Sustainable infrastructure. https://www.gihub.org/sustainable-infrastructure/`,
-      },
-      {
-        heading: `Healey, P. (2006). Collaborative planning: Shaping places in fragmented societies (2nd ed.). Palgrave Macmillan.`,
-      },
-      {
-        heading: `Hollands, R. G. (2008). Will the real smart city please stand up? City, 12(3), 303–320. https://doi.org/10.1080/13604810802479126`,
-      },
-      {
-        heading: `Human Rights Watch. (2021). Philippines: LGBT People Face Abuse, Discrimination. https://www.hrw.org/news/2017/08/23/philippines-lgbt-people-face-abuse-discrimination`,
-      },
-      {
-        heading: `IASC. (2007). IASC Guidelines on Mental Health and Psychosocial Support in Emergency Settings. Geneva: IASC.`,
-      },
-      {
-        heading: `Institute for Transportation and Development Policy. (2021). MyCiTi: South Africa’s first full bus rapid transit. https://www.itdp.org`,
-      },
-      {
-        heading: `International Organization for Migration. (n.d.). Reducing global inequalities. https://www.iom.int/reducing-global-inequalities`,
-      },
-      {
-        heading: `Jain, S., & Jadhav, S. (2008). A cultural critique of community psychiatry in India. International Journal of Health Services, 38(3), 561–584.`,
-      },
-      {
-        heading: `Kanai, J. M., & Schindler, S. (2022). Infrastructure-led development and the peri-urban question: Furthering crossover comparisons. Urban Studies, 59(8), 1597–1617.`,
-      },
-      {
-        heading: `Lakshman, R. W., & Rajan, S. I. (2023). Forced Migration and Urban Transformation in South Asia.`,
-      },
-      {
-        heading: `Metwally, E., & Samir, E. (2024). Assessing citizen satisfaction indicators for urban public services to enhance quality of life in Sharm el-Sheikh. Ain Shams Engineering Journal, 15(8), 102841. https://doi.org/10.1016/j.asej.2024.102841`,
-      },
-      {
-        heading: `Migration Data Portal. (2022). Urbanisation and migration. https://www.migrationdataportal.org/themes/urbanization-and-migration`,
-      },
-      {
-        heading: `Ministry of Housing and Urban Affairs (MoHUA). (2023). Model Guidelines for Stray Animal Management. Government of India. https://smartnet.niua.org/content/43d2c9fa-f569-45b7-8b3f-58e75c001bf7`,
-      },
-      {
-        heading: `Miraftab, F. (2004). Making neo-liberal governance: The disempowering work of empowerment. International Planning Studies, 9(4), 239–259. https://doi.org/10.1080/13563470500050321`,
-      },
-      {
-        heading: `Mitlin, D., & Satterthwaite, D. (2013). Urban poverty in the global South: Scale and nature. Routledge. https://doi.org/10.4324/9780203069661`,
-      },
-      {
-        heading: `Mohieldin, M. (2017, May 8). Importance of well-managed urban development for combating poverty and increasing job creation. World Bank. https://www.worldbank.org/en/news/speech/2017/05/08/wbg-svp-mahmoud-mohieldin-importance-of-well-managed-urban-development-for-combating-poverty-and-increasing-job-creation`,
-      },
-      {
-        heading: `Narayanan, Y. (2017). Multispecies entanglements in the city: Urban political ecologies of stray dogs in India. Antipode, 49(4), 1049–1067. https://doi.org/10.1111/anti.12324`,
-      },
-      {
-        heading: `Oswald, T. K., Nguyen, M. T., Mirza, L., Lund, C., Jones, H. G., Crowley, G., ... & Das-Munshi, J. (2024). Interventions targeting social determinants of mental disorders and the Sustainable Development Goals: A systematic review of reviews. Psychological Medicine, 1–25.`,
-      },
-      {
-        heading: `Patel, L. P., Patel, C. R., & Tailor, R. M. (2024). Prioritising barriers to women’s professional advancement in urban planning in India. Proceedings of the Institution of Civil Engineers– Urban Design and Planning, 177(2), 57–74. https://doi.org/10.1680/jurdp.23.00025`,
-      },
-      {
-        heading: `Patel, V. (2007). Mental health in low- and middle-income countries. British Medical Bulletin, 81–82, 81–96. https://doi.org/10.1093/bmb/ldm010`,
-      },
-      {
-        heading: `Patel, V., Saxena, S., Lund, C., Thornicroft, G., Baingana, F., Bolton, P., ... & Unützer, J. (2018). The Lancet Commission on global mental health and sustainable development. The Lancet, 392(10157), 1553–1598. https://doi.org/10.1016/S0140-6736(18)31612-X`,
-      },
-      {
-        heading: `Payne, G. (2005). Getting ahead of the game: A twin-track approach to improving existing slums and reducing the need for future slums. Environment and Urbanization, 17(1), 135–145. https://doi.org/10.1177/095624780501700111`,
-      },
-      {
-        heading: `Phadke, S., Khan, S., & Ranade, S. (2011). Why Loiter? Women and Risk on Mumbai Streets. Penguin Books India. https://books.google.com/books?id=Z1pBDwAAQBAJ`,
-      },
-      {
-        heading: `Pierre, J. (2011). The politics of urban governance. Palgrave Macmillan. https://doi.org/10.1007/978-0-230-35673-7`,
-      },
-      {
-        heading: `Pollert, A. (2017). Gender mainstreaming in urban planning: Vienna’s experience. Gender & Development, 25(2), 245–259. https://doi.org/10.1080/13552074.2017.1331542`,
-      },
-      {
-        heading: `ResearchGate. (2022). Smart city development in Hong Kong. https://www.researchgate.net/publication/335262907_Smart_city_development_in_Hong_Kong`,
-      },
-      {
-        heading: `Roy, A. (2005). Urban informality: Toward an epistemology of planning. Journal of the American Planning Association, 71(2), 147–158. https://doi.org/10.1080/01944360508976689`,
-      },
-      {
-        heading: `Roy, A. (2016). Who’s afraid of postcolonial theory? International Journal of Urban and Regional Research, 40(1), 200–209. https://doi.org/10.1111/1468-2427.12274`,
-      },
-      {
-        heading: `Satterthwaite, D. (2005). Cities in a globalizing world. Global Urban Development Magazine, 1(1).`,
-      },
-      {
-        heading: `Saxena, S., Thornicroft, G., Knapp, M., & Whiteford, H. (2007). Resources for mental health: Scarcity, inequity, and inefficiency. The Lancet, 370(9590), 878–889. https://doi.org/10.1016/S0140-6736(07)61239-2`,
-      },
-      {
-        heading: `SEEDS India. (2022). Urban heat-mapping pilot in Delhi slums. https://seedsindia.org`,
-      },
-      {
-        heading: `Simone, A., & Pieterse, E. (2017). New Urban Worlds: Inhabiting Dissonant Times. Polity Press. https://www.google.com/books/edition/New_Urban_Worlds/yijBDgAAQBAJ`,
-      },
-      {
-        heading: `Siddikī, B. (Ed.). (2024). Displacement and Refugee Issues in South Asia: Uncovering the Contested Realities. Lexington Books.`,
-      },
-      {
-        heading: `Smart Cities Mission. (2023). Indore smart sanitation report. Ministry of Housing and Urban Affairs. https://smartcities.gov.in/`,
-      },
-      {
-        heading: `Smoke, P. (2015). Rethinking decentralization: Assessing challenges to a popular public sector reform. Public Administration and Development, 35(2), 97–112. https://doi.org/10.1002/pad.1702`,
-      },
-      {
-        heading: `Srinivasan, J. T., & Nuthalapati, C. S. R. (2020). Development-induced displacement risks and coping with resettlement. Journal of Rural Development, 39(2), 169–186.`,
-      },
-      {
-        heading: `Sustainable Earth Reviews. (2020). https://sustainableearthreviews.biomedcentral.com/articles/10.1186/s42055-020-00032-3`,
-      },
-      {
-        heading: `UBQ Materials. (n.d.). Beyond green spaces: Exploring key elements of sustainable infrastructure. https://www.ubqmaterials.com/beyond-green-spaces-exploring-key-elements-of-sustainable-infrastructure/`,
-      },
-      {
-        heading: `UNDP. (1997). Governance for sustainable human development: A UNDP policy document. United Nations Development Programme.`,
-      },
-      {
-        heading: `UN-Habitat. (2002). Urban governance toolkit series. United Nations Human Settlements Programme.`,
-      },
-      {
-        heading: `UN-Habitat. (2003). The challenge of slums: Global report on human settlements 2003. Earthscan. https://doi.org/10.4324/9781315070705`,
-      },
-      {
-        heading: `UN-Habitat. (2020). Inclusive cities: Enhancing the positive impacts of urban migration.`,
-      },
-      {
-        heading: `UN-Habitat. (2022). Gender-inclusive mobility in Latin America. https://unhabitat.org/gender-inclusive-mobility-in-latin-america`,
-      },
-      {
-        heading: `UNHCR. (2013). Operational Guidance: Mental Health and Psychosocial Support Programming for Refugee Operations. Geneva: UNHCR.`,
-      },
-      {
-        heading: `United Nations. (2018). Sustainable cities, human mobility and international migration: Report of the Secretary-General. UN, New York.`,
-      },
-      {
-        heading: `United Nations. (2024). World Urbanization Prospects: 2024 revision. https://unstats.un.org/sdgs/report/2024/The-Sustainable-Development-Goals-Report-2024.pdf`,
-      },
-      {
-        heading: `United Nations. (2025). Urban equity and infrastructure gaps in the Global South. https://unhabitat.org`,
-      },
-      {
-        heading: `Vanclay, F., & Kemp, D. (2017). Displacement, resettlement and livelihoods. Impact Assessment and Project Appraisal, 35(1), 2–2.`,
-      },
-      {
-        heading: `Vienna, Austria. (2012). Gender mainstreaming in urban planning. UN-Habitat.`,
-      },
-      {
-        heading: `Wampler, B. (2007). Participatory budgeting in Brazil: Contestation, cooperation, and accountability. Penn State Press. https://doi.org/10.1515/9780271037580`,
-      },
-      {
-        heading: `World Bank. (2015). Public-private partnerships: Reference guide version 2.0. World Bank Group. https://doi.org/10.1596/978-1-4648-0615-0`,
-      },
-      {
-        heading: `World Economic Forum. (n.d.). What’s the key to sustainable construction? https://www.weforum.org/stories/2015/03/whats-the-key-to-sustainable-construction/0`,
-      },
-      {
-        heading: `World Health Organization. (2014). Social determinants of mental health. Geneva: WHO.`,
-      },
-      {
-        heading: `World Health Organization. (2022). Mental health and COVID-19: Early evidence of the pandemic’s impact: Scientific brief, 2 March 2022.`,
-      },
-      {
-        heading: `World Migration Report. (2015). Urbanization, Rural-urban Migration and Urban Poverty. International Organization for Migration (IOM).`,
-      },
-      {
-        heading: `Zogu, G. (2021). Entering politics: Political engagement of visible and non‐visible minorities in South Tyrol. Wien. https://ubdata.univie.ac.at/AC16227885`,
-      },
-    ],
+    references : [
+  {
+    heading: `Acuto, M., Steenmans, K., & Iwaszuk, E. (2021). Smart cities, sustainable development, and data-driven urbanism: A conceptual framework. Urban Studies, 58(5), 971–988. https://doi.org/10.1177/0042098020937245`,
   },
   {
+    heading: `Ager, A., & Strang, A. (2008). Understanding integration: A conceptual framework. Journal of Refugee Studies, 21(2), 166–191.`,
+  },
+  {
+    heading: `Alba, R., & Foner, N. (2015). Strangers no more: Immigration and the challenges of integration in North America and Western Europe. Princeton University Press. https://doi.org/10.1080/01419870.2016.1203451`
+  },
+  {
+    heading: `Asian Development Bank. (2022). Strengthening Social Safeguards in Infrastructure Investments in Asia.`
+  },
+  {
+    heading: `Bardhan, R., Sarkar, S., Jana, A., & Velaga, N. R. (2015). Mumbai slums since independence: Evaluating the policy outcomes. Habitat International, 50, 1–11.`
+  },
+  {
+    heading: `Bhan, G. (2009). “This is no longer the city I once knew”: Evictions, the urban poor and the right to the city in millennial Delhi. Environment and Urbanization, 21(1), 127–142.`
+  },
+  {
+    heading: `Bhan, G. (2020). Notes on a Southern urban practice. Environment and Urbanization, 32(1), 7–22. https://doi.org/10.1177/0956247819896405`
+  },
+  {
+    heading: `Bhugra, D., & Becker, M. A. (2005). Migration, cultural bereavement and cultural identity. World Psychiatry, 4(1), 18–24.`
+  },
+  {
+    heading: `British Standards Institution. (2014). PAS 180: Smart cities vocabulary. https://shop.bsigroup.com/`
+  },
+  {
+    heading: `British Standards Institution. (2014). PAS 181: Smart city framework. https://shop.bsigroup.com/`
+  },
+  {
+    heading: `Bulkeley, H., & Betsill, M. M. (2003). Cities and climate change: Urban sustainability and global environmental governance. Routledge. https://doi.org/10.4324/9780203304847`
+  },
+  {
+    heading: `Cañavera-Herrera, I., Chicaiza, L., & Paredes, J. (2022). Smart, resilient and sustainable cities: A systematic literature review of integration frameworks. Sustainability, 14(12), 7093. https://doi.org/10.3390/su14127093`
+  },
+  {
+    heading: `Cernea, M. M. (2000). Risks, safeguards and reconstruction: A model for population displacement and resettlement. Economic and Political Weekly, 3659–3678.`
+  },
+  {
+    heading: `Chen, J., Zhang, S. X., Yin, A., & Yáñez, J. A. (2022). Mental health symptoms during the COVID-19 pandemic in developing countries: A systematic review and meta-analysis. Journal of Global Health, 12, 05011.`
+  },
+  {
+    heading: `Chatham House. (n.d.). Building sustainable infrastructure. https://www.jstor.org/stable/resrep16098`
+  },
+  {
+    heading: `Cosgrove, L., Mills, C., Karter, J. M., Mehta, A., & Kalathil, J. (2020). A critical review of the Lancet Commission on global mental health and sustainable development: Time for a paradigm change. Critical Public Health, 30(5), 624–631.`
+  },
+  {
+    heading: `Das, A. (2015). Participatory slum upgrading: Lessons from post-decentralization India and Indonesia. Journal of Indonesian Regional Development and Environment, 1(1), 15–34.`
+  },
+  {
+    heading: `Datta, A. (2018). The digital turn in postcolonial urbanism: Smart citizenship in the making of India's 100 smart cities. Transactions of the Institute of British Geographers, 43(3), 405–419. https://doi.org/10.1111/tran.12225`
+  },
+  {
+    heading: `Desjarlais, R., Eisenberg, L., Good, B., & Kleinman, A. (1995). World Mental Health: Problems and Priorities in Low-Income Countries. Oxford University Press.`
+  },
+  {
+    heading: `Fung, A., & Wright, E. O. (2003). Deepening democracy: Institutional innovations in empowered participatory governance. Verso.`
+  },
+  {
+    heading: `Gherghina, S., & Basarabă, A. (2024). Migrants' voter turnout in the home country elections: Non‐integration or political anchor? Politics and Governance, 12. https://doi.org/10.17645/pag.7396`
+  },
+  {
+    heading: `Global Infrastructure Hub. (n.d.). Sustainable infrastructure. https://www.gihub.org/sustainable-infrastructure/`
+  },
+  {
+    heading: `Healey, P. (2006). Collaborative planning: Shaping places in fragmented societies (2nd ed.). Palgrave Macmillan.`
+  },
+  {
+    heading: `Hollands, R. G. (2008). Will the real smart city please stand up? City, 12(3), 303–320. https://doi.org/10.1080/13604810802479126`
+  },
+  {
+    heading: `Human Rights Watch. (2021). Philippines: LGBT People Face Abuse, Discrimination. https://www.hrw.org/news/2017/08/23/philippines-lgbt-people-face-abuse-discrimination`
+  },
+  {
+    heading: `IASC. (2007). IASC Guidelines on Mental Health and Psychosocial Support in Emergency Settings. Geneva: IASC.`
+  },
+  {
+    heading: `Institute for Transportation and Development Policy. (2021). MyCiTi: South Africa’s first full bus rapid transit. https://www.itdp.org`
+  },
+  {
+    heading: `International Organization for Migration. (n.d.). Reducing global inequalities. https://www.iom.int/reducing-global-inequalities`
+  },
+  {
+    heading: `Jain, S., & Jadhav, S. (2008). A cultural critique of community psychiatry in India. International Journal of Health Services, 38(3), 561–584.`
+  },
+  {
+    heading: `Kanai, J. M., & Schindler, S. (2022). Infrastructure-led development and the peri-urban question: Furthering crossover comparisons. Urban Studies, 59(8), 1597–1617.`
+  },
+  {
+    heading: `Lakshman, R. W., & Rajan, S. I. (2023). Forced Migration and Urban Transformation in South Asia.`
+  },
+  {
+    heading: `Metwally, E., & Samir, E. (2024). Assessing citizen satisfaction indicators for urban public services to enhance quality of life in Sharm el-Sheikh. Ain Shams Engineering Journal, 15(8), 102841. https://doi.org/10.1016/j.asej.2024.102841`
+  },
+  {
+    heading: `Migration Data Portal. (2022). Urbanisation and migration. https://www.migrationdataportal.org/themes/urbanization-and-migration`
+  },
+  {
+    heading: `Ministry of Housing and Urban Affairs (MoHUA). (2023). Model Guidelines for Stray Animal Management. Government of India. https://smartnet.niua.org/content/43d2c9fa-f569-45b7-8b3f-58e75c001bf7`
+  },
+  {
+    heading: `Miraftab, F. (2004). Making neo-liberal governance: The disempowering work of empowerment. International Planning Studies, 9(4), 239–259. https://doi.org/10.1080/13563470500050321`
+  },
+  {
+    heading: `Mitlin, D., & Satterthwaite, D. (2013). Urban poverty in the global South: Scale and nature. Routledge. https://doi.org/10.4324/9780203069661`
+  },
+  {
+    heading: `Mohieldin, M. (2017, May 8). Importance of well-managed urban development for combating poverty and increasing job creation. World Bank. https://www.worldbank.org/en/news/speech/2017/05/08/wbg-svp-mahmoud-mohieldin-importance-of-well-managed-urban-development-for-combating-poverty-and-increasing-job-creation`
+  },
+  {
+    heading: `Narayanan, Y. (2017). Multispecies entanglements in the city: Urban political ecologies of stray dogs in India. Antipode, 49(4), 1049–1067. https://doi.org/10.1111/anti.12324`
+  },
+  {
+    heading: `Oswald, T. K., Nguyen, M. T., Mirza, L., Lund, C., Jones, H. G., Crowley, G., ... & Das-Munshi, J. (2024). Interventions targeting social determinants of mental disorders and the Sustainable Development Goals: A systematic review of reviews. Psychological Medicine, 1–25.`
+  },
+  {
+    heading: `Patel, L. P., Patel, C. R., & Tailor, R. M. (2024). Prioritising barriers to women’s professional advancement in urban planning in India. Proceedings of the Institution of Civil Engineers– Urban Design and Planning, 177(2), 57–74. https://doi.org/10.1680/jurdp.23.00025`
+  },
+  {
+    heading: `Patel, V. (2007). Mental health in low- and middle-income countries. British Medical Bulletin, 81–82, 81–96. https://doi.org/10.1093/bmb/ldm010`
+  },
+  {
+    heading: `Patel, V., Saxena, S., Lund, C., Thornicroft, G., Baingana, F., Bolton, P., ... & Unützer, J. (2018). The Lancet Commission on global mental health and sustainable development. The Lancet, 392(10157), 1553–1598. https://doi.org/10.1016/S0140-6736(18)31612-X`
+  },
+  {
+    heading: `Payne, G. (2005). Getting ahead of the game: A twin-track approach to improving existing slums and reducing the need for future slums. Environment and Urbanization, 17(1), 135–145. https://doi.org/10.1177/095624780501700111`
+  },
+  {
+    heading: `Phadke, S., Khan, S., & Ranade, S. (2011). Why Loiter? Women and Risk on Mumbai Streets. Penguin Books India. https://books.google.com/books?id=Z1pBDwAAQBAJ`
+  },
+  {
+    heading: `Pierre, J. (2011). The politics of urban governance. Palgrave Macmillan. https://doi.org/10.1007/978-0-230-35673-7`
+  },
+  {
+    heading: `Pollert, A. (2017). Gender mainstreaming in urban planning: Vienna’s experience. Gender & Development, 25(2), 245–259. https://doi.org/10.1080/13552074.2017.1331542`
+  },
+  {
+    heading: `ResearchGate. (2022). Smart city development in Hong Kong. https://www.researchgate.net/publication/335262907_Smart_city_development_in_Hong_Kong`
+  },
+  {
+    heading: `Roy, A. (2005). Urban informality: Toward an epistemology of planning. Journal of the American Planning Association, 71(2), 147–158. https://doi.org/10.1080/01944360508976689`
+  },
+  {
+    heading: `Roy, A. (2016). Who’s afraid of postcolonial theory? International Journal of Urban and Regional Research, 40(1), 200–209. https://doi.org/10.1111/1468-2427.12274`
+  },
+  {
+    heading: `Satterthwaite, D. (2005). Cities in a globalizing world. Global Urban Development Magazine, 1(1).`
+  },
+  {
+    heading: `Saxena, S., Thornicroft, G., Knapp, M., & Whiteford, H. (2007). Resources for mental health: Scarcity, inequity, and inefficiency. The Lancet, 370(9590), 878–889. https://doi.org/10.1016/S0140-6736(07)61239-2`
+  },
+  {
+    heading: `SEEDS India. (2022). Urban heat-mapping pilot in Delhi slums. https://seedsindia.org`
+  },
+  {
+    heading: `Simone, A., & Pieterse, E. (2017). New Urban Worlds: Inhabiting Dissonant Times. Polity Press. https://www.google.com/books/edition/New_Urban_Worlds/yijBDgAAQBAJ`
+  },
+  {
+    heading: `Siddikī, B. (Ed.). (2024). Displacement and Refugee Issues in South Asia: Uncovering the Contested Realities. Lexington Books.`
+  },
+  {
+    heading: `Smart Cities Mission. (2023). Indore smart sanitation report. Ministry of Housing and Urban Affairs. https://smartcities.gov.in/`
+  },
+  {
+    heading: `Smoke, P. (2015). Rethinking decentralization: Assessing challenges to a popular public sector reform. Public Administration and Development, 35(2), 97–112. https://doi.org/10.1002/pad.1702`
+  },
+  {
+    heading: `Srinivasan, J. T., & Nuthalapati, C. S. R. (2020). Development-induced displacement risks and coping with resettlement. Journal of Rural Development, 39(2), 169–186.`
+  },
+  {
+    heading: `Sustainable Earth Reviews. (2020). https://sustainableearthreviews.biomedcentral.com/articles/10.1186/s42055-020-00032-3`
+  },
+  {
+    heading: `UBQ Materials. (n.d.). Beyond green spaces: Exploring key elements of sustainable infrastructure. https://www.ubqmaterials.com/beyond-green-spaces-exploring-key-elements-of-sustainable-infrastructure/`
+  },
+  {
+    heading: `UNDP. (1997). Governance for sustainable human development: A UNDP policy document. United Nations Development Programme.`
+  },
+  {
+    heading: `UN-Habitat. (2002). Urban governance toolkit series. United Nations Human Settlements Programme.`
+  },
+  {
+    heading: `UN-Habitat. (2003). The challenge of slums: Global report on human settlements 2003. Earthscan. https://doi.org/10.4324/9781315070705`
+  },
+  {
+    heading: `UN-Habitat. (2020). Inclusive cities: Enhancing the positive impacts of urban migration.`
+  },
+  {
+    heading: `UN-Habitat. (2022). Gender-inclusive mobility in Latin America. https://unhabitat.org/gender-inclusive-mobility-in-latin-america`
+  },
+  {
+    heading: `UNHCR. (2013). Operational Guidance: Mental Health and Psychosocial Support Programming for Refugee Operations. Geneva: UNHCR.`
+  },
+  {
+    heading: `United Nations. (2018). Sustainable cities, human mobility and international migration: Report of the Secretary-General. UN, New York.`
+  },
+  {
+    heading: `United Nations. (2024). World Urbanization Prospects: 2024 revision. https://unstats.un.org/sdgs/report/2024/The-Sustainable-Development-Goals-Report-2024.pdf`
+  },
+  {
+    heading: `United Nations. (2025). Urban equity and infrastructure gaps in the Global South. https://unhabitat.org`
+  },
+  {
+    heading: `Vanclay, F., & Kemp, D. (2017). Displacement, resettlement and livelihoods. Impact Assessment and Project Appraisal, 35(1), 2–2.`
+  },
+  {
+    heading: `Vienna, Austria. (2012). Gender mainstreaming in urban planning. UN-Habitat.`
+  },
+  {
+    heading: `Wampler, B. (2007). Participatory budgeting in Brazil: Contestation, cooperation, and accountability. Penn State Press. https://doi.org/10.1515/9780271037580`
+  },
+  {
+    heading: `World Bank. (2015). Public-private partnerships: Reference guide version 2.0. World Bank Group. https://doi.org/10.1596/978-1-4648-0615-0`
+  },
+  {
+    heading: `World Economic Forum. (n.d.). What’s the key to sustainable construction? https://www.weforum.org/stories/2015/03/whats-the-key-to-sustainable-construction/0`
+  },
+  {
+    heading: `World Health Organization. (2014). Social determinants of mental health. Geneva: WHO.`
+  },
+  {
+    heading: `World Health Organization. (2022). Mental health and COVID-19: Early evidence of the pandemic’s impact: Scientific brief, 2 March 2022.`
+  },
+  {
+    heading: `World Migration Report. (2015). Urbanization, Rural-urban Migration and Urban Poverty. International Organization for Migration (IOM).`
+  },
+  {
+    heading: `Zogu, G. (2021). Entering politics: Political engagement of visible and non‐visible minorities in South Tyrol. Wien. https://ubdata.univie.ac.at/AC16227885`
+  }
+],
+
+  },
+{
     id: 2,
     issue: 2,
     volume: 1,
@@ -5115,3 +4634,5 @@ const articles = [
 ];
 
 export default articles;
+
+

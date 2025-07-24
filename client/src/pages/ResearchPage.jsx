@@ -1,66 +1,88 @@
-import { useState } from "react";
-import { useLocation } from "react-router-dom";
-import { Download } from "lucide-react";
-import articleData from "../data/articles";
-import ResearchCard from "../components/ResearchCard";
-import { generateResearchPDF, downloadPDF } from "../utils/pdfExport";
+  import { useState } from "react";
+  import { useLocation } from "react-router-dom";
+  import { Download } from "lucide-react";
+  import articleData from "../data/articles";
+  import ResearchCard from "../components/ResearchCard";
+  import ResearchEnhancements from "../components/ResearchEnhancements";
+  import { generateResearchPDF, downloadPDF } from "../utils/pdfExport";
 
-const ResearchPage = () => {
-  const [researchArticles, setResearchArticles] = useState(articleData);
-  const [downloading, setDownloading] = useState(false);
-  const location = useLocation();
-  const isAdmin = location.pathname.startsWith("/admin");
+  const ResearchPage = () => {
+    const [researchArticles, setResearchArticles] = useState(articleData);
+    const [downloading, setDownloading] = useState(false);
+    const location = useLocation();
+    const isAdmin = location.pathname.startsWith("/admin");
 
-  const handleDelete = (id) => {
-    setResearchArticles((prev) =>
-      prev.filter((articles) => articles.id !== id)
+    const handleDelete = (id) => {
+      setResearchArticles((prev) =>
+        prev.filter((articles) => articles.id !== id)
+      );
+    };
+
+    return (
+      <div
+        className="w-full min-h-screen flex items-center justify-center py-12 px-4"
+        style={{
+        background: 'linear-gradient(to right, #caa1b8ff, #3b0a29ff, #2b1426ff)',
+      }}
+      >
+        <div className="max-w-4xl w-full">
+         
+          {/* Heading */}
+          <div className="flex flex-col md:flex-row justify-between items-center mb-10 gap-4 animate-fadeInUp">
+            <h1
+              className="text-3xl text-white font-bold font-serif"
+            //style={{ color: '#693155ff' }}
+            >
+              Research Articles
+            </h1>
+          </div>
+
+          {/* Article List */}
+          <div className="grid gap-6 md:grid-cols-1 animate-fadeInUp" >
+            {researchArticles.map((articles) => (
+              <div
+                key={articles.id}
+                className="backdrop-blur-sm rounded-xl shadow-lg hover:shadow-xl transform hover:scale-[1.01] transition duration-300"
+                style={{
+                  backgroundColor: "rgba(143, 126, 137, 0.08)", // ✅ light brown
+                  color: "#693155ff",
+                }}
+              >
+                <ResearchCard
+                  articles={articles}
+                  onDelete={isAdmin ? handleDelete : null}
+                />
+              </div>
+            ))}
+          </div>
+        </div>
+
+        <style jsx>{`
+          @keyframes fadeInUp {
+            from {
+              opacity: 0;
+              transform: translateY(30px);
+            }
+            to {
+              opacity: 1;
+              transform: translateY(0);
+            }
+          }
+
+          .animate-fadeInUp {
+            animation: fadeInUp 0.8s ease-out forwards;
+          }
+
+          /* Buttons with brown background theme */
+          button.bg-primary,
+          button.bg-primary-dark,
+          .btn-brown {
+            background-color: #693155ff !important;
+            color: white !important;
+          }
+        `}</style>
+      </div>
     );
   };
 
-  const handleDownloadAllArticles = async () => {
-    setDownloading(true);
-    try {
-      const pdf = await generateResearchPDF(researchArticles);
-      const filename = `LDTPPR_Research_Articles_${new Date().getFullYear()}.pdf`;
-      downloadPDF(pdf, filename);
-    } catch (error) {
-      console.error("Error generating PDF:", error);
-      alert("Error generating PDF. Please try again.");
-    } finally {
-      setDownloading(false);
-    }
-  };
-
-  return (
-    <div className="bg-primary-light/25 w-full min-h-screen flex items-center justify-center">
-      <div className="max-w-4xl w-full px-6 py-12">
-        <div className="flex flex-col md:flex-row justify-between items-center mb-10 gap-4">
-          <h1 className="text-3xl font-bold font-serif text-primary-dark">
-            Research Articles
-          </h1>
-          <button
-            onClick={handleDownloadAllArticles}
-            disabled={downloading}
-            className="inline-flex items-center px-4 py-2 bg-primary text-white font-medium rounded hover:bg-primary-dark transition disabled:opacity-50"
-          >
-            <Download className="w-4 h-4 mr-2" />
-            {downloading ? "Generating PDF..." : "Download All Articles"}
-          </button>
-        </div>
-
-        <div className="grid gap-6 md:grid-cols-1">
-          {researchArticles.map((articles) => (
-            <div key={articles.id}>
-              <ResearchCard
-                articles={articles}
-                onDelete={isAdmin ? handleDelete : null}
-              />
-            </div>
-          ))}
-        </div>
-      </div>
-    </div>
-  );
-};
-
-export default ResearchPage;
+  export default ResearchPage;

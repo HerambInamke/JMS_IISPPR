@@ -1,33 +1,63 @@
 const Signup = () => (
-  <div className="min-h-screen flex items-center justify-center bg-primary-light px-4">
-    <div className="bg-white shadow-lg rounded-2xl p-10 w-full max-w-md">
-      <h2 className="text-3xl font-bold text-primary-dark mb-8 font-serif text-center">Sign Up</h2>
+  <div
+    className="min-h-screen flex items-center justify-center px-4"
+    style={{
+      background: "linear-gradient(to right, #caa1b8ff, #3b0a29ff, #2b1426ff)",
+    }}
+  >
+    <div className="bg-white shadow-2xl rounded-2xl p-10 w-full max-w-md">
+      <h2
+        className="text-4xl font-bold text-center mb-8 font-serif"
+        style={{ color: "#693155ff" }}
+      >
+        Sign Up
+      </h2>
+
       <form className="space-y-6">
+        {/* Name Field */}
         <div>
-          <label className="block text-sm font-medium text-text mb-1">Name</label>
+          <label className="block text-sm font-medium text-text mb-1">
+            Name
+          </label>
           <input
-            className="w-full border border-accent-light text-text bg-white rounded px-3 py-2"
+            className="w-full border border-accent-light text-text rounded px-3 py-2 bg-white focus:outline-none focus:ring-2 focus:ring-primary-light"
             type="text"
             placeholder="Full name"
+            required
           />
         </div>
+
+        {/* Email Field */}
         <div>
-          <label className="block text-sm font-medium text-text mb-1">Email</label>
+          <label className="block text-sm font-medium text-text mb-1">
+            Email
+          </label>
           <input
-            className="w-full border border-accent-light text-text bg-white rounded px-3 py-2"
+            className="w-full border border-accent-light text-text rounded px-3 py-2 bg-white focus:outline-none focus:ring-2 focus:ring-primary-light"
             type="email"
-            placeholder="Enter your email"
+            placeholder="example@mail.com"
+            required
           />
         </div>
+
+        {/* Password Field */}
         <div>
-          <label className="block text-sm font-medium text-text mb-1">Password</label>
+          <label className="block text-sm font-medium text-text mb-1">
+            Password
+          </label>
           <input
-            className="w-full border border-accent-light text-text bg-white rounded px-3 py-2"
+            className="w-full border border-accent-light text-text rounded px-3 py-2 bg-white focus:outline-none focus:ring-2 focus:ring-primary-light"
             type="password"
             placeholder="Create a password"
+            required
           />
         </div>
-        <button className="w-full bg-primary text-white py-2 rounded font-semibold hover:bg-primary-dark transition-colors">
+
+        {/* Submit Button */}
+        <button
+          type="submit"
+          className="w-full bg-primary text-white py-2 rounded-lg font-semibold hover:bg-primary-dark transition-colors"
+        >
           Sign Up
         </button>
       </form>
