@@ -9,7 +9,7 @@ const articles = [
     author: "Aindri Sur, Dhairya Maggo, A K Amalnath and Anuj Kumar",
     authorAbbrev: "A. Sur, D. Maggo, and others",
     abstract:
-      "This research paper investigates the persistent literacy disparities in Bihar, Odisha, and West Bengal three of India’s least literate states and examines why national and state-level education policies have failed to bridge the gap. Using Kerala’s literacy model as a benchmark, the study identifies systemic barriers such as teacher shortages, poor school infrastructure, and socio-cultural inequality. A comparative analysis reveals that inclusive, community-driven, and digitally adaptive reforms are essential. The paper concludes with scalable policy recommendations to transform education systems and promote equitable literacy development across rural and tribal regions of India.",
+      "This research paper investigates the persistent literacy disparities in Bihar, Odisha, and West Bengal—three of India’s least literate states—and examines why national and state-level education policies have failed to bridge the gap. Using Kerala’s literacy model as a benchmark, the study identifies systemic barriers such as teacher shortages, poor school infrastructure, and socio-cultural inequality. A comparative analysis reveals that inclusive, community-driven, and digitally adaptive reforms are essential. The paper concludes with scalable policy recommendations to transform education systems and promote equitable literacy development across rural and tribal regions of India.",
     keywords: [
       "Literacy in India",
       "Education disparities in India",
@@ -27,6 +27,14 @@ const articles = [
       "This paper critically examines the systemic education challenges and policy gaps in Bihar, Odisha, and West Bengal that have impeded progress. Through comparative analysis with Kerala’s success, it proposes policy recommendations to improve educational infrastructure, boost teacher training, expand digital learning access, and address social barriers such as gender discrimination and language exclusion. The objective is to bridge the literacy gap in India by transitioning from policy rhetoric to tangible educational reform.",
     ],
     content: [
+       {
+        heading: "Methodology",
+        paragraphs: [
+          "This research employs a comparative case study approach, examining Bihar, Odisha, and West Bengal in parallel to identify common issues and unique contexts affecting literacy. We draw on a mix of quantitative data (census literacy rates, education surveys) and qualitative assessments (policy evaluations, case reports) to build a comprehensive picture. Historical policy documents and program reports from each state were reviewed to trace what interventions were tried and why they fell short. We benchmark these findings against Kerala's experience – analyzing Kerala's educational policies, budgets, and social initiatives over time as a model case.",
+          "By comparing the target states with Kerala, we isolate which policy differences correspond to divergent literacy outcomes.We also use case comparisons within states (such as urban vs rural district data) to illustrate internal disparities and the micro-level impacts of policies. The methodology involves critique of past programs using secondary research: academic papers, government reports, and credible news sources provided evidence on implementation gaps and socio-economic factors. For instance, literacy survey data from the National Statistical Office (NSO) and District Information System of Education (DISE) highlight infrastructural and teacher availability issues.",
+          "Policy impact is evaluated by looking at changes (or stagnation) in literacy rates over time and across demographic groups in each state.In essence, the study triangulates data from multiple sources – statistical records, policy analysis, and lessons from Kerala – to formulate evidence-based recommendations. This comparative, evaluative method allows us to go beyond anecdotal explanations and identify systemic factors that any successful literacy policy must address. The approach is interdisciplinary, considering educational, economic, and socio-cultural dimensions of literacy, to ensure that the recommended strategies are grounded in both data and contextual realities.",
+        ],
+      },
       {
         heading: "Analysis of the Problem:",
         paragraphs: [""],
@@ -36,57 +44,135 @@ const articles = [
         paragraphs: [
           "All three target states face interrelated systemic challenges that hinder literacy growth. Teacher shortages and quality gaps are a pervasive issue. Bihar and Odisha have struggled to staff remote rural schools with qualified teachers, leading to high pupil-teacher ratios and reliance on under-trained contract instructors. In Bihar, a massive recruitment of para-teachers in the 2000s filled vacant posts but often without adequate training or accountability, resulting in poor learning outcomes. By contrast, Kerala maintains a healthy student–teacher ratio (approximately 27:1, with 1.69 lakh teachers for 46 lakh students) and minimizes non-teaching duties for teachers.",
           "The shortage of trained teachers in Bihar, Odisha, and parts of West Bengal contributes to irregular classes and lower reading proficiency, undermining efforts to raise literacy. Infrastructure deficiencies in schools further exacerbate the problem. Many schools in these states lack basic facilities like libraries, toilets, and electricity, which impedes attendance and learning, especially for girls. In Bihar, as recently as 2016, a shockingly low 0.8% of schools had access to computers, nearly 30% had no library books, and 29.4% lacked any usable toilet.",
-          "Odisha and West Bengal fare somewhat better but still have significant gaps in rural areas (for instance, as of 2011 over 39% of West Bengal’s districts had literacy below 70% indicating likely infrastructural and resource deficits in those regions). Poor infrastructure not only hampers quality education but also discourages students from attending – a school without clean water, proper classrooms or digital access cannot retain children in the 21st century. Digital exclusion has emerged as a modern barrier. With education increasingly embracing technology, these states risk falling behind due to limited ICT resources in schools. The digital divide is evident: only 19.6% of schools in Bihar have computers, compared to 99.4% in Kerala.",
-          "Rural schools in Odisha’s tribal belt and remote parts of West Bengal similarly lack internet connectivity and devices. This gap became painfully visible during recent periods of remote learning, where students in these states struggled to access online classes. Kerala’s long-standing initiative (introduced in early 2000s) ensured most of its schools are equipped with computers and trained teachers, enabling smoother integration of digital learning. The absence of similar robust digital education programs in Bihar, Odisha, and West Bengal has left many of their youth digitally illiterate, limiting both their educational and economic opportunities. Socio-cultural barriers also play a major role in perpetuating low literacy. Deep-rooted poverty, gender discrimination, and social norms affect school participation. Bihar’s female literacy was only 51.5% in 2011 nearly 40 percentage points below Kerala’s female literacy reflecting how girls’ education has historically been devalued in parts of society. Early marriage, domestic responsibilities, and safety concerns cause many girls to drop out before secondary level. Marginalized communities, such as scheduled castes and tribes, face additional hurdles. In Odisha’s tribal districts, the mainstream Odia-language curriculum alienated students who speak indigenous languages at home, contributing to high dropout rates. Malkangiri district, for example, has “abysmally low literacy” among its tribal population partly due to this linguistic barrier and the insurgency-related turmoil in the region.",
-          "Likewise, in rural West Bengal, children from minority communities or impoverished families may not get necessary support or may engage in child labor to supplement family income. These socio-cultural factors create an environment where illiteracy can persist across generations unless targeted interventions are made.",
+          "Odisha and West Bengal fare somewhat better but still have significant gaps in rural areas (for instance, as of 2011 over 39% of West Bengal’s districts had literacy below 70% indicating likely infrastructural and resource deficits in those regions). ",
+          "Poor infrastructure not only hampers quality education but also discourages students from attending – a school without clean water, proper classrooms or digital access cannot retain children in the 21st century. Digital exclusion has emerged as a modern barrier. With education increasingly embracing technology, these states risk falling behind due to limited ICT resources in schools.",
+          "The digital divide is evident: only 19.6% of schools in Bihar have computers, compared to 99.4% in Kerala. Rural schools in Odisha’s tribal belt and remote parts of West Bengal similarly lack internet connectivity and devices. This gap became painfully visible during recent periods of remote learning, where students in these states struggled to access online classes. ",
+          "Kerala’s long-standing initiative introduced in early 2000s ensured most of its schools are equipped with computers and trained teachers, enabling smoother integration of digital learning. The absence of similar robust digital education programs in Bihar, Odisha, and West Bengal has left many of their youth digitally illiterate, limiting both their educational and economic opportunities.",
+          "Socio-cultural barriers also play a major role in perpetuating low literacy. Deep-rooted poverty, gender discrimination, and social norms affect school participation. Bihar’s female literacy was only 51.5% in 2011 nearly 40 percentage points below Kerala’s female literacy reflecting how girls’ education has historically been devalued in parts of society. ",
+          "Early marriage, domestic responsibilities, and safety concerns cause many girls to drop out before secondary level. Marginalized communities, such as scheduled castes and tribes, face additional hurdles. In Odisha’s tribal districts, the mainstream Odia-language curriculum alienated students who speak indigenous languages at home, contributing to high dropout rates. Malkangiri district, for example, has “abysmally low literacy” among its tribal population partly due to this linguistic barrier and the insurgency-related turmoil in the region",
+          "Likewise, in rural West Bengal, children from minority communities or impoverished families may not get necessary support or may engage in child labor to supplement family income. These socio-cultural factors create an environment where illiteracy can persist across generations unless targeted interventions are made."
         ],
       },
       {
         heading: "Urban–Rural Disparities",
         paragraphs: [
-          "A pronounced urban–rural divide underlies the literacy disparity in all three states. Urban centers usually enjoy better schools, higher qualified teachers, and more literate populations, whereas rural and remote areas lag far behind. In West Bengal, for instance, the capital city Kolkata boasts an 86.3% literacy rate on par with developed regions, while the rural district of Purulia struggles at roughly 64% literacy. Notably, female literacy in Purulia is barely about 51% illustrating how rural women are the most left behind. A similar contrast appears in Odisha: the literate, urbanized Bhubaneswar area (Khordha district) has over 90% literacy in its cities whereas a remote Adivasi-majority district like Malkangiri has overall literacy below 50% (and female literacy near 38%). Such gaps are also evident within Bihar – Patna, the state capital, tops 87.8% literacy, while districts like Kishanganj remain around 61%, the lowest in the state. These cases illustrate how living in a metro versus a village can determine one’s educational fate. Urban areas benefit from historical concentration of schools (including private and missionary-run institutions), better infrastructure, and greater awareness of education’s benefits. In contrast, many rural hamlets in Bihar or Odisha until recently lacked a secondary school within reachable distance, and villages in flood-prone or hilly areas see teacher absenteeism and irregular schooling. The urban–rural literacy gap also correlates with economic and social divides. Rural communities often have higher poverty rates and depend on child labor in agriculture, reducing school attendance. They are less exposed to the value of formal education if generations have lived without literate members. Additionally, urban elites and middle classes in these states may send children to private English-medium schools, whereas rural poor rely solely on often under-resourced government schools. In Odisha, the rural literacy rate (70.2%) is far lower than urban literacy (85.7%), and rural female literacy is just 60.7%. Such disparities underscore that broad statewide averages mask internal inequities – geography and location critically influence literacy outcomes. Any policy solution must therefore explicitly focus on uplifting rural and underserved areas (like Purulia or Malkangiri) and not just the state as a whole.",
+          "A pronounced urban–rural divide underlies the literacy disparity in all three states. Urban centers usually enjoy better schools, higher qualified teachers, and more literate populations, whereas rural and remote areas lag far behind. In West Bengal, for instance, the capital city Kolkata boasts an 86.3% literacy rate on par with developed regions, while the rural district of Purulia struggles at roughly 64% literacy.",
+          "Notably, female literacy in Purulia is barely about 51% illustrating how rural women are the most left behind. A similar contrast appears in Odisha: the literate, urbanized Bhubaneswar area (Khordha district) has over 90% literacy in its cities whereas a remote Adivasi-majority district like Malkangiri has overall literacy below 50% (and female literacy near 38%). ",
+          "Such gaps are also evident within Bihar – Patna, the state capital, tops 87.8% literacy, while districts like Kishanganj remain around 61%, the lowest in the state. These cases illustrate how living in a metro versus a village can determine one’s educational fate. Urban areas benefit from historical concentration of schools (including private and missionary-run institutions), better infrastructure, and greater awareness of education’s benefits. In contrast, many rural hamlets in Bihar or Odisha until recently lacked a secondary school within reachable distance, and villages in flood-prone or hilly areas see teacher absenteeism and irregular schooling. ",
+          "The urban–rural literacy gap also correlates with economic and social divides. Rural communities often have higher poverty rates and depend on child labor in agriculture, reducing school attendance.They are less exposed to the value of formal education if generations have lived without literate members. Additionally, urban elites and middle classes in these states may send children to private English-medium schools, whereas rural poor rely solely on often under-resourced government schools. ",
+          "In Odisha, the rural literacy rate (70.2%) is far lower than urban literacy (85.7%), and rural female literacy is just 60.7%. Such disparities underscore that broad statewide averages mask internal inequities – geography and location critically influence literacy outcomes. Any policy solution must therefore explicitly focus on uplifting rural and underserved areas (like Purulia or Malkangiri) and not just the state as a whole"
         ],
       },
-      {
-        heading: "Methodology",
-        paragraphs: [
-          "This research employs a comparative case study approach, examining Bihar, Odisha, and West Bengal in parallel to identify common issues and unique contexts affecting literacy. We draw on a mix of quantitative data (census literacy rates, education surveys) and qualitative assessments (policy evaluations, case reports) to build a comprehensive picture. Historical policy documents and program reports from each state were reviewed to trace what interventions were tried and why they fell short. We benchmark these findings against Kerala's experience – analyzing Kerala's educational policies, budgets, and social initiatives over time as a model case. By comparing the target states with Kerala, we isolate which policy differences correspond to divergent literacy outcomes.",
-          "We also use case comparisons within states (such as urban vs rural district data) to illustrate internal disparities and the micro-level impacts of policies. The methodology involves critique of past programs using secondary research: academic papers, government reports, and credible news sources provided evidence on implementation gaps and socio-economic factors. For instance, literacy survey data from the National Statistical Office (NSO) and District Information System of Education (DISE) highlight infrastructural and teacher availability issues. Policy impact is evaluated by looking at changes (or stagnation) in literacy rates over time and across demographic groups in each state.",
-          "In essence, the study triangulates data from multiple sources – statistical records, policy analysis, and lessons from Kerala – to formulate evidence-based recommendations. This comparative, evaluative method allows us to go beyond anecdotal explanations and identify systemic factors that any successful literacy policy must address. The approach is interdisciplinary, considering educational, economic, and socio-cultural dimensions of literacy, to ensure that the recommended strategies are grounded in both data and contextual realities.",
-        ],
-      },
+      
       {
         heading: "Failed Policies",
         paragraphs: [
           "Historical efforts to improve education in Bihar, Odisha, and West Bengal have often fallen short due to flawed design or execution. Analyzing these failures is vital to avoid repeating mistakes. National programs like the Sarva Shiksha Abhiyan (SSA) – launched in 2001 to universalize elementary education – did increase school enrolment but had varying impacts across states, with the weakest gains in already lagging states. In regions of Bihar and Odisha, SSA led to more schools on paper but not necessarily to effective learning, partly because hiring untrained para-teachers became a quick fix to meet enrollment targets without ensuring quality. Similarly, the National Literacy Mission (including the Saakshar Bharat adult literacy campaign of 2009-2018) made only a dent in adult illiteracy.",
-          "Bihar was a focus of Saakshar Bharat, and while it claimed to impart basic literacy to millions of adults, the lack of post-literacy follow-up meant many neo-literates relapsed into illiteracy. The varying success of these central schemes highlights a pattern: one-size-fits-all policies failed to account for local realities like language differences, poverty, or administrative capacity in these states. Looking at state-specific policies, Bihar's attempt at educational reform in the mid-2000s is a telling example. The state undertook a massive drive to recruit over 100,000 teachers on contract (locally called Shiksha Mitras or Niyojit teachers) to fill vacancies in primary schools. While this addressed the numerical shortage (bringing down student-teacher ratios somewhat), it introduced new problems: many recruits lacked proper qualifications or training, were paid low stipends, and had little incentive or accountability.",
-          "The result was that classroom instruction quality remained poor – evident from surveys that showed Bihar's children lagging in reading and arithmetic despite attending school. A notorious incident in 2015, where images of mass cheating in Bihar's board examinations went viral, underscored systemic dysfunction – students resorted to unscrupulous means to pass exams, reflecting a failure of foundational teaching and ethical inculcation. This implementation gap – having schools and teachers in name but not in substance – has haunted Bihar's educational initiatives.",
-          "In Odisha, one challenge has been delivering education to its diverse tribal populations. The state launched programs like 'Satya Bahama' hostels and bilingual primers to encourage tribal children to attend school, but for years these remained limited in scope. Until recently, curricula did not adequately incorporate tribal languages, causing alienation. The Multilingual Education (MLE) program started in 2007 in Malkangiri is a positive step, teaching young children in their mother tongue and gradually transitioning to Odia and English. However, such innovations took a long time to scale up. Odisha's literacy efforts also suffered from budgetary constraints – education spending as a share of total budget was relatively low in the 1990s and 2000s compared to needs. Frequent natural disasters (cyclones, floods) diverted attention and funds, slowing school infrastructure development in backward districts. The government's 'School & Mass Education' department tried initiatives like recruiting Sikshya Sahayaks (contract teachers) and opening Navodaya residential schools for talented rural students, but uneven monitoring led to variable outcomes. As a result, pockets of the state (notably the eight most backward districts of KBK region – Kalahandi, Bolangir, Koraput, including Malkangiri and Nabarangpur) remained severely educationally deprived.",
-          "Odisha's policies often looked good on paper but faltered at the last mile – for example, funds for school construction or girls' scholarships sometimes lapsed due to bureaucratic inefficiencies, leaving targets unmet. West Bengal has a long history of education movements yet also faces its own policy missteps. In the Left Front regime (1977–2011), the state emphasized basic education through programs like the Shishu Shiksha Kendra (SSK) and Madhyamik Shiksha Kendra (MSK) – community-run primary and upper-primary schools in rural areas. While SSKs did expand schooling access in remote villages, they were staffed by para-teachers with minimal training and low salaries, which translated to modest learning outcomes. The transition rates from SSKs to formal high schools were not as high as hoped, indicating that many children, especially girls and those from poor families, did not continue beyond elementary levels.",
-          "West Bengal also struggled with educational quality in government schools: political interference in teacher transfers and a lack of English education in earlier decades prompted many families (even lower-income ones) to switch to private schools, leaving public schools under-resourced. Additionally, certain districts with high minority (Muslim) populations, like Murshidabad or Uttar Dinajpur, had very low literacy (around 60%). Policies failed here because they did not address community-specific barriers – e.g. no special drive to educate first-generation learners in these communities or to convince parents of the long-term value of schooling. It wasn't until the 2010s that schemes like Kanyashree Prakalpa (a conditional cash transfer to keep adolescent girls in school) were introduced, and these have shown some success. But prior to that, gender and socio-economic neglect in policy meant many girls married early or many boys dropped out to work, especially in rural West Bengal. Across all three states, a recurring theme in policy failure is the gap between intent and implementation. Budgets were often insufficient – education expenditure per student in these poorer states lagged far behind that in Kerala, where successive governments prioritize funding for schools.",
-          "Even when funds were allocated, they sometimes did not reach the school level due to leakages or administrative red tape. Moreover, reforms often did not tackle root causes: for example, providing a school building is futile if social norms prevent girls from attending, or if malnourished children cannot concentrate in class. The past policies in Bihar, Odisha, and West Bengal often took a siloed approach (focusing on inputs like schools or teachers in isolation) rather than a holistic one. The result was that marginalized groups – rural populations, women, tribal communities – gained literacy at a glacial pace, leaving these states still trailing in basic education even after India as a whole made strides. These lessons from failed or inadequate policies inform the need for a more comprehensive, Kerala-inspired strategy moving forward.",
+          
         ],
+      },
+      {
+        heading:"The Urban-Rural Divides Should Also Dimish",
+        paragraphs:[
+          "As rural schools get more resources and community engagement, rural literacy rates will rise faster, reducing the disparity. For instance, the gap between Kolkata and districts like Purulia may shrink as rural West Bengal sees new educational investments and campaigns. Beyond the numbers, the qualitative impact will be far-reaching. A literate populace is better equipped to participate in the economy – we can expect improved workforce skills and productivity in these states, attracting more investments and jobs.",
+          "Literacy is linked to health and social outcomes: newly literate adults (especially women) are more likely to seek healthcare, practice better hygiene, and have smaller, healthier families. Over time, higher literacy can reduce poverty and dependence on manual, unskilled labor as more youth attain higher education and diverse employment. Socially, increased literacy fosters empowerment and democratic participation" ,
+          "We may see higher voter turnout, more informed civic discourse, and communities better able to demand accountability from officials when people can read news and official information. As one analysis noted, communities with high literacy tend to have greater economic diversification and enhanced social capital meaning people can pursue varied occupations and collectively address their issues more effectively. ",
+          "In Bihar’s context, a literacy boost could help break the feudal and caste-based barriers, as education opens opportunities across social lines. In Odisha’s tribal regions, functional literacy combined with mother-tongue education can preserve cultural identity while integrating tribes into the broader economy and polity on their own terms. In West Bengal, higher literacy in backward pockets like the Sundarbans or border districts would contribute to human development and reduce regional imbalances. ",
+          "Bihar was a focus of Saakshar Bharat, and while it claimed to impart basic literacy to millions of adults, the lack of post-literacy follow-up meant many neo-literates relapsed into illiteracy. The varying success of these central schemes highlights a pattern: one-size-fits-all policies failed to account for local realities like language differences, poverty, or administrative capacity in these states. Looking at state-specific policies, Bihar’s attempt at educational reform in the mid-2000s is a telling example. The state undertook a massive drive to recruit over 100,000 teachers on contract (locally called Shiksha Mitras or Niyojit teachers) to fill vacancies in primary schools. ",
+          "While this addressed the numerical shortage (bringing down student-teacher ratios somewhat), it introduced new problems: many recruits lacked proper qualifications or training, were paid low stipends, and had little incentive or accountability. The result was that classroom instruction quality remained poor – evident from surveys that showed Bihar’s children lagging in reading and arithmetic despite attending school. ",
+          "A notorious incident in 2015, where images of mass cheating in Bihar’s board examinations went viral, underscored systemic dysfunction – students resorted to unscrupulous means to pass exams, reflecting a failure of foundational teaching and ethical inculcation. This implementation gap – having schools and teachers in name but not in substance – has haunted Bihar’s educational initiatives. ",
+          "In Odisha, one challenge has been delivering education to its diverse tribal populations. The state launched programs like “Satya Bahama” hostels and bilingual primers to encourage tribal children to attend school, but for years these remained limited in scope. Until recently, curricula did not adequately incorporate tribal languages, causing alienation. The Multilingual Education (MLE) program started in 2007 in Malkangiri is a positive step, teaching young children in their mother tongue and gradually transitioning to Odia and English. However, such innovations took a long time to scale up. ",
+           "Odisha’s literacy efforts also suffered from budgetary constraints – education spending as a share of total budget was relatively low in the 1990s and 2000s compared to needs. Frequent natural disasters (cyclones, floods) diverted attention and funds, slowing school infrastructure development in backward districts. The government’s “School & Mass Education” department tried initiatives like recruiting Sikshya Sahayaks (contract teachers) and opening Navodaya residential schools for talented rural students, but uneven monitoring led to variable outcomes. ",
+           "As a result, pockets of the state (notably the eight most backward districts of KBK region – Kalahandi, Bolangir, Koraput, including Malkangiri and Nabarangpur) remained severely educationally deprived. Odisha’s policies often looked good on paper but faltered at the last mile – for example, funds for school construction or girls’ scholarships sometimes lapsed due to bureaucratic inefficiencies, leaving targets unmet. ",
+           "West Bengal has a long history of education movements yet also faces its own policy missteps. In the Left Front regime (1977–2011), the state emphasized basic education through programs like the Shishu Shiksha Kendra (SSK) and Madhyamik Shiksha Kendra (MSK) – community-run primary and upper-primary schools in rural areas. While SSKs did expand schooling access in remote villages, they were staffed by para-teachers with minimal training and low salaries, which translated to modest learning outcomes. ",
+           "The transition rates from SSKs to formal high schools were not as high as hoped, indicating that many children, especially girls and those from poor families, did not continue beyond elementary levels. West Bengal also struggled with educational quality in government schools: political interference in teacher transfers and a lack of English education in earlier decades prompted many families (even lower-income ones) to switch to private schools, leaving public schools under-resourced. ",
+           "Additionally, certain districts with high minority (Muslim) populations, like Murshidabad or Uttar Dinajpur, had very low literacy (around 60%). Policies failed here because they did not address community-specific barriers – e.g. no special drive to educate first-generation learners in these communities or to convince parents of the long-term value of schooling. It wasn’t until the 2010s that schemes like Kanyashree Prakalpa (a conditional cash transfer to keep adolescent girls in school) were introduced, and these have shown some success. ",
+           "But prior to that, gender and socio-economic neglect in policy meant many girls married early or many boys dropped out to work, especially in rural West Bengal. Across all three states, a recurring theme in policy failure is the gap between intent and implementation. Budgets were often insufficient – education expenditure per student in these poorer states lagged far behind that in Kerala, where successive governments prioritize funding for schools",
+           "Even when funds were allocated, they sometimes did not reach the school level due to leakages or administrative red tape. Moreover, reforms often did not tackle root causes: for example, providing a school building is futile if social norms prevent girls from attending, or if malnourished children cannot concentrate in class. The past policies in Bihar, Odisha, and West Bengal often took a siloed approach (focusing on inputs like schools or teachers in isolation) rather than a holistic one. ",
+           "The result was that marginalized groups – rural populations, women, tribal communities – gained literacy at a glacial pace, leaving these states still trailing in basic education even after India as a whole made strides. These lessons from failed or inadequate policies inform the need for a more comprehensive, Kerala-inspired strategy moving forward.",
+        ],
+
       },
       {
         heading: "Key Policy Recommendations",
         paragraphs: [
           "To transform literacy outcomes in Bihar, Odisha, and West Bengal, an integrated strategy is needed – one that learns from Kerala's successes and tailors them to local realities. Below are key policy recommendations that can bridge the gap from policy to practice:",
-          "Strengthen the Teacher Workforce and Training: Invest heavily in recruiting and training qualified teachers, especially in underserved rural and tribal areas. Each state should set up local teacher education institutes and continuous development programs to ensure teachers meet competency standards. Kerala's experience shows the value of a robust teacher–student ratio and freeing teachers from non-academic duties. Bihar, Odisha, and West Bengal must similarly professionalize teaching: regularize or replace under-qualified contract teachers with well-trained educators, provide incentives for skilled teachers to serve in remote areas (such as housing or salary uplifts), and enforce accountability for attendance and performance. A cadre of community-based female educators should be developed to reach girls in conservative rural communities, thereby tackling gender disparities in literacy at the grassroots.",
-          "Infrastructure and Basic Facilities Upgrade: Launch a mission-mode program to improve school infrastructure to at least minimum norms within 3–5 years. This includes building adequate classrooms, separate functional toilets for girls and boys, clean drinking water facilities, electricity, and libraries in every public school. The contrast with Kerala – where virtually all schools have these basics – is stark; for example, Bihar must urgently address situations where nearly one-third of schools lack toilets or libraries. All three states should earmark dedicated capital funds in their budgets for school infrastructure, possibly leveraging central schemes and public-private partnerships. Monitoring mechanisms (with community oversight) should ensure construction quality and timely completion. Improving infrastructure will particularly help retain girls (who often drop out due to lack of toilets or safety) and create a more conducive learning environment. Each upgraded school can become a hub for literacy in its village, attracting out-of-school children and adult learners for evening classes as well.",
-          "Embrace Digital and Distance Education: Bridge the digital divide by providing modern learning tools in government schools. Following Kerala's lead in ICT education, Bihar, Odisha, and West Bengal should equip schools with computers, affordable tablets, and internet connectivity. A phased plan can aim for all secondary schools to have computer labs and trained ICT instructors within a few years, and primary schools at least some digital learning device access. Governments could collaborate with initiatives like NDLM (National Digital Literacy Mission) to train both students and teachers in basic digital skills. Additionally, utilize educational broadcasting and mobile technology to reach learners in remote locations – e.g., Odisha could expand radio lessons in tribal languages or West Bengal could use smartphone apps with Bengali educational content for rural youth. By democratizing access to digital resources ensure continuity of education during disruptions (as seen during pandemic lockdowns). Digital inclusion efforts must also be paired with electricity access (solar panels in off-grid schools, for instance) so that technology is reliable. These investments will produce a generation of digitally literate young people, improving both their learning outcomes and employability in the modern economy.",
-          "Inclusive and Mother-Tongue Education: Adapt educational delivery to the needs of marginalized communities. A one-size curriculum does not fit a country as diverse as India. Odisha has pioneered multilingual education in places like Malkangiri – teaching tribal children first in their native tongues, then bridging to Odia and English. This model should be expanded and replicated in other tribal-dominated areas of Odisha and West Bengal (which has Santhali, Oraon and other tribal groups), as well as among minority-language communities in Bihar (such as Urdu speakers in certain districts). Teaching children in a familiar language in early grades improves comprehension and prevents them from dropping out in frustration. Alongside, special training for teachers on inclusive education is needed – covering pedagogies for first-generation learners, children with disabilities, and those from socially disadvantaged groups. Kerala's near-universal literacy was achieved not just through formal schooling but also through adult education and alternative learning centers that brought historically excluded groups (like lower castes and women) into the fold of literacy. Bihar, Odisha, and West Bengal should reinvigorate adult literacy missions and link them with livelihood skills, focusing on women and older youth who missed formal schooling. Community learning centers in every panchayat (village council) could serve as venues for evening classes, vocational training, and reading rooms, fostering a culture of learning beyond school age.",
-          "Community Engagement and Grassroots Campaigns: Borrowing from Kerala's famous mass literacy campaigns, the target states should galvanize a social movement for literacy. Kerala's 1989–90 Total Literacy Campaign, which mobilized thousands of volunteers and community groups, was key to its success. Similar campaigns can be launched in Bihar, Odisha, and West Bengal with the help of local NGOs, youth clubs, women's self-help groups (e.g. Bihar's Jeevika groups), and Panchayati Raj institutions. These campaigns would involve door-to-door surveys to identify illiterate youth and adults, followed by volunteer-taught classes and reading circles. 'Each one teaches one' initiatives, where literate individuals tutor an illiterate neighbor, can create a ripple effect. Community engagement is also critical for addressing socio-cultural resistance – for example, involving village elders and religious leaders to champion girls' education and dispel fears or superstitions that keep children out of school. By making literacy a collective mission – celebrated with local incentives (like literacy certificates, public recognition for villages that become fully literate) – the states can transform attitudes. The school should be seen as a community asset; forming Village Education Committees that include parents can improve accountability. When communities take ownership of education outcomes, they can help monitor teacher attendance, raise funds for school needs, and ensure every child is enrolled and learning.",
-          "Long-Term Financial Planning and Decentralization: A critical lesson from Kerala is the sustained political commitment to education financing and decentralization of administration. The target states must commit to raising their education budgets – for instance, setting a goal to spend a significant percentage of state GDP (or state budget) on education, inching closer to Kerala's per-capita education expenditure. This could involve tough choices like reallocating resources from less impactful areas to schooling, but the returns in human capital will be high. In addition, empowering local governments (district or block level) with funds and decision-making authority for education can improve responsiveness. Kerala's decentralization in the 1990s allowed local bodies to tailor solutions for their schools. Bihar, Odisha, West Bengal can establish district education councils that prepare localized plans: one district might prioritize girls' hostels to address female dropout, while another focuses on recruiting teachers in a particular subject shortage. Transparent budgeting and social audits should be enforced so that money reaches schools – for instance, each school's grant and expenditures should be public information, enabling communities to audit their use. International development funds or corporate social responsibility (CSR) contributions can also be tapped for one-time capital surges (like building digital infrastructure or model schools) under state supervision. By planning education investments over a 10-15 year horizon with protected funding streams, these states can avoid the common pitfall of ad-hoc, fluctuating support that derails reforms.",
-          "Gender-Sensitive and Equitable Reforms: Finally, all strategies must be overlaid with a focus on gender equity and social inclusion. This means setting specific targets to reduce the male-female literacy gap and literacy gaps for scheduled castes and tribes. Initiatives like West Bengal's Kanyashree (scholarships to keep girls in school) should be expanded and emulated in Bihar and Odisha, alongside efforts to make schools safer and more girl-friendly (e.g. recruiting more female teachers, providing menstrual hygiene facilities). Similarly, provide bridge courses and second-chance schooling for married adolescents or young mothers who want to study later. Educational outreach in hamlets of the poorest communities – Dalits in Bihar, adivasis in Odisha, minority groups in West Bengal – should be intensified via dedicated facilitators. Kerala's success in minimizing social disparities (with literacy rates above 90% for both men and women, and small rural-urban gaps) illustrates that when the most disadvantaged are reached, overall literacy soars. Thus, policies should be regularly evaluated through an equity lens: e.g., are female literacy rates improving year-on-year? Is the gap between a tribal block and the state average closing? Tying funding and administrative rewards to these metrics can incentivize officials to focus on inclusive progress. In sum, making education truly universal will require not just generic improvements but targeted interventions to uplift those historically left behind.",
-          "By implementing these multi-pronged recommendations – improved teaching, better infrastructure, digital access, inclusive content, community mobilization, stable funding, and equity focus – Bihar, Odisha, and West Bengal can replicate and even build upon Kerala's model. The aim is to convert policy into practice on the ground, so that a child in Malkangiri or Purulia today receives an education as empowering as one in urban Kerala. Each recommendation reinforces the others; together they form a holistic plan to break the cycle of illiteracy.",
         ],
       },
+
+      {
+        heading: "Strengthen the Teacher Workforce and Training: ",
+        paragraphs:[
+        " Invest heavily in recruiting and training qualified teachers, especially in underserved rural and tribal areas. Each state should set up local teacher education institutes and continuous development programs to ensure teachers meet competency standards. Kerala's experience shows the value of a robust teacher–student ratio and freeing teachers from non-academic duties. Bihar, Odisha, and West Bengal must similarly professionalize teaching: regularize or replace under-qualified contract teachers with well-trained educators, provide incentives for skilled teachers to serve in remote areas (such as housing or salary uplifts), and enforce accountability for attendance and performance. A cadre of community-based female educators should be developed to reach girls in conservative rural communities, thereby tackling gender disparities in literacy at the grassroots.",
+        ]
+      },
+      {
+        heading: "Infrastructure and Basic Facilities Upgrade:  ",
+        paragraphs:[
+        " Launch a mission-mode program to improve school infrastructure to at least minimum norms within 3–5 years. This includes building adequate classrooms, separate functional toilets for girls and boys, clean drinking water facilities, electricity, and libraries in every public school. The contrast with Kerala – where virtually all schools have these basics – is stark; for example, Bihar must urgently address situations where nearly one-third of schools lack toilets or libraries.",
+        "All three states should earmark dedicated capital funds in their budgets for school infrastructure, possibly leveraging central schemes and public-private partnerships. Monitoring mechanisms (with community oversight) should ensure construction quality and timely completion. Improving infrastructure will particularly help retain girls (who often drop out due to lack of toilets or safety) and create a more conducive learning environment. Each upgraded school can become a hub for literacy in its village, attracting out-of-school children and adult learners for evening classes as well.",
+        ]
+      },
+
+      {
+        heading:"Embrace Digital and Distance Education: ",
+        paragraphs:[
+         "Bridge the digital divide by providing modern learning tools in government schools. Following Kerala’s lead in ICT education, Bihar, Odisha, and West Bengal should equip schools with computers, affordable tablets, and internet connectivity. A phased plan can aim for all secondary schools to have computer labs and trained ICT instructors within a few years, and primary schools at least some digital learning device access. Governments could collaborate with initiatives like NDLM (National Digital Literacy Mission) to train both students and teachers in basic digital skills. ",
+         "Additionally, utilize educational broadcasting and mobile technology to reach learners in remote locations – e.g., Odisha could expand radio lessons in tribal languages or West Bengal could use smartphone apps with Bengali educational content for rural youth. By democratizing access to digital resources ensure continuity of education during disruptions (as seen during pandemic lockdowns). Digital inclusion efforts must also be paired with electricity access (solar panels in off-grid schools, for instance) so that technology is reliable. These investments will produce a generation of digitally literate young people, improving both their learning outcomes and employability in the modern economy."
+        ]
+      },
+      {
+        heading:"Inclusive and Mother-Tongue Education: ",
+        paragraphs:[
+         "Adapt educational delivery to the needs of marginalized communities. A one-size curriculum does not fit a country as diverse as India. Odisha has pioneered multilingual education in places like Malkangiri – teaching tribal children first in their native tongues, then bridging to Odia and English. This model should be expanded and replicated in other tribal-dominated areas of Odisha and West Bengal (which has Santhali, Oraon and other tribal groups), as well as among minority-language communities in Bihar (such as Urdu speakers in certain districts). ",
+         "Teaching children in a familiar language in early grades improves comprehension and prevents them from dropping out in frustration. Alongside, special training for teachers on inclusive education is needed – covering pedagogies for first-generation learners, children with disabilities, and those from socially disadvantaged groups. ",
+         "Kerala’s near-universal literacy was achieved not just through formal schooling but also through adult education and alternative learning centers that brought historically excluded groups (like lower castes and women) into the fold of literacy. Bihar, Odisha, and West Bengal should reinvigorate adult literacy missions and link them with livelihood skills, focusing on women and older youth who missed formal schooling. Community learning centers in every panchayat (village council) could serve as venues for evening classes, vocational training, and reading rooms, fostering a culture of learning beyond school age."
+
+        ]
+      },
+      {
+        heading:"Community Engagement and Grassroots Campaigns: ",
+        paragraphs:[
+          "Borrowing from Kerala’s famous mass literacy campaigns, the target states should galvanize a social movement for literacy. Kerala’s 1989–90 Total Literacy Campaign, which mobilized thousands of volunteers and community groups, was key to its success. Similar campaigns can be launched in Bihar, Odisha, and West Bengal with the help of local NGOs, youth clubs, women’s self-help groups (e.g. Bihar’s Jeevika groups), and Panchayati Raj institutions. These campaigns would involve door-to-door surveys to identify illiterate youth and adults, followed by volunteer-taught classes and reading circles. ",
+          "“Each one teaches one” initiatives, where literate individuals tutor an illiterate neighbor, can create a ripple effect. Community engagement is also critical for addressing socio-cultural resistance – for example, involving village elders and religious leaders to champion girls’ education and dispel fears or superstitions that keep children out of school. By making literacy a collective mission – celebrated with local incentives (like literacy certificates, public recognition for villages that become fully literate) – the states can transform attitudes. The school should be seen as a community asset; forming Village Education Committees that include parents can improve accountability. When communities take ownership of education outcomes, they can help monitor teacher attendance, raise funds for school needs, and ensure every child is enrolled and learning."
+        ]
+      },
+
+      {
+        heading:"Long-Term Financial Planning and Decentralization: ",
+        paragraphs:[
+          "A critical lesson from Kerala is the sustained political commitment to education financing and decentralization of administration. The target states must commit to raising their education budgets – for instance, setting a goal to spend a significant percentage of state GDP (or state budget) on education, inching closer to Kerala’s per-capita education expenditure. This could involve tough choices like reallocating resources from less impactful areas to schooling, but the returns in human capital will be high. In addition, empowering local governments (district or block level) with funds and decision-making authority for education can improve responsiveness. ",
+          "Kerala’s decentralization in the 1990s allowed local bodies to tailor solutions for their schools. Bihar, Odisha, West Bengal can establish district education councils that prepare localized plans: one district might prioritize girls’ hostels to address female dropout, while another focuses on recruiting teachers in a particular subject shortage. Transparent budgeting and social audits should be enforced so that money reaches schools – for instance, each school’s grant and expenditures should be public information, enabling communities to audit their use. ",
+          "International development funds or corporate social responsibility (CSR) contributions can also be tapped for one-time capital surges (like building digital infrastructure or model schools) under state supervision. By planning education investments over a 10-15 year horizon with protected funding streams, these states can avoid the common pitfall of ad-hoc, fluctuating support that derails reforms."
+
+
+        ]
+      },
+      {
+        heading:"Gender-Sensitive and Equitable Reforms: ",
+        paragraphs:[
+          "Finally, all strategies must be overlaid with a focus on gender equity and social inclusion. This means setting specific targets to reduce the male-female literacy gap and literacy gaps for scheduled castes and tribes. Initiatives like West Bengal’s Kanyashree (scholarships to keep girls in school) should be expanded and emulated in Bihar and Odisha, alongside efforts to make schools safer and more girl-friendly (e.g. recruiting more female teachers, providing menstrual hygiene facilities). Similarly, provide bridge courses and second-chance schooling for married adolescents or young mothers who want to study later. Educational outreach in hamlets of the poorest communities – Dalits in Bihar, adivasis in Odisha, minority groups in West Bengal – should be intensified via dedicated facilitators. ",
+          "Kerala’s success in minimizing social disparities (with literacy rates above 90% for both men and women, and small rural-urban gaps) illustrates that when the most disadvantaged are reached, overall literacy soars. Thus, policies should be regularly evaluated through an equity lens: e.g., are female literacy rates improving year-on-year? Is the gap between a tribal block and the state average closing? Tying funding and administrative rewards to these metrics can incentivize officials to focus on inclusive progress. In sum, making education truly universal will require not just generic improvements but targeted interventions to uplift those historically left behind.",
+          "By implementing these multi-pronged recommendations – improved teaching, better infrastructure, digital access, inclusive content, community mobilization, stable funding, and equity focus – Bihar, Odisha, and West Bengal can replicate and even build upon Kerala’s model. The aim is to convert policy into practice on the ground, so that a child in Malkangiri or Purulia today receives an education as empowering as one in urban Kerala. Each recommendation reinforces the others; together they form a holistic plan to break the cycle of illiteracy."
+
+        ]
+      }
     ],
     conclusion: [
-      "If the recommended reforms are pursued with political will and community support, the long-term outcomes could be transformative for Bihar, Odisha, and West Bengal. Within a decade, these states can expect a substantial jump in literacy rates – moving from the current ranges (60–76%) closer to the national average and beyond. Bihar, for example, which improved from 47% in 2001 to 64% in 2011 and ~71% by 2017, could accelerate its literacy growth to reach the 80–85% range by the next census through aggressive adult education and improved schooling. Odisha and West Bengal, currently in the 70s, could push into the high 80s, nearing Kerala’s achievements, if they systematically implement the Kerala-style interventions. Crucially, the gender gap in literacy is expected to narrow significantly. With focused female education programs, one would anticipate female literacy in Bihar (around 60% in 2017) to catch up to male literacy (around 80%) over time, emulating Kerala’s near parity (just 4 percentage point difference between sexes).",
-      "The urban-rural divides should also diminish: As rural schools get more resources and community engagement, rural literacy rates will rise faster, reducing the disparity. For instance, the gap between Kolkata and districts like Purulia may shrink as rural West Bengal sees new educational investments and campaigns. Beyond the numbers, the qualitative impact will be far-reaching. A literate populace is better equipped to participate in the economy – we can expect improved workforce skills and productivity in these states, attracting more investments and jobs. Literacy is linked to health and social outcomes: newly literate adults (especially women) are more likely to seek healthcare, practice better hygiene, and have smaller, healthier families. Over time, higher literacy can reduce poverty and dependence on manual, unskilled labor as more youth attain higher education and diverse employment. Socially, increased literacy fosters empowerment and democratic participation.",
-      "We may see higher voter turnout, more informed civic discourse, and communities better able to demand accountability from officials when people can read news and official information. As one analysis noted, communities with high literacy tend to have greater economic diversification and enhanced social capital meaning people can pursue varied occupations and collectively address their issues more effectively. In Bihar’s context, a literacy boost could help break the feudal and caste-based barriers, as education opens opportunities across social lines. In Odisha’s tribal regions, functional literacy combined with mother-tongue education can preserve cultural identity while integrating tribes into the broader economy and polity on their own terms.",
-      "In West Bengal, higher literacy in backward pockets like the Sundarbans or border districts would contribute to human development and reduce regional imbalances. By adopting Kerala’s model of holistic educational development, these states also set themselves on a path toward achieving the Sustainable Development Goals (SDGs) related to education, gender equality, and reduced inequalities. One can project that in the next 15–20 years, with sustained effort, Bihar, Odisha, and West Bengal will no longer be tagged as “least literate” but rather as success stories of turnaround. The literacy rate could realistically approach 90% or above by 2040, creating near-universal literacy societies. The expected outcomes are self-reinforcing: as literacy rises, it creates a virtuous cycle – literate parents ensure their children are educated, communities demand better schooling, and educated citizens contribute more to the economy, providing more resources for education. In essence, the reforms would translate policy into practice effectively, making “Education for All” a reality in even the hardest-to-reach corners of these states. The journey will require persistent commitment, but the payoff is a future where all citizens of Bihar, Odisha, and West Bengal can read, write, and contribute their talents to the nation’s progress, following in the footsteps of Kerala’s enlightened society.",
+      "If the recommended reforms are pursued with political will and community support, the long-term outcomes could be transformative for Bihar, Odisha, and West Bengal. Within a decade, these states can expect a substantial jump in literacy rates – moving from the current ranges (60–76%) closer to the national average and beyond. Bihar, for example, which improved from 47% in 2001 to 64% in 2011 and ~71% by 2017, could accelerate its literacy growth to reach the 80–85% range by the next census through aggressive adult education and improved schooling. Odisha and West Bengal, currently in the 70s, could push into the high 80s, nearing Kerala’s achievements, if they systematically implement the Kerala-style interventions.",
+      "Crucially, the gender gap in literacy is expected to narrow significantly. With focused female education programs, one would anticipate female literacy in Bihar (around 60% in 2017) to catch up to male literacy (around 80%) over time, emulating Kerala’s near parity (just 4 percentage point difference between sexes).",
+      "One can project that in the next 15–20 years, with sustained effort, Bihar, Odisha, and West Bengal will no longer be tagged as “least literate” but rather as success stories of turnaround. The literacy rate could realistically approach 90% or above by 2040, creating near-universal literacy societies. The expected outcomes are self-reinforcing: as literacy rises, it creates a virtuous cycle – literate parents ensure their children are educated, communities demand better schooling, and educated citizens contribute more to the economy, providing more resources for education. ",
+      "In essence, the reforms would translate policy into practice effectively, making “Education for All” a reality in even the hardest-to-reach corners of these states. The journey will require persistent commitment, but the payoff is a future where all citizens of Bihar, Odisha, and West Bengal can read, write, and contribute their talents to the nation’s progress, following in the footsteps of Kerala’s enlightened society. ",
+    ],
+    acknowledegements: [
+          `1.	Abstract: Anuj Kumar`,
+          `2.	Introduction- Anuj Kumar`,
+          `3.	Bihar Education Problems: Anuj Kumar`,
+          `4.	Orissa and West Bengal Problems: Aindri Suri`,
+          `5.	Kerala Education Model: Dhariya Maggo`,
+          `6.	Methodology: Aindri Sur`,
+          `7.	Recommendations: Anuj Kumar`,
+          `8.	Conclusion: A.K Amalnath`
     ],
     references: [
       {
@@ -6126,6 +6212,1699 @@ const articles = [
       }
     ]
   },
+   {
+    id: 6,
+    issue: 2,
+    volume: 1,
+    title: " Beyond Firewalls: The Human Factor in Cybersecurity",
+    author: "Abhimanyu Chhibber, Pranav Sarna",
+    authorAbbrev: "A. Chhibber, P.Sarna, and others",
+    abstract: "“In the shadows of the digital realm, cybercrimes have emerged as a formidable threat to global security, economic stability, and personal privacy.” As technology embeds itself deeper into daily life, the vulnerabilities it carries have grown exponentially. This article explores cybercrime as a global complication advanced by rapid technological progression, highlighting the urgent need for cybersecurity and international cooperation. It underscores the critical role of the human element in cyberattacks, identifies systemic flaws in current defense mechanisms, and advocates for a multidisciplinary, collaborative model of cyber resilience.Drawing on digital trends and current evidence, this research offers a comprehensive perspective directed towards fostering a more nuanced and actionable cybersecurity framework that accounts for the intricate interplay between human behavior and technological infrastructure in combating cyber threats." ,
+    keyword:[
+      "Cybercrime",
+      "e-defence",
+      "human factor",
+      "international cooperation",
+      "economic safeguarding"
+
+    ],
+    status: "Submitted",
+    intro: [
+      "The digital revolution has precipitated a paradigm shift in modern society, weaving a complex tapestry of interconnected systems and networks. As technology continues to advance at an unprecedented pace, the boundaries between the physical and digital worlds are becoming increasingly ephemeral. However, this heightened reliance on digital technologies has also introduced a plethora of vulnerabilities and risks. Cybercrimes, in particular, have emerged as a pernicious threat to global security, economic stability, and individual privacy (Cybersecurity Ventures, 2022; World Bank, 2023). The alarming proliferation of cyber-attacks, data breaches, and other forms of cyber malfeasance has compromised sensitive information, disrupted critical infrastructure, and eroded trust in digital systems (IBM, 2021; ITU, 2023). The economic implications of cybercrime are staggering, with estimated losses projected to reach unprecedented levels in the coming years.The intangible nature of cyber threats makes them uniquely difficult to detect, track, and counteract. The continuous evolution of technology necessitates a comprehensive and multifaceted approach that encompasses technological innovation, regulatory frameworks, and individual awareness and education (NIST, 2023; European Commission, 2022).",
+      "In this article, we delve into the complex and evolving landscape of cybercrimes, examining the current threats, vulnerabilities, and consequences of cyber-attacks. We also discuss the need for effective security policy reforms, highlighting the importance of cybersecurity awareness and training, software and hardware updates, incident response planning, and international cooperation." 
+    ],
+    content: [
+      
+      {
+        heading: "Cybercrime: Fallacies and Guises",
+        paragraphs: [
+          "Cybercrimes have undergone a significant transformation in recent years, evolving from simplistic attacks to sophisticated and targeted threats (IEEE Cybersecurity Brief, 2023). The increasing complexity of cyber-attacks can be attributed to the growing sophistication of malicious actors, who are leveraging advanced technologies and techniques to compromise digital systems (Gundu, T., & Flowerday, S. V. (2023). Over the past decade, technology has undergone a revolutionary transformation, seamlessly integrating into our daily lives and fundamentally altering the way we interact, communicate, and conduct business. This exponential growth has been accompanied by an equally alarming rise in cybercrimes, with the global economy losing an estimated $6 trillion to cybercrime in 2021 alone (Cybersecurity Ventures, 2022).",
+          "Cybercrimes have advanced beyond basic hacking, now encompassing sophisticated techniques such as ransomware deployment, malware infections, and social engineering. According to Cybersecurity Ventures (2022), the global economy is projected to lose over $10.5 trillion by 2025. Many organizations and individuals use outdated software and hardware, making them vulnerable to attacks. As a result, the need for effective cybersecurity strategies has become urgent and unavoidable. Without proactive and coordinated efforts, individuals, businesses, and governments face significant and long-lasting repercussions"
+        ]
+      },
+      {
+        heading: "The Economic Implications of Cybercrime",
+        paragraphs: [
+          "Cybercrimes can have devastating consequences, including financial loss, reputational damage, and compromised sensitive information. For instance, a ransomware attack on Baltimore in 2020 resulted in a loss of over $10 million (Baltimore Sun, 2020). Similarly, a cyberattack on Equifax in 2017 compromised the sensitive information of over 147 million people (Equifax, 2017).",
+          "It is expected that the annual cybercrime costs globally might reach up to $10.5 trillion by 2025 (Morgan, 2020). Such costs include data breaches and damage, intrusion of privacy, loss of productivity, financial theft, embezzlement, and system hacking. Various day-to-day encounters are seen wherein the victim falls into traps designed by cybercriminals using persuasive tactics.",
+          "Losses due to such financial frauds have amounted to ₹11,269 Crore INR for India alone (Ministry of Home Affairs, 2024), with most of the scams traced back to China or China-linked entities. The rise of the underground economy, where malware, hacking tools, and services are traded, reflects how deeply embedded cybercrime has become. Cybercrime as a service has enabled individuals with malicious intent to exploit technology and talent for harmful ends (IEEE Cybersecurity Brief, 2023). ",
+          "Industries such as healthcare, hospitality, and financial services are especially vulnerable, requiring continuous improvements in data governance, incident response, and investments in both security technologies and preventive strategies (IBM, 2021). Even in sectors with established compliance measures, like healthcare, breaches continue to occur (World Bank, 2023). This highlights the importance of sharing threat intelligence and building resilient infrastructure.Ultimately, the economic and structural implications of cybersecurity underscore the need for cautious, informed, and sustained investment in safeguarding the digital world. "
+        ]
+      },
+      {
+        heading: "The Rising Emergence of Cybersecurity Awareness and Training",
+        paragraphs: [
+          "The rising tide of cyber threats has brought cybersecurity awareness and training to the center of both public and private sector agendas. As cyberattacks grow in magnitude and sophistication ranging from phishing to ransomware organizations and governments are increasingly recognizing that technology alone is insufficient for defense. Human error continues to be a leading cause of data breaches (UpGuard, 2022; CybSafe, 2024; Bitrián, 2024).",
+          "Cybersecurity extends beyond merely fostering e-safety consciousness; it involves empowering institutions with the necessary skillset to uphold integrity and ensure privacy protection. A comprehensive cybersecurity plan involves awareness and training, regular software and hardware updates, incident response planning, cybersecurity regulations, and international cooperation.",
+          "Educating individuals and employees on best practices in cybersecurity is fundamental. This includes promoting the use of strong passwords, educating on phishing email detection, and ensuring both software and hardware systems remain updated (Journal of Cyber Psychology, 2024). Additionally, incident response plans are essential for managing threats effectively and minimizing impact.",
+          "Cybersecurity training emerges not only as a protective measure but also as a civic responsibility. It equips users with knowledge and professionals with agility to respond in real time (Estonian Ministry of Education, 2022; CompTIA, 2023). To be effective, such initiatives must maintain consistency and accessibility across all levels of society from executives to citizens."
+        ]
+      },
+      {
+        heading: "Cybercrime as a Global Threat",
+        paragraphs: [
+         "With increasing digitalization, cybercriminal activity now targets vulnerabilities in networks, software, and human behavior. These include identity theft, financial fraud, ransomware, cyber espionage, and data breaches. As per the FBI IC3 Annual Report (2024), cybercrime losses in the U.S. alone exceeded $12.5 billion. Globally, Cybersecurity Ventures (2022) estimates costs will exceed $10.5 trillion annually by 2025.",
+         "Hackers often operate from jurisdictions with weak cyber laws or limited enforcement capabilities (UN Cybercrime Negotiation Report, 2023). The impacts extend beyond financial loss, affecting power grids, banking systems, and public trust. According to the Global Cybersecurity Index by the ITU (2023), disparities in national capabilities continue to create gaps in the global defense system.",
+         "Governments and organizations must share intelligence and invest in cybersecurity R&D to stay ahead of threats. This includes continuous development of advanced tools and legal frameworks (European Commission, 2022; ISO, 2023). A paradigm shift is needed, one that is rooted in training, skill-building, and cross-border collaboration.",
+        ]
+      },
+      {
+        heading: "International Cooperation in Cybersecurity",
+        paragraphs: [
+          "Governments, organizations, and individuals must collaborate to implement effective cybersecurity strategies. This includes investing in research, building awareness, developing incident response plans, and enforcing regulations (UN Cybercrime Negotiation Report, 2023; ISO, 2023).Cyber threats transcend borders. Multilateral alliances such as the EU, UN, and regional cybersecurity frameworks must harmonize global defenses. Initiatives like GDPR compliance (European Commission, 2022), cybersecurity curriculum integration (Estonian Ministry of Education, 2022), and NIST’s Cybersecurity Framework 2.0 (NIST, 2023) are critical models for coordinated resilience.",
+          " International Cooperation in Cybersecurity Cybersecurity requires united, actionable efforts from global and regional actors. Cooperation must go beyond awareness—it should lead to coordinated execution of security strategies.A shared, proactive mindset rooted in investment, knowledge, and accountability—is key to sustained cyber defense. Collective action must aim for long-term alignment and legal coherence across jurisdictions.Cybersecurity is not a one-time fix. It is an evolving, continuous commitment requiring innovation, legal rigor, and cultural shift toward shared digital responsibility."
+        ]
+      },
+    ],
+    conclusion: [
+     "Ultimately, our collective efforts will determine the trajectory of cybersecurity in the years to come. By prioritizing cybersecurity, promoting awareness and education, and fostering a culture of responsibility and collaboration, we can create a digital world that is resilient, trustworthy, and empowering for all. While the trajectory of cybersecurity remains uncertain, its future will be shaped by our shared vigilance, investment, and commitment to systemic resilience. ",
+     "Enhanced and proactive security practices, combined with global partnerships and continuous investment in R&D, are essential (WEF, 2023). This can be achieved by embedding cyber hygiene, ethical responsibility, and informed decision-making into every digital interaction.As cyber threats become increasingly intertwined with daily life, cybersecurity must emerge not only as a technical discipline but as a shared societal value."
+    ],
+    references: [
+      {
+        heading: "Baltimore Sun. (2020). Baltimore's ransomware attack cost the city over $10 million. ", 
+        links:""
+      },
+      {
+        heading: "Bitrián, J. L. (2024). Training and efficacy in cyber awareness. Journal of Cybersecurity Education and Research, 12(1), 45–58.", 
+        links: ""
+      },
+      {
+        heading: "CompTIA. (2023). Workforce Security Report 2023: Cybersecurity readiness among professionals.  ", 
+        links: ""
+      },
+      {
+        heading: "Cybersecurity Ventures. (2022). Cybercrime damages to reach $10.5 trillion by 2025.  ", 
+        links: ""
+      },
+      {
+        heading: "CybSafe. (2024). User behavior and susceptibility in cyberattacks. ", 
+        links: ""
+      },
+      {
+        heading: "Equifax. (2017). Data breach investigation report. ", 
+        links: ""
+      },
+      {
+        heading: "Estonian Ministry of Education. (2022). Cybersecurity curriculum in schools: A national strategy. ", 
+        links: ""
+      },
+      {
+        heading: "European Commission. (2022). GDPR compliance survey and cybersecurity governance.  ", 
+        links: ""
+      },
+      {
+        heading: "FBI Internet Crime Complaint Center. (2024). IC3 annual report: Internet crime statistics. ", 
+        links: ""
+      },
+      {
+        heading: "IBM. (2021). Cost of a data breach report.", 
+        links: ""
+      },
+      {
+        heading: "IEEE Cybersecurity Brief. (2023). Emerging threats and responses in 2023.  ", 
+        links: ""
+      },
+      {
+        heading: "International Telecommunication Union (ITU). (2023). Global Cybersecurity Index (GCI). " 
+      },
+      {
+        heading: "ISO. (2023). ISO/IEC 27001:2022 – Information security management. ", 
+        links: ""
+      },
+      {
+        heading: "Journal of Cyber Psychology. (2024). Cyber behavior and awareness: An empirical review, 18(2), 31–46. ", 
+        links: ""
+      },
+      {
+        heading: "Ministry of Home Affairs (India). (2024). Cybercrime trends and financial impact in India. ", 
+        links: ""
+      },
+      {
+        heading: "Morgan, S. (2020). Cybercrime will cost the world $10.5 trillion annually by 2025. Cybersecurity Ventures. ", 
+        links: ""
+      },
+      {
+        heading: "National Institute of Standards and Technology (NIST). (2023). Cybersecurity Framework 2.0 (Draft) ", 
+        links: ""
+      },
+      {
+        heading: "Springer. (2023). Gamified phishing simulations and behavior-focused training programs. In Cybersecurity and Human Factors (pp. 79–95). Springer Nature. ", 
+        links: ""
+      },
+      {
+        heading: " UN Cybercrime Negotiation Report. (2023). Multilateral cooperation for global cyber norms. United Nations Office on Drugs and Crime.", 
+        links: ""
+      },
+      {
+        heading: "UpGuard. (2022). Human error in cybersecurity breaches: Root causes and responses.  ", 
+        links: ""
+      },
+      {
+        heading: "World Economic Forum (WEF). (2023). Global Risks Report 2023. ", 
+        links:""
+      },
+      {
+        heading: "World Bank. (2023). Cybersecurity and financial impact: Global trends.  ", 
+        links: ""
+      } 
+    ]
+  },
+    {
+    id: 7,
+    issue: 2,
+    volume: 1,
+    title: "The Mahatma Gandhi National Rural Employment Guarantee Act: It’s Impacts and Overall Analysis ",
+    author: "Atharva Raul, Avinash Kumar, Gopika Jayakumar, Monika Singh, Nayanika, Sneha Soni, Neeruj Sagwal.",
+    authorAbbrev: "A. Raul, A. Kumar, G. Jayakumar, M. Singh, Nayanika, S. Soni, N. Sagwal",
+    abstract: "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), or MGNREGS, has seen a lot of appraisals and criticisms in the policy and political landscapes through the years. However, keeping the political debates aside, the purpose of this article is to look at the positive developments—both social and infrastructural—and the probable developments that can take place as a result of MGNREGA being implemented with proper execution. In this article, we are discussing development that has taken place across sectors, or one can say, the proposed development that has so far taken place or can take place as a result of MGNREGA." ,
+    keyword:[
+      "MGNREGA",
+      "rural employment",
+      "social development",
+      "infrastructure",
+      "economic impact"
+    ],
+    status: "Submitted",
+    intro: [
+       "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), passed by the Indian government in 2005, is widely recognized as the world’s largest rural employment scheme. The core idea behind MGNREGA is straightforward: to ensure that every rural household in India can access up to 100 days of paid work each year by doing unskilled manual labor. This is not just a welfare measure, it is a legal right. Any adult in rural India who wants such work can demand it from the government, which is then legally bound to provide employment within 15 days or pay an unemployment allowance. ",
+       "The scheme is run mainly through Gram Panchayats (local village councils), who help identify local infrastructure needs and supervise the work. This decentralized approach promotes transparency, encourages participation from villagers, and increases public accountability through social audits and open meetings. ",
+       "A unique feature of MGNREGA is its focus on building rural infrastructure as part of the employment given. This includes creating key assets like ponds, roads, small irrigation canals, and water conservation projects. These infrastructure works help not only to support agriculture and local economies, but also to address one of India’s pressing challenges: distress migration from villages to cities. By providing work close to home within 5km if possible and especially during times when farm jobs are scarce, MGNREGA helps keep families together and discourages risky and forced seasonal migration. Research shows that this has slowed or reduced distress-driven migration in many areas. ",
+       "The program also pays special attention to women and marginalized groups, requiring that at least one-third of total workers be women, and ensuring equal pay for men and women alike. These rights are further protected by provisions for timely wage payments, workplace facilities (such as drinking water and first aid), and grievance redress mechanisms. ",
+       "As a landmark law, MGNREGA is considered the last major independent rights-based social legislation in India. It shifted welfare policy from discretionary aid to a legally enforceable right, representing a more participatory, transparent, and citizen-focused approach to rural development and social protection. ",
+       "While MGNREGA has been significant in addressing rural unemployment, there exists a gap when it comes to urban unemployment. Currently, there exists no single central act in India that offers a nationwide urban employment guarantee like MGNREGA. ",
+       "This gap is especially notable given the increasing urbanization and issues with it. A national urban employment guarantee act has been introduced and reported to include discussion and proposals of the act, such as The Bhagat Singh National Urban Employment Guarantee Bill, 2022, but none yet exist as a central law. We have programs like the Deendayal Antyodaya Yojana - National Urban Livelihoods Mission (DAY-NULM), which are considered whole missions and not legally binding employment guarantee acts. ",
+       "To address this gap, state governments across India have made efforts to establish their own employment guarantee acts. These schemes, typically framed with reference to the Act of MGNREGA, have succeeded in providing some security for urban informal labourers. Examples include Kerala's Ayyankali Urban Employment Guarantee Scheme (AUEGS), Rajasthan's Indira Gandhi Shahri Rozgar Guarantee Yojana, Himachal Pradesh's Mukhya Mantri Shahri Ajeevika Guarantee Yojna, Odisha's Mukhya Mantri Karma Tatpara Abhiyan (MUKTA), Jharkhand's Mukhyamantri Shramik Yojana, and the Tamil Nadu Urban Employment Guarantee Scheme.",
+       "The development of urban legislation is based on the nature of the migration systems from rural to urban areas. Migration studies have found that most migrants migrate from rural to urban areas for improved employment opportunities and higher wages. However, the 'spillover of rural poverty' into the urban area leads to the migrants experiencing either stagnated or reduced income levels despite migrating from rural to urban areas of higher economic amenities. Shockingly, while 94% of the migrants were above the poverty line before they migrated, they dropped to only 88.18% of now staying above the urban poverty line. Clearly, the direction of the rural-to-urban migration is not guaranteed to increase economic stability. Moreover, these patterns of migration have increased unemployment rates in urban areas and decreased agricultural production in rural areas. ",
+       "Therefore, the case for a national urban employment guarantee scheme is even more urgent now, especially in the wake of the COVID-19 pandemic. The pandemic has sharply highlighted the extreme vulnerability of urban informal workers, many of whom lost their livelihoods overnight. In April 2020, the International Labour Organisation (ILO) estimated that there was a potential loss of 2.5 crore jobs worldwide from the economic crisis of the pandemic. The ILO recognized that the crisis could push over 40 crore informal workers in India, who do not have social security, further into poverty because of the economic fallout. In addition, beyond the crisis faced by the pandemic, informal workers constantly face insecurity of work without social security, fair wages, and job security.",
+
+    ],
+    content: [
+      
+      {
+        heading: "Policy Framework ",
+        paragraphs: [
+         "The problem stream for MGNREGA emerged from chronic rural distress in India. In the late 1990s and early 2000s, rural wage growth had largely stagnated – agricultural wages were rising only ~1–1.4% per year during 2000–05 – and many farm households remained vulnerable to seasonal unemployment. Persistent poverty and drought-prone agriculture underscored an urgent need for guaranteed work. Civil society and grassroots movements (notably the Mazdoor Kisan Shakti Sangathan and allied groups) seized on this problem, campaigning for a formal “right to work” as a policy solution. Drawing on experiences with earlier “food-for-work” programs and state-level employment schemes, activists and experts drafted a blueprint for a nationwide employment guarantee. By 2003–04, a pan-India campaign had mobilized tens of thousands of rural laborers and generated a model bill for a rural jobs guarantee. This evidence and debate helped solidify an actionable policy stream: a legal guarantee of 100 days’ work for rural households, with statutory wages and accountability mechanisms. ",
+         "The politics stream crystallised after the 2004 general elections. The Congress-led United Progressive Alliance (UPA) narrowly won power with outside support from leftist parties. The UPA had pledged a right-to-work guarantee in its 2004 manifesto, reflecting the political salience of rural distress. Left parties (Communist Party of India and allies) insisted that a national employment-guarantee be the very first item in the UPA’s National Common Minimum Programme. This coalition context created a policy window: the new government, under Prime Minister Manmohan Singh (2004–09), faced both electoral incentives and external pressure to enact an ambitious rural employment law. Key policy entrepreneurs seized this opportunity. Members of the National Advisory Council (NAC) – a body chaired by Congress leader Sonia Gandhi and including activists like Aruna Roy – worked out the details of the guarantee in early 2005. Veteran activists such as Aruna Roy and Nikhil Dey used their credibility to frame the scheme as a legal right, urging its passage in Parliament. In the summer of 2005, these streams coupled: the UPA government, pressed by left allies and civil-society advocates, introduced and enacted the Mahatma Gandhi National Rural Employment Guarantee Act. (MGNREGA was gazetted in August 2005 and came into force in early 2006.) In short, widespread recognition of rural poverty combined with a mature policy proposal and a supportive coalition government – marshaled by determined policy entrepreneurs – to open the policy window for MGNREGA.",
+        ]
+      },
+      {
+        heading: "Policy Recommendations ",
+        paragraphs: [
+          "To strengthen MGNREGA’s impact today, the following practical reforms are recommended in three areas: "
+        ]
+      },
+      {
+        heading: "Implementation Gaps ",
+        paragraphs: [
+         "•	Administrative capacity: Increase staffing and training at the block and panchayat levels. Recruit more engineers, gram rozgaar sevaks and support staff so that projects can be planned and executed promptly. Provide regular capacity-building programs to ensure officials understand MGNREGA rules (e.g. asset guidelines, wage calculations) and can process payments on time.",
+         "•	Social audit coverage: The Act mandates community audits in every gram panchayat at least twice a year. Ensure this mandate is met uniformly: fund state-level Social Audit Units, train independent auditors, and publicize audit findings. Encouraging civil society participation (NGOs, media) in audits will improve transparency. For example, by mid-2022, twenty-seven states and one UT had established independent social audit units; the goal now is to achieve full participation and regular audits in the remaining areas.",
+         "•	Grievance redressal: Expand and streamline complaint mechanisms. Set up toll-free helplines (at least one per district) and digital grievance portals that log every complaint and its resolution status. Designate district-level officers (e.g. a grievance redressal commissioner) to oversee timely case resolution. Publicise average resolution times. Encourage use of SMS or mobile apps (e.g. Janmanrega) so beneficiaries can report delays in payment, job card issues, or wage theft.",
+         "•	Local governance: Deepen the role of panchayats and Gram Sabhas. Mandate that village plans explicitly list MGNREGA works, and link fund releases to approval by the Gram Sabha. Strengthen village employment councils (VELC) to monitor muster rolls and work quality. Provide training to elected panchayat members on MGNREGA, and hold Gram Sabhas to review scheme performance quarterly. Empowering local leaders (sarpanches, panchayat secretaries) will help detect malpractices early and align projects with community needs."
+        ]
+      },
+      {
+        heading: "Technology ",
+        paragraphs: [
+         "•	Digital payment and MIS integration: Fully implement end-to-end e-governance. All wage payments should be disbursed via Direct Benefit Transfer (DBT) into worker bank accounts. Use the NREGASoft MIS platform (as already deployed) to capture every step: job card issuance, job demand registration, muster roll entry, and payment. This reduces delays, avoids cash leakages and enables real-time oversight of funds. Ensure network and computer facilities at all blocks/GPs so data is entered promptly.",
+         "•	Mobile monitoring and geotagging: Scale up use of mobile apps for field monitoring. The National Mobile Monitoring Service (NMMS) app, for instance, records daily attendance with geotagged photos, curbing ghost entries. Extend such biometric and GPS-enabled tools to every site: e.g. require foremen to mark muster rolls via smartphone apps that capture worker fingerprints and timestamps. An “Area Officer Monitoring” app (already piloted) can allow state officials to file time-stamped, geotagged inspection reports in real time. These measures increase citizen oversight and make discrepancies immediately visible.",
+         "•	Citizen feedback tools: Promote user-friendly digital interfaces for beneficiaries. The government’s “Janmanrega” mobile app (a citizen feedback tool) should be widely advertised, so workers can quickly report issues or rate completed assets. Maintain public dashboards (on the NREGA website) showing state- and district-level data on works, wages and delays, updated monthly. Enable SMS updates in local languages (for example, on wage credit notifications). Together, these digital channels will boost transparency and allow instant field intelligence from the ground.",
+
+        ]
+      },
+      {
+        heading: "Migration and Livelihood Alignment ",
+        paragraphs: [
+        "•	Target migration-prone areas: Use local data to anticipate seasonal migration and direct MGNREGA work accordingly. Districts should map villages with high outmigration (e.g. via household surveys or past muster data). In those areas, pre-assign additional work targets and materials so that employment is readily available. Maharashtra’s Nandurbar district, for example, ran a “Nandadeep” pilot identifying migrant families and ensuring local jobs on demand. Replicating such targeted pilots can help lock in MGNREGA gains by giving at-risk households timely work.",
+        "•	Livelihood-enhancing works: Prioritize MGNREGA projects that boost agriculture and non-farm income in lean seasons. Invest in water harvesting and irrigation (farm ponds, tanks, check dams) and horticulture (orchard planting) in drought-prone villages. These assets complement farming – as seen in Nandurbar, where a tribal farmer built a drip-irrigation pond and mango orchard under MGNREGA, enabling two crops per year and eliminating his need to migrate. By scheduling more such works during summer or pre-monsoon months, the scheme can smooth rural income fluctuations and reduce distress migration.",
+        "•	Portable entitlements: Strengthen portability of MGNREGA benefits for migrants. Publicize that any rural worker with a job card can demand 100 days’ work in any district (and claim an unemployment allowance if work is delayed). Coordinate with urban employment and welfare programs so that returning migrants can immediately re-enter local MGNREGA work. For instance, maintain a current registry of returning migrants each season to preemptively issue job cards or muster rolls. By aligning the scheme’s operations with known migration cycles, MGNREGA can serve both as a rural safety net and as a buffer against destabilizing labor shifts.",
+        "By addressing these gaps with practical steps, MGNREGA can more effectively fulfil its promise of rural livelihood security. Strengthening administration, leveraging technology for transparency, and proactively integrating migration considerations will help ensure that the Act’s legal guarantees translate into real work and income for India’s rural poor."
+        ]
+      },
+       {
+        heading: "“Security in Every Season”: A qualitative study of employment stability under MGNREGA Policy.   ",
+        paragraphs: [
+        "MGNREGA’s centralized framework aims to stabilize rural livelihoods. This paper synthesizes qualitative evidence to assess how mgnrega fosters employment stability. In this analysis, we have taken case studies from five states i.e. Rajasthan, Karnataka, Odisha, Jammu & kashmir and West Bengal, collected between 2018-2023. MGNREGA’s strength lies in its centralized design run by the Ministry of Rural Development (MoRD) in which every rural household has the right to 100 days of work. Wages go directly to the bank account of the beneficiaries via National electronic Fund Management System (NeFMS). Digital records ensure availability and authenticity of the central database. Fair wages allotted by the central government ensures workers are not underpaid and extra workdays are added in case of emergencies like COVID-19. Local Gram Panchayats make it easier, but their effectiveness varies from region to region. ",
+
+        ]
+      },
+       {
+        heading: "How does it stabilize lives? ",
+        paragraphs: [
+        "MGNREGA has changed rural India in a big way. This program has generated 389 crores workdays in 2020-2021 and 295 crore workdays in 2022-2023 with households averaging 49.8 days in 2024-2025 (MGNREGA MIS). In Rajasthan, families plan farming around 40-60 MGNREGA Days knowing they have got a fallback. ",
+        "99% of the wages are now paid electronically with timelines improving from ~40% in 2016-2017 to ~70% by 2018-19 (CAG,2018). From the study done in Budgam, Jammu & Kashmir, women use steady payments to buy livestock, boosting their income. ",
+        "In the city of Jalpaiguri, West Bengal, local jobs are cutting seasonal migration by 30-40% whereas in kalahandi, Odisha, families admit that MGNREGA helps them put food on the table. During COVID-19, beneficiaries were provided with extra workdays (up to 150) to help those returned back to their hometowns/ villages. They called it A job when no one was hiring. ",
+        "To conclude, MGNREGA is a lifeline for rural India, giving families steady work, fair pay, and hope during tough times. From Rajasthan’s villages to Odisha’s fields, it cut migration and empowered women. But inconsistent funding, tech hiccups, and uneven local efforts hold it back. With smarter budgets, better data, and a focus on women and climate-friendly projects, MGNREGA can keep being India’s strongest shield against rural poverty. ",
+        ]
+      },
+       {
+        heading: "MGNREGA and Migration Patterns in India: A Comprehensive Analysis of Impact and Effectiveness  ",
+        paragraphs: [
+        "Based on an extensive review of academic research, government reports, and empirical studies from across India, this analysis reveals that the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) has demonstrated significant effectiveness in reducing various forms of rural-to-urban migration, while also highlighting important variations in implementation success and ongoing challenges. The evidence consistently shows that MGNREGA has served as a crucial safety net, particularly for seasonal and distress migration, though its impact varies considerably across different regions, demographic groups, and types of migration.MGNREGA's effectiveness in reducing different types of migration patterns across Indian states, showing percentage reductions from various research studies",
+        ]
+      },
+       {
+        heading: "Historical Context and Pre-MGNREGA Migration Patterns  ",
+        paragraphs: [
+        "Migration in India has been a complex phenomenon driven by multiple interconnected factors including agricultural distress, seasonal unemployment, poverty, and the search for better livelihood opportunities. Prior to MGNREGA's implementation, rural-to-urban migration constituted approximately 87% of total economic migration in the country. The primary source states for out-migration included Uttar Pradesh, Bihar, Jharkhand, Rajasthan, and Madhya Pradesh, regions characterized by high agricultural dependence, limited irrigation facilities, and seasonal unemployment patterns.",
+        "The 2007-08 National Sample Survey Office (NSSO) data revealed that nearly 79% of rural male migrants and 56% of urban male migrants moved primarily due to employment-related reasons. The predominant migration streams showed rural-to-rural migration as the largest category, particularly among women due to marriage-related movement, while male migration was increasingly driven by economic necessity. Seasonal migration, in particular, had become a critical livelihood strategy for poor rural households, with migrants typically working in construction, brick kilns, agriculture, and urban informal sectors during agricultural lean seasons.",
+        ]
+      },
+       {
+        heading: "MGNREGA's Design and Migration Control Objectives ",
+        paragraphs: [
+        "Enacted in 2005 and fully implemented across all rural districts by 2008, MGNREGA was explicitly designed with migration control as one of its primary objectives. The Act aims to arrest out-migration of unskilled landless labor force from the rural areas to urban areas by ensuring up to 100 days of guaranteed wage employment within their residential jurisdiction. The program's design features specifically address migration drivers through several mechanisms:",
+        "1.	Local Employment Provision: Work sites must be located within a 5-kilometer radius of applicants' homes, with additional compensation (10% extra wages) provided when this is not possible",
+        "2.	Seasonal Coverage: Employment is guaranteed during agricultural lean seasons when migration typically peaks.",
+        "3.	Gender Equity: Equal wages for men and women with at least one-third jobs reserved for women, addressing gendered migration patterns.",
+        "4.	Rights-based Framework: Legal entitlement to work or unemployment allowance within 15 days of application.",
+        ]
+      },
+      {
+        heading: "Empirical Evidence of Migration Reduction",
+        paragraphs: [
+        
+        ]
+      },
+       {
+        heading: "1.	Seasonal Migration Impact ",
+        paragraphs: [
+        "Multiple studies demonstrate MGNREGA's substantial impact on seasonal migration patterns. Research in West Bengal's Cooch Behar district found that the probability of households sending at least one member for short-term migration decreases significantly as the number of days of participation in MGNREGA increases. In Madhya Pradesh, field studies documented migration reduction by more than half since MGNREGA's introduction, allowing families better access to educational and medical facilities in their existing locations.",
+        "A comprehensive study across four backward districts in Karnataka (Bidar, Chitradurga, Gulbarga, and Raichur) revealed a dramatic reduction in migration from 74% of households before MGNREGA to 37% after implementation. Significantly, unemployment ceased to be a reason for migration after MGNREGA's implementation in these areas, though poverty remained a persistent driver."
+        ]
+      },
+       {
+        heading: "3.	Regional Variations in Effectiveness  ",
+        paragraphs: [
+        "The impact of MGNREGA on migration varies significantly across states and regions, reflecting differences in implementation quality, local economic conditions, and baseline migration patterns. States like Andhra Pradesh, Tamil Nadu, Chhattisgarh, Madhya Pradesh, Himachal Pradesh, Rajasthan, and Uttarakhand, which actively implemented MGNREGA, showed more consistent results in migration reduction..",
+        "However, challenges persist in several regions. In Odisha's Ganjam district, known for high out-migration to cities like Surat, Mumbai, Chennai, Hyderabad, and Bangalore, research found that 50% of households still had at least one migrant even after MGNREGA implementation. Similarly, a micro-study in Dokur village, Andhra Pradesh, revealed that seasonal migration remained high at almost 50% of households, with MGNREGA wages of Rs. 120 being insufficient compared to Rs. 200-300 available in urban construction sites."
+        ]
+      },
+      {
+        heading: "COVID-19 and Migration: MGNREGA as Emergency Response: ",
+        paragraphs: [
+        "The COVID-19 pandemic provided a unique test of MGNREGA's capacity to address large-scale return migration. Research shows that nearly 7.5 million seasonal migrant workers took refuge under MGNREGA during the lockdown, finding work for around 23 days and securing about 28% of their pre-COVID income. This demonstrated the program's crucial role as a safety net during economic crises, though it could only address the needs of about one-third of returning migrants"
+        ]
+      },
+      {
+        heading: "MGNREGA: An Integrated Approach to Rural Development, Social Auditing, and Rights-Based Empowerment:",
+        paragraphs: [
+        "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) provides an integrated approach to rural development, economic stability, social development, and asset creation, in addition to offering jobs for the poor. MGNREGA's success stems from its ability to address a wide range of issues. ",
+        "By directly generating job opportunities, the program helps many people secure their livelihoods. In addition to improving food security and lowering poverty, this has also improved health and education. Research shows that participants save and earn more money (5–9%) and eat better. MGNREGA fosters a strong sense of self-worth and dignity among workers by enabling them to earn. Women's empowerment, which encourages their involvement and fosters financial independence, is one of its key features, with 79% of female employees collecting their wages on their own and 68% controlling their earnings (National Family Health Survey (NFHS-5), as cited by Observer Research Foundation (ORF) in Financial Inclusion of Women: Current Evidence from India,2023). The program also demonstrates high participation from marginalised groups, with SCs accounting for 22.6% and STs for 17.6% of beneficiaries. ",
+        "The development of durable assets that improve the rural economy is one of MGNREGA's primary goals. A significant 75% of projects directly benefit agriculture, and 87% of them are operational. These resources include water-saving structures, afforestation initiatives, and roads, which increase access and agricultural output. This close connection to agriculture promotes sustainable rural livelihoods and raises wages in rural areas. MGNREGA successfully lowers migration by offering job opportunities within 5 km of the applicant's home; notable instances include sharp declines in Anantapur (from 27% to 7%) and Bastar (from 4500 to 500 people). ",
+        "The program promotes financial inclusion by urging employees to make use of banking services for wage disbursements. Additionally, MGNREGA promotes greater accountability and transparency in governance through mandatory social audits. By including Panchayats in planning and implementation, it strengthens local democracy, increasing the political voice of rural communities by enabling them to participate in decision-making more successfully."
+        ]
+      },
+      {
+        heading: "Support for Marginalized Communities and Rights-Based Challenges:  ",
+        paragraphs: [
+        "MGNREGA is a clear hope towards the deprived ones, prioritizing marginalised sections like SC, ST, Dalits, or adivasis, keeping in mind the discrimination they have faced. For women, there is 1/3rd of registration placement, and in some areas, even 50% of the quota is reserved. People of rural areas desperately needed change and improvement in terms of infrastructure, gender-based development, and safeguarding marginalised and backward classes by employing them in their area, reducing distress migration. The program also provides welfare services like education, healthcare, and rationing through the public distribution system. It promotes empowerment through community participation by panchayat planning through gram Sabhas, giving the community a say about roads, water harvesting, structures, and land development. ",
+        "The framework often helps uplift them by protecting them from caste-based discrimination, arbitrary exclusion, providing job cards, and ensuring transparency. A main feature for their welfare is the creation of durable assets for SC, ST communities, as their livelihood and employment are through land, by improving land productivity and infrastructure in areas predominantly inhabited by them. Land levelling, irrigation canals, and plantation of fallow lands directly help the farmers by increasing their long-term self-reliance. Other government schemes often lacked transparency, community participation, and accountability, making the population distrustful. With MGNREGA, rural people were prioritized by recognizing their employment needs and providing an equal base in society, overcoming hurdles, and using their skills. It has come out as a boon for the needy caste and class, helping the landless, empowering the disadvantaged, and creating useful assets at the ground level for rural development. ",
+        "The MGNREGA Act provides guaranteed employment, but this is interconnected with rights. According to the constitution, fundamental rights include the right to employment without any failure or discrimination. However, the legal process of the policy is uncertain, and awareness regarding rights at the lower level is yet to be accomplished. Mere creation of a strict legal process for a rights-based approach is incomplete unless the population can recruit its benefits wholly. People face problems regarding legal application due to high illiteracy and low digital acceptance. The government should make the process of legality easy and smooth for those without full information or knowledge of their rights. A case in Rajasthan saw workers not receiving wages, status remaining pending, requiring government workers to ensure guaranteed employment and wages. ",
+        "Challenges include corruption and mismanagement, which dislocate the purpose of the act by manipulating, ghosting workers with fake job cards, and imposing hierarchical structures that exclude the poor. Technological imbalance or barriers mean workers complain regarding Aadhaar card-linked documents, a lack of digital devices, internet access, or understanding of the process, making them soft targets for theft and scams, which leads to discontinuing participation, demanding rights, and complaining against the system. Underfunding and budget cuts have deeply impacted work areas and quality, with low funds causing some states to lag in creating proper employment opportunities with wages, undermining credibility. ",
+        "MGNREGA's rights-based approach to development is still a bigger challenge to achieve. For promising, fair, and undivided rights, we need political commitment, community awareness, digital inclusion, and stronger awareness to get rid of the uncertainty of government institutions. Although there are various challenges like corruption, delayed wage payments, poor asset quality in some areas, and limited administrative capacity in low-income states, the high level of user satisfaction further supports MGNREGA's efficacy: 90% of those surveyed say the works are helpful. ",
+        ]
+      },
+      {
+        heading: "MGNREGA and Infrastructure:  ",
+        paragraphs: [
+       "So far as we have discussed, we can see that MGNREGA as an act, as a policy, is primarily set to tackle the problem of rural unemployment. Rural employment is often a form of disguised unemployment. This often means a lower marginal product per unit of labor employed. However, there are also other forms of unemployment that affect the rural regions of this country, some of which are seasonal or cyclical in nature. MGNREGA, however, aims to solve the broader problem of unemployment. The model is very largely based on a project-infrastructure-employment framework. ",
+       "To simply explain, this works primarily in a decentralized format. In this, projects are recorded, facilitated, and taken up by the local governance bodies, which are ultimately sent to the necessary administrative departments, and a budget is allocated. Once this is done, projects are undertaken, and necessary persons are employed. This is a very concise summary of how the projects work. This means, at large, or in an aggregate sense, the employment generated through the scheme also leads to infrastructure development in some form or another. ",
+       "Here, we might tend to find some amount of difference or skewness between the number of projects employed and the budget allocated, or we may tend to find a slow rate of completion. But these are problems based on the implementation of the scheme, which may vary in nature from planning problems to political issues in a region or a district. This is one of the larger criticisms of the policy, which we won’t be addressing. However, looking at the general framework, we can see that if the policy is implemented with efficiency, there is a larger scope for rural development. ",
+       "Addressing a few examples from a few states, we can list the following works undertaken at large. Statewide, in West Bengal, we see projects undertaken for: nursery raising on fruit and forest plants, vetiver seedling raising, hardening of banana tissue culture, establishment of poultry, piggery, goatery units, skill development training, land leveling, roads being built, integrated farming by IBS, vermicompost units, and re-excavation of ponds. These rural works undertaken or being focused upon shed light on how agricultural infrastructure is being prioritized. This means there is a positive indication, at least about the proposals of infrastructure, hinting at possible infrastructure growth along with employment in the region.",
+       "Taking into consideration another state of a similar, or rather close, state-economy, Jammu and Kashmir has shown a very good record with the scheme's implementation and infrastructure, primarily seeing the development of roadways and projects related to water conservation and management. From a review of articles, it was found that Jammu and Kashmir has shown a rather positive trend with MGNREGA implementation and infrastructure development taking place because of the same. Coming to one more state of a similar size, we take the example of Odisha, where the following works are being and were reportedly undertaken: construction projects, water and irrigation management, rural sanitation initiatives, repair and maintenance of local infrastructure, land development efforts, drought-resistant projects, and provision of drinking water in rural areas, which again is a positive sign. In total, the act provides a list of permissible works, which includes several infrastructure initiatives, from water management in rural regions to agricultural activities and technologies, and forestry works. ",
+       "To summarize and conclude the review of the relationship between employment under MGNREGA and infrastructure development, we can see that with MGNREGA, there is most certainly a scope for infrastructure development in the rural region, at least to the necessary sustenance levels and even more. The design of the policy facilitates infrastructure development, even though there might be some issues with the execution in some states. However, some states such as Jammu and Kashmir have shown a better governance and execution model. We can also say that with proper and timely executions after considering loopholes, we can see a very large scope for Rural Infrastructural Development.",
+
+        ]
+      },
+
+    ],
+    conclusion: [
+     "In conclusion, we can see that MGNREGA has several positive effects that accompany its proper implementation. A social audit reveals that MGNREGA has had a notably positive impact on its execution. While an assessment of the policy's implementation and employment output reveals several criticisms—primarily concerning migration, wage rates (which are a factor affecting migration even with the policy in place), and overall execution—these issues do not negate the fact that some positive change has been observed in several states. There has consistently been a significant number of beneficiaries, and the policy has had a visible positive impact. This suggests that while the policy may not be completely efficient (as no policy ever is), it is not entirely inefficient either. The positive changes observed indicate that with better implementation and improved management of the works, the policy could become far more efficient and lead to a substantial amount of rural development. Implementing any policy is challenging and can never be completely efficient, but if the planning and institutional frameworks are improved, the policy can certainly work to its near potential.",
+     "Criticisms and Consequences",
+     "1.	Wage-Related Issues ",
+     "Beneficiaries are discouraged by low nominal salaries, which causes migration and underuse of the 100-day guarantee. Inadequate funding and administrative roadblocks, like frozen accounts or inactive Aadhaar, cause excessive and systematic delays in wage payments. Legally mandated compensation for unpaid wages is often not provided. Unjustified disparities result from the lack of a uniform wage rate among states and UTs. All things considered, the delay in wage payments brought on by fund transfer and administrative problems is a serious worry.",
+     "2.	Implementation & Oversight Deficiencies ",
+     "Unemployment benefits provisions that are poorly implemented result in an inadequate payout. Two significant shortcomings in social auditing practices are limited public access to reports and insufficient audit coverage. Grievance resolution is challenging due to low district ombudsperson appointment rates. A general lack of administrative and planning skills at the local (Panchayat) levels leads to inefficient budget utilisation. The use of machinery in place of manual labour and the prohibition of contractors are examples of violations of the scheme's objectives. Planning, approval, monitoring, and transparency are all hampered by a lack of technical and administrative staff at all levels (Block, Grama Panchayat). Additionally, this results in subpar planning and execution at the local level, which does not produce enough work. Inefficiencies are further aggravated by a lack of accountability and monitoring systems.",
+     "3.	Corruption and Financial Misuse ",
+     "Bribery for job cards, embezzlement by local officials, and the prevalence of ghost accounts are examples of widespread corruption. Fraudulent activities include making fake muster roll entries, using fake identities, and including deceased individuals. Only a tiny percentage of funds are allegedly able to reach recipients due to significant misappropriation. Two important problems that limit the scheme's actual benefits from reaching the workers are corruption and leaks.",
+     "4.	Beneficiary Rights & Eligibility Issues ",
+     "Beneficiaries are not aware of their rights and entitlements. The demand and supply of work among beneficiaries vary by season and location. Effective policy evaluation is hindered by inadequate monitoring systems and a lack of transparency. The requirement for Aadhaar-linked wage payments (ABPS) and seeding delays increases the risk of bank account mapping and seeding issues, which may lead to payment issues or beneficiary exclusion. Delays in payments discourage recipients and lower participation. Lack of funds reduces the number of workdays available. Concerns are raised over MGNREGA's slow approvals, which have an impact on rural livelihoods and employment opportunities.",
+     "5.	Social and Beneficiary Difficulties ",
+     "Delays in issuing job cards and discouragement from manual labour are examples of instances of discrimination against women and marginalised groups. Workplaces often lack basic amenities and safety measures, like childcare facilities. The rural poor's lack of awareness of their rights, such as the ability to obtain job cards, minimum wages, and unemployment benefits, impedes the demand for employment. Wasteful wage spending interferes with savings and financial inclusion, especially when cash is received. Since most workers are still not organised, it is challenging for them to demand their rights. Furthermore, official documents and accountability are mismanaged.",
+     "6.	External & Systemic Weaknesses ",
+     "Given the expanding budget and falling tax-to-GDP ratio, inadequate funding creates doubt about the scheme's long-term sustainability. The program is susceptible to economic downturns and budget cuts. Project quality and employee well-being are negatively impacted by political interference and cut money strategies. Areas affected by the Maoist insurgency are performing poorly and creating fewer jobs. The program's heavy reliance on manual labour limits its capacity to emphasise productivity and skill development. Modernisation in agriculture and industry may lead to a decrease in the need for manual labour. Work availability is impacted by inadequate or postponed budget allocation. Caste relations and social hierarchies have an impact on marginalised communities and the distribution of work. The integrity of the program can be completely jeopardised by political interference. A lack of awareness among local officials, insufficient administrative capacity, and bureaucratic red tape are among the problems."
+    ],
+    references: [
+      {
+        heading: "MGNREGA MIS (nrega.nic.in, accessed July 2025).", 
+        links:""
+      },
+      {
+        heading: "Bitrián, J. L. (2024). Training and efficacy in cyber awareness. Journal of Cybersecurity Education and Research, 12(1), 45–58.", 
+        links: ""
+      },
+      {
+        heading: "⦁ CAG of India. (2018, 2020). MGNREGA Audit Reports.   ", 
+        links: ""
+      },
+      {
+        heading: " Imbert, C., & Papp, J. (2015). Labor Market Effects of MGNREGA.  ", 
+        links: ""
+      },
+      {
+        heading: "CybSafe. (2024). User behavior and susceptibility in cyberattacks. ", 
+        links: ""
+      },
+      {
+        heading: "Dev, S. M. (2016). Impact of 10 years of MGNREGA: An overview. National Institute of Rural Development and Panchayati Raj (NIRDPR) ", 
+        links: ""
+      },
+      {
+        heading: "⦁ Observer Research Foundation. (2023). Financial Inclusion of Women: Current Evidence from India", 
+        links: ""
+      },
+      
+    ]
+  },
+
+  {
+    id: 8,
+    issue: 2,
+    volume: 1,
+    title: "From Passive Player to Global Shaper: India and the New Multilateralism",
+    author: "Samiya Sharma ,Ishika Jain ",
+    authorAbbrev: "S.Sharma ,I.Jain ",
+    abstract: ["The changing India in international economic governance portrays a shift of a strategic refocus, which includes a switch from a normative idealism to a pragmatic geoeconomic statecraft. Historically, India has been regarded as a policy-taker to the multilateral organizations, (owing partly to its post-colonial economic vulnerabilities and identification with the Global South), and its hesitant attitude towards liberalization and global rule-setting was evident during its initial cooperation with the BWIs as well as the Non-Aligned Movement. But after the economic reforms of 1991 and the structural adjustments which were imposed throughout the politics of the IMF, India started settling down in the global economy with more assertiveness. In this regard, India has been moving towards re-branding itself as a rule-maker in multilateral forums, be it the G20 or BRICS much less new coalitions like the Quad and IPEF today, as the fifth-largest economy in the global sentencing." ,
+    "In this paper, the author follows the history of India as a participant in the nexus of global economic governance and evaluates critically their novice geoeconomic instrumentation, such as the introduction of Digital Public Infrastructure (DPI) like Aadhaar and UPI, development diplomacy through official development assistance and training capabilities like ITEC, and soft power of culture like the Indian Council for Cultural Relations (ICCR). It appraises how India uses such tools to cultivate strategic leverage, a digital and development-shaped global phenomenon, and campaign agentry change in multilateral establishments that are structurally inclined to the Global North. Simultaneously, the paper questions the domestic constraints in India like regulatory unpredictability, internal economic disparity and policy vulnerability that hamper the Indian multilateral effectiveness.",
+    "The paper helps in the understanding about how the emerging powers negotiate global governance, in the sense that by analyzing the phenomena of the India moving out of the reactive participation to the proactive agenda-setting. The alternative, inclusive and development-oriented multilateralism of an ever-more multipolar world order is possible through the model of India with its strategic autonomy, South-South solidarity, and institutional pluralism.",
+    ],
+    keyword:[
+      
+    ],
+    status: "Submitted",
+    intro: [
+      
+    ],
+    content: [
+      
+      {
+        heading: "Reimagining India’s Role in Global Economic Governance ",
+        paragraphs: [
+         "India’s transformation from a policy taker in the post-colonial economic order to an emerging shaper of global economic governance marks a significant shift in the 21st century. Traditionally aligned with the Global South and platforms like the G77 and Non-Aligned Movement, India often played a reactive role within multilateral institutions such as the IMF, World Bank, and WTO. However, with it growing economic clout now the world’s fifth-largest economy (IMF World Economic Outlook, 2024) India is actively engaging in shaping the rules of the global economy.",
+         "From its leadership in the G20 during the 2023 Presidency (G20.org) to its initiatives within BRICS, IPEF, and the Quad, India is increasingly deploying tools of economic statecraft. It now influences policy on global trade, digital governance, climate financing, and development infrastructure. As noted by the Observer Research Foundation (ORF) and Brookings India, India’s recent multilateral diplomacy reflects a shift from normative idealism to pragmatic strategic engagement.",
+         "India’s repositioning reflects broader trends in global power redistribution, and how it balances its ambitions with principles of strategic autonomy, Global South solidarity, and economic competitiveness."
+        ]
+      },
+      {
+        heading: "Policy Recommendations ",
+        paragraphs: [
+          "To strengthen MGNREGA’s impact today, the following practical reforms are recommended in three areas: "
+        ]
+      },
+      {
+        heading: "Historical Trajectory: From Bretton Woods to BRICS",
+        paragraphs: [
+         "India's developed role in global economic rule should be understood through its historical trajectory-from its vigilant engagement with post-World War institutions to becoming a major voice in emerging multilateral groups. In the decades after independence, India adopted a socialist, inward economic model. This Nehru vision-shaped developmental path emphasized the state-led industrialization and import replacement, India was kept relatively to the capitalist world economy and Bretton Woods institutions (Chatterjee, 2011). ",
+         "During the Cold War, India aligned themselves with a group of non-aligned movement (NAM) and G7 to give voice to global South concerns. Instead of being an active partner in multilateral economic rules, India often adopted a moralist and defensive stance, which emphasizes sovereignty and equity on liberalization (Murthy, 2020). This reinforced its image as a policy-taking, which often reacts to global economic development rather than shaping them.",
+         "There was a turn in 1991, when India faced a serious balance of payment crisis and introduced structural economic reforms under IMF guidance. These liberalization policies opened India into global markets, which change their views for multilateral engagement. India gradually shifted to creative participation in institutions such as the World Trade Organization (WTO) and the World Bank. It started actively negotiating on trade rules, intellectual property rights and investment structure.",
+         "This shift from being a rule-taker to a rule-shaper underscores India's desire not only for greater voice and representation but also for a more democratic, inclusive, and development-oriented global economic system. India's evolving position illustrates how emerging powers can leverage their growing economic and geopolitical weight to reshape global governance institutions from within while simultaneously building alternatives outside the traditional Western framework.",
+        ]
+      },
+      {
+        heading: "India’s Development Diplomacy and the Global South",
+        paragraphs: [
+         "The concept of development diplomacy that India is playing is a true representation of a Southern model of partnership which is based on the principles of mutual development and capacity-building. Leveraged with such development aid instruments such as the Development Partnership Administration (DPA) and conducted under the auspices of programmes such as the Indian Technical and Economic Cooperation (ITEC) programme, India has trained more than 200,000 officials in 160 countries (Prabhu, 2023). India has invested in railways, education, and water systems in Africa, South Asia, and Indo-Pacific through Lines of Credit and grants-in-aid, and this has made it an important development partner (Prabhu, 2023).",
+         "India has a Digital Public Infrastructure (DPI) infrastructure such as Aadhaar, UPI, and MOSIP that form another important pillar of Indian soft power. These open-source tools have been used to recreate the concept of digital governing and service delivery to people, which is now being employed by other nations including Morocco, Ethiopia, and the Philippines (Sarma, 2023). In 2023, India was the president of the G20 club and stated that DPI is a global public good, endorsed by IMF, World Bank, and UN as beneficial in terms of inclusiveness, innovation, and SDG acceleration with the involvement of civil society (Sarma, 2023).",
+         "The role of cultural diplomacy in India is growing stronger and it is having an increase in soft power thanks to organizations like ICCR. Traditional programmes that cater to yoga and classical arts and programmes encouraging the use of Indian languages are being coupled with efforts at the Global Gen Next Buddhist Leaders Network, sponsorship of Indologists around the world (Rajya Sabha, 2021; 2023). This is how India has been able to blur the present and create a perception about her in the global world through a fusion of tradition and strategy.",
+         "During the NITI Aayog summit of 2025 on Viksit Bharat @2047, it was realized that India had to lead in trade, renewable energy, digital regulation and legal reforms to compete globally and build multilateral engagements (PIB, 2025). The geoeconomic twist that India just took based on technology, development diplomacy, and cultural capital is, in effect, an alternative global system that is founded on cooperation, inclusivity, and resilience."
+
+        ]
+      },
+      {
+        heading: "Constraints, Critiques, and the Road Ahead ",
+        paragraphs: [
+        "India, as a rising power, seeks to reshape global governance to align with its evolving aspirations. The current global order, marked by entrenched power structures, does not reflect India’s economic, demographic, and geopolitical significance. India now calls for “reformed multilateralism,” emphasizing flexible cooperation over rigid alignment and advocating inclusivity for emerging powers and the Global South India’s rise in multilateral economic governance (MEG) is seen in its proactive role in institutions like the WTO, IMF, World Bank, BRICS, and G20  is often hailed as a marker of its global economic aspirations. However, this rise has not been without critiques. India champions Global South solidarity yet often aligns with developed nations on issues like intellectual property rights or trade liberalization. India often lacks domestic consensus on key reforms needed to back its multilateral positions (e.g., agricultural subsidies, investment liberalization). India has become more protectionist in trade, especially after 2014, which contrasts with its earlier role as a champion of liberalization with the Withdrawal from RCEP (Regional Comprehensive Economic Partnership) is cited as evidence of a retreat from economic integration. . India’s active role in G20 discussions on achieving the Sustainable Development Goals (SDGs) has been significant, particularly in areas such as poverty reduction, education, and health.   India, despite being one of the largest economies, lacks proportional representation in Bretton Woods institutions (IMF, World Bank) and WTO decision-making processes for e.g.- Voting rights in the IMF are still skewed in favor of the US and EU, limiting India's influence.  India's slow bureaucratic processes, policy uncertainty, and frequent regulatory changes limit its ability to negotiate effectively in multilateral forums. Domestic politics often shape trade and economic policies to favour short-term populism over long-term global integration.  As a developing economy, India must balance multilateral obligations with domestic development needs like poverty alleviation, infrastructure, and food security. It often seeks special and differential treatment (S&DT) at WTO, which sometimes clashes with developed economies.",
+       "The success of India’s financial inclusion programs, as discussed by Suresh et al. (2017) [25] , could serve as a model for other developing nations, particularly those looking to reduce poverty through improved access to banking services. Moreover, India's leadership in digital trade infrastructure development has implications for future global trade policies, particularly as the world moves towards more digitized economies. India's leadership in the International Solar Alliance demonstrates the potential for global cooperation on climate issues, with India playing a leading role in this transition. India aims to secure greater representation and voting rights in organizations like the International Monetary Fund (IMF) and the World Bank. India is positioning itself as the voice of the Global South, advocating for more inclusive, development-centric economic policies. To strengthen its position further, India should focus on expanding its leadership in digital trade and cybersecurity, areas of growing importance in global economic governance. Additionally, continuing to advocate for the interests of developing countries will help India maintain its influence in the world.  "
+        ]
+      },
+      
+    ],
+    conclusion: [
+     "The rise to an agenda-setter in multilateral economic governance is an illustration of the rising economic power, technological prowess, and diplomatic boldness of India. Examples of such initiatives include development partnerships in Africa, digital diplomacy with the India Stack, and cultural outreach with the ICCR, which is a form of strategic influence that is based on inclusivity, sovereignty, and South cooperation. But, this transition does not come without limitations. India is still struggling with the problem of inconsistency in its domestic policymaking, underrepresentation in major multilateral institutions, and more general geopolitical limitations on its global ambitions. In the future, the capacity of India to balance national development interests against international obligations will be key to its durability. Due to the tendency of the international system to become more fragmented and multipolar, the geoeconomic statecraft of India presents an attractive model of re-imagining global governance, which is development-centric, digitally empowered, and built upon equitable multilateralism."
+    ],
+    references: [
+      {
+        heading: "Chatterjee, P. (2011). The Nation and Its Fragments: Colonial and Postcolonial Histories. Princeton University Press.", 
+        links:""
+      },
+      {
+        heading: "Murthy, C.S.R. (2020). India and the Changing Face of Multilateralism, Indian Foreign Affairs Journal, Vol. 15(1).", 
+        links: ""
+      },
+      {
+        heading: "Panagariya, A. (2008). India: The Emerging Giant. Oxford University Press.  ", 
+        links: ""
+      },
+      {
+        heading: " Ananta Aspen Centre. (n.d.). India’s views on multilateral reform ", 
+        links: "https://anantaaspencentre.in/indias-views-on-multilateral-reform/"
+      },
+      {
+        heading: "Kumar, P. J. (2024). India’s views on multilateral reform. International Journal of Foreign Trade and International Business, 6(2), 43–48. ", 
+        links: "https://www.foreigntradejournal.com/article/view/115/6-2-8"
+      },
+      {
+        heading: "Khetrapal, N. (n.d.). The new-age multilateralism: The Indian way. Geneva Centre for Security Policy ", 
+        links: "https://dam.gcsp.ch/files/misc/alumni-notes-new-age-multilateralism-indian-way"
+      },
+      {
+        heading: "NITI Aayog. (n.d.). India’s global economic strategy [Reports and publications]. Government of India", 
+        links: " https://www.niti.gov.in"
+      },
+       {
+        heading: " Bhatia, R. (2020). India’s RCEP exit: What next? Gateway House: Indian Council on Global Relations ",
+        links:"https://www.gatewayhouse.in/indias-rcep-exit-what-next/",
+       },
+       {
+        heading: "Ministry of External Affairs. (2024, January 31). 4th India-Portugal Foreign Office Consultations (FOC).", 
+        links: "  https://mea.gov.in"
+      },
+       {
+        heading: "PIB Delhi. (2025, February 7). NITI Aayog Hosts a Conclave on ‘Towards Viksit Bharat@2047’", 
+        links: "  https://pib.gov.in"
+      },
+       {
+        heading: "Prabhu, S. (2023, August 15). Ushering a new era of development partnerships. Raisina Debates", 
+        links: "  https://www.orfonline.org/expert-speak/ushering-a-new-era-of-development-partnerships"
+      },
+       {
+        heading: "Rajya Sabha. (2021, December 16). Enhancement of India’s Soft Power (Unstarred Question No. 2152)", 
+        links: "  https://pqars.nic.in "
+      },
+       {
+        heading: "Rajya Sabha. (2023, March 23). Promotion of India’s Soft Power (Unstarred Question No. 2616)", 
+        links: "  https://pqars.nic.in"
+      },
+      {
+        heading: " Sarma, A. (2023, November 9). Home and the world: India’s DPI proposition. Raisina Debates", 
+        links: "   https://www.orfonline.org/expert-speak/home-and-the-world-indias-dpi-"
+      },
+      
+    ]
+  },
+  {
+    id: 9,
+    issue: 2,
+    volume: 1,
+    title: "India's Approach to Crisis Diplomacy: Influential Mediator, Strategic Middle Power, or Global Impersonator?",
+    author: "Annesha Gupta",
+    authorAbbrev: "A.Gupta",
+    abstract: [
+      "At the turn of the 21st century, the post-Cold War unipolar period, dominated by the United States, has steadily given way to a multipolar international order, where emerging powers are increasingly influencing global governance. According to a 2024 report, over 61% of countries now perceive the world to be multipolar rather than just U.S.-led, a significant increase from 47% in 2018 (Leonard & Shapiro, 2024), signaling a growing dispersion of power. In this evolving geopolitical landscape, India has positioned itself as a rising global actor backed by its status as the largest democracy, the fifth largest economy, and the country with the largest population in the world. This paper examines India’s approach to crisis diplomacy through three major international conflicts discussed in the form of case studies, namely, the Taliban’s takeover of Afghanistan, the Russia-Ukraine war, and the Israel-Palestine conflict, to critically assess the nature of India’s influence in global affairs. Drawing from the conceptual debates surrounding middle powers and emerging powers, the paper interrogates whether India acts as an influential mediator, a power of strategic balance, or a mere global impersonator. The case studies reveal a pattern of strategic ambivalence guided more by the need to minimise the negative impacts of a crisis on it than normative consistency. While India aspires to shape global outcomes, its diplomatic style frequently reflects an indecisive behavior and skittish positioning, rather than true leadership. The paper concludes by asserting that unless India bridges the credibility gap existing between its domestic self-perception and its actual diplomatic behavior, its aspirations to lead in a multipolar world may remain just a dream rather than become a reality.",
+       ],
+    
+    keyword:[
+      "multipolar international order",
+      "global governance, ",
+      "crisis diplomacy",
+      "international conflicts", 
+      "Taliban takeover of Afghanistan",
+      "Israel-Palestine crisis",
+      "middle powers",
+      "emerging powers", 
+      "credibility gap."
+    ],
+    status: "Submitted",
+    intro: [
+      "At the turn of the 21st century, given the increasing multipolarity of the world marked by frequent political, humanitarian, and security crises, the role of emerging powers in crisis diplomacy has come under growing scrutiny in the international forum. India, with its strategic location, rising economic ascendency, and normative aspirations, often projects itself as a responsible global stakeholder advocating for peace and stability and is therefore considered to be an important actor when it comes to crisis diplomacy. Broadly speaking, crisis diplomacy refers to the diplomatic efforts and strategies employed by countries to manage and resolve international crises. These crises can take many forms, such as armed conflicts, natural disasters, economic crises, and public health emergencies, and the diplomatic efforts may include negotiation, mediation, and peacekeeping operations. Despite the various nuances exhibited by the term, in the context of this paper, crisis diplomacy refers to the style of diplomacy employed by a country to handle situations of inter- and intra-state conflicts in the international arena that have become the focal point of public discourse for the overwhelming impact that they have had on global actors. The paper, through the comparative analysis of several case studies, seeks to offer a clear evaluative lens for understanding India’s foreign policy in the current scenario and tries to answer the question- whether this style of diplomacy is successful in meeting the interests of the country and genuinely influences outcomes in the international forum, or is it but a veiled attempt at hiding the weakening bargaining power of the state. "
+      
+    ],
+    content: [
+      
+      {
+        heading: "India’s Diplomatic Leverage and the Middle Power Question ",
+        paragraphs: [
+        "Despite some contextual ambiguities, it is widely accepted that a middle power is a state that is not a superpower or a great power, but still exerts influence and plays a significant role in international relations. These countries often possess certain capabilities, such as strong economies, advanced technologies, and diplomatic influence, that allow them to have a voice in global affairs. Given that words like “middle,” “great”, and “small” generally signify the presence of a spectrum rather than something discrete, there’s a lot of discourse regarding what makes an international actor a “middle power”. In recent years, India has increasingly outgrown the constraints of being labeled a ‘middle power’. As one of the world’s fastest-growing economies, coupled with its strategic geographic position in South Asia, India is on the trajectory to become an ‘emerging great power’. This transformation distinguishes it from other traditionally classified middle powers such as Brazil, Germany, and South Africa. India’s ambitions are reflected in its comprehensive approach of economic reforms and military modernization, signaling its intent to play a more influential role on the global stage.  Moreover, India’s engagement in international groupings such as the QUAD, BRICS, and G4 plays a crucial part in its global strategy. These alliances serve distinct purposes; the QUAD, for instance, provides India with a platform to counterbalance China’s regional ambitions. ",
+        "Meanwhile, BRICS aligns with India’s goals of reforming global governance structures to reflect contemporary economic realities. Through these alliances, India not only asserts its autonomy but also amplifies its influence in international decision-making. India’s soft power and cultural relevance act as another key leverage- the country has the largest overseas diaspora (32+ million people), contributing to economic and political influence. Therefore, despite the structural limitations faced by the country, most of which are recognized to be a legacy of the extensive history of colonial rule, such as poverty and socio-economic inequality, most global actors are of the opinion that the traditional label of middle power fails to capture India’s growing status. Courtesy of the balanced approach successfully adopted toward the great powers, its neighbors in South Asia, players in the extended neighborhood, and other Global South countries, in the current scenario, India might be closer to what is referred to as an “emerging power” than a “middle power”. Despite aligning with the fundamental characteristic of an emerging power, that is, being an emerging economy, some have argued the efficacy of classifying India as one, on the basis of ambiguity related to the actual influence that it has on the world. While sixty-eight percent of Indian adults believe that India’s influence has risen in the world, only a median of 28% adults across 19 other countries in the world think so (Pew Research Center, 2023). This perception gap highlights a disconnect between India’s self-image and how the world perceives its actual diplomatic impact. Domestic narratives, government communication, and media in India tend to promote a “soft power inflation”, emphasising India’s growing stature through G20 presidency, vaccine diplomacy, et cetera; however, this image so propagated is not fully convincing to external observers.",
+        "Nevertheless, as per majoritarian consensus, India in the 21st century is, in fact, a rising power given the influence that it exhibits on the international forum, irrespective of whether the magnitude of it is inflated or not. Analyzing India's actions in high-stakes international crises is crucial to comprehending how its perceived diplomatic status translates into practical action. Although conceptual discussions tend to focus exclusively on India's goals and resources, they do not by themselves indicate whether India actually exerts influence or merely projects it. We can examine how far India has progressed from performative diplomacy to becoming a significant player on the international scene by analyzing its actions in particular geopolitical hotspots. The following case studies evaluate India's role by analyzing its diplomatic response to various international crises."
+        ]
+      },
+      {
+        heading: "India and the Afghanistan Crisis: Strategic Caution Amid Regime Change",
+        paragraphs: [
+          "The Taliban’s return to power in Afghanistan in August 2021 disrupted two decades of India’s carefully cultivated ties with the elected Afghan republic. Long regarded by India as a proxy of Pakistan’s security establishment and a patron of anti-India terrorist networks, the Taliban presents a unique strategic challenge that involves navigating this engagement without undermining its principles or compromising its security. India’s immediate response to the takeover was characterized by caution, and the government took a pragmatic approach, opting not to immediately engage with the Taliban but keeping diplomatic channels open through multilateral platforms such as the UN and the SCO. India’s approach appeared to be reactive as it shut down its Kabul embassy in August 2021, initiated a rescue operation, and limited its interactions with the Taliban to the delivery of aid. Stationing a “technical team” in Kabul was one of the first public steps that the Indian government took towards engaging with the Taliban. While the U.S. and other Western powers condemned the Taliban’s actions, India was wary of openly criticizing the group in a way that could undermine its regional influence. India’s policy emphasized the need for an inclusive government in Afghanistan that would represent all ethnic and political groups, including the Tajiks, Uzbeks, and Hazaras, while ensuring that the Taliban respected the rights of women and minorities. However, the country gave the Taliban leadership the de facto legitimacy it has sought from the international community since its return to power when its top diplomat Vikram Misri met Taliban acting foreign minister Amir Khan Muttaqi in Dubai - the highest level of engagement since Kabul's fall.",
+          "Afghanistan has always been a critical space for India’s strategic outreach in Central Asia, and the Taliban’s resurgence has complicated these efforts. India’s interests in Afghanistan extend beyond political influence; it also seeks access to Central Asia’s energy resources and trade routes. The re-establishment of a Taliban regime creates a challenge for India’s access to these resources, particularly given the Taliban’s ties with Pakistan and China. The Taliban’s return to power could lead to an increase in cross-border terrorism, particularly from groups like Lashkar-e-Taiba (LeT) and Jaish-e-Mohammed (JeM), which have historically had safe havens in Afghanistan. Thus, India’s cautious approach in engaging the Taliban could be justified given its twin related concerns about security threats emerging from Afghanistan and the Taliban regime’s relationship with Pakistan. What is harder to rationalize is the documented shortcomings of the Indian government in its treatment of Afghan citizens since the Taliban’s takeover. These issues include problems around visa issuance, renewal of visas for Afghan students in India, challenges faced by Afghan citizens currently in India, and the uncertainty faced by Afghan refugees in India. Although some might interpret India’s response to the takeover as the country’s ever-increasing dedication to making peace with the geopolitical realities of the world, there is no doubt that this demonstrates the limits of India’s crisis diplomacy in a volatile neighborhood.",
+
+        ]
+      },
+      {
+        heading: "India and the Russia-Ukraine War: Crisis Diplomacy or Crisis Deflection?",
+        paragraphs: [
+        "India’s response to the Russian invasion of Ukraine has been distinctive among the major democracies and U.S. strategic partners. Despite its discomfort with Russia’s aggression, India has adopted a studied public neutrality toward Russia. It has abstained from successive votes in the UN Security Council, General Assembly, and Human Rights Council that condemned Russian aggression in Ukraine and, thus far, has refused to openly call out Russia as the instigator of the crisis. Its declared positions were intended to convey, more subtly than is justified, its dismay with Russian actions without taking a proper stand. Thus, India urged “respect for the sovereignty and territorial integrity of states,” called “for the immediate cessation of violence and hostilities,” regretted “that the path of diplomacy was given up” and urged the concerned states to “return to it,” and reiterated that “dialogue is the only answer to settling differences and disputes, however daunting that may appear at this moment.” ",
+        " For the United States, India’s neutrality has been disappointing because it signaled a sharp divergence between the U.S. and India on a fundamental issue of global order, namely, the legitimacy of using force to change borders and occupy another nation’s territory through a blatant war of conquest. Whatever their views on the genesis and the precipitants of the Ukraine war, most Indian strategic elites would admit that their country’s diplomatic neutrality ultimately signifies what one Indian scholar has called “a subtle pro-Moscow position.” This seems particularly incongruous today because India stands shoulder-to-shoulder with the United States in opposing Chinese assertiveness in the Indo-Pacific while at the same time appearing tolerant of the vastly more egregious Russian belligerence in Europe.",
+        "India’s tightrope walk on the Ukraine war has been described as “strategic ambivalence.” Expressing the country’s interest in peacebuilding efforts, Narendra Modi has met Ukrainian President Volodymyr Zelenskyy on multiple occasions. As part of its humanitarian response, India sent medical supplies, equipment, and relief materials to Ukraine, while at the same time, it has significantly increased its imports of discounted Russian oil since the conflict began. In this context, the weak efforts made by the country in support of Ukraine, such as pushing to open the Black Sea Grain Corridor, can be deduced to attempts aimed at hiding its informed inability to take a stand with the thin veil of “neutrality”. After all, alienating Russia is not an option for India, given the central role the former plays in the latter’s security concerns against China and Pakistan. Moreover, the country’s military, economy, and energy sector are overwhelmingly dependent on Russia, to the extent that any act of outright antagonism poses the threat of destabilising the country’s internal machinery. Thus, the decision to steer clear of publicly condemning Russia is shaped not by abstract concerns about the integrity of the world order but by strategic geopolitical considerations."
+        ]
+      },
+      {
+        heading: "India’s Calibrated Ambiguity in the Israel–Palestine Conflict",
+        paragraphs: [
+         "The Israel-Palestine conflict, the origins of which go back more than a century, once again found a point of eruption on 7th October, 2023 when the Hamas and several other Palestinian militant groups launched coordinated armed incursions from the Gaza Strip into the Gaza envelope of southern Israel, the first large-scale invasion of Israeli territory since the 1948 Arab-Israeli War. In light of this situation, the Indian government had condemned terrorism in the strongest language and stood with Israel over the attack, while calling on Israel for restraint, dialogue, and diplomacy, condemning the death of civilians, and calling for “humanitarian pauses” in bombardment. At the same time, India has reaffirmed its support for a “two-state solution” including a sovereign, viable state of Palestine existing in peace alongside Israel and supported the “socio-economic welfare” of the Palestinian people. However, as the conflict has progressed, at least 60,332 people, including at least 17,400 children, have been killed as of July 29, 2025, according to the reports of the Gaza Ministry of Health.",
+         "Historically speaking, India’s stance on the Israel-Palestine issue has been nothing short of inconsistent. In 1977, India was among the first non-Arab nations to recognize the Palestine Liberation Organization (PLO), and has since consistently supported a two-state solution. However, its diplomatic stance on the current war in Gaza has not aligned with this position, and domestically, authorities have shown little tolerance for pro-Palestine activism.",
+         "Indian diplomacy has taken to knowingly maintain a layer of ambiguity regarding its actual stand, propagated by its policy of “abstention”, which has been the default vote of India on every UN resolution decrying the horrors of the ongoing crisis taking place in Gaza. The Permanent Representative (PR) to the UN has expressed the country’s “unwavering support” to the “Palestinian cause” in the UN Security Council, yet it refuses to hold anyone responsible. This has once again exposed the tension between India’s moral commitments and strategic alignments, given that India buys about $2 billion worth of arms from Israel every year, making up over 30 percent of Israel’s total exports of armaments. Moreover, the Indian public opinion views the current conflict through the lens of counterterrorism, and it views the Israeli assault on Gaza as a counterterrorism operation- and counterterrorism operations don’t pause for humanitarian truces. The main question, however, remains whether India can maintain credibility as a responsible global actor while remaining diplomatically ambiguous in humanitarian crises."
+        ]
+      },
+      
+      
+    ],
+    conclusion: [
+     "In the evolving global order marked by heightened crises, India stands at a crossroads. As multipolarity becomes entrenched and expectations rise for middle and emerging powers to play constructive roles, India's crisis diplomacy will come under increasing international scrutiny. If India aspires to be seen as more than a swing state or a selective responder, it must articulate clearer foreign policy doctrines on humanitarian and geopolitical emergencies backed by timely and decisive action. While the country continues to assert itself as a responsible actor committed to peace, its conduct across key geopolitical arenas such as Afghanistan, Ukraine, and Gaza demonstrates a recurring pattern of strategic caution, ambiguous action, and situational inability to act on key matters. The domestic majoritarian public opinion regarding the country’s style of diplomacy in recent years seems to be uninformed at best and hypocritical at worst. The same crowd that views the country’s thawing relationship with the Taliban through the lens of realism is the same crowd that would defend India’s silent pro-Russian position in the Ukraine-Russia war based on some misguided notion of “historic ties” and “loyalty”. However, what they fail to recognize is that India’s stand of “strategic ambivalence” is not something that is hand-crafted; rather, it is something that the country has no choice but to follow, given the magnitude of its dependence on countries like Russia and Israel. While the freedom from the compulsion to align is something that the country has fought for since its Non-Alignment days, it is doubtful whether any self-righteous entity has the moral right to not take a stance in the face of human rights violations, breaches of sovereignty, or humanitarian catastrophes.",
+     "India's approach to crisis diplomacy is typical of a state negotiating its transitional status: it is no longer classified as a traditional middle power but is also not yet politically or materially prepared to act as an independent global influencer, at least when it comes to issues that do not directly involve it. Whether India can overcome its present constraints and adopt a more assertive and cohesive diplomatic persona will rely on its readiness to go beyond hedging, cultivate issue-based leadership, and exhibit coherence between its principles and its conduct."
+    ],
+    references: [
+      {
+        heading: "Leonard, M., & Shapiro, J. (2024). The Age of Unpeace: Global perceptions of power and order. European Council on Foreign Relations. Retrieved August 1, 2025, from ", 
+        links:"https://ecfr.eu/publication/the-age-of-unpeace-global-perceptions-of-power-and-order"
+      },
+      {
+        heading: "DiploFoundation. (n.d.). Crisis diplomacy. Retrieved August 2, 2025, from .", 
+        links: "https://www.diplomacy.edu/topics/crisis-diplomacy/"
+      },
+      {
+        heading: "Jordaan, E. (2003). The concept of a middle power in international relations: Distinguishing between emerging and traditional middle powers. Politikon: South African Journal of Political Studies, 30(1), 165–181  ", 
+        links: " https://ink.library.smu.edu.sg/soss_research/394/"
+      },
+      {
+        heading: "Author Unknown. (2025, May). India: Beyond the middle power paradigm. Center for Policy & Stability. Retrieved August 2, 2025, from  ", 
+        links: "https://policystability.com/post/2025-05/india-beyond-middle-power/"
+      },
+      {
+        heading: "Kumar, P. J. (2024). India’s views on multilateral reform. International Journal of Foreign Trade and International Business, 6(2), 43–48. ", 
+        links: "https://www.foreigntradejournal.com/article/view/115/6-2-8"
+      },
+      {
+        heading: "The World Geostrategic Insights. (n.d.). The key role of tourism and soft power in India's diplomacy. Retrieved August 2, 2025, from  ", 
+        links: "https://www.wgi.world/the-key-role-of-tourism-and-soft-power-in-india-s-diplomacy/"
+      },
+      {
+        heading: "Bhatia, R. (2025, April 17). The emerging exception: India sees itself as transcending middle power. The Diplomat. Retrieved August 2, 2025, from ", 
+        links: " https://thediplomat.com/2025/04/the-emerging-exception-india-sees-itself-as-transcending-middle-power/"
+      },
+       {
+        heading: " Bhatia, R. (2020). India’s RCEP exit: What next? Gateway House: Indian Council on Global Relations ",
+        links:"https://www.gatewayhouse.in/indias-rcep-exit-what-next/",
+       },
+       {
+        heading: "Hindustan Times. (2023, August 30). India’s global influence and Modi’s popularity: Pew Research Center study shows contrasting views at home and abroad. Retrieved August 2, 2025, .", 
+        links: " https://www.hindustantimes.com/india-news/indias-global-influence-and-modi-s-popularity-pew-research-center-study-shows-contrasting-views-at-home-and-abroad-101693327450687.html"
+      },
+       {
+        heading: "Behera, A. D. (2025, April 3). India’s strategic gamble with the Taliban. The Indian Express. Retrieved August 2, 2025, from ", 
+        links: "https://indianexpress.com/article/opinion/columns/indias-strategic-gamble-with-taliban-9922018/"
+      },
+       {
+        heading: "Scientia Tutorials. (2025). India’s strategic response to the Taliban takeover of Afghanistan: Challenges and diplomatic manoeuvres. Retrieved August 2, 2025, from ", 
+        links: "https://scientiatutorials.in/indias-strategic-response-to-the-taliban-takeover-of-afghanistan-challenges-and-diplomatic-maneuvers/"
+      },
+       {
+        heading: "Norman, U. (2025, March 28). India’s approach to Taliban 2.0: Cautious and persistent. South Asian Voices. Retrieved August 2, 2025, from ", 
+        links: "  https://southasianvoices.org/two-years-after-taliban-takeover-what-is-indias-afghanistan-policy/"
+      },
+       {
+        heading: "Tellis, A. J. (2022, April 25). “What is in our interest”: India and the Ukraine war. Carnegie Endowment for International Peace. Retrieved August 2, 2025, from ", 
+        links:"https://carnegieendowment.org/research/2022/04/what-is-in-our-interest-india-and-the-ukraine-war?lang=en"
+      },
+      {
+        heading: " Panda, J. (2025, January 14). Can India advance peace in Ukraine? United States Institute of Peace. Retrieved August 2, 2025, from ", 
+        links: "https://www.usip.org/publications/2025/01/can-india-advance-peace-ukraine"
+      },
+       {
+        heading: "Ministry of External Affairs. (2024, December 13). Question No. 3200: India’s stance on Palestine issue. Lok Sabha Q&A Archive", 
+        links: " https://www.mea.gov.in/lok-sabha.htm?dtl/38773/QUESTION+NO+3200+INDIAS+STANCE+ON+PALESTINE+ISSUE"
+      },
+       {
+        heading: " Indian Express. (2025, July 30). India reiterates support at UN for two‑state solution to Israel‑Palestinian conflict. Retrieved August 2, 2025, from  ", 
+        links: "https://indianexpress.com/article/india/india-support-un-two-state-solution-israel-palestinian-conflict-10158673/"
+      },
+       {
+        heading: " The Hindu. (2025, May 21). Where does India stand on the Israel‑Hamas war? Explained. Retrieved August 2, 2025, from  ", 
+        links: "https://www.thehindu.com/news/international/where-does-india-stand-on-the-israel-hamas-war-explained/article67574331.ece"
+      },
+      {
+        heading: " Al Jazeera. (2025, March 18). Israel‑Gaza war death toll: Live tracker. Al Jazeera News. Retrieved August 2, 2025, from  ", 
+        links: "https://www.aljazeera.com/news/2025/3/18/gaza‑tracker"
+      },
+      {
+        heading: " Anadolu Agency. (2024, October 4). 1 year of Gaza genocide: Israeli war tests India’s Palestine policy. Anadolu Agency – English. Retrieved August 2, 2025, from   ", 
+        links: "https://www.aa.com.tr/en/1-year-of-gaza-genocide/1-year-of-gaza-genocide-israeli-war-tests-india-s-palestine-policy/"
+      },
+      {
+        heading: " The Hindu. (2025, May 30). Israel–Gaza genocide: How India’s Palestine policy has failed. Frontline (The Hindu). Retrieved August 2, 2025, from  ", 
+        links: "https://frontline.thehindu.com/columns/israel-gaza-genocide-palestine-india-foreign-policy-failure/article69868487.ece"
+      },
+      
+    ]
+  },
+   
+  {
+    id: 10,
+    issue: 2,
+    volume: 1,
+    title: "Economics: The New Weapon in Global Politics",
+    author: "Jwaala Narasimhan",
+    authorAbbrev: "J.Narasimhan",
+    abstract: [
+      "Geoeconomics has always been inextricably linked to the battle for world power, by the very definition of leveraging economic tools strategically for geopolitical purposes. As the international order realigned and ended military confrontation in the traditional sense, states have increasingly deployed tools such as trade policy, foreign investment, sanctions and control over supply chains to shape and safeguard their national interests. China consequently became a key actor in this dynamic, transforming U.S. strategy and accelerating globalization’s balkanization. Diplomacy, regional positioning, national security strategies — all these are impacted by geoeconomics. This paper tackles the ascendance of geoeconomic statecraft, its working today, and weaponized interdependence and its consequences. It examines how great powers adapt to this shifting landscape while constructively confronting the danger of economic coercion overreach, the consequences of strategic decoupling, and the normative imperative for state relations in tomorrow’s multipolar world.",
+       ],
+    
+    keyword:[
+      "geoeconomics",
+      "global politics",
+      "economic tools",
+      "trade policy",
+      "foreign investment",
+      "sanctions",
+      "supply chains",
+      "China",
+      "U.S. strategy",
+      "globalization’s balkanization",
+      "diplomacy",
+      "national security strategies"
+    ],
+    status: "Submitted",
+    intro: [
+      " The current order of the world in the 21st century is not characterized by conventional military confrontations; rather, it is dominated of economic rivalry and strategic maneuvers through markets, or geoeconomics. Unlike geopolitics which is focused on the physical territory and military force, geoeconomics is concerned with the use of economic might in trade, investment, finance and technology in order to influence the conduct of states and other entities. This trend marks a crucial shift in the nature of power in a globalized context where the capacity to influence economic frameworks and supply networks leads to determining the geopolitical outcomes. The rapid rise of China, particularly with the BRI, has transformed American economic statecraft; it has accelerated the undermining of US economic hegemony and accelerated the fragmentation of global markets. In turn, the US has adopted a more sophisticated approach to maintaining its strategic edge—export controls on critical technology and sanctions. This is one American example where diplomacy, alliance-building, and national security have been shaped by geoeconomics.  The increasing interconnectedness of the global economy, once considered a force that calms tensions, now stands out as a potential weakness as it enables the world’s strongest powers to view inter-state economic entanglement as a means to exert influence.This paper focuses on the rise of geoeconomics in the global geopolitical contest and the instruments deployed.  ",
+      
+    ],
+    content: [
+      
+      {
+        heading: "The evolution of Geoeconomics:",
+        paragraphs: [
+        "In the 1990s, the term geoeconomics was coined by Edward Luttwak, who foresees a changing paradigm: from military confrontation to economic competition as the platform for state rivalry. Initially a conceptual plane, geoeconomics became an applied plane with the growth of globalization and states' realization of economic leverage. Post-Cold War liberalism promoted open markets and global economic integration as forces of peace and prosperity. China poses a challenge to this paradigm and so do the resurgence of Russia and volatile U.S. policies. Never before have economic levers been so weaponized, warranted perhaps, from sanctions, tariffs, screening of investment to infrastructure diplomacy.  A recent U.S.-China rivalry presents the BRI from a better view in concrete geoeconomic competition. BRI, inaugurated in 2013, shows very heavy investment in connectivity and infrastructure all over Asia, Africa, and Europe that create economic dependency, which translates into political power. In response, the U.S. has stepped up export controls.",
+
+        ]
+      },
+      {
+        heading: "Important Tools in Geoeconomic Strategy",
+        paragraphs: [
+          "•	Trade Tactics",
+          "Even in today's world, trade is one of the core tools. Countries employ tactics such as tariffs, quotas, or total bans to either pressurize another country or promote their own businesses. The U.S.-China trade confrontation highlighted the possibility of wielding tariffs as a tool of national protectionism on the one hand and a tool to shape the geopolitical outlook of competitor nations on the other.",
+          "•	Sanctions and Money Control",
+          "Less attention is usually paid to sanctions (omit)as far as geoeconomics is concerned. They isolate the given country from an array of things like payment global systems, freezing of assets, and various economic activities. Since the U.S. dollar is the main world reserve currency, U.S. sanctions are more effective than those of other countries. Some organizations, such as SWIFT, direct the money flows, and this determines who follows the protocols and rules and who does not.",
+          "•	Checking Foreign Investments and Building Relationships",
+          "Many countries nurture a rivalry with other nations to the extent that they try to keep essential resources only in their own hands. While all this goes on, projects meant to construct structures for transport, such as port facilities and railroads, are carried out, often financed by states, to increase influence in real life. Such as China investing in ports along the vital shipping lines.",
+          "•	Technology Control",
+          "There is no doubt that the main area of stretch in geoeconomics is the control of key technologies such as semiconductors, 5G, and AI. This is where things like export rules and protocols for setting up certain standards take place, and these are the tools used to stay ahead in technology and close doors on competitor nations",
+
+        ]
+      },
+      {
+        heading: "How Big Countries Are Changing and New Plans",
+        paragraphs: [
+        "United States",
+        "The U.S. to date has relied on its power in finance and its alliances for its economic superiority. The recent laws are intended to stimulate and boost local semiconductor production on the one hand, and the withdrawal of dependence on other sovereign countries through policies, on the other hand. The U.S., in concert with other allies, is also fighting back against China.",
+         "China",
+        " It is the Chinese strategy to amalgamate economic maneuvers into its diplomatic relations. The various projects are generally being constructed with the hope of establishing friendships and creating more power over the world. China will also direct the capital into technology and wants its yuan to become quickly used on a global scale to get stronger than the dollar.",
+         "European Union and Other Countries",
+         "The EU, on the other hand, tries to reconcile the interests of business and the struggle of keeping the industries protected. Countries such as Japan, India, and Australia are adjusting their trade and investment policies in order to counterbalance the geoeconomic competition.",
+         "Problems and What’s Next for Geoeconomics",
+         "Feeding on economic interdependence to achieve political goals is questionable, especially in terms of the system's stability. That scenario will severely impact organizations like the World Trade Organization and present challenges for managing global issues effectively.",
+         "The strong requirement for putting in place regulation to control economic pressure, to internationalize lending standards and to pursue fair trade relations is dominating the debate. In the absence of cooperation, overall geoeconomic conflict may be transformed into an economic war with pathetic ramifications worldwide.",
+        ]
+      },
+      {
+        heading: "Problems & What Lies Ahead in Geoeconomics",
+        paragraphs: [
+         "However, economically, being linked should have been a platform for nations to cooperate in such a way that this could be used as a tool to fight terrorism. A perfect example is if one country controls major things like monetary centers, data harbors, or vital supply chains register, it can come in very good stalling for other countries who would be forced to pay a price or pushovers. This creates problems. For example, the imposition of sanctions on Iran and Russia, whose economies are mostly based on the use of the dollar system, appears to be very detrimental to them. Moreover, the issues with the computer chip supply line demonstrate how depending on technology can be a sort of insecurity towards national defense. This geoeconomic rivalry is also prompting nations to minimize their interconnections with other countries. They want to shift the manufacturing facilities back into their home country or find suppliers who are based elsewhere. The improvement increases competitiveness; however, it usually results in a reduction of the global market, an increase in costs, and a possibility for the breakup of the international economic system.",
+         "When nations use their cash ties to push others around, it shakes folks up about world peace. If the system breaks apart, groups like the World Trade Org might get hurt, & handling world issues would turn rough. We need rules to block nations from bullying each other with cash power. Also, loans must be fair and open, and cash ties need balance—else, we might see harsh fights that no one wins. It's like, if we don't learn to team up, this fight might make a mess that pulls all down.",
+
+        ]
+      },
+      
+      
+    ],
+    conclusion: [
+    "Geoeconomics has changed how power shows on the world stage—from old wars with guns to sly fights with cash moves. Nations now use trade deals, bans, cash plans, and tech rules to gain what they want, which makes world ties much trickier & tense. Take the US & China, for example—their tug-of-war shows how much cash strength can shift talks, friends, & safety issues. But here’s the deal: pushing too hard with cash might make gaps, less equality, & even chaos. So, if the world aims to stay calm, we need a mix of fight & work-together—and clear rules for using cash power well. Really, the whole future of our world system hangs on finding this good spot."
+    ],
+    references: [
+      {
+        heading: "The foundational concept of geoeconomics as a shift from geopolitics to economic competition was extensively discussed by Edward Luttwak in his 1990 article, “From Geopolitics to Geo-Economics: Logic of Conflict, Grammar of Commerce,” published in The National Interest ", 
+        links:"https://nationalinterest.org/feature/geoeconomics-logic-conflict-grammar-commerce-27692"
+      },
+      {
+        heading: "The UC Institute on Global Conflict and Cooperation provides an insightful overview of geoeconomics and economic statecraft, exploring how states use economic tools for strategic ends ", 
+        links: "https://ucigcc.org/research/geoeconomics-and-economic-statecraft"
+      },
+      {
+        heading: "For a data-driven perspective on global capital flows and geoeconomics, the National Bureau of Economic Research (NBER) published a detailed paper titled “Global Capital Allocation and Geoeconomics” ", 
+        links: " https://globalcapitalallocation.s3.us-east-2.amazonaws.com/NBER_MacroAnnual_Geoeconomics.pdf"
+      },
+      {
+        heading: "European Council on Foreign Relations (ECFR) on Open Strategic Autonomy:The ECFR has discussed the concept of Open Strategic Autonomy, emphasizing the need for the European Union to act independently when necessary while cooperating multilaterally when possible. This approach aims to enhance Europe's capacity to shape its environment without over-reliance on external powers. For a comprehensive understanding, you can refer to their publication: ", 
+        links: "https://ecfr.eu/publication/strategic-interdependence-europes-new-approach-in-a-world-of-middle-powers/"
+      },
+      {
+        heading: "Council on Foreign Relations (CFR) on Economic Sanctions:The CFR provides an in-depth overview of economic sanctions, defining them as the withdrawal of customary trade and financial relations for foreign- and security-policy purposes. Sanctions can be comprehensive or targeted, aiming to influence the behavior of governments, organizations, or individuals. For more detailed information, visit their backgrounder:", 
+        links:" https://www.cfr.org/backgrounder/what-are-economic-sanctions"
+      },
+      
+      
+    ]
+  },
+
+   {
+    id: 1,
+    issue: 3,
+    volume: 1,
+    title: "An Impact Analysis of Livelihood Programs on Reducing Socio-Economic Inequalities in Rural India",
+    author: "Anand Sagar ",
+    authorAbbrev: "A.Sagar",
+    abstract: [
+      "The rural area of India differs a lot from urban in context of social and economic aspect. The access to resources varies a lot in rural part and this is historical in nature. The marginalized communities have been struggling in both social and economic space to bring equality. The existing inequalities in the rural area creates barrier for the development of whole country. Many efforts from the government have been taken to address those inequalities. Both social and economic status are very much inter-related to each other and the adversities of marginalized people exacerbate at the intersection of case, class and gender. The different government policies intended to uplift economic and social status of marginalized communities. The livelihood programs are implemented which attempt to enhance the income and reduce the social inequalities. This article explores the impact and challenges of implementing livelihood programs to reduce socio-economic inequalities in rural India. Two of the major interventions of government are kept in focus to analyze the impact. The two interventions are Mahatma Gandhi NREGS and DAY-NRLM. The planning and execution need a more grounded approach to reduce the socio-economic inequalities.",
+       ],
+    
+    keyword:[
+      
+    ],
+    status: "Submitted",
+    intro: [
+      " Before the British rule and advent of capitalism, the production center was decentralized and an ecosystem was established. But it was based on inequalities of caste, gender and class. After British arrival, the trade, agriculture and infrastructure saw a shift and it promoted feudalism. The railway promoted inter location trade. Zamindari Pratha broke the backbone of farmers. Also, the traders were impacted by British monopoly on trade. The local crafts also got setback. The British policy created an imbalance and increased the gap of economic inequality. The social dimension was already engrossed in wide inequality before British arrival. The four-caste division was putting the lower ordered cast in deep lack of resources. The land division was in favor of general caste. The discrimination put another burden on Dalit and tribals. Its ripple effect can be seen till today. The economic, social and cultural capital of Dalit and tribal was in lowest order. The condition of woman was even poor where gender discrimination and patriarchy was hinderance in social and economic growth of women. ",
+      "After independence, numerous efforts were taken to reduce the inequality in rural areas. Some of the major interventions were affirmative action, land reform, Mahatma Gandhi National Rural Employment Guarantee Act and PDS (public distribution system). Along with this, the intervention to boost rural socio-economic status were- Pradhan Mantri Awas Yojna Gramin, Pradhan Mantri Gram Sadak Yojna, DAY-NRLM, Jan Dhan Yojna, Ujjawal Yojna, Pradhan Mantri Kisan Samman Nidhi yojana. All these schemes have certainly improved the socio-economic condition in rural India. But the inequality gap still persists at the intersection of caste, class and gender. Dalit and tribal are still struggling to claim equality in social domain. The economic condition of rural India is still not accelerating faster, where livelihood opportunity is still limited and subject to climate change. This article will delve into the impact analysis of major intervention by government on socio-economic inequalities of rural India."
+    ],
+    content: [
+      
+      {
+        heading: "Rural Context in India",
+        paragraphs: [
+        "The rural context is very different from urban one. There are some similar patterns in rural area and also some distinct pattern of any particular region based on the geographical and cultural uniqueness. The inequalities are created by both social and economic status and they are interrelated to each other. The poor household lack resources in terms of capital, land and education. Many times, poverty is intergenerational which vary at the intersection of caste class and gender in the society. Majority of marginalized group belonging to SCs and STs, minority and people engaged in low productivity occupation. Limited skill restricts the occupational mobility in rural area. The lack of resources also hinders them to upgrade their status and skill by trainings. There is lack of access to credit and market by poor. Due to this, people in rural area find difficult to get the price of their commodities. And, lack of credit restricts to invest in agriculture or livestock or any entrepreneurial activities. There is lack of proper institution platform in rural area to address their poverty and find any options to overcome it. The poverty cycle becomes like a trap from which it is very difficult to come outside. When it comes to government services, the structure at grassroot level is not that much efficient. Here also, people in rural area faces challenges due to lack of awareness and connectivity. In case of borrowing from informal sources in case of urgent need, it cost them a lot. Small holder farmer faces lot of challenges in terms of forward and backward linkages.  The social challenges come in form of discrimination and exclusion from mainstream. The cast, class and gender norms become so strong that it creates another level of barrier that promotes inequality."
+
+        ]
+      },
+      {
+        heading: "Government Efforts to Reduce Socio-Economic Inequality ",
+        paragraphs: [
+         "After independence, different parties formed the government at center and state. The government took the cognizance of Directive Principles of State Policy that is available in constitution. Many policies and schemes were formulated and implemented. Mahatma Gandi NREGS and NRLM are some of the most important interventions by government that proves to be changemaker in rural India. These schemes changed the landscape but also suffered from major drawbacks. "
+
+        ]
+      },
+      {
+        heading: "Mahatma Gandhi NREGS",
+        paragraphs: [
+        "The national rural employment guarantee act was notified in 2005. It came into force in 2006. It provides legal entitlement to job seekers through many provisions. There are many entitlements associated with this scheme like right to job card, right to demand and receive work within 15 days, right to unemployment allowance, right to plan and prepare shelf of projects, works under Mahatma Gandhi NREGA, right to worksite facilities, right to notified wage rate and right to receive wages within 15 days, right to conduct social audit of all Mahatma Gandhi NREGA expenditure. There is also provision of information, education and communication activities in this scheme. There is provision of participatory planning exercise at each tier of Panchayat. All works that are to be executed by Gram Panchayat need to place in Gram Sabha."
+        ]
+      },
+      {
+        heading: "Provisions to Reduce Social and Economic Inequality under Mahatma Gandhi NREGS",
+        paragraphs: [
+         "There is provision that annual planning exercise for Mahatma Gandhi NREGS will be part of Convergent planning exercise for the ministry. In convergence, rural connectivity, sericulture, plantation activities (rubber, coconut, drumstick), aquaculture, medicinal pants, horticulture, nutrition garden are placed. The livelihood options diverse the livelihood portfolio of people living in rural area. The connectivity infrastructure provides them a way to connect with market for various activities. The plantation works enhance the income of farmers through agro-horticulture model also. They get income from both crops and fruit plants. ",
+         "According to this act, a household is entitled to get at least 100 days of work in a year. This is a very breakthrough initiative to provide employment to people in rural area. The landless people have a great chance to take advantage from this scheme. ",
+         "There is focus on sustainable livelihood in Mahatma Gandhi NREGS. It focusses on planning of agriculture and allied activities, livelihood related works, livestock shelter and NRM (Natural Resource Management) works.  According to the Ministry of Rural Development (n.d.), out of 266 permissible works, there are 58 works related to NRM ,150 works are related to agriculture and allied activities, 58 works related to rural infrastructure. ",
+         "There is provision of giving priority to works creating individual asset. The priorities include SCs, STs, Nomadic tribe, De-notified tribe, other families below poverty line, Women-headed household, physically handicapped headed household, beneficiaries of land reform and others. Storage godown, Graamin Rural Haat can be constructed and common work shed of SHG/producer group can be taken for livelihood activities. There is planning to involve SHGs and producer group in planning activities especially in case of watershed projects under Mahatma Gandhi NREGS",
+        ]
+      },
+      {
+        heading: "Impact of Mahatma Gandhi NREGS",
+        paragraphs: [
+        "According to Press Information Bureau (2025), there is increase in budget of this scheme. In financial year 2006-2007, the budget allocation was Rs 11,300 crore and it is Rs 86,000 crore during financial year 2024-2025. In terms of person day generation, 1660 crore person days was generated from FY2006-2007 to FY 2013-2014. This has seen a jump and increased to 2.945 crore person days from FY 2014-2015 to FY 2024-2025 ",
+        "There is lack of irrigation facilities in many parts of country. This scheme provides opportunity to construct dug well, water harvesting and water conservation structures. Through this, the farmers are able to irrigate their land and get better production from their land. Also, land improvement under NRM works, help farmer to increase the production and to better manage their field.",
+        "The assured 100 person days employment to a household is a big step toward checking stress migration and providing a support to uplift economically. The Mahatma Gandhi NREGS acted as a support system in rural India to provide employment to migrant labors who returned their home during COVID-19. The wage from this scheme provides an opportunity to marginalized families who lack enough resources to boost their livelihood. ",
+        ]
+      },
+       {
+        heading: "Challenges and Gaps in Mahatma Gandhi NREGS ",
+        paragraphs: [
+        "There are different levels of challenges in planning and implementation level at Mahatma Gandhi NREGS. The timely payment to worker is one of important concern that cause dissatisfaction among the rural workers. Lack of awareness among people in rural areas remain other concerns. There is lack of awareness in job card preparation, demand of work and planning. Many of the worksite also lacks facility such as creche and drinking water. Also, limited number of governments officials in department also possess challenge in effective management and execution of the scheme. The land record is key aspect in implementation of individual works. There are lot of cases where land record is not updated and this cause hinderance in getting sanction of the works. The digitization and use of technology is promoted in implementation. But the rural people working at ground level suffer lack of skill and access to technology which creates barrier to align with the scheme"
+        ]
+      },
+       {
+        heading: "Policy Recommendation for Mahatma Gandhi NREGS",
+        paragraphs: [
+       "It is one of the largest programs of government to alleviate poverty in rural India. Land records are very important in planning and implementation of works under Mahatma Gandhi NREGA. There are cases where land records of individual faces issues especially the people who are unaware of process and illiterate. Therefore, there is a need of a quick initiative which can solve the land record related issues. There is increasing participation of women in these schemes as worker and active participation of SHGs. The women at ground need to have technical know-how and process of implementation of this scheme. There are several stages from planning to implementation of works under this scheme. The women collectives need to be fully aware of these and able to access information through internet to properly supervise all the stages of work. The delay in payment needs to taken care of. There is need of a targeted intervention to address these issues. Also, there are many livelihood activities in the portfolio of this scheme. The production of vegetable is labor intensive and many other emerging livelihood activities are also labor intensive. There can be a way which can bring more such works under its umbrella and can be helpful for farmers to enhance their income"
+        ]
+      },
+       {
+        heading: "Deen Dayal Antyodaya Yojana- National Rural Livelihood Mission ",
+        paragraphs: [
+       "NRLM was launched in 2010. Deen Dayal Antyodaya- National Rural Livelihood Mission is a flagship poverty alleviation program. It is implemented by Ministry of Rural Development, Government of India. It focusses on livelihood of poor household in rural area.  It promotes collectivization of women into SHG and enabling them to access financial services and livelihood. SHG women are trained as CRPs-Krishi Sakhi, Pashu Sakhi, Bank Sakhi, Bima Sakhi, etc. The task of this mission mainly includes mobilizing all rural poor household into effective SHGs and their federation, enhancing access to bank credit and other financial, marketing & technical services. It also aims to build capacities and skills for gainful and sustainable livelihood development and converging various scheme for improving the delivery of social and economic support services to the poor."
+        ]
+      },
+      {
+        heading: "Provisions to Reduce Socio-Economic Inequality under DAY-NRLM ",
+        paragraphs: [
+       "This program provides Revolving fund (RF) and Community Investment Fund (CIF) to SHG. This helps women economically and they also save their own money in the SHG. This economical support provides opportunity to invest in their own livelihood activities or start new one. In both cases, income of the family tends to increase and economic inequality decreases in the society.  ",
+       "It also provides support in skill building and placement of rural youth. Youth play a crucial role in rural economy. The migration is very common in rural areas in search of new opportunity and amenities. This program also empower youth by providing them opportunity to build skill and placement in companies.",
+       "The SHGs is linked to bank to avail bank services. There is provision of accessing credit from bank which can be used in livelihood activities. This solves the issue of lack of capital in rural area and they can grow by investing in their livelihood activities.   ",
+       "The mission is also involved in promoting farm value chain intervention. In rural area, market linkage and processing are big challenges. This program also focusses on value chain intervention. Women collectives are promoted to sell produces or purchase agriculture input in such a way that more profit can be assured. In this way, end-to-end solution is provided to farmers.",
+       "The focus also goes on increasing the crop productivity of farmer. Various trainings are provided to them on crop production. There are Krishi CRPs who are trained first and then provide training to farmers in villages. Entrepreneurship is other area which is encouraged. Women can take loan from their SHG to start a new activity to enhance income. This promotes the entrepreneur skill in the villages ",
+       "It focuses on convergence with various government department to boost the income of rural women. NRLM facilitates convergence with PRIs, block and district level line department. The program facilitates participation of SHG women in Gram Sabha and also facilitates SHG & federation to work with PRIs and keep convergence as a separate agenda in their regular meeting to discuss. SHG and their federation could encourage their member to participate actively in Gram Sabha for various demands. SHG federation also need to participate actively in functional committees of Gram Panchayat in planning process and in community monitoring mechanism of GP project implementation. SHG and their federation can in collaboration with GP for accessing the common resources of GPs like fish pond, vested land as a livelihood base for SHG. ",
+        ]
+      },
+      {
+        heading: "Impact of DAY- NRLM ",
+        paragraphs: [
+       "According to Press Information Bureau (2025), the mission is implemented in 5369 blocks across 682 districts. A total of Rs 49,284 crore capitalization support provided to SHGs and 9.85 lakh crore of bank credit is accessed by SHG. These access to capital has enhanced the confidence and provided many options to start as new activities to increase their income. The capital also strengthened their existing livelihood activities. More than 2.64 crore household have Agri-Nutri Garden. This nutrition garden has an important role in access to better health and proper nutrition in villages. This initiative also reduced their dependency on outside for getting vegetables and thus helped in saving. Around 36,205 custom hiring centers established to help small and marginal farmers hire farm tools and services at a nominal cost. This has supported in mechanization of agriculture in rural area to enhance the efficiency and production. Nearly 3.13 lakh enterprises are in 280 blocks of 31 states/UT under Start-up Village Entrepreneurship Program (SVEP).  ",
+       "The mission is also working on women empowerment through creating awareness and behavior change communication on social issues like domestic violence, gender related issues, nutrition, etc. The inclusion of families of SCs, STs, PVTGs show that they have got a platform where they can also discuss their issue and can search a way to solve them. The collective power of women has enhanced their motivation and the they are striving for gender equality in the society. Their participation in platform like Gram Sabha has created a space for women political sphere of village. The progress in rural area can be seen in enhanced access to government scheme, improved labor force participation, participatory planning, women at the core of development, community led approach and capacity building"
+        ]
+      },
+       {
+        heading: "Challenges and Gaps in DAY-NRLM ",
+        paragraphs: [
+      "Inadequate infrastructure facility is an important issue in rural area. The training activities, meeting and collaboration with other stakeholder gets affected due to lack of buildings. Also, lack of water facility and toilet near meeting place possess challenges. Although, there is rising in number of SHG in India, but there is lack of family support to many women which proves to be blockage in mobility. Going to market place, block or district is still a challenge for many women due to lack of societal and family level support. The women collectives are engaging in value chain of commodities but marketing challenges are in front of them in the form of better connectivity to market, branding of their produce and domination by big traders. The loan repayment delays cases weaken the SHG and motivation of women to work together. There are also cases of in which SHG stop their meeting due to many hurdles and challenges that remain unaddressed. Patriarchal mindset in the society also tries to limit the growth when women as collective attempt to reclaim their space in political and market domain. "
+        ]
+      },
+       {
+        heading: "Policy Recommendation for DAY-NRLM ",
+        paragraphs: [
+       "According to Press Information Bureau (2025), the mission is implemented in 5369 blocks across 682 districts. A total of Rs 49,284 crore capitalization support provided to SHGs and 9.85 lakh crore of bank credit is accessed by SHG. These access to capital has enhanced the confidence and provided many options to start as new activities to increase their income. The capital also strengthened their existing livelihood activities. More than 2.64 crore household have Agri-Nutri Garden. This nutrition garden has an important role in access to better health and proper nutrition in villages. This initiative also reduced their dependency on outside for getting vegetables and thus helped in saving. Around 36,205 custom hiring centers established to help small and marginal farmers hire farm tools and services at a nominal cost. This has supported in mechanization of agriculture in rural area to enhance the efficiency and production. Nearly 3.13 lakh enterprises are in 280 blocks of 31 states/UT under Start-up Village Entrepreneurship Program (SVEP).  ",
+       "The mission is also working on women empowerment through creating awareness and behavior change communication on social issues like domestic violence, gender related issues, nutrition, etc. The inclusion of families of SCs, STs, PVTGs show that they have got a platform where they can also discuss their issue and can search a way to solve them. The collective power of women has enhanced their motivation and the they are striving for gender equality in the society. Their participation in platform like Gram Sabha has created a space for women political sphere of village. The progress in rural area can be seen in enhanced access to government scheme, improved labor force participation, participatory planning, women at the core of development, community led approach and capacity building"
+        ]
+      },
+       {
+        heading: "Overall Impact of Different Government Policies in Rural Area",
+        paragraphs: [
+      "According to Press Information Bureau (2025), there is decline in proportion of individuals living in multidimensional poverty from 24.85% to 14.96% between 2015-2016 and 20192021. 13.5 crore individual escaped multidimensional poverty during this period. Gini coefficient is a measure of inequality. In rural India, it has declined from 0.266 in FY 20222023 to 0.237 in FY 2023-2024. This improvement is very crucial for overall development of country. The rural base of economy is majorly dependent on agriculture and other informal sectors. The economic upliftment of marginalized communities is helping them to do better in education and health parameters also. The improvement is seen by many of the schemes that are implemented in rural area. But, there is still lack of efficiency in grassroot administration in providing effective and transparent services to rural mass. The lack of awareness in rural area is another challenge which is hindering the development in rural part of country. "
+        ]
+      },
+         
+    ],
+    conclusion: [
+    "The socio-economic inequalities existing in rural India is historical and has a lot of impact on marginalized communities. The development of country cannot be visioned without keeping rural India in focus. There have been several initiatives by government of India to reduce it. Ther has been progress made around it. Mahatma Gandhi and DAY-NRLM are important initiatives by government. Both has contributed in upliftment of SCs, STs and women of rural India. There are challenges at ground level which needs very special attention and intensive engagement. The role of women collectives has great role in empowerment of women at social and economic level. The role of women collective can be further increased and intensified in rural area. There is still a long path to go for achieving just and equitable society in rural parts of India."
+    ],
+    references: [
+      {
+        heading: "Kar, S. (2013). Empowerment of women through MGNREGS: Issues and challenges. Odisha Review, 76–80.  ", 
+        links:" https://magazines.odisha.gov.in/Orissareview/2013/Feb-Mar/engpdf/7680.pdf "
+      },
+      {
+        heading: "Ministry of Rural Development. (n.d.). Annual master circular 2024–25: Mahatma Gandhi National Rural Employment Guarantee Act, 2005. Department of Rural Development, Government of India. ", 
+        links: " https://nregaplus.nic.in/netnrega/writereaddata/Circulars/AMC_202425-English.pdf "
+      },
+      {
+        heading: "National Bank for Agriculture and Rural Development. (2024, November). Impact of bank linkage programme on Self-Help Groups: Achievements, challenges and the way forward (Issue No. 04).  ", 
+        links: "ttps://www.nabard.org/auth/writereaddata/tender/pub_0212240932181206.pdf "
+      },
+      {
+        heading: "National Institute of Rural Development and Panchayati Raj. (n.d.). Handbook on convergence.  ", 
+        links: "https://nirdpr.org.in/nird_docs/nrlm/nrlmhandbookconvergence050716.pdf "
+      },
+      {
+        heading: "NRLM. (n.d.). Program implementation plan. Ministry of Rural Development, Government of India.", 
+        links:" https://msrls.nic.in/sites/default/files/6-pip-nrlm.pdf "
+      },
+       {
+        heading: "Press Information Bureau. (2023, December 06). Deendayal Antyodaya Yojana–National Rural Livelihood Mission so far in FY 2023–24: 39 lakh SHGs get loan, Rs 1.12 lakh crore disbursed. Press Information Bureau. ", 
+        links:" https://static.pib.gov.in/WriteReadData/specificdocs/documents/2023/dec/doc2023126279701.pdf  "
+      },
+       {
+        heading: "Press Information Bureau, Government of India. (2025, February 06). A new dawn for rural India’s transformation. Press Information Bureau. ", 
+        links:" https://www.pib.gov.in/FactsheetDetails.aspx?Id=149120  "
+      },
+       {
+        heading: "Press Information Bureau, Ministry of Rural Development, Government of India. (2017, June 30). Impact assessment of DAY-NRLM by IRMA. Press Information Bureau. ", 
+        links:" https://www.pib.gov.in/PressReleasePage.aspx?PRID=1494160 "
+      },
+       {
+        heading: "Press Information Bureau, Ministry of Rural Development, Government of India. (2024, December 31). Year End Review 2024: Achievement of the Department of Rural Development. Press Information Bureau. ", 
+        links:"https://www.pib.gov.in/PressReleasePage.aspx?PRID=2088996  "
+      },
+      {
+        heading: "Singh, S., Kumar, S., & Singh, J. (2023). National Rural Livelihood Mission’s (NRLM) grassroots empowerment: Examining the functioning and constraints of Self Help Groups and their federations in Punjab. Journal of Agricultural Development and Policy, 33(2), 205–212.", 
+        links:"https://www.isadp.in/publication/download-pdf/237   "
+      },
+      
+    ]
+  },
+  {
+    id: 2,
+    issue: 3,
+    volume: 1,
+    title: " Does the Make in India Policy Promote Green Product Adoption in India?A Consumer Perspective ( with a case study on FabIndia ) ",
+    author: "Nitya Menon, Tanisha Garg, Reema Mahapatra, Rishika Agarwal ,Ananya Tiwari ",
+    authorAbbrev: " N.Menon, T.Garg, R.Mahapatra, R.Agarwal, A.Tiwari",
+    abstract: [
+      "This research paper explores whether the Make in India policy initiated by the government of India in 2014 to boost domestic manufacturing has had an impact on green product adoption among Indian consumers. Using a mixed method approach, this study evaluates quantitative survey data and qualitative interviews to examine how consumers respond to green products under influence of national policy. Additionally, the paper includes a case study on FabIndia, a brand for sustainable practices and strong alignment with national identity, drawing on the Stimulus Organism Response (S-O-R) model and the Theory of Planned Behaviour (TPB). The findings suggest that although there is a rising awareness and positive perception of green products, significant barriers such as affordability, limited axis and scepticism continue to hinder widespread adoption. The paper concludes with targeted policy recommendations to bridge this gap.",
+       ],
+    
+    keyword:[
+      "Make in India",
+      "Green Product Adoption",
+      "Consumer Behaviour",
+      "Sustainable Practices",
+      "FabIndia",
+      "Public Policy",
+      "Brand Trust"
+      
+    ],
+    status: "Submitted",
+    intro: [
+      " The global environment crisis brought unprecedented attention to sustainable consumption and production patterns. In this context, public policy is increasingly recognised not just as a tool for industrial development but also as an enabler of sustainable behaviour among consumers in India. The Make in India initiative represents one of the largest industrial and economic policies aimed at transforming the country into a global manufacturing hub launched in 2014. Make in India has been instrumental in attracting foreign investments, fostering innovations and building best in class manufacturing infrastructure. However, its potential to influence environmentally sustainable consumer behaviour remains largely unexplored. ",
+      "India’s rising middle class, coupled with the growing environmental awareness represents an opportunity to align industrial policies with ecological goals, sustainable development goal 12 which emphasises responsible consumption and production, and provides the broader global framework within which India’s policies can be evaluated by Make in India focus on increasing domestic production capabilities. The alignment of this growth with ecological sustainability must be interrogated. ",
+      "The present research aims to assess whether Make in India plays a role in promoting green product adoption among Indian consumers. Green products are characterised by minimal environmental impact, eco-friendly production process and ethical labour practices are increasingly entering the Indian market. However, consumer adoption of such products remains uneven and highly stratified by socio- economic status. ",
+      "This study employs the vertical framework Stimulus Organism Response (SOR) model and Theory of Planned Behaviour (TPB). The Make in India initiative functions as a stimulus that potentially affects consumer adopted consumer attitudes ( organism ) which in turn influences green product purchases (responses). TPB is used to understand the roles of attitudes, social norms and perceived behaviour control in shaping social eco-conscious consumption. ",
+      "FabIndia, a retail brand known for its eco-conscious practices and traditional Indian identity serves as the case study with its roots in rural craftsman and environmentally responsible production. FabIndia embodies the intersection of sustainability, culture and policy branding through its alignment with national identity and ethical sourcing. The brand offers a unique lens to examine how industrial policy can indirectly shape consumer behaviour."
+      
+    ],
+    content: [
+      
+      {
+        heading: "Background and literature review",
+        paragraphs: [
+        "Understanding green consumerism in India requires a contextual and conceptual exploration of both evaluation of sustainable development in policy and the consumer's role in environmental change. The green consumer movement, which began in the West during the 1970s in response to environmental degradation, found resonance in India much later, gaining traction in the early 2000s as awareness around climate change and ecological footprint intensified. The Make in India policy, although primarily aimed at economic transformation, provides a unique policy context to assess consumer responsiveness to environmentally sustainable choices",
+        "Make in India was launched by Prime Minister Narendra Modi in September 2014 with the goal of increasing domestic manufacturing and reducing import dependency. Its emphasis on innovation, investment, skill development and infrastructure made it a comprehensive policy tool for economic growth. However, the environmental dimension of this policy was not explicitly prioritised in its early years. Only over time, through the integration of sustainability in the production processes and certification, did the policy begin to intersect with eco-conscious narratives.",
+        "From a policy perspective, India’s commitment to the Paris agreement and United Nations Sustainable Development Goals (SDG) acts as a guiding framework for integrating sustainability into all domains, including consumer behaviour. SDG 12, in particular, calls for responsible consumption and production partners, making it a relevant lens through which to analyse the Make in India initiative. Government programmes such as “Zero Defect Zero Effect” and ZED certificate (part of the Make in India camping) attempt to balance productivity with environmental stewardship, but their visibility and impact at consumer levels remain limited. ",
+        "The academic literature on green consumerism in India reflects a new understanding of its slow yet steady emergence (Gupta and Ogden, 2009), referring to the value-action gap where consumers who express environmental concerns do not consistently act upon them. They attribute this gap to several factors, including high prices, limited product availability, and mistrust in green claims. Similarly, Vermeir and Verbeke (2006) suggest that perceived consumer effectiveness—they believe that individual choices can make a difference—is crucial for motivating green purchasing. In India, however, where collective behaviour and affordability strongly influence decisions, this belief is underdeveloped.",
+        "From a marketing perspective, Peattie and Crane (2005) criticise green marketing for being vague, misleading, and superficial, which can result in consumer scepticism. Ottman (2011) underscored the need for authentic and culturally resonant green branding, warning against superficial eco-labelling or greenwashing. She emphasises that trust, emotional connection, and alignment with personal value significantly influence green branding credibility.",
+        "Country-of-origin effects also play a role in consumer behaviour. According to Verlegh and Steenkamp (1999), national identity influences consumer preferences and products that are domestic associated with higher trust, better quality or cultural appropriateness. This becomes particularly relevant in India where patriotism and self-reliance (“atmanirbharta”)  have increasingly shaped consumers' narratives post 2014. Hence, the Make in India label functions not only as a manufacturing tag but also a symbol of national resurgence. Brand level case studies provide further insights.",
+        "FabIndia has emerged as a key player in India’s green retail sector by combining traditional craftsmanship with ethical and sustainable sourcing. Founded in 1960, the company works with over 55,000 artisans using natural ties, handloom fabric and locally sourced material materials. Its transparency, aesthetic appeal and emphasis on Indian heritage allow it to gain trust among a segment of conscious consumers. However, questions around affordability and accessibility remain, despite the theoretical and empirical richness in the literature. First and foremost, studies do not directly assess how public policy branding like Make in India shapes consumer decisions regarding green products. Second, the interplay between national identity, brand trust and sustainability is often discussed in isolation, not in an integrated manner. ",
+        "Finally, there is limited research that combines behavioural frameworks like S-O-R and TPB with real life brand examples in Indian context in the background and literature review position. This study within an evolving but under-explored intersection of policy, branding and sustainable consumer behaviour by combining macro level policy analysis with micro consumer insights. This research aims to fill existing gaps and contribute to a more holistic understanding of green adoption in the Indian market."
+
+        ]
+      },
+      {
+        heading: "Theme 1-  Awareness of green initiatives under Make in India ",
+        paragraphs: [
+         "Understanding consumer awareness and perception of green products is essential to evaluating the effectiveness of Make in India policy promoting consumption. These themes delve into the cognitive, emotional and behavioural components of consumer engagement with green products with a focus on how policy landscape influences the perceptions, consumer awareness of green products in India is steadily increasing. Yet it remains fragmented and unevenly distributed across different demographics. Responses from urban and semi urban areas reveal that approximately 68% of consumers are familiar with the term “green products”, but only 34% could accurately identify products that meet recognised environmental standards. This knowledge gap suggests that while environmental consciousness is growing, it often looks deep and specific.  ",
+          "A key finding from the study is the role of education and media in shaping green awareness. Respondents with high education level, especially those in postgraduate programmes or environmental studies, demonstrate great awareness and comprehension of green certification, sustainable sourcing and equilibrium media exposure particularly through social media campaigns and documentary content on platforms like YouTube and Netflix has also contributed to the rising interest in sustainable consumption. However, traditional media outlets like TV and newspaper remain limited, India promotes green narratives, often focusing instead on price and functionality.",
+          "Awareness also varies by region and social economic classes. In Tier-1 cities like Delhi and Bengaluru, social eco-conscious is more visible due to access to green retail outlets, educational institutions and policy driven dialogues. In contrast, respondents from Tier-2 and Tier-3 cities reported significantly lower exposure to sustainability campaigns or Make in India initiatives emphasising green innovation. This disparity underscores the urban-rural divide in sustainability outreach and reveals the need for more localised awareness strategies with respect to make in India policy. Consumer recognition of its linkage to sustainability is surprisingly limited while lower 70% of respondents were aware of the Make in India campaign; fewer than 30% associated it with sustainability or green manufacturing. This disconnect illustrates a significant communication gap in policy messaging the policies. ",
+          "Branding is often associated with nationalism, employment and economic revival, but not with environmental responsibility. As a result, consumers fail to see their purchase of green products as behaviour aligned with policy initiatives. Emotional responses and attitudes also play a crucial role in shaping consumption patterns. Respondents expressed a generally favourable view of green products, citing themes such as ethicality, innovation, and alignment with nature. Many associated consumption with a sense of personal pride and moral superiority. Yet this perception does not always translate into actual purchasing behaviour due to the perceived barriers. The most commonly cited barriers were high cost (45%),  lack of availability (31%),  and doubts about authenticity (28%). ",
+          "Interestingly, the perception of foreign versus domestic green brands reveals important insights into the effectiveness of Make in India initiative. While some consumers prefer international brands for their perceived superior quality and certification, others lean toward Indian-made products as a way to support local artisans and contribute to national growth. Groups often associate brands like FabIndia, Khadi India, and Forest essentials with ethical practices and cultural relevance, aligning well with the Make in India ethos.",
+          "FabIndia emerges as a crucial brand in shaping perceptions around green consumption through its emphasis on artisanal production, sustainable fabrics and traditional Indian techniques. The Brand has successfully cultivated a strong identity associated with eco-friendliness and national pride. Several interviews describe FabIndia not just as a retail store but also as a lifestyle choice, reflecting a blend of cultural authenticity and ecological responsibility. This brand identity resonates strongly with young urban professionals and consumers who hold Gandhian value. ",
+          "However, this positive perception is not universal. Several consumers pointed out that FabIndia's premium pricing excludes a significant portion of the population. Moreover, its urban Centre retail presence and limited digital marketing in vernacular languages, makes it less accessible to rural and regional consumers. As a result, while the brand enjoys high regard in niche urban circles, it falls short in achieving mass adoption to enhance consumer awareness. To shift consumer perceptions, the Make in India policy must be communicated more explicitly within sustainable narratives. This includes integrating green certification policies into promotions, subsidising environment-friendly local businesses and featuring consumer education in regional languages. Partnerships between the government and retail brands like FabIndia can amplify these messages and build consumer trust. ",
+          "In conclusion, strategic alignment between sustainable branding and policy communication is essential to broaden the impact of green consumption in India. The Make in India policy has potential as a catalyst for sustainable consumption but requires clearer and more inclusive messaging. Perceptions of green products are generally positive but practical barriers continue to inhibit adoption. A strategic alignment of policy, communication, brand, collaboration, and educational outreach is necessary to bridge the gap between awareness and action."
+        ]
+      },
+      {
+        heading: "Theme 2 - Influence of cultural Identity and Brand Trust in Green Adoption ",
+        paragraphs: [
+        "Theme 2 - Influence of cultural Identity and Brand Trust in Green Adoption ",
+        "This section explores how these cultural touchpoints interact with policy initiatives, like Make in India to shape consumer confidence and action. At the heart of this theme is the notion that consumer behaviour in India is not solely rational or utilitarian, it is also deeply emotional and symbolic. ",
+        "The Make in India campaign itself is rooted in nationalist rhetoric that champions self-reliance, economic sovereignty and pride in Indian goods. This patriotic narrative appeals to a wide segment of the population that seeks to assert their identity through consumption. Within this framework, green products that are also locally produced gain an added layer of appeal by serving both ecological and cultural objectives. ",
+        "India stands out as a leading example of how brand trust and cultural resonance can elevate green adoption. Established in 1960, FabIndia built its identity on the preservation of Indian handicraft, rural livelihood and natural material materials. It sources directly from artisans across India, ensuring that its products retain the authenticity of local traditions. Its use of handwoven textile, herbal skincare ingredients, and eco-friendly dyes reflects a green ethic embedded in Indian cultural practices. Survey responses and interviews reveal that consumers associate FabIndia with transparency, ethical sourcing and national pride. ",
+        "Many urban Millennials and middle consumers remarked that purchasing from FabIndia gave them a sense of purpose. It allowed them to support rural economies, pressure, cultural heritage, and reduce their carbon footprint, all through a single act of consumption. This meaningful engagement contributes to high levels of brand trust and is a critical factor in green purchasing decisions. However, the brand success lies not only in its products but also in its storytelling. FabIndia’s marketing campaigns often highlight the artisans behind each product, the traditional techniques used, and the environmental responsibility embedded in each product. Transparency and storytelling bridge the gap between consumer values and purchasing behaviour, a common challenge encountered in green marketing. ",
+        "The link between brand and Green adoption was further corroborated by the data. 61% of the survey participants indicated that they were more likely to buy green products from brands they trust, even if the price was slightly higher. Among those who mentioned FabIndia, nearly 80% said that the brand's reputation and authenticity influenced their willingness to make a purchase. This aligns with the existing literature that underscores the importance of brand reliability in influencing consumer participation in sustainable capitalism, especially when it comes to green claims. ",
+        "Furthermore cultural familiarity also plays a role in reducing resistance to green consumption. Many respondents viewed FabIndia’s use of indigenous materials and traditional aesthetics as a “return to roots” and alternative to mass produced Western-style products. This cultural positioning also allows the brand to resonate with consumers across age groups and ideologies, from environmentally conscious youth to older generations nostalgic and pre-globalised India. Nonetheless, challenges persist. Several interviewees acknowledged that, while they trust FabIndia, its pricing often makes it inaccessible to lower-middle-class consumers. This economic barrier limits the scalability of trust-driven green adoption. ",
+        "Moreover, in regions where cultural diversity is more complex, and awareness about brands like FabIndia is limited, the trust factor diminishes, leading to lower adoption rates. The implications for policy are significant. If Make in India is to genuinely promote clean consumption, it must engage with brands that embody Indian values and sustainability principles. Strategic collaboration between the government and culturally rooted brands like FabIndia could amplify outreach and reinforce policy objectives through trust intermediaries. Additionally, there is a need for sustained storytelling and awareness campaigns that show how green products are not only environmentally sound but also culturally authentic. In conclusion, cultural identity and trust are key drivers in green product adoption in India. FabIndia’s case illustrates that when green products are interwoven with narratives of heritage, self-reliance and ethical transparency, they gain emotional and symbolic significance. Leveraging these connections through the Make in India framework could unlock deeper and broader participation in the green economy."
+        ]
+      },
+      {
+        heading: "Theme 3 - Barriers to Green Product Adoption ",
+        paragraphs: [
+         "Despite increasing awareness and a generally favourable perception of green products, significant barriers continue to hinder widespread adoption among Indian consumers. This section dwells into the specific financial, structural and psychological obstacles that prevent the translation of positive attitude into actual consumer behaviour. While the Make in India initiative provides an overarching, economic and industrial framework, it has not fully addressed the grassroot-level barriers that affect sustainable consumption. ",
+        "One of the most prominent barriers identified in the survey is affordability. More than 45% of the respondents cited high prices as the main reason they refrain from purchasing green products. Green goods, often perceived as a premium or niche, are priced significantly higher than conventional alternatives. This price difference is partly due to the higher cost of sustainable raw materials, ethical labour, and limited economies of scale. For consumers operating within tight budgets, particularly in semi urban and ruler areas, the cost factor becomes a decisive deterrent. Several interviews from middle-income households reported that while they support the idea of green consumption, they cannot consistently afford to make their environmental environmentally responsible choices. ",
+        "Availability also emerged as a major constraint. Approximately 31% of the respondents said that the green products were not easily accessible in their local markets. Many green brands are concentrated in tier-1 cities, leaving consumers in tier-2 and tier-3 cities dependent on online shopping—which may not be always feasible due to digital illiteracy, poor logistics, or lack of trust in e-commerce platforms. Even when green alternatives are available, they are often limited in variety or poorly labelled, making it difficult for consumers to make informed decisions. ",
+        "A third significant barrier is consumer scepticism or distrust regarding the authenticity of the green products. About 28% of the participants expressed doubt about the claims made by the brands. India’s market has seen rising greenwashing, where companies falsely advertise their products as eco-friendly to capitalise on consumer sentiment. This erodes trust and discourages repeat purchases. Consumers are increasingly demanding transparency, certification and clear communication about product and environmental impact. However, regulatory oversight of green labelling in India remains weak, exacerbating the problem. ",
+        "Cultural inertia also plays a subtle but important role. In many households, particularly among the old generation, consumption patterns are deeply habitual. The idea of paying more for less convenient products that offer ecological benefit is not always embraced. Some interviews pointed out that older family members view green consumption as elitist and impractical. This generational divide complicates adoption within joint or conservative families. ",
+        "Policy limitations represent another systematic challenge. While Make in India policy emphasises industrial growth and economic self-reliance, its sustainability narrative remains limited to invisibility. The policy does not significantly promote green consumer goods through subsidies, tax breaks or awareness campaigns. As a result, consumers do not connect the dots between national policy and individual purchasing choices. The lack of direct government incentives or retail-level support discourages both suppliers and buyers from entering or expanding in green market places. ",
+        "Finally, the education system and media have not adequately filled the awareness action gap. While coverage of climate change and sustainability is increasing in the news, practical information about how to integrate green products into everyday life is scarce. Respondents who were supportive of green adoption often learned about it through word of mouth or international exposure, not through formal education or government outreach. This limits the reach and scale of sustainable practices. ",
+        "To overcome these barriers a multifaceted strategy is required. First, government and private sector partnerships should work to reduce the cost of green goods through subsidies, increased domestic production and certification support. Second, regulatory bodies must enforce strict standards against greenwashing and encourage transparency. Third, regional distribution networks and media campaigns can help bridge the urban-ruler gap. Fourth, the Make in India policy should be more explicitly with green goals through branding incentives and localised outreach thereby aligning consumer behaviour with policy ambitions. ",
+        "In conclusion, the barriers to green product adoption in India are real, multifaceted, and deeply embedded in social-economic structure. While awareness and interest are growing, they are not yet significant enough to overcome practical psychological resistance. Any effort to promote sustainable consumption through policies such as Make in India must directly address these barriers with structural, regulatory, and cultural interventions."
+        ]
+      },
+      {
+        heading: "Additional Insights ",
+        paragraphs: [
+        "Beyond the central themes of awareness, brand trust and structural barriers, this research uncovered several additional insights that offer a more nuanced understanding of green product adoption under the Make in India policy. These insights primarily through qualitative interviews, open-ended survey responses, and observations of behavioural patterns, not initially anticipated in the design of the study. Collectively, they contribute depth and contextual richness to the core findings. ",
+        "One of the most striking revelations was the role of peer networks and community influence in shaping green behaviour. Many participants shared that their choices to buy green products—such as organic cotton kurtas, chemical-free soaps, and handmade crafts—were influenced by friends, family, or community figures who champion sustainable living. This suggests that green product adoption often follows a social diffusion model rather than an entirely individualistic decision-making process. People are more likely to trust and try new green brands when they come recommended by someone in their circle, particularly when combined with real-life testimonials rather than advertisements. This pattern was notably stronger among women respondents, particularly homemakers and working professionals in semi urban areas. ",
+        "Another emergent insight was the intersection of digital literacy and green consumption. Respondents who had access to smart phones and were comfortable using online platforms reported being more informed and eco-friendly brands and were more likely to experiment with them. Digital access enabled them to compare prices, read reviews, explore brand stories, and engage with green influencers on platforms like Instagram and YouTube. On the contrary, those who lacked digital confidence or infrastructure were largely unaware of the green alternatives or sceptical of their claims. This points to a digital divide that indirectly limits sustainable consumption, emphasising the need for digital literacy to be integrated into the environmental policy framework. ",
+        "The data also revealed an interesting aspiration quality of a green consumption. Among middle-income respondents, there was a recurring theme that buying green products signified upper mobility, awareness and sophistication. For some, green consumption was less about ecology and more about social signalling—a way to align with global urban trends or distinguish oneself from the masses. While this may appear superficial, it nonetheless opens a window of opportunity for policy makers and brands. If sustainability is seen as fashionable or aspiration, it can be leveraged to build a wider consumer base. ",
+        "Several respondents voice a desire for more government-led initiatives to promote green product education. Many indicated they would be more likely to ship their consumption habits if they saw greater public sector endorsement—such as television, camping school based programs or green product fairs supported by municipal bodies. This reflects a deep-seated trust in the state role as an arbiter for credible information. Interestingly, some even suggested that celebrities or government ambassadors advocating for specific green brands would influence their decisions more than NGO campaigns and social media influencers. This aligns with India’s socio-political context where government visibility still carries significant weight in legitimising behaviour. ",
+        "A surprising insight that emerged from the case study of FabIndia was the importance of sensory and tactical engagement in promoting green products. Several participants who had visited physical FabIndia stores emphasised that the feel of organic cotton, the earthy scent of natural soaps, and the visual aesthetic of handicraft decor pieces played a strong role in converting their interest into purchase. This implies that experiential factors can be powerful triggers in promoting sustainable behaviour, especially when green alternatives are perceived as more sensorially rewarding than their synthetic counterparts. ",
+        "Finally, intersectionality played a critical, though often overlooked, role in shaping adoption patterns. Women, for example, were not only more inclined towards green consumption but they were also more likely to be the primary decision-makers for household purchases. However, they were simultaneously more constrained by financial limitations and social expectations. Even enthusiastic and informed women often reported that their purchasing power was overridden by elders in family decisions. This highlights the importance of tailoring green policy and communication strategies to specific demographic realities rather than relying on generic solutions. ",
+        "In summary, these additional insights highlight the multifaceted green product adoption in India. From social trust networks to digital access, aspirational values, and sensory triggers, a wide range of behavioural and contextual factors influence how consumers interact with sustainable products. These findings underscore the need for an integrated approach that goes beyond economic incentives and awareness campaigns to include emotional, social, and cultural dimensions of consumption. Recognising and acting on these settlers can help bridge the gap between green intentions and actions, and more fully realise the environmental goals embedded in Make in India initiative."
+        ]
+      },
+       
+     
+    ],
+    conclusion: [
+    "This study set out to explore whether the Make in India initiative promotes the adoption of green products among Indian consumers, using FabIndia as a key case study. The research finds that while there is growing environmental consciousness and rising interest in green consumption, a significant gap remains between awareness, intention, and actual purchasing behaviour. These gaps are shaped by a confluence of factors—affordability, access, cultural perceptions, and trust.",
+    "The Make in India policy, although conceived primarily as a manufacturing and industrial strategy, has inadvertently laid a foundation that could be leveraged to encourage green consumerism by promoting indigenous production, reviving traditional practices and fostering local employment. The initiative naturally aligns with the ethos of sustainability. However, this potential remains underutilised at the consumer level. Make in India lacks visibility as a green movement; most people do not associate their purchase of locally made eco-friendly products with broader national goals. This disconnection reflects both a policy and communication gap. ",
+    "The case study of FabIndia reinforces the value of trust, cultural rootedness and authenticity in driving green consumption. Consumers associate FabIndia with transparency, ethical sourcing, and heritage. These associations, combined with brand alignment into Indian values and aesthetics enhance its screen credibility. However, even a widely respected brand like FabIndia faces challenges in price, accessibility and availability outside urban centres, suggesting that structural barriers continue to inhibit the scale of green adoption ",
+    "To bridge the gap between policy, intent, and consumer behaviour, this paper proposes several key policy directions. First, Make in India must be reframed and rebranded as a green mission, not just an economic one. public messaging and product labelling should be consistently connected with sustainable consumption with national goals. Second, the government should introduce targeted subsidies and initiatives for eco-conscious producers so that green products become more accessible across the income groups. Third, transparent eco-certification systems are essential to combat greenwashing and build consumer trust in sustainable goods. Fourth, distribution systems must be expanded so that green goods are not confined to elite urban spaces, public-private partnerships involving green brands, cooperatives, and self-help groups. Fifth, democratic access, digital literacy, and sustainability education must be prioritised to enable more informed consumption. Finally, campaigns must be localised and culturally contextualised, rooting green behaviour in traditional Indian knowledge systems and regional languages.",
+    "In conclusion,  this research finds that green adoption in India is both an individual choice and a systematic challenge. Consumers are willing and increasingly aware but require an enabling environment, reliable information, and culturally resonant cues to consistently choose sustainability. If the Make in India initiative is recalibrated to incorporate ecological responsibilities alongside economic goals, transformative potential. A “Green Make in India” could serve as a uniquely Indian model of sustainable development, deeply rooted in tradition yet forward-looking in its ambition. ",
+    "Further research could extend these insights to sectors such as agriculture, housing and mobility, offering a broad framework for inclusive and green policymaking. As India navigates the dual challenge of development and environmental reservation, aligning citizens' behaviour with national policy through trust,  access, and shared values will be critical. The time is right for a collaborative effort between state, market, and civil society to usher in a greener, more inclusive future."
+    ],
+    references: [
+      {
+        heading: "Batley, R., & Mcloughlin, C. (2015). The politics of public services: A service characteristics approach. World Development, 74, 275–285.  ", 
+        links:" https://doi.org/10.1016/j.worlddev.2015.05.018 "
+      },
+      {
+        heading: "Bhatia, R. (2021). Sustainable Consumption in India: Challenges and Policy Imperatives. Journal of Environmental Policy, 12(3), 34–50.", 
+        links: "  "
+      },
+      {
+        heading: "Gupta, A., & Arora, N. (2020). Green consumer behaviour in India: Understanding motives and barriers. International Journal of Consumer Studies, 44(5), 431–446. ", 
+        links: "https://doi.org/10.1111/ijcs.12588"
+      },
+      {
+        heading: "Kumar, V., & Kumar, R. (2019). Policy and practice of sustainable development in India: A critical analysis. Sustainable Development Review, 18(2), 75–89. ", 
+        links: ""
+      },
+      {
+        heading: "Ministry of Commerce and Industry. (2023). Make in India: Progress Report. Government of India", 
+        links:"  https://www.makeinindia.gov.in "
+      },
+       {
+        heading: "NITI Aayog. (2020). Strategy for New India @75. ", 
+        links:" https://niti.gov.in/writereaddata/files/Strategy_for_New_India.pdf "
+      },
+       
+       {
+        heading: "Sharma, M., & Singh, R. (2021). Public Perception of Green Labels and Eco-Friendly Products in Urban India. Journal of Sustainable Marketing, 3(2), 1–16. ", 
+        links:"  "
+      },
+       {
+        heading: "Verma, P. (2020). Green marketing and Indian consumers: An empirical study. International Journal of Business and Management, 15(3), 25–35. ", 
+        links:"  "
+      },
+      {
+        heading: "Vohra, A., & Pandey, A. (2022). Green Policy Integration in India: A Pathway to Sustainable Growth. Policy Studies Journal, 50(1), 89–106. ", 
+        links:"https://doi.org/10.1111/psj.12455 "
+      },
+      
+    
+  ],   
+},
+
+{
+    id: 3,
+    issue: 3,
+    volume: 1,
+    title: " Smoke, Sludge, and Silicon: India's Environmental Battle ",
+    author: "	Ngawang Yangchen,Archi Bhat,Principriya Meher,	Chidansh Rawat,	Suhani,	Arsh Raheja",
+    authorAbbrev: "N. Yangchen, A. Bhat, P. Meher, C. Rawat, S. Suhani, A. Raheja",
+    abstract: [
+      
+       ],
+    
+    keyword:[
+         
+    ],
+    status: "Submitted",
+    intro: [
+      "Environment has been derived from a French word “Environia” means to surround. The word environment means surroundings in which organisms live. As a traditional Indian saying goes ‘Don’t destroy the very thing that sustains you’, this wisdom reminds us not to harm the environment that sustains all life and provides our needs. The Air we breathe, the water we drink, the soil in which we play are the most important elements of this world and are an integral part of everyone’s life.   The environment forms the foundation of human survival and development, influencing health, livelihood, and the sustainability of ecosystems. Environmental pollution significantly threatens human existence, with WHO reports showing that household air pollution alone killed 3.2 million people worldwide in 2020, and water pollution killed 1.4 million people according to their September 2023 report. However, rapid urbanization, unsustainable industrial practices, and weak regulatory enforcement have led to an escalating environmental crisis that directly impacts public health and economic stability as part of the current era, we have seen many researches and reports which indicate the severity of the situation and yet we are just sitting and repeating the same mistakes again and again. It's time to build up our awareness and accept the ringing bell for environment quality restoration."
+      
+    ],
+    content: [
+      
+      {
+        heading: "Background ",
+        paragraphs: [
+       "The tendency of human beings has escorted to the path of development and that has not been restricted to the bare needs of survival, but it has crossed the limits and has gone beyond the extravagance. This drift has created havoc and great menace to the green and clean environment. Urbanization and technological development have put the survival of the planet in danger by degrading the quality of the environment’s essential elements like air, water and soil due to the release of hazardous waste from factories like plastics, heavy metals, nitrates, burning of fossil fuels, acid rain, oil spills and industrial toxins. Modern environmental protection has its roots in 19th century private legal actions for protection of private rights, like enjoyment of property and nuisance law (Hughes 1986). According to the United Nations, human activities have been the primary driver of climate change since the 1800s through burning fossil fuels, with climate scientists showing humans are responsible for virtually all global heating over the last 200 years. Environmental law emerged as a distinct field in the late 19th and early 20th centuries when the concept of protecting ecosystems, water, and air masses as unified geographical units under law gained recognition. Talking about India, we have seen many citizens violating the laws set in by the government regarding protection of the environment. In this article we have shown how the country and globe has been facing many issues regarding environment depletion be it from air pollution, water pollution or e-waste pollution etc. "
+        ]
+      },
+      {
+        heading: "Theme 1-  Air ",
+        paragraphs: [
+        "As we are aware of the situation in the world wherein there has been an increase in global warming and environmental depletion, this has primarily been caused by the citizens of various countries as a whole. Talking about India, we have seen many citizens violating the laws set in by the government regarding protection of the environment. I believe that the human tendency to throw our wastes anywhere has caused a lot of issues which we are facing as a citizen of the country. During the train journey in India, we are able to see how much waste materials be it plastic bottles, papers, toffee wrappers etc have been thrown on the tracks. During any free land, we see waste materials dumped as it is and this is not all we have seen many unprotected dumped areas which are causing health depletions in the areas. We have seen a lot of cases of health depletion due to such radioactive environments and thus we require implementation of strict laws and awareness seminars so as to make the people aware about the current situation and where the future is headed. In this article we have shown how the country and globe has been facing many issues regarding environment depletion be it from air pollution, water pollution or e-waste pollution etc. Air pollution is more than just an environmental problem since it reveals systemic flaws in civic responsibility, regulation, and governance. Ecological systems and public health are at risk when policy frameworks are not implemented effectively. It affects biodiversity, urban infrastructure, and future generations' rights. ",
+        "To defend clean air as essential to the right to life, judicial bodies have intervened and interpreted Article 21 of the Constitution. This evolving jurisprudence has transformed clean air from an environmental concern into a legal entitlement. IIT Delhi research links industry and automobiles to major urban PM2.5 emissions, while CSE observes growing contributions from waste burning and construction. The UNEP 2022 report warns of a potential drop in life expectancy of up to 5.3 years in polluted regions, supported by findings from the State of Global Air 2023, which reveal hazardous air quality across India. Air pollution in India emerges through distinct patterns, with urban, agricultural, and industrial sources converging to create a persistent public health emergency. Delhi, one of the most affected cities, frequently records hazardous PM2.5 levels, particularly in winter. In November 2019, a public health emergency was declared as pollution spiked, and Diwali festivities that year, marked by widespread firecracker use, significantly worsened the air quality. Seasonal crop residue burning in Punjab and Haryana is another key contributor to North India’s pollution load. According to the Ministry of Environment, Punjab alone reported over 29,000 stubble burning incidents in 2022, intensifying regional air toxicity. Industrial pollutants, especially in urban belts, further compound the issue. The Supreme Court’s landmark ruling in M.C. Mehta v. Union of India ordered the relocation of heavily polluting industries from the Delhi NCR region and introduced the principle of absolute liability, establishing a pivotal legal precedent for environmental accountability. Furthermore, A socially inclusive, legally based strategy is necessary to address India's air pollution problem. Priority should be given to bolstering adherence to Article 21 through enforceable emission limits, real-time data transparency, and judicial review. The National Clean Air Program’s (NCAP) accountability and reach would be improved by statutory support. More authority and the ability to take decisive action must be given to pollution control boards.",
+        "Civic ownership can be fostered through public awareness campaigns and behavioral nudges, particularly with regard to the use of firecrackers, burning of waste, and vehicle choices. Municipalities are required to incorporate air quality objectives into urban planning at the local level. Deterrence would be strengthened legally if the M.C. Mehta principle of absolute liability were incorporated into all environmental laws. Socially, citizen monitoring platforms and clean technology incentives can promote long-term participation. Ultimately, clean air must not remain an aspirational goal, it must be realized as a lived constitutional right for every citizen."
+        ]
+      },
+      {
+        heading: "Theme 2 - E-wastes",
+        paragraphs: [
+       "Introduction:",
+       "India’s journey toward becoming a Viksit Bharat by 2047 is driven by a digital revolution, but this rapid technological advancement brings with it the growing challenge of electronic waste. E-waste refers to discarded electronic and electrical devices that have reached the end of their useful life or are no longer functional. It includes devices such as computers, printers, phones, chargers, batteries, TVs, ACs, refrigerators, and other household electronics. India is the world’s third-largest e-waste producer after China and the US, generating 3.8 million metric tons worth $6 billion in 2024 alone. As one of the fastest-growing electronics markets, managing e-waste is becoming a major sustainability challenge",
+       "Government Measures to address E-Waste:",
+       "The Ministry of Environment & Forests & Climate Change (MoEFCC) oversees environmental legislation in India, while the Central Pollution Control Board (CPCB), an autonomous body under the MoEFCC, drafts guidelines and advises on environmental policy matters. Government of India first announced the e-waste (Management and Handling) Rules in 2011. E-waste Management Rules 2016: These rules apply to all manufacturers, producers, consumers, dismantlers, and recyclers involved in the lifecycle of e-waste and electronic equipment. Extended Producer Responsibility [EPR] introduced under these rules mandates producers must declare recycling targets, set at 30% of the e-waste expected from past sales. The Deposit Refund Scheme allows producers to charge a deposit at sale, refunded with interest when the end-of-life equipment is returned by the consumer. E waste Management Rules 2022: It addressed collaboration between formal recyclers and the informal sector to maintain a steady material supply. The informal sector aids collection, while recyclers handle segregation and recovery. Hence, synergy between the two is essential.E waste Management Amendment Rules 2024: The CPCB will set the price range for EPR certificate exchange, capped at 100% and floored at 30% of the environmental compensation for unfulfilled obligations.",
+      "Impact on Health:",
+      "Electronic goods contain toxic substances like mercury, cadmium, and brominated flame retardants which are hazardous and improper disposal of these toxins into soil, water, and air, causes health issues like neurological disorders, respiratory problems, kidney damage, and even cancer. if suitable measures are not taken, the toxic substances can enter the body through respiratory tracks, skin, through mucous membrane of the mouth and digestive tracks.",
+      "Role and Risks of Informal/Unorganized Sector in E-Waste Recycling:",
+      "India's unorganized sector comprises small informal businesses operating without health or environmental safeguards. Workers often handle toxic materials without protective gear, exposing themselves to harmful gases, acid solutions, and contaminated residues. Over 90% of the country’s e-waste ends up in this sector, primarily located in urban slums of metros and mini-metros, where unskilled labourers use rudimentary methods to minimize costs. Recycling is often done in homes, putting families and the environment at risk. For example, gas torches are used to extract metals from circuit boards by melting solder, or through open burning and acid stripping. These methods release dangerous toxins. Child labour is sometimes employed to dismantle components using simple tools, with reusable parts sold and the rest burned to extract metal. Due to weak collection systems, households and institutions store outdated electronics, or sell them for refurbishment and resale. As a result, only a fraction of obsolete electronics reaches formal recycling facilities. For instance, TIC Group India Pvt. Ltd 10,000 sq. ft. dismantling unit in Noida, with a capacity of 500 tonnes per year, remains underutilized due to limited input.",
+      "Role of the Formal/Organized Sector in E-Waste Recycling:",
+      "The formal sector plays a crucial role in effective and environmentally sound e-waste management. Registered dismantlers and recyclers utilize the highest levels of technology and standardized practices to recover valuable materials with the least amount of environmental impact. They comply with regulatory requirements, protect workers, and assist in monitoring and reporting flows of e-waste through accurate documentation. The formal sector also promotes the enforcement of EPR schemes in collaboration with producers to achieve recycling targets.",
+      "Trends:",
+      "The CPCB estimates the e-waste generation at national level based on the countrywide sales data provided by producers and average life of notified electrical and electronic equipment (EEE), as mandated under the E-waste Management Rules, 2016. According to data presented by Union Ministry of Housing and Urban Affairs, India witnessed a surge in electronic waste generation over the past five years, rising from 1.01 million metric tonnes (MT) in 2019-20 to 1.751 million MT in 2023-24, =",
+
+      ]
+      },
+      {
+        heading: "Source: Ministry of Housing and Urban Affairs ",
+        paragraphs: [
+        
+        ]
+      },
+      {
+        heading: "Suggestions:",
+        paragraphs: [
+      "1.	Manufacturers and brands should design products for longer life and durability.",
+      "2.	Ensuring affordable product repairability options",
+      "3.	Preventing diversion of e waste to the informal sector",
+      "4.	Defining End-of Life (EOL) period for all Electrical and Electronic Equipment after due industry consultation.",
+       "5.	Adopting 'Informal Sector Franchisee Model' to integrate unorganized players into the formal recycling ecosystem."
+        ]
+      },
+       {
+        heading: "Relevant Case law:",
+        paragraphs: [
+        "Nagrik Upbhogta Margdarshak Manch & Ors. v. State of Madhya Pradesh 2015 Originally filed as a Public Interest Litigation (PIL) in the Madhya Pradesh High Court in 2013, the case was later transferred to the National Green Tribunal (NGT) following directions from the Supreme Court. The petition raised significant concerns regarding the mismanagement of e-waste in Madhya Pradesh, particularly the failure to implement the E-Waste (Management & Handling) Rules, 2011. In response, the NGT sought status reports from the State Pollution Control Boards of Madhya Pradesh, Rajasthan, and Chhattisgarh. In its decision, the NGT directed producers to establish e-waste collection centers, comply with Extended Producer Responsibility (EPR) obligations, and raise public awareness through proper labelling and advertisements. State Pollution Control Boards were instructed to enforce authorizations, monitor the activities of producers, dismantlers, and recyclers, and issue notices for registration. The Tribunal also emphasized the involvement of urban local bodies in the implementation of e-waste management rules. All three states were ordered to submit action taken reports within four months."
+        ]
+      },
+      {
+        heading: "Theme 3: Water",
+        paragraphs: [
+        "As we are aware of the famous slogan “…Water, water everywhere, Nor any drop to drink.” and in modern rhyme “Water, water everywhere, but not a drop to drink” - The first Rhyme of the Ancient Mariner in Seven Parts by Samuel Taylor Coleridge. This poignant line resonates deeply with the escalating crisis of water pollution, particularly concerning our vital groundwater resources. Despite water being fundamental to life, its importance is often overlooked, leading to severe human-induced contamination and depletion. India, a nation striving for industrial growth, faces a particularly acute challenge. While 75.2% of the Earth's potable water is frozen in polar regions, a significant 22.6% exists as groundwater. However, increasing reliance on this finite resource by industry, agriculture, and municipalities, coupled with inadequate legal frameworks, has led to widespread pollution. The Water (Prevention and Control of Pollution) Act, 1974 was India’s first comprehensive legislation aimed at regulating water pollution. However, ambiguities in definitions, lenient penalties, and enforcement lapses have limited its efficacy. It lacks provisions for radiological contamination, groundwater-specific regulation, and meaningful public participation. Judicial activism has stepped in through the Landmark cases such as Subhash Kumar v. The State of Bihar and Vellore Citizens Welfare Forum expanded Article 21: Right to Life to include the right to pollution-free water. The way forward demands a unified, enforceable legal regime as the groundwater is not infinite and it must be preserved not just as a resource, but as a public trust so as to help the future generations survive and not face clean water shortages.",
+        "The main reasons for water pollutions are: ",
+        "1.	Sewage Wastewater and Industrial Waste: One of the main reasons for water elements being eliminated is the inadequate scientific processing of the sewage wastes which eventually after treatment gets included into normal river water. As per the United Nations 80% of the water wastage is not being treated and having been included into the environment without scientific processing." ,
+        "2.Oil Spills: The second main reason for water having polluted elements is the release of ship oils or wastes directly into the river. I believe the oceans have been one of the most exploited water bodies due to such following events of spilling of oil or ship waste into the river. ",
+       " 3.	Nuclear Waste: During the nuclear attacks or nuclear making, radioactive wastes are not being trusted properly. In April 2021, Japan discharged contaminated water containing radioactive materials from the damaged Fukushima nuclear plant into the sea. Though the Japanese government claims potential health risks and damage to marine life to be minimal as the wastewater has been treated, close monitoring is required to ensure there are no environmental effects from the water pollution. ",
+       "Suggestive measures: ",
+      "1.	Efficiency of wastewater plants with more advanced systems will help in faster processing and would help in reducing clean water shortages.",
+      "2.	Controlling Industrial and Agricultural Wastage with more scientific processing so as to make sure that the water included into the rivers or sea are safe and would not damage the ecosystem. ",
+      "3.	Prevention of oil and chemical spills into the ocean/water bodies as it would help in reducing the damages caused to the sea animals and water.",
+      "4.	Provision to protect the radioactive waste safely so as to help the environment as a whole.",
+     "5.	Awareness Campaigns so as to make people aware about the importance of safeguarding the water safely without the inclusion of chemicals which might lead to water shortages for the coming generations.",
+     "Additional Insights:",
+     "Case 1:",
+     "The foundation for environmental protection as a constitutional right was laid in Subhash Kumar v. State of Bihar (1991), where the Supreme Court held that the right to pollution-free air and water is intrinsic to Article 21. This landmark interpretation transformed environmental harm from a regulatory concern into a fundamental rights violation, anchoring clean air within the broader framework of human dignity. This legal recognition is echoed and reinforced by growing scientific evidence. The Air Quality Life Index (2023) reveals that air pollution can reduce life expectancy in Indian hotspots by up to seven years, while studies by CREA and TERI highlight the chronic health burden on children and urban populations due to persistent exposure to PM2.5 and toxic emissions. Beyond legal and health frameworks, the crisis exposes deep inequities in environmental access. Communities in low-income or industrially dense areas suffer disproportionate exposure, often without the means for protection making air pollution not just a public health emergency, but a question of environmental justice and inclusive governance.  ",
+     "Case 2: ",
+     "Rural Litigation and Entitlement Kendra & Ors. v. State of Uttar Pradesh & Ors. [AIR 1985 SC 652], has emphasized on the very fact that to live in free and clean environment is the fundamental right of every citizen of India as it forms integral part of Article 21 of Constitution of India. But it is a bitter reality that the electronic waste which is outdated contains various toxic metals and chemicals; that directly or indirectly affects the human health and consequently, suffers due to the fatal consequences of the same. These can hamper the right to lead a healthy life. E – Waste is a man-made disaster which has posed an immense jeopardize situation to the present generation to cope with its after effects.",
+     "Case Study: Ganga Action Plan (GAP):",
+     "Launched in 1986, the Ganga Action Plan was India’s first major attempt to clean the sacred river. Despite huge investments, the plan failed to deliver lasting results. A 2020 report by the Central Pollution Control Board (CPCB) showed that 60% of the Ganga still remains polluted, mainly due to untreated sewage and industrial discharge. The GAP serves as a stark reminder that without local participation and strict enforcement, even the best-intentioned policies falter. Itis estimated that 11 million metric tons of plastic enter the oceans every year (Pew Charitable Trusts, 2020). This plastic not only chokes marine life but also breaks down into microplastics, which have now been found in human blood and placenta. Water pollution is no longer “out there”—it is inside us. This reveals how pollution is not just environmental, but deeply personal and biological. ",
+     "Case 3:",
+     "Vellore Citizens Welfare Forum v. Union of India (1996) The Supreme Court addressed pollution by tanneries in Tamil Nadu, recognizing the right to clean water and environment under Article 21. It firmly adopted the “Precautionary Principle” and “Polluter Pays Principle”, stating that development should not be at the cost of environmental destruction. This case helped establish sustainable development as a guiding doctrine in Indian environmental jurisprudence. ",
+     "Case 4:",
+     "Municipal Council, Ratlam v. Shri Vardhichand & Ors.; Supreme Court of India: In this landmark case the residents of Ratlam, Madhya Pradesh filed a complaint against the Municipal Council for failing to construct proper drains and control unhygienic conditions caused by nearby slums and industrial area. The Sub-Divisional Magistrate directed the municipality to prepare a development plan within six months, a decision upheld by the High Court. The municipality appealed to the Supreme Court, citing lack of funds. The respondents argued that the municipality failed in its duty to safeguard public health. The Supreme Court ruled that a clean environment is a fundamental right under Article 21 of the Constitution. It directed the municipality to implement sanitation measures, including separate public latrines, water supply, and scavenging services within six months. The Court stated that lack of funds was no excuse and advised the municipality to seek financial support from the State Government or public health savings. This judgment emphasized that public health and environmental protection are non-negotiable duties of municipal authorities. ",
+     "Case 5: ",
+     "Mahabir Coke Industry v. Pollution Control Board & Others, the Guwahati High Court has opined that “pollution, be that air, water, noise is a menace to the society and the developed and developing countries like India are facing environmental hazards. With the industrialization of the country, problem of pollution comes in and if it is allowed to go unabated there will be serious health hazards to the mankind.” ",
+
+        ]
+      },
+      
+    ],
+    conclusion: [
+    "India’s environmental crisis is no longer a distant threat it is a lived reality affecting public health, constitutional rights, and intergenerational equity. As the nation struggles with toxic air, increasing e-waste, and worsening water quality, it becomes evident that legal measures alone are insufficient. The escalating environmental challenges of air pollution, e-waste, and water contamination demand urgent, collective action to safeguard human health, biodiversity, and planetary sustainability. Based on statistics from international and national institutions, the data reveals increasing rates of air pollution and its threatening impact on people’s health and mortality. People know about environmental issues, but civic responsibility must be ensured through government bodies that enforce environmental regulations framed to protect the environment. Most of the cities of India are being suffered by extremely high level of urban air pollution particularly in the form of CO, SO2, NO2, PM (Particulate Matter) and RSPM (Respirable Suspended Particulate Matter). These issues, driven by unsustainable practices and lax enforcement, threaten not only ecosystems but also the fundamental rights enshrined in Article 21 of the Indian Constitution, as affirmed by judicial precedents. For e-waste, fostering a circular economy through incentivized recycling and stricter producer accountability is essential. Water security hinges on modernizing treatment systems, curbing industrial runoff, and protecting groundwater as a shared legacy. By uniting technological innovation, legal enforcement, and public engagement, we can forge a resilient, equitable future. Therefore, it is high time that we seek holistic solutions beyond mere awareness, focusing on individual and collective responsibility through environmental civic sense, which requires both personal action and policy changes. We need stronger legal frameworks, as seen in cases such as M.C. Mehta, but enforcement remains weak, necessitating stricter and more enforceable policies."
+    ],
+    references :[
+    {
+        heading: "(2022). Actions on Air Quality: A global summary. United Nations Environment Programme.",
+        links: ""
+    },
+    {
+        heading: "(n.d.). Air pollution. National Green Tribunal (India).",
+        links: ""
+    },
+    {
+        heading:" (n.d.). Air pollution and urban emissions. Centre for Science and Environment Reports.",
+        links: ""
+    },
+    {
+        heading:" (2020). Air quality assessment: Annual report 2019–2020. Central Pollution Control Board (CPCB).",
+        links: ""
+    },
+    {
+        heading: "(2016). Ambient air pollution: A global assessment of exposure and burden of disease. World Health Organization.",
+        links:"" 
+    },
+    {
+        heading: "(2024–2025). Annual Report: Stubble Burning Events and Air Quality. Ministry of Environment, Forest and Climate Change.",
+        links: ""
+    },
+    {
+        heading: "Fuller, R. L. (2020). The Lancet Commission on pollution and health: 2020 update. The Lancet.",
+        links: ""
+    },
+    {
+        heading: "(2020). Global Burden of Disease Study: Air Pollution Risk Factors. Institute for Health Metrics and Evaluation (IHME) & World Health Organization.",
+        links: ""
+    },
+    {
+        heading:"M.C. Mehta v. Union of India, AIR 1987 SC 1086.",
+        links: ""
+    },
+    {
+        heading: "Ministry of Environment, F. a. (n.d.). Schemes and Programmes.",
+        links: ""
+    },
+    {
+        heading:" Organization, W. H. (2020). Air pollution.",
+        links: ""
+    },
+    {
+        heading:" (2021). Satellite-based study on biomass burning and air quality in Delhi. NASA–ISRO Earth Science Collaboration.",
+        links: ""
+    },
+    {
+        heading: "(2021). Source apportionment of PM2.5 in urban India: Final report. Indian Institute of Technology, Delhi.",
+        links: ""
+    },
+    {
+        heading: "(2023). State of Global Air 2023: A Special Report. Health Effects Institute.",
+        links: ""
+    },
+    {
+        heading:" TERI. (2020). Urban air quality and its impact on child health in India. The Energy and Resources Institute.",
+        links: ""
+    },
+    {
+        heading:" (2022). The cost of air pollution: Strengthening the economic case for action in India. World Bank.",
+        links: ""
+    },
+    {
+        heading: "(2020). The Delhi air quality crisis: Causes and interventions. India Climate Collaborative.",
+        links: ""
+    },
+    {
+        heading:" (2023). World Air Quality Report 2023. IQAir.",
+        links: ""
+    },
+    {
+        heading:" (2016). E-Waste (Management) Rules, 2016. Ministry of Environment, Forest and Climate Change (MoEFCC).",
+        links: ""
+    },
+    {
+        heading: "(n.d.). Electronic waste handling in Madhya Pradesh – NGT order. India Environment Portal. National Green Tribunal (NGT).",
+        links: ""
+    },
+    {
+        heading: "(n.d.). Electronic Waste Management Rules – Display PDF. Central Pollution Control Board (CPCB).",
+        links:"" 
+    },
+    {
+        heading: "(n.d.). Health hazards caused by unorganised e-waste disposal. YourStory.",
+        links: ""
+    },
+    {
+        heading: "Kiddee, P. N. (2013). The generation, composition, collection, treatment and disposal system, and impact of e-waste.",
+        links: ""
+    },
+    {
+        heading: "(2020). Ambient air quality status of Delhi during Deepawali 2020. Central Pollution Control Board.",
+        links:"" 
+    },
+    {
+        heading:" (2022). India's deadly air: How pollution is cutting lives short. BBC News.",
+        links: ""
+    },
+    {
+        heading: "Organization, W. H. (2022). Household air pollution and health. WHO Fact Sheet.",
+        links: ""
+    },
+    {
+        heading:"(2020). The Delhi air quality crisis: Causes and interventions. India Climate Collaborative.",
+        links: ""
+    },
+    {
+        heading: "(n.d.). What is climate change? United Nations Climate Action. United Nations.",
+        links: ""
+    }
+]
+
+},
+
+{
+    id: 4,
+    issue: 3,
+    volume: 1,
+    title: "Who Deserves To Be Cared For?: A Critical Appraisal of Janani Suraksha Yojna Through The Lens Of Caste And Gender",
+    author: "Aadya Shri Sinha, Dikshita Sarmah, Krishnapriya P Sajith, Naseema Begum M, Nihal AK Gautam, Utkarsha Rautela, Veni Arora.",
+    authorAbbrev: "A.Sinha, D.Sarmah, K.P.Sajith, N.Begum, N.AK.Gautam, U.Rautela, V.Arora",
+    abstract: [
+        "This paper looks closely at the Janani Suraksha Yojana (JSY), one of India’s flagship maternal health schemes, through the layered realities of caste, gender, and class. While the scheme has led to a rise in institutional deliveries and helped in reducing maternal and neonatal death rates, these gains have not reached everyone equally. Dalit, Adivasi, and other marginalized women continue to face barriers that go beyond just policy. They face exclusion rooted in deep social hierarchies, everyday discrimination, and a healthcare system that often fails to see them with dignity. Using insights from literature, data trends, and policy reviews, this study brings out the structural gaps that limit JSY’s reach and impact. It draws attention to issues like fund delays, poor quality of care, and the absence of culturally sensitive support systems. The paper ends by suggesting concrete ways forward: from intersectional policy thinking to more inclusive implementation, from ground-up community involvement to systemic change, so that no woman is left behind in her most vulnerable moments."
+    ],
+    keyword: [
+        "Janani Suraksha Yojana (JSY)",
+        "maternal health",
+        "caste discrimination",
+        "gender inequality",
+        "healthcare access",
+        "intersectionality",
+        "marginalized women",
+        "India",
+        "public health policy",
+        "reproductive rights"
+    ],
+    status: "Submitted",
+    intro: [
+        "In a nation striving for universal health coverage, a stark reality persists: millions of marginalized women in India continue to face profound barriers to essential healthcare. Despite policy initiatives and a growing economy, the intersection of gender, caste, and class creates a complex web of exclusion, denying equitable access to vital services.",
+        "This paper aims to critically examine how the intricate interplay of gender, caste, and class profoundly influences healthcare and reproductive service access within India's marginalized communities. It seeks to illuminate the systemic disparities that persist despite national efforts, providing a comprehensive analysis of the challenges faced by vulnerable women. Furthermore, this study evaluates existing healthcare and reproductive health policies and programs through a gendered lens, assessing their effectiveness and identifying critical implementation gaps. By doing so, it underscores the urgent need for more equitable and responsive healthcare systems.",
+        "The significance of this topic cannot be overstated, as it addresses a critical human rights issue and a major public health challenge in India. By dissecting the complex interplay of social determinants on healthcare access, this research contributes significantly to the field of public policy and health equity. The findings offer crucial insights for policymakers, healthcare providers, and civil society organizations, enabling them to design and implement more targeted, culturally sensitive, and effective interventions. Ultimately, this paper aims to foster a deeper understanding of the barriers faced by marginalized women, advocating for systemic changes that ensure dignified, equitable, and comprehensive healthcare for all."
+    ],
+    content: [
+        {
+            heading: "Literature Review",
+            paragraphs: [
+                "The World Health Organization (WHO) emphasizes the need of all women having access to mental and physical health care. However, women who are marginalized in particular are more deprived of these benefits. Numerous studies have also been done on the unmet healthcare requirements of women and ways to improve their access to healthcare. The provision of healthcare services that take into account the sociodemographic, cultural, and other variables related to marginalized women has, however, received little attention in the literature so far (Puja et al., 2024). Gender disparities in health are exacerbated by the replication of restrictive gender norms in health systems.",
+                " Khanday and Akram (2012) discusses how the system in India has failed at the implementation level to provide healthcare access to marginalized groups for a long time. The study focuses on the health status of marginalized groups and the exploitation women’s face and the violations of their rights. The study analyzes the determinants on the basis of which Individuals who belong to marginalized groups face discrimination in healthcare, like how women face double discrimination, as in case of gender and marginalization due to other variables.",
+                "Ali and Chauhan (2020) demonstrate the enduring socioeconomic disparities in the consumption of maternal health services in rural India. Full prenatal care showed less improvement, despite a notable improvement in the disparity in competent birth attendance. They point to tribal status, mass media exposure, and secondary/higher education as major causes of the remaining discrepancies.",
+                " In their discussion of the gender-class relationship, Mahapatro, James, and Mishra (2021) illustrate the class gradient in unmet needs. According to an intersectional approach, Scheduled Caste/Tribe members of the lower class have significantly more unmet needs than those who are not SC/ST. 12 % of the total population is having unmet healthcare needs, where poorer women are more affected when caste and gender intersect.",
+                "Mishra et al. (2021) discuss the caste-based inequities in accessing India’s Janani Suraksha Yojana (JSY), which is a safe motherhood intervention aimed at reducing maternal and neonatal mortality by promoting institutional deliveries. While 72% of the JSY access gap is explained by observable factors like primarily wealth quintile, type of delivery, and education, a significant 28% unexplained disparity shows the persistent caste discrimination.",
+                "The authors underscore that persistent caste bias continues to impede fair access to maternal health benefits, especially among SC/ST women. Mishra (2006) analyzes how the inequalities in Indian society and the limitations (financial and social) of certain groups have impacted the gender disparity in the access to healthcare. According to the National Family Health Survey-2, around 35.8 % of women in India suffer from chronic energy deficiency, with a body mass index (BMI) of less than 18.5 kg/m². Before NFHS-2 the average maternal mortality rate at the national level was 540 deaths per 100,000 live births for a two year period.",
+                "A lack of sufficient data shows the gap of an intersectional approach in healthcare services and research is evident here. After analyzing the existing discourses, this paper tries to examine how the intersection of gender, caste, and class influences access to healthcare and reproductive services in India in case of marginalized communities. With an objective to analyze the existing healthcare and reproductive health policies and programs through a gendered lens this paper tries to evaluate the gender budgeting and resource allocation for women's health. At last this paper tries to propose evidence based recommendations for more inclusive and effective policy interventions by critically appraising the outcomes of these policies and implementation gaps as well."
+            ]
+        },
+        {
+            heading: "Theme 1: Structural Exclusion – Intersection of Caste and Gender in Access to Healthcare",
+            paragraphs: [
+                "Health care must be used to enhance the dignity and respect for human rights by providing everyone access to basic services. However, in India, this vision remains a dream for many marginalized communities—specifically, Dalit women, who encounter profound systemic challenges influenced by both gender and caste dynamics.",
+                "Dalit women, who make up about 16.6% of the total female population of India (Census of India, 2011), are doubly marginalized. Their lives are not only shaped by patriarchal systems but also by the caste system, which has historically placed them on the fringes of social systems. Even as legal systems and state programs claim to guarantee equality, caste and gender discrimination continues to deprive them of even basic healthcare facilities.",
+                "Studies demonstrate that discriminatory practice starts at the most basic levels. Acharya (2010) and Sabharwal et al. (2014) demonstrate that frontline health workers avoid entering Dalit localities, avoid or postpone or deny services, and maintain physical distance when interacting with Dalit women. For example, medicines are dropped from a height instead of being handed over directly, anganwadi workers maintain physical distance from babies, and mothers are asked to weigh their own infants. Such seemingly minor acts send a powerful message: that the lives of Dalits are not equal in importance.",
+                "Sabharwal et al. (2014) in a seven-state survey in India had also reported that Dalit women were much less likely to avail themselves of proper antenatal and postnatal care. They were not even aware of government programs like Janani Suraksha Yojana (JSY), and even if they were, they did not receive the benefits assured in general. Thorat and Lee (2010) also noted that Dalit women were 33% less likely than upper-caste women to avail themselves of JSY because of institutional neglect and discrimination on the basis of caste.",
+                "National data reinforces such inequality. NFHS-5 (2019–21) shows that 68.1% of Scheduled Caste women had antenatal care provided to them by a skilled personnel only, while 82.3% women from the general category had the same (International Institute for Population Sciences [IIPS] & ICF, 2021). Institutional delivery and immunization of children are also notably lower for Dalit and tribal women.",
+                "Discrimination is not only in the health domain, but also in state nutrition programs such as the Midday Meal Scheme, where Dalit children are discriminated against by being seated apart, served last, or excluded from receiving extra helpings (Thorat & Lee, 2010). These activities perpetuate humiliation and social exclusion from an early age.",
+                "Paul Farmer (2004) calls this structural violence—not harm which occurs as a result of personal design, but of entrenched inequality. For Dalit women, health care becomes yet another site where exclusion, indignity, and neglect become the norm.",
+                "To get closer to actual equity, we need to grapple with how caste and gender still influence access to healthcare in India—not only in policy, but also in practice on a day-to-day basis."
+            ]
+        },
+        {
+            heading: "Theme 2: To Assess The Implementation And Outcomes Of Janani Suraksha Yojana (JSY) Through Trend Based Analysis",
+            paragraphs: [
+                "Theme 2 focuses on how public health policies are implemented and what outcomes they generate, with a specific emphasis on the Janani Suraksha Yojana (JSY). JSY is a key public health policy under the National Health Mission. It was launched to encourage childbirth in healthcare institutions as a means to lower risks for mothers and newborns. This section analyses national level data from 2014-15 to 2022-23 to understand its reach and impact. By studying the number of women who have availed benefits from JSY and observing trends in maternal mortality rate and neonatal mortality, we aim to evaluate how well the scheme has worked over the years.",
+                "Janani Suraksha Yojana is a policy that targets improving maternal health and neonatal health under the National Health Mission. It was launched by the Ministry of Health and Family Welfare in April 2005. By promoting childbirth in medical facilities, the scheme seeks to lower risks for mothers and newborns, particularly among the women from marginalised sections of the society. Through conditional cash support, the scheme motivates women to seek antenatal services, give birth in healthcare institutions and access proper postnatal care. These cash benefits help reduce the cost burden. Accredited Social Health Activities (ASHAs) play a crucial role in identifying eligible women, encouraging them to go for regular check-ups and ensure they receive timely care both before and after childbirth.",
+                "Methodology:", 
+                "For this study we have relied on secondary data collected from government sources, such as reports published by the Ministry of Health and Family Welfare. The key indicators we focused on include the number of women who received JSY benefits, changes in maternal mortality and neonatal mortality over the years. We've looked at data ranging from 2014-15 to 2022-23. By comparing the data year by year, we aim to understand the progress of the scheme and how efficiently it has met its goals over the years. Therefore, instead of relying on advanced statistical models, this study adopts a descriptive approach to observe year-wise trends.",
+                "The following analysis presents the descriptive statistics of JSY beneficiaries, maternalmortality, and neonatal mortality rates in India from 2014–15 to 2022–23. Over this period,the number of JSY beneficiaries ranged from 96.95 lakh to 110.21 lakh, with a median of104.16 lakh. The low variance (16.48) and slight positive skew (0.22) suggest thatbeneficiary uptake has remained relatively stable, with gradual increases over time.",
+                "In contrast, the maternal mortality rate varied more widely, ranging from 90 to 155 deaths per100,000 live births, with a high variance (420.11) and a positively skewed distribution (0.64),indicating uneven declines. The neonatal mortality rate was more consistent, ranging between18.15 and 27.09, with a lower variance (9.68) and a nearly symmetrical (slightly negative)skew (–0.006), suggesting relatively uniform outcomes over time.",
+                "Overall, while JSY has helped improve maternal and neonatal outcomes, the data suggestsuneven impact on maternal health and a need for deeper outreach, especially in underservedregions and among marginalized populations",
+                "The trend analysis reveals a gradual increase in the number of JSY beneficiaries from2014–15 to 2019–20, followed by a slight dip during 2020–21, likely due to COVID-19disruptions, before stabilizing again. The maternal mortality rate shows an overall decliningtrend, but with significant fluctuation—most notably a sharp spike in 2021–22, which mayreflect panemic-related service gaps, before dropping again in 2022–23.",
+                "Meanwhile, neonatal mortality rates have declined consistently and steadily, indicating morestable progress in newborn health outcomes.",
+                "While the data suggests that JSY has had a positive correlation with improved maternal andneonatal health over time, the irregularities in maternal mortality trends raise questions aboutprogram resilience, especially during crises. These trends underscore the need for strongersafety nets, improved last-mile service delivery, and continued policy attention to reachmarginalize women, particularly during health emergencies."
+            ]
+        },
+        {
+            heading: "THEME 3: To Critically Appraise The Implementation And Outcomes Of These Policies, Identify Reasons, and Propose Evidence-Based Recommendations",
+            paragraphs: [
+               "While the Janani Suraksha Yojana (JSY) has notably increased institutional births andcontributed to declining maternal and infant mortality rates (MMR from 254 to 97, IMR from57 to 32) (Ministry of Health and Family Welfare, various years), its full potential is hinderedby systemic inefficiencies",
+               "A critical appraisal reveals JSY's limited effectiveness in ensuring comprehensive antenatal(ANC) and postnatal care (PNC), which are crucial for holistic maternal health (Lim et al.,2010). Delays in fund disbursement, sometimes exceeding a year, undermine the scheme'sfinancial incentives, particularly for vulnerable families (The Indian Express, 2024). Thisfinancial burden, coupled with healthcare system flaws, pushes families to the brink(Livemint, 2024)",
+               "Quality of care remains a significant challenge. Despite increased institutional deliveries,access to consistent ANC and PNC is inconsistent. Unused equipment due to lack of trainedtechnicians, as seen at Cottage Hospital in Dahanu, forces women into expensive private care(Livemint, 2024). India's shortage of skilled healthcare workers, below WHOrecommendations, directly impacts maternal care quality and institutional birth rates (WorldHealth Organization, ongoing reports). Reliable emergency transport and referral systems, asin Assam and Haryana, prove critical for safe childbirth (Livemint, 2024).",
+               "Furthermore, JSY's inclusiveness is questioned in regions where poverty and lack ofeducation persist. States like Bihar and Jharkhand show low institutional birth rates despiteincentives (IIPS & ICF, 2021). Education is a strong determinant; more educated women arealmost four times more likely to deliver in a facility (Singh & Singh, 2012). Culturallysensitive communication is also vital; initial resistance among tribal communities in Jhabuadistrict highlights the need for tailored approaches (Sharma & Sharma, 2017)."
+            ]
+        },
+        {
+        heading: "Reasons for Shortcomings:",
+            paragraphs: [
+              "1. Systemic Inefficiencies: Delays in fund disbursement and weak monitoring negatefinancial incentives (The Indian Express, 2024; Kumar et al., 2018)",
+               "2. Inadequate Quality of Care: Limited focus on comprehensive ANC/PNC andinsufficient infrastructure impact outcomes (Lim et al., 2010; Livemint, 2024).",
+              "3. Human Resource Deficiencies: Shortage of skilled healthcare professionalscompromises service quality and access (World Health Organization, ongoingreports).",
+              "4. Socio-demographic Barriers: Poverty, lack of education, and cultural beliefs impedeuptake, unaddressed by financial incentives alone (IIPS & ICF, 2021; Singh & Singh,2012).",
+              "5. Limited Culturally Sensitive Approaches: Programs failing to adapt to local beliefsface lower acceptance (Sharma & Sharma, 2017).",
+            ]
+        },
+        {
+        heading: "Evidence-Based Recommendations:",
+            paragraphs: [
+              "1. Strengthen Digital Tracking & Fund Disbursement: Implement real-time digitalplatforms for transparent and timely cash benefit delivery to reduce out-of-pocketexpenses (Kumar et al., 2018).",
+               "2. Prioritize Holistic Maternal Care: Expand JSY to incentivize and ensure quality ANCand PNC, encompassing a continuum of care beyond delivery (Lim et al., 2010).",
+               "3. Invest in Healthcare Workforce: Increase training and deployment of skilledprofessionals, addressing shortages in rural areas and ensuring equipment utilization(World Health Organization, ongoing reports).",
+               "4. Enhance Infrastructure and Emergency Services: Improve public health facilities andstrengthen emergency transport and referral systems (Livemint, 2024).",
+               "5. Address Socio-Demographic Factors: Link JSY with other welfare schemes andpromote education to overcome underlying barriers (IIPS & ICF, 2021; Singh &Singh, 2012).",
+               "6. Develop Culturally Sensitive Campaigns: Design culturally appropriate awarenesscampaigns, involving community leaders and leveraging models like Maharashtra'sASHA program (Sharma & Sharma, 2017; Ghosh et al., 2015).",
+               "7. Leverage Technology for Monitoring: Utilize digital platforms for quality monitoringand patient feedback to drive continuous improvement.",
+               "8. Context-Specific Policy Adaptation: Adapt policies to regional needs, consideringsocio-economic and cultural contexts, learning from diverse state experiences (IIPS &ICF, 2021)."
+            ]
+        },
+
+        {
+            heading: "Additional Insights",
+            paragraphs: [
+               "Beyond the structural and programmatic challenges already discussed, recent insightshighlight several critical dimensions impacting healthcare access for marginalized women inIndia. Despite notable progress in maternal and child health indicators, significant disparitiespersist, particularly for women residing in rural areas, those from lower socioeconomic strata,and tribal communities. These inequalities are often exacerbated by geographical barriers,out-of-pocket expenses, and the absence of female healthcare providers, reinforcing the needfor more localized and accessible service delivery models.",
+               "A broader understanding of women's health is also gaining traction, moving beyond purelyreproductive health to encompass a wider spectrum of issues. This includes addressingprevalent challenges such as malnutrition, anemia, and the rising burden ofnon-communicable diseases like breast cancer and cardiovascular conditions, whichdisproportionately affect women. Mental health disorders, often compounded by poverty andsocial stigma, also represent a critical area requiring more focused attention and integratedcare.",
+               "Technology emerges as a powerful enabler, with telemedicine platforms offeringtransformative solutions to bridge distance and accessibility gaps. These digital healthinitiatives can facilitate remote consultations and reduce the need for arduous travel, provingparticularly beneficial for women in underserved regions. However, the existing digitalgender gap, where women often have lower access to mobile phones and the internet,necessitates targeted interventions to ensure equitable digital literacy and access for thispotential to be fully realized.",
+               "Furthermore, the importance of community-based interventions and women's empowermentis increasingly recognized. Engaging local leaders, fostering peer education, and buildingwomen's groups can effectively disseminate health information, promote positivehealth-seeking behaviors, and address underlying power imbalances that hinder access.Empowering women through education, financial independence, and enhanceddecision-making autonomy is crucial, as these factors directly correlate with improvedhealthcare utilization and better health outcomes. These additional perspectives underscorethe need for a holistic, multi-pronged approach that integrates technological advancements,community participation, and sustained efforts towards social empowerment to truly achieveequitable healthcare for all marginalized women in India."
+            ]
+        }
+    ],
+    conclusion: [
+       "Our analysis of the Janani Suraksha Yojana (JSY) revealed its positive correlation withimproved maternal and neonatal outcomes, yet also highlighted inconsistencies andvulnerabilities, especially during crises like the COVID-19 pandemic. Furthermore, thecritical appraisal of existing policies exposed significant shortcomings, including delays infund disbursement, inadequate quality of care, human resource deficiencies, and persistentsocio-demographic barriers. The discussion emphasized that while policies exist, theireffective implementation is often hampered by deep-rooted inequalities and a lack ofculturally sensitive approaches, preventing the full realization of equitable healthcare for all.",
+       "The findings of this study carry profound implications for public health policy and practice inIndia. They underscore that achieving universal healthcare coverage is not merely aboutincreasing service availability but fundamentally about dismantling the structural barriersrooted in social hierarchies and gender norms. The persistent disparities highlighted hereindemonstrate that a 'one-size-fits-all' approach to health policy is insufficient; instead,interventions must be tailored to address the unique vulnerabilities arising from theintersection of caste, class, and gender. Recognizing the uneven impact of programs like JSY,particularly on the most marginalized, signifies the urgent need for robust monitoringmechanisms and adaptive strategies. Ultimately, ensuring equitable access to healthcare is notjust a matter of public health but a fundamental human right, essential for fostering socialjustice and sustainable development across the nation",
+       "Moving forward, future research should delve deeper into the long-term impacts of digitalhealth initiatives on marginalized communities, specifically examining how the digital gendergap can be effectively bridged to maximize their benefits. Further qualitative studies areneeded to capture the lived experiences of women facing multiple forms of discriminationwithin healthcare settings, providing nuanced insights into the everyday realities of structuralviolence. From a policy perspective, there is a compelling need to integrate intersectionalanalysis into the design and evaluation of all health programs, ensuring that resourceallocation and implementation strategies explicitly address the specific needs of the mostvulnerable. Strengthening community-led health initiatives, investing significantly in thetraining and deployment of culturally competent healthcare professionals, and ensuringtimely and transparent financial aid disbursement are critical practical actions. Moreover, aconcerted effort to promote women's education and economic empowerment will serve as afoundational pillar for improving health outcomes, fostering greater autonomy, and ensuringdignified healthcare for every woman in India.",
+       "In conclusion, while India has made commendable strides in public health, the journeytowards truly equitable healthcare for all its women remains ongoing. The insights gleanedfrom this analysis reiterate that health is inextricably linked to social justice. Addressing thedeeply entrenched issues of gender, caste, and class in healthcare requires not just policyreforms but a fundamental societal shift towards recognizing and valuing the inherent dignityand rights of every individual. By prioritizing inclusive policies, empowering marginalizedcommunities, and fostering a healthcare system that is truly responsive to diverse needs, Indiacan move closer to its vision of health for all, ensuring that no woman is left behind in thepursuit of well-being"
+
+    ],
+    references: [
+        {
+            heading: "Acharya, A. (2010). Caste and patterns of discrimination in rural public health care services. Indian Institute of Dalit Studies.",
+            links: "https://www.academia.edu/4129095/Caste_and_Patterns_of_Discrimination_in_Rural_Public_Health_Care_Services"
+        },
+        {
+            heading: "Ali, B., & Chauhan, S. (2020). Inequalities in the utilisation of maternal health care in rural India: Evidences from National Family Health Survey III & IV. BMC Public Health, 20(1), 369.",
+            links: "https://doi.org/10.1186/s12889-020-08480-4"
+        },
+        {
+            heading: "Census of India. (2011). Population Enumeration Data (Final). Office of the Registrar General & Census Commissioner, India.",
+            links: "https://censusindia.gov.in/census.website/data/population-figures"
+        },
+        {
+            heading: "CHATURVEDI, P. & ANUPRIYA PATEL. (2025). MATERNAL HEALTHCARE IN THE COUNTRY. In RAJYA SABHA.",
+            links: "https://sansad.in/getFile/annex/267/AU2820_FX9TVt.pdf?source=pqars"
+        },
+        {
+            heading: "Macrotrends. (n.d.). India Maternal Mortality Rate.",
+            links: "https://www.macrotrends.net/global-metrics/countries/ind/india/maternal-mortality-rate"
+        },
+        {
+            heading: "Crenshaw, K. (1989). Demarginalizing the intersection of race and sex. University of Chicago Legal Forum, 1989(1), 139–167.",
+            links: "https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8"
+        },
+        {
+            heading: "Farmer, P. (2004). An anthropology of structural violence. Current Anthropology, 45(3), 305–325.",
+            links: "https://pubmed.ncbi.nlm.nih.gov/16210983/"
+        },
+        {
+            heading: "International Institute for Population Sciences (IIPS) & ORC Macro. (2000). National Family Health Survey (NFHS‑2), 1998–99: India. Mumbai: IIPS.",
+            links: "https://www.dhsprogram.com/pubs/pdf/FRIND2/FRIND2.pdf"
+        },
+        {
+            heading: "International Institute for Population Sciences (IIPS) & ICF. (2021). National Family Health Survey (NFHS-5), India, 2019–21.",
+            links: "https://dhsprogram.com/pubs/pdf/FR375/FR375.pdf"
+        },
+        {
+            heading: "Khanday, Z. A., & Akram, M. (2012). Health status of marginalized groups in India. International Journal of Applied Sociology, 2(6), 60–70.",
+            links: "https://doi.org/10.5923/j.ijas.20120206.02"
+        },
+        {
+            heading: "Kumar, G., et al. (2018). Janani Suraksha Yojana: A critical appraisal of its implementation and challenges in a rural district of North India. Indian Journal of Community Medicine, 43(2), 125-128.",
+            links: ""
+        },
+        {
+            heading: "Lim SS, et al. (2010). India's Janani Shishu Suraksha Karyakram (JSSK): Early experiences and implications for maternal and child health. Journal of Health, Population and Nutrition, 28(6), 543-554.",
+            links: ""
+        },
+        {
+            heading: "Livemint. (2024, June 3). The pregnant pause in Palghar district’s health system.",
+            links: ""
+        },
+        {
+            heading: "Mahapatro, S. R., James, K. S., & Mishra, U. S. (2021). Intersection of class, caste, gender and unmet healthcare needs in India: Implications for health policy. Health Policy Open, 2, 100040.",
+            links: "https://doi.org/10.1016/j.hpopen.2021.100040"
+        },
+        {
+            heading: "Mishra, M. (2006). Gendered vulnerabilities: Women’s health and access to healthcare in India. Centre for Enquiry into Health and Allied Themes (CEHAT). Mumbai, India.",
+            links: "https://www.cehat.org/uploads/files/whahc.pdf"
+        },
+        {
+            heading: "Mishra, P. S., Veerapandian, K., & Choudhary, P. K. (2021). Impact of socio‑economic inequity in access to maternal health benefits in India: Evidence from Janani Suraksha Yojana using NFHS data. PLoS ONE, 16(3), e0247935.",
+            links: "https://doi.org/10.1371/journal.pone.0247935"
+        },
+        {
+            heading: "Ministry of Health and Family Welfare, Government of India. (Various years). National Health Mission Reports, Maternal Mortality Rate Bulletins, and Sample Registration System (SRS) Bulletins.",
+            links: ""
+        },
+        {
+            heading: "Puja, S. S., Neha, N. N., Alif, O. R., Sultan, T. J., Husna, M. G. Z. A., Jahan, I., & Noor, J. (2024). Exploring the barriers to feminine healthcare access among marginalized women in Bangladesh and facilitating access through a voice bot. Heliyon, 10(14), e33927.",
+            links: "https://doi.org/10.1016/j.heliyon.2024.e33927"
+        },
+        {
+            heading: "Sabharwal, N. S., Sharma, A., Diwakar, G., & Thorat, S. (2014). Health and nutrition among Dalit children: Access and utilization of ICDS in six states. Indian Institute of Dalit Studies.",
+            links: "https://www.academia.edu/8821093/Health_and_Nutrition_among_Dalit_Children"
+        },
+        {
+            heading: "Sharma, P., & Sharma, D. (2017). An evaluation of Janani Suraksha Yojana in tribal areas of Jhabua district, Madhya Pradesh. International Journal of Community Medicine and Public Health, 4(12), 4467-4471.",
+            links: ""
+        },
+        {
+            heading: "Singh, A., & Singh, R. (2012). Determinants of institutional delivery in India: A study based on NFHS-3 data. Journal of Health Management, 14(1), 35-48.",
+            links: ""
+        },
+        {
+            heading: "Sustainable Development Report 2025.",
+            links: "https://dashboards.sdgindex.org/explorer?metric=neonatal-mortality-rate"
+        },
+        {
+            heading: "Thorat, S., & Lee, J. (2010). Food security schemes and caste discrimination. Indian Institute of Dalit Studies.",
+            links: "https://www.researchgate.net/publication/262125646_Food_Security_Schemes_and_Caste_Discrimination"
+        },
+        {
+            heading: "The Indian Express. (2024, May 22). Palghar: Pregnant women battling for life as JSY funds unpaid for a year.",
+            links: ""
+        },
+        {
+            heading: "World Health Organization. (Ongoing reports). Global Health Workforce Statistics.",
+            links: ""
+        },
+    ],
+},
+
+{
+    id: 5,
+    issue: 3,
+    volume: 1,
+    title: "From Tradition to Transformation: A Critical Review of India’s National Education Policy 2020",
+    author: "Arushi Sareen, Harshita Rawat",
+    authorAbbrev: "A.Sareen, H.Rawat",
+    abstract: [
+        "After a gap of 34 years, the Government of India introduced the National Education Policy (NEP) 2020 on July 29, 2020. This policy replaces the National Policy on Education (NPE) of 1986 and aims to transform India’s education system, aligning it with contemporary global standards and the needs of 21st-century learners. Notable reforms include a shift to the 5+3+3+4 academic structure, multiple exit and entry options at the undergraduate level, focused integration of vocational and multidisciplinary learning, and new assessment paradigms. The NEP aspires to make India a global knowledge superpower. However, realizing this vision requires overcoming persistent barriers of inequity, infrastructure, teacher quality, digital divide, and ensuring the inclusivity of marginalized groups. This paper critically examines NEP 2020, tracing its historical evolution, dissecting its salient features, evaluating its multifaceted impacts, and offering policy recommendations to promote effective and equitable implementation."
+    ],
+    keyword: [
+        "National Education Policy",
+        "NEP 2020",
+        "Education Reform",
+        "India",
+        "Policy Analysis",
+        "Multidisciplinary Curriculum",
+        "Digital Divide",
+        "Teacher Training",
+        "Inclusive Education"
+    ],
+    status: "Submitted",
+    intro: [
+        "India’s education system, one of the world’s largest and most intricate, has evolved through millennia. Education in ancient India was anchored in the Gurukul system, characterized by immersive, holistic learning under revered gurus and oral transmission of knowledge. This spiritually and morally grounded pedagogy nurtured not only intellectual but also personal growth (Gupta, 2020). The arrival of British colonial rule ushered in transformative change: figures like Lord Macaulay pioneered English-language instruction and Western curricula, often marginalizing indigenous learning traditions and creating a dichotomy between traditional and modern educational paradigms (Kumar, 2005).",
+        "Post-independence, the nation strove to democratize and expand access to education. The National Policy on Education (1968) introduced reforms that emphasized universal access, regional languages, and teacher training. The revised 1986 policy, updated in 1992, focused on achieving “Access and Equity,” especially for historically marginalized communities (Tilak, 2019). These efforts yielded considerable progress: school enrollment expanded, literacy rates rose, and opportunities broadened for many.",
+        "Nevertheless, persistent challenges endured: chronic underfunding, inadequate infrastructure, poor teacher training, and wide disparities in learning outcomes, especially across rural-urban and socio-economic divides (Kingdon, 2007). As India’s economy and society globalized, education gaps became more evident. The 21st-century knowledge economy and digital revolution magnified the urgency for reform (Rao, 2019). Extensive consultations involving policymakers, educators, parents, and students culminated in NEP 2020, which envisions an education system that is flexible, inclusive, multidisciplinary, and deeply rooted in Indian values yet aligned with international best practices (MHRD, 2020). The journey from oral tradition in Gurukuls to policy-driven modernity reflects India’s ongoing quest to create equitable, world-class education for all."
+    ],
+    content: [
+        {
+            heading: "Constitutional Background",
+            paragraphs: [
+                "India’s constitution states education as a joint responsibility of the central and state governments. The Right to Education (RTE) Act of 2009 enshrined free and compulsory education for all children aged 6 to 14 as a fundamental right. The Directive Principles of State Policy outlined in Article 45 further commit the State to providing early childhood care and education for children up to six years. NEP 2020’s vision of universal education from ages 3 to 18 thus necessitates reviewing and potentially amending constitutional provisions to broaden the guarantee of educational opportunity, enable harmonization with the RTE Act, and address overlaps with state and local governance structures. The policy also touches upon constitutional language provisions (Article 350A), expanding its scope by emphasizing mother-tongue instruction for all, not only for linguistic minorities."
+            ]
+        },
+        {
+            heading: "New Education Policy 2020: Key Features",
+            paragraphs: [
+                "Academic Structure Reform (5+3+3+4 Model): A revolutionary departure from the 10+2 system, NEP 2020 pioneers the 5+3+3+4 model: Foundational Stage (ages 3–8) integrates three years of pre-primary with Grades 1 and 2, emphasizing play-based learning; Preparatory Stage (8–11): Grades 3–5, focusing on discovery-based learning; Middle Stage (11–14): Grades 6–8, with experiential and vocational introduction; Secondary Stage (14–18): Grades 9–12, offering flexibility, choice, critical thinking, and holistic assessments and preparation for higher education or professional life. This structure aims to address the critical learning deficit in early childhood, offer seamless transitions, and allow for customized learner trajectories. ",
+                "Flexible Undergraduate and Postgraduate Pathways: Undergraduate degrees can be completed in three or four years, with multiple exit and entry options (1-Year: Certificate, 2 Years: Diploma, 3 Years: Bachelor's, 4 Years: Advanced Bachelor's with research). The Academic Bank of Credit (ABC) digitally tracks credits for academic mobility. Master's degrees are one year after a four-year UG course with research or two years after a three-year UG program; M.Phil. is discontinued.",
+                "Holistic and Multidisciplinary Curriculum: Rigid barriers between science, arts, commerce, and vocational studies are broken down. Students can mix subjects and streams. At least 50% of students must receive vocational education by 2025, aiming to overcome academic-vocational hierarchies and build employable skills early. ",
+                "Language Policy and Cultural Pluralism: Mother tongue/local language is recommended as the medium of instruction until Grade 5 (preferably Grade 8). The policy emphasizes integration of Indian knowledge systems, arts, and valueswhile recognizing the practical need for English and global languages. ",
+                "Integration of Technology: NEP 2020 integrates digital tools, EdTech platforms, and online learning throughout education to bridge divides and increase access, and enhance teaching efficacy, especially in the wake of disruptions such as the COVID-19 pandemic. ",
+                "Assessment Reform: Moves away from rote/high-stakes board exams towards regular formative assessments that emphasize understanding and skills. Introduces standardized rubrics and comprehensive report cards  are envisioned to encourage holistic development. ",
+                "Regulatory and Governance Reforms: Proposes the Higher Education Commission of India (HECI) as a single regulator to replace multiple bodies (UGC, AICTE, NCTE), increasing transparency and autonomy."
+            ]
+        },
+        {
+            heading: "Impact of NEP 2020",
+            paragraphs: [
+                "Impact on Students: ",
+                "NEP 2020 has the potential to revolutionize student learning experiences: Holistic Development: The curriculum’s focus on critical thinking, creativity, communication, and collaboration moves students beyond rote memorization. Flexibility and Individualization: Early exposure to diverse disciplines and multiple pathways allows for customized learning suited to a student’s aptitudes and interests. Inclusion: Universal access initiatives—especially integrating more than 32 million out-of-school children by 2030—prioritize bridging historic inequities. Cultural Identity: Emphasis on regional languages and Indian traditions instills pride, while strategic use of English and other languages prepares students for global engagement. Nevertheless, concerns remain that increased assessments and periodic board exams may inadvertently heighten anxiety and competitiveness. ",
+                "Impact on Teachers: ",
+                "Professionalization: Mandatory four-year integrated B.Ed. degrees, continuous learning through digital platforms, and rigorous teacher evaluation aim to professionalize teaching and foster lifelong development. Empowerment and Status: By explicitly valuing teachers as essential to nation-building, the policy aspires to improve morale, attract talent, and redress disparities between public and private schooling. Workload and Training Challenges: Realizing these reforms requires substantial investments in faculty capacity, infrastructure, and new pedagogical approaches; chronic shortages and insufficient salaries remain obstacles in many regions.",
+                "Impact on Parents:",
+                " Parents are now seen as key partners in their children’s educational journeys—especially at foundational levels. The policy encourages strong home-school linkages, active parental involvement in preparatory activities, and robust community engagement. Parental roles thus expand from logistical support to active stakeholders, with targeted workshops and resources to equip families as educational collaborators. ",
+                "Impact on Educational Institutions:" ,
+                " Schools and colleges must adapt to a rapidly changing environment. For schools, this means reorganizing administrative structures, integrating digital tools, restructuring timetables, and developing inclusive learning environments. For higher education institutions, the onus is on enabling multidisciplinary learning, flexible curricula, innovation ecosystems, and research capacity. These reforms demand significant infrastructure, training, autonomy, and transparent governance. ",
+                "Impact on Gender, Equity, and Marginalized Groups:",
+                "The NEP aspires to universalize access and make learning inclusive at all levels: Marginalized Students: Outreach and scholarship programs, provisions for mother-tongue instruction, and technology-enabled access target rural, tribal, and differently-abled learners. Gender: Initiatives for gender-sensitive sanitation, transport, and safety aim to get more girls into and keep them in school, but dropout rates among rural girls remain high (~28% in recent data). Disability: The policy mandates physical accessibility, resource support, and differentiated pedagogies, although implementation gaps persist in most states. ",
+                "Alignment With Socio-Economic and Cultural Realities - ",
+                "NEP 2020 boldly balances India’s rich diversity with aspirations for global excellence. Provisions for local languages, indigenous arts, and knowledge traditions safeguard cultural heritage while broad access to digital and English-language resources fosters cosmopolitanism. Nevertheless, wide disparities in social, economic, and regional development present actual barriers to implementation and risk reproducing existing inequalities unless extra support is provided to those most disadvantaged."
+            ]
+        },
+        {
+            heading: "Challenges and Barriers to Implementation",
+            paragraphs: [
+                "Infrastructure and Digital Readiness: Only about 40% of schools have adequate digital facilities (UDISE+ data). Rural, tribal, and underserved areas still lack physical and digital infrastructure. Only about 40% of schools, as per recent UDISE+ data, have proper digital access or resources for blended learning. ",
+                "Funding Gaps: Although NEP sets a target of 6% of GDP for education funding, actual expenditure hovers at 4.1–4.6%. Underfunding affects infrastructure, salaries, training,  development of e-content, and expansion of inclusive physical infrastructure. ",
+                "Teacher Shortage and Quality: At least 7 million new teachers needed by 2030, but recruitment is hampered by poor pay, excessive workload, and training deficits. PTR remains above optimal in states like Bihar and Uttar Pradesh.exceed optimal ratios, compromising attention to students and stalling pedagogical reform.",
+                "Assessment and Examination System - The longstanding culture of rote learning and high-stakes exams remains deeply rooted. NEP’s shift towards formative, process-based assessment is hindered by a lack of standardized rubrics, teacher training, and digital reporting. Large class sizes, insufficient administrative support, and limited knowledge of new tools further impede reform. ",
+                "Inclusion and Equity - While secondary enrollment among SC/ST students increased, overall dropout rates among rural girls and other marginalized groups remain high. Inclusive infrastructure is scare; fewer than half of all schools have gender-sensitive sanitation or accessibility for children with disabilities. Mother-tongue instruction is implemented in less than 40% of schools. ",
+                "Language Policy - The three-language formula, although well-intentioned, faces resistance in some states due to political, cultural, and practical concerns. Lack of textbooks, training for multilingual teaching, and insufficient consensus threaten the policy’s inclusive intent. ",
+                "Higher Education Reform and Access - India’s university density averages 0.8 per one lakh eligible-age population. Regional disparities are stark. Sikkim leads with 10.3, while populous states like Bihar, Uttar Pradesh, and West Bengal lag far behind (below 0.3). Therefore, higher education expansion, especially in underserved areas, is vital for equitable access. ",
+                "Regulatory and Governance Issues - The transition to a unified regulator (HECI) raises statutory complexities. Parliamentary clarification and robust statutory frameworks are essential to harmonize the powers of bodies like UGC and AICTE and avoid regulatory fragmentation."
+            ]
+        },
+        {
+            heading: "Policy Recommendations",
+            paragraphs: [
+                "1. Prioritize infrastructure and digital access",
+                 "Empower state and district education departments with ring-fenced funds and strong monitoring to upgrade classrooms, labs, libraries, and digital infrastructure in underserved areas.",
+                "2. Increase Public Spending to 6% of GDP:  ",
+                "Ensure steady, transparent, and needs-based allocation to reach NEP spending targets, with accountability for outcomes. ",
+                "3. Expand and incentivize teacher training",
+                "Establish national platforms for continuous professional development, link pay and promotion to upskilling, and incentivize postings in remote regions by raising salaries and providing housing/benefits. ",
+
+                "4. Amend  Constitutional legal frameworks ",
+                "Extend the right to education to cover ages 3–18 by revising the RTE Act and relevant constitutional articles. ",
+                "5. Bridge the digital divide",
+                "Subsidize devices and connectivity in disadvantaged regions, develop user-friendly e-content in multiple languages, and provide community digital labs. ",
+                "6. Strengthen infrastructure ",
+                "Fast-track construction/upgrade of gender/wheelchair-friendly sanitation and transportation, ensure accessible learning materials, and foster partnerships with NGOs/community groups. ",
+                "7. Deepen Stakeholder Engagement:",
+                "Regularly consult students, parents, teachers, and local leaders in policy rollout, especially on language policy and culturally relevant curriculum. ",
+               "8.Ensure Equity in Higher Education Expansion:",
+               "Set explicit targets and timelines for university density in underrepresented states; encourage public-private partnerships for college creation; support need-based scholarships and bridge programs.",
+               "9. Enhance Monitoring and Evaluation:",
+               "Establish independent state/regional evaluation agencies to track progress, flag bottlenecks, and report transparently on outcomes. ",
+               "10. Clarify Governance and Statutory Roles:",
+               "Expedite parliamentary approval for HECI, harmonize statutory frameworks, and build capacity for new regulatory functions. "
+
+            ]
+        }
+    ],
+    conclusion: [
+        "NEP 2020 is India’s boldest education reform, aspiring to inclusivity, flexibility, and a culturally rooted yet globally relevant learning environment. However, actual success will depend on addressing historic inequities, digital exclusion, and gaps in infrastructure, funding, and capacity. Effective stakeholder engagement, legal/financial commitment, and continuous review are necessary to realize the policy’s potential and enable all Indian children and youth to thrive in a changing world."
+    ],
+    references: [
+        {
+            heading: "Government of India. (2020). National Education Policy 2020. Ministry of Education.",
+            links: "https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf"
+        },
+        {
+            heading: "Press Information Bureau. (n.d.). Press Note on National Education Policy 2020.",
+            links: "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1847066"
+        },
+        {
+            heading: "T. Ashok Kumar (2024). Analyzing the impact of the new educational policy 2020: A comprehensive review of India's educational reforms. Evaluation and Program Planning, Volume 108.",
+            links: "https://www.sciencedirect.com/science/article"
+        },
+        {
+            heading: "Yenugu, S. (2022). The new National Education Policy (NEP) of India: will it be a paradigm shift in Indian higher education?. Perspectives: Policy and Practice in Higher Education, 26(4), 121-129.",
+            links: ""
+        },
+        {
+            heading: "Smitha, S. (2020). National Education Policy (Nep) 2020-Opportunities and Challenges in Teacher Education. International Journal of Management (IJM), 11(11), 1881-1886.",
+            links: ""
+        },
+        {
+            heading: "Kurien, A., & Chandramana, S. (2020). Impact of new education policy 2020 on higher education. Atma Nirbhar Bharat: A Roadmap to Self-reliant India.",
+            links: ""
+        },
+        {
+            heading: "Kamala, K. (2020). NEP An Uncertain Future for Indian Higher Education, 7.",
+            links: ""
+        },
+        {
+            heading: "Kalyani, P. (2020). An empirical study on NEP 2020 [National Education Policy] with special reference to the future of Indian education system and its effects on the Stakeholders. Journal of Management Engineering and Information Technology, 7(5).",
+            links: ""
+        },
+        {
+            heading: "NITI Aayog. (2025, February). Expanding Quality Higher Education through States and State Public Universities.",
+            links: "https://www.niti.gov.in/sites/default/files/2025-02/Expanding-Quality-Higher-Education-through-SPUs.pdf"
+        },
+        {
+            heading: "Trading Economics. (2025, August). India - Public Spending On Education, Total (% Of GDP).  Osceen Mishra(2024).Navigating Change: NEP's Role in Transforming Higher Education in India.International Journal of Creative Research Thoughts. ISSN: 2320-2882.       ",
+            links: ""
+        },
+        {
+            heading: "Jain, M. P. (2018). Indian Constitutional Law (8th ed.). LexisNexis.       ",
+            links: ""
+        },
+       
+         {
+            heading: "Embassy of India. (n.d.). Document reference. ",
+            links: " https://eoi.gov.in/eoisearch/MyPrint.php?11106?001/0002    ",
+
+        },
+        {
+            heading: "Ministry of Education. (n.d.). TS9_RND_KKP – Research and Development in NEP 2020.  ",
+            links: " https://www.education.gov.in/sites/upload_files/mhrd/files/nep/TS9_RND_KKP.pdf" 
+            
+        },
+    ]
+}
+
 ];
+
 
 export default articles;

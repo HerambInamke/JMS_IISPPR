@@ -59,6 +59,17 @@ import ReconcilingDevelopmentAndEcology from "./pages/editions/ReconcilingDevelo
 import GeopoliticalStressImpactingFinancialMarketsInIndia from "./pages/editions/GeopoliticalStressImpactingFinancialMarketsInIndia";
 import TheInformalGigEconomyInGlobalisedIndia from "./pages/editions/TheInformalGigEconomyInGlobalisedIndia";
 import UnderstandingTheMindInDecline from "./pages/editions/UnderstandingTheMindInDecline";
+import BeyondFirewalls from "./pages/editions/BeyondFirewalls";
+import Economics from "./pages/editions/Economics";
+import MahatmaGandhiRural from "./pages/editions/MahatmaGandhiRural";
+import IndiaApproachCrisis from "./pages/editions/IndiaApproachCrisis";
+import FromPassivePlayer from "./pages/editions/FromPassivePlayer";
+import IndiaPolicyPromote from "./pages/editions/IndiaPolicyPromote";
+import ImpactAnalysis from "./pages/editions/ImpactAnalysis";
+import FromTraditional from "./pages/editions/FromTraditional";
+import SmokeSludge from "./pages/editions/SmokeSludge";
+import WhoDeserveToBe from "./pages/editions/WhoDeserveToBe";
+
 
 function AppRoutes() {
   const location = useLocation();
@@ -218,7 +229,51 @@ function AppRoutes() {
           path="/Understanding-The-Mind-In-Decline"
           element={<UnderstandingTheMindInDecline/>}
         />
+        
+        <Route
+          path="/Beyond-Firewalls-The-Human-Factor-In-Cybersecurity"
+          element={<BeyondFirewalls/>}
+        />
+        <Route
+          path="/Economics"
+          element={<Economics />}
+          />
+           <Route
+          path="/Mahatma-Gandhi-Rural"
+          element={<MahatmaGandhiRural />}
+          />
+           <Route
+          path="/India-Approach-Crisis"
+          element={<IndiaApproachCrisis />}
+          />
+           <Route
+          path="/From-Passive-Player-To-Active-Participant"
+          element={<FromPassivePlayer />}
+          />
 
+          <Route
+          path="/From-Traditional"
+          element={<FromTraditional />}
+          />
+          <Route
+          path="/Impact-Analysis"
+          element={<ImpactAnalysis />}
+          />
+          <Route
+          path="/India-Policy-Promote"
+          element={<IndiaPolicyPromote />}
+          />
+          <Route
+          path="/Smoke-Sludge"
+          element={<SmokeSludge />}
+          />
+          <Route
+          path="/Who-Deserve-To-Be"
+          element={<WhoDeserveToBe/>}
+          />
+
+
+          
         <Route path="*" element={<LandingPage />} />
       </Routes>
     </>

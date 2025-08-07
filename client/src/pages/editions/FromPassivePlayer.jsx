@@ -1,8 +1,8 @@
 import articles from "../../data/articles";
 import ArticlePage from "../../components/ArticlePage";
 
-const BridgingLiteracyGapsInIndia = () => {
-  const article = articles.find((a) => a.id === 1); // ID
+const FromPassivePlayer = () => {
+  const article = articles.find((a) => a.id === 8 && a.issue === 2); // ID 8
 
   return article ? (
     <ArticlePage
@@ -15,7 +15,6 @@ const BridgingLiteracyGapsInIndia = () => {
       intro={article.intro}
       content={article.content}
       conclusion={article.conclusion}
-      acknowledegements = {article.acknowledegements}
       references={article.references}
     />
   ) : (
@@ -23,4 +22,4 @@ const BridgingLiteracyGapsInIndia = () => {
   );
 };
 
-export default BridgingLiteracyGapsInIndia;
+export default FromPassivePlayer;

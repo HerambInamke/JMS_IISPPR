@@ -23,13 +23,30 @@ const articleRoutes1 = {
   16: "/From-Gram-Sabha-To-Eco-Swaraj",
   17: "/Impact-Of-Social-Protection-Policies",
 };
+
 const articleRoutes2 = {
   1: "/Rewiring-The-Engines-Of-Growth",
   2: "/The-Informal-Gig-Economy-In-Globalised-India",
   3: "/Understanding-The-Mind-In-Decline",
   4: "/Reconciling-Development-And-Ecology",
   5: "/Geopolitical-Stress-Impacting-Financial-Markets-In-India",
-}
+  6: "/Beyond-Firewalls-The-Human-Factor-In-Cybersecurity",
+  7: "/Mahatma-Gandhi-Rural",
+  8: "/From-Passive-Player-To-Active-Participant",
+  9: "/India-Approach-Crisis",
+  10: "/Economics",
+};
+
+// NEW ROUTE MAP FOR ISSUE 3 ARTICLES
+const articleRoutes3 = {
+  1: "/Impact-Analysis",
+  2 :"/India-Policy-Promote",
+  3:"/Smoke-Sludge",
+  4:"/Who-Deserve-To-Be",
+  5:"/From-Traditional",
+ 
+  // Add more articles here for Issue 3...
+};
 
 const ResearchCard = ({ articles, onDelete }) => {
   const [downloading, setDownloading] = useState(false);
@@ -56,13 +73,21 @@ const ResearchCard = ({ articles, onDelete }) => {
     }
   };
 
+  // Helper function to get route based on issue and id
+  const getRoute = (issue, id) => {
+    if (issue === 1) return articleRoutes1[id];
+    if (issue === 2) return articleRoutes2[id];
+    if (issue === 3) return articleRoutes3[id];
+    return null;
+  };
+
   return (
     <div className="group relative bg-white border border-accent-light rounded-xl p-6 shadow-sm hover:border-new-primary transition-all duration-300 ease-in-out hover:shadow-2xl transform hover:scale-[1.015] flex flex-col gap-4 overflow-hidden">
       {/* animated border glow */}
       <div className="absolute inset-0 z-0 rounded-xl group-hover:ring-2 group-hover:ring-new-primary/30 transition-all duration-300 pointer-events-none" />
 
       {/* Top bar */}
-      <div className="flex justify-between items-center relative z-10" style={{ color:'#703b5f'}}>
+      <div className="flex justify-between items-center relative z-10" style={{ color: '#703b5f' }}>
         <span className="text-sm font-medium">
           Serial {articles.id}
         </span>
@@ -73,7 +98,7 @@ const ResearchCard = ({ articles, onDelete }) => {
 
       {/* Author + Status */}
       <div className="flex justify-between items-center relative z-10">
-        <span className="text-new-primary px-3 py-1 rounded-full text-xs font-medium" style={{ background: 'rgba(105, 49, 85, 0.13)'}}>
+        <span className="text-new-primary px-3 py-1 rounded-full text-xs font-medium" style={{ background: 'rgba(105, 49, 85, 0.13)' }}>
           {articles.authorAbbrev}
         </span>
         <span className="px-3 py-1 rounded-full text-xs font-medium bg-green-100 text-green-800">
@@ -82,12 +107,12 @@ const ResearchCard = ({ articles, onDelete }) => {
       </div>
 
       {/* Title */}
-      <h2 className="text-xl font-serif font-bold leading-tight relative z-10 transition duration-300 group-hover:text-primary" style={{ color:'#482742ff'}}>
+      <h2 className="text-xl font-serif font-bold leading-tight relative z-10 transition duration-300 group-hover:text-primary" style={{ color: '#482742ff' }}>
         {articles.title}
       </h2>
 
       {/* Abstract */}
-      <p className="text-new-primary text-sm text-justify relative z-10 border-l-4 mb-6 border-new-primary p-6 rounded-lg space-y-3" style={{ backgroundColor: 'rgba(105, 49, 85, 0.13)' }} >
+      <p className="text-new-primary text-sm text-justify relative z-10 border-l-4 mb-6 border-new-primary p-6 rounded-lg space-y-3" style={{ backgroundColor: 'rgba(105, 49, 85, 0.13)' }}>
         {articles.abstract}
       </p>
 
@@ -119,19 +144,13 @@ const ResearchCard = ({ articles, onDelete }) => {
           {downloading ? "Downloading..." : "Download"}
         </button>
 
-        {articles.issue==1 &&
-        <Link to={articleRoutes1[articles.id]}>
-          <button className="inline-flex items-center px-4 py-2 bg-new-primary-dark text-white font-medium rounded hover:bg-new-primary-sub transition disabled:opacity-50 hover:text-new-primary">
-            Read More
-          </button>
-        </Link>}
-
-        {articles.issue==2 &&
-        <Link to={articleRoutes2[articles.id]}>
-          <button className="inline-flex items-center px-4 py-2 bg-new-primary-dark text-white font-medium rounded hover:bg-new-primary-sub transition disabled:opacity-50 hover:text-new-primary">
-            Read More
-          </button>
-        </Link>}
+        {getRoute(articles.issue, articles.id) && (
+          <Link to={getRoute(articles.issue, articles.id)}>
+            <button className="inline-flex items-center px-4 py-2 bg-new-primary-dark text-white font-medium rounded hover:bg-new-primary-sub transition disabled:opacity-50 hover:text-new-primary">
+              Read More
+            </button>
+          </Link>
+        )}
 
         {onDelete && isAdmin && (
           <button
