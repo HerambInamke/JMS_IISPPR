@@ -42,7 +42,7 @@ const FilterDropdown = ({ articleData, onIssueSelect, onVolumeSelect }) => {
     <div className="relative" ref={dropdownRef}>
       <button
         onClick={toggleDropdown}
-        className="inline-flex items-center px-4 py-2 font-medium rounded-lg shadow-md text-white"
+        className="inline-flex items-center justify-between w-full sm:w-auto px-4 py-2 font-medium rounded-lg shadow-md text-white"
         style={{ backgroundColor: "#3f2344" }}
       >
         Filter
@@ -60,9 +60,13 @@ const FilterDropdown = ({ articleData, onIssueSelect, onVolumeSelect }) => {
       </button>
 
       {isOpen && (
-        <div className="absolute z-20 mt-2 w-64 right-0 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 p-3 text-black">
+        <div className="absolute sm:right-0 sm:w-64 w-full z-20 mt-2 w-64 right-0 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 p-3 text-black max-h-[60vh] overflow-y-auto"
+        style = {{
+          position: window.innerWidth < 600 ? "relative" : "absolute",
+        }}
+        >
           <div className="space-y-2 text-sm">
-            <label className="flex items-center space-x-2">
+            <label className="flex items-center space-x-2 p-3 rounded hover:bg-gray-500">
               <input
                 type="checkbox"
                 checked={onIssueSelect === "All"}
@@ -78,7 +82,7 @@ const FilterDropdown = ({ articleData, onIssueSelect, onVolumeSelect }) => {
 
             {issues.map((issue) => (
               <div key={issue}>
-                <label className="flex items-center space-x-2 font-semibold">
+                <label className="flex items-center space-x-2 font-semibold justify-between rounded hover:bg-gray-500">
                   <input
                     type="checkbox"
                     checked={expandedIssue === issue}
@@ -100,7 +104,7 @@ const FilterDropdown = ({ articleData, onIssueSelect, onVolumeSelect }) => {
                     {volumesByIssue[issue].map((volume) => (
                       <label
                         key={volume}
-                        className="flex items-center space-x-2 text-sm font-normal"
+                        className="flex items-center space-x-2 text-sm font-normal rounded hover:bg-gray-500"
                       >
                         <input
                           type="checkbox"
