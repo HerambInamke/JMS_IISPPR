@@ -60,10 +60,11 @@ const FilterDropdown = ({ articleData, onIssueSelect, onVolumeSelect }) => {
       </button>
 
       {isOpen && (
-        <div className="absolute sm:right-0 sm:w-64 w-full z-20 mt-2 w-64 right-0 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 p-3 text-black max-h-[60vh] overflow-y-auto"
-        style = {{
-          position: window.innerWidth < 600 ? "relative" : "absolute",
-        }}
+        <div className="relative sm:absolute sm:right-0 w-full sm:w-30 md:w-60 lg:w-70 z-20 mt-2 right-0 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 p-3 text-black max-h-[60vh] overflow-y-auto"
+
+        // style = {{
+        //   position: window.innerWidth < 600 ? "relative" : "absolute",
+        // }}
         >
           <div className="space-y-2 text-sm">
             <label className="flex items-center space-x-2 p-3 rounded hover:bg-gray-500">

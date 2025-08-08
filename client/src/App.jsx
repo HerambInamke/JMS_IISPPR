@@ -69,6 +69,7 @@ import ImpactAnalysis from "./pages/editions/ImpactAnalysis";
 import FromTraditional from "./pages/editions/FromTraditional";
 import SmokeSludge from "./pages/editions/SmokeSludge";
 import WhoDeserveToBe from "./pages/editions/WhoDeserveToBe";
+import FilteredIssuePage from "./pages/issues/FilteredIssuePage";
 
 
 function AppRoutes() {
@@ -125,6 +126,7 @@ function AppRoutes() {
         <Route path="/issn" element={<IssnPage />} />
         <Route path="/research" element={<ResearchPage />} />
         <Route path="/editions" element={<EditionsPage />} />
+        <Route path="/editions/:issueId" element={<FilteredIssuePage />} />
         <Route path="/ethics" element={<Ethics />} />
         <Route path="/plagiarism" element={<Plagiarism />} />
         <Route path="/editorial-board" element={<EditorialBoard />} />
