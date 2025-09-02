@@ -3390,7 +3390,7 @@ const articles = [
       "From Gram Sabha To Echo Swaraj: Decentralized Environmental Governance Through PRIs and Community Initiatives in South India",
     author: "Diganta Singha Roy, Devanshi Shrotriya, and Arunima Singh",
     authorAbbrev: "D. S. Roy, D. Shroytiya, and others",
-    abstract: "This article explores the concept of Eco Swaraj, a decentralized, community-led model of environmental governance rooted in sustainability, equity, and participatory democracy. Focusing on South India, the study examines how Panchayati Raj Institutions (PRIs) and local initiatives have implemented Eco Swaraj principles to address ecological challenges. It highlights key policies like the 73rd Constitutional Amendment, Forest Rights Act, and Green India Mission, alongside grassroots success stories such as Kerala's Kudumbashree and Tamil Nadu's water conservation projects. The analysis identifies gaps in implementation, including structural inequalities and capacity deficits, while proposing policy recommendations to strengthen local governance, integrate traditional knowledge, and foster inclusive ecological stewardship. The article underscores the potential of Eco Swaraj to reconcile environmental sustainability with democratic participation, offering a pathway for resilient and equitable development.",
+    abstract: ["This article explores the concept of Eco Swaraj, a decentralized, community-led model of environmental governance rooted in sustainability, equity, and participatory democracy. Focusing on South India, the study examines how Panchayati Raj Institutions (PRIs) and local initiatives have implemented Eco Swaraj principles to address ecological challenges. It highlights key policies like the 73rd Constitutional Amendment, Forest Rights Act, and Green India Mission, alongside grassroots success stories such as Kerala's Kudumbashree and Tamil Nadu's water conservation projects. The analysis identifies gaps in implementation, including structural inequalities and capacity deficits, while proposing policy recommendations to strengthen local governance, integrate traditional knowledge, and foster inclusive ecological stewardship. The article underscores the potential of Eco Swaraj to reconcile environmental sustainability with democratic participation, offering a pathway for resilient and equitable development."],
     status: "Submitted",
     abstract:
       "This article explores the concept of Eco Swaraj, a decentralized, community-led model of environmental governance rooted in sustainability, equity, and participatory democracy. Focusing on South India, the study examines how Panchayati Raj Institutions (PRIs) and local initiatives have implemented Eco Swaraj principles to address ecological challenges. It highlights key policies like the 73rd Constitutional Amendment, Forest Rights Act, and Green India Mission, alongside grassroots success stories such as Kerala's Kudumbashree and Tamil Nadu's water conservation projects. The analysis identifies gaps in implementation, including structural inequalities and capacity deficits, while proposing policy recommendations to strengthen local governance, integrate traditional knowledge, and foster inclusive ecological stewardship. The article underscores the potential of Eco Swaraj to reconcile environmental sustainability with democratic participation, offering a pathway for resilient and equitable development.",
@@ -6243,7 +6243,7 @@ const articles = [
     author: "Abhimanyu Chhibber, Pranav Sarna",
     authorAbbrev: "A. Chhibber, P.Sarna, and others",
     abstract: "“In the shadows of the digital realm, cybercrimes have emerged as a formidable threat to global security, economic stability, and personal privacy.” As technology embeds itself deeper into daily life, the vulnerabilities it carries have grown exponentially. This article explores cybercrime as a global complication advanced by rapid technological progression, highlighting the urgent need for cybersecurity and international cooperation. It underscores the critical role of the human element in cyberattacks, identifies systemic flaws in current defense mechanisms, and advocates for a multidisciplinary, collaborative model of cyber resilience.Drawing on digital trends and current evidence, this research offers a comprehensive perspective directed towards fostering a more nuanced and actionable cybersecurity framework that accounts for the intricate interplay between human behavior and technological infrastructure in combating cyber threats.",
-    keyword: [
+    keywords: [
       "Cybercrime",
       "e-defence",
       "human factor",
@@ -6402,7 +6402,7 @@ const articles = [
     author: "Atharva Raul, Avinash Kumar, Gopika Jayakumar, Monika Singh, Nayanika, Sneha Soni, Neeruj Sagwal.",
     authorAbbrev: "A. Raul, A. Kumar, G. Jayakumar, M. Singh, Nayanika, S. Soni, N. Sagwal",
     abstract: "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), or MGNREGS, has seen a lot of appraisals and criticisms in the policy and political landscapes through the years. However, keeping the political debates aside, the purpose of this article is to look at the positive developments—both social and infrastructural—and the probable developments that can take place as a result of MGNREGA being implemented with proper execution. In this article, we are discussing development that has taken place across sectors, or one can say, the proposed development that has so far taken place or can take place as a result of MGNREGA.",
-    keyword: [
+    keywords: [
       "MGNREGA",
       "rural employment",
       "social development",
@@ -6624,7 +6624,7 @@ const articles = [
       "In this paper, the author follows the history of India as a participant in the nexus of global economic governance and evaluates critically their novice geoeconomic instrumentation, such as the introduction of Digital Public Infrastructure (DPI) like Aadhaar and UPI, development diplomacy through official development assistance and training capabilities like ITEC, and soft power of culture like the Indian Council for Cultural Relations (ICCR). It appraises how India uses such tools to cultivate strategic leverage, a digital and development-shaped global phenomenon, and campaign agentry change in multilateral establishments that are structurally inclined to the Global North. Simultaneously, the paper questions the domestic constraints in India like regulatory unpredictability, internal economic disparity and policy vulnerability that hamper the Indian multilateral effectiveness.",
       "The paper helps in the understanding about how the emerging powers negotiate global governance, in the sense that by analyzing the phenomena of the India moving out of the reactive participation to the proactive agenda-setting. The alternative, inclusive and development-oriented multilateralism of an ever-more multipolar world order is possible through the model of India with its strategic autonomy, South-South solidarity, and institutional pluralism.",
     ],
-    keyword: [
+    keywords: [
 
     ],
     status: "Submitted",
@@ -6750,7 +6750,7 @@ const articles = [
       "At the turn of the 21st century, the post-Cold War unipolar period, dominated by the United States, has steadily given way to a multipolar international order, where emerging powers are increasingly influencing global governance. According to a 2024 report, over 61% of countries now perceive the world to be multipolar rather than just U.S.-led, a significant increase from 47% in 2018 (Leonard & Shapiro, 2024), signaling a growing dispersion of power. In this evolving geopolitical landscape, India has positioned itself as a rising global actor backed by its status as the largest democracy, the fifth largest economy, and the country with the largest population in the world. This paper examines India’s approach to crisis diplomacy through three major international conflicts discussed in the form of case studies, namely, the Taliban’s takeover of Afghanistan, the Russia-Ukraine war, and the Israel-Palestine conflict, to critically assess the nature of India’s influence in global affairs. Drawing from the conceptual debates surrounding middle powers and emerging powers, the paper interrogates whether India acts as an influential mediator, a power of strategic balance, or a mere global impersonator. The case studies reveal a pattern of strategic ambivalence guided more by the need to minimise the negative impacts of a crisis on it than normative consistency. While India aspires to shape global outcomes, its diplomatic style frequently reflects an indecisive behavior and skittish positioning, rather than true leadership. The paper concludes by asserting that unless India bridges the credibility gap existing between its domestic self-perception and its actual diplomatic behavior, its aspirations to lead in a multipolar world may remain just a dream rather than become a reality.",
     ],
 
-    keyword: [
+    keywords: [
       "multipolar international order",
       "global governance, ",
       "crisis diplomacy",
@@ -6904,7 +6904,7 @@ const articles = [
       "Geoeconomics has always been inextricably linked to the battle for world power, by the very definition of leveraging economic tools strategically for geopolitical purposes. As the international order realigned and ended military confrontation in the traditional sense, states have increasingly deployed tools such as trade policy, foreign investment, sanctions and control over supply chains to shape and safeguard their national interests. China consequently became a key actor in this dynamic, transforming U.S. strategy and accelerating globalization’s balkanization. Diplomacy, regional positioning, national security strategies — all these are impacted by geoeconomics. This paper tackles the ascendance of geoeconomic statecraft, its working today, and weaponized interdependence and its consequences. It examines how great powers adapt to this shifting landscape while constructively confronting the danger of economic coercion overreach, the consequences of strategic decoupling, and the normative imperative for state relations in tomorrow’s multipolar world.",
     ],
 
-    keyword: [
+    keywords: [
       "geoeconomics",
       "global politics",
       "economic tools",
@@ -7012,7 +7012,7 @@ const articles = [
       "The rural area of India differs a lot from urban in context of social and economic aspect. The access to resources varies a lot in rural part and this is historical in nature. The marginalized communities have been struggling in both social and economic space to bring equality. The existing inequalities in the rural area creates barrier for the development of whole country. Many efforts from the government have been taken to address those inequalities. Both social and economic status are very much inter-related to each other and the adversities of marginalized people exacerbate at the intersection of case, class and gender. The different government policies intended to uplift economic and social status of marginalized communities. The livelihood programs are implemented which attempt to enhance the income and reduce the social inequalities. This article explores the impact and challenges of implementing livelihood programs to reduce socio-economic inequalities in rural India. Two of the major interventions of government are kept in focus to analyze the impact. The two interventions are Mahatma Gandhi NREGS and DAY-NRLM. The planning and execution need a more grounded approach to reduce the socio-economic inequalities.",
     ],
 
-    keyword: [
+    keywords: [
 
     ],
     status: "Submitted",
@@ -7175,7 +7175,7 @@ const articles = [
       "This research paper explores whether the Make in India policy initiated by the government of India in 2014 to boost domestic manufacturing has had an impact on green product adoption among Indian consumers. Using a mixed method approach, this study evaluates quantitative survey data and qualitative interviews to examine how consumers respond to green products under influence of national policy. Additionally, the paper includes a case study on FabIndia, a brand for sustainable practices and strong alignment with national identity, drawing on the Stimulus Organism Response (S-O-R) model and the Theory of Planned Behaviour (TPB). The findings suggest that although there is a rising awareness and positive perception of green products, significant barriers such as affordability, limited axis and scepticism continue to hinder widespread adoption. The paper concludes with targeted policy recommendations to bridge this gap.",
     ],
 
-    keyword: [
+    keywords: [
       "Make in India",
       "Green Product Adoption",
       "Consumer Behaviour",
@@ -7329,7 +7329,7 @@ const articles = [
 
     ],
 
-    keyword: [
+    keywords: [
 
     ],
     status: "Submitted",
@@ -7556,7 +7556,7 @@ const articles = [
     abstract: [
       "This paper looks closely at the Janani Suraksha Yojana (JSY), one of India’s flagship maternal health schemes, through the layered realities of caste, gender, and class. While the scheme has led to a rise in institutional deliveries and helped in reducing maternal and neonatal death rates, these gains have not reached everyone equally. Dalit, Adivasi, and other marginalized women continue to face barriers that go beyond just policy. They face exclusion rooted in deep social hierarchies, everyday discrimination, and a healthcare system that often fails to see them with dignity. Using insights from literature, data trends, and policy reviews, this study brings out the structural gaps that limit JSY’s reach and impact. It draws attention to issues like fund delays, poor quality of care, and the absence of culturally sensitive support systems. The paper ends by suggesting concrete ways forward: from intersectional policy thinking to more inclusive implementation, from ground-up community involvement to systemic change, so that no woman is left behind in her most vulnerable moments."
     ],
-    keyword: [
+    keywords: [
       "Janani Suraksha Yojana (JSY)",
       "maternal health",
       "caste discrimination",
@@ -7780,7 +7780,7 @@ const articles = [
     abstract: [
       "After a gap of 34 years, the Government of India introduced the National Education Policy (NEP) 2020 on July 29, 2020. This policy replaces the National Policy on Education (NPE) of 1986 and aims to transform India’s education system, aligning it with contemporary global standards and the needs of 21st-century learners. Notable reforms include a shift to the 5+3+3+4 academic structure, multiple exit and entry options at the undergraduate level, focused integration of vocational and multidisciplinary learning, and new assessment paradigms. The NEP aspires to make India a global knowledge superpower. However, realizing this vision requires overcoming persistent barriers of inequity, infrastructure, teacher quality, digital divide, and ensuring the inclusivity of marginalized groups. This paper critically examines NEP 2020, tracing its historical evolution, dissecting its salient features, evaluating its multifaceted impacts, and offering policy recommendations to promote effective and equitable implementation."
     ],
-    keyword: [
+    keywords: [
       "National Education Policy",
       "NEP 2020",
       "Education Reform",
@@ -7948,7 +7948,7 @@ const articles = [
       "This paper attempts to investigate the gap between reproductive health policies in India and their grassroots implementation. Special focus is given to marginalized women, mainly those from Dalit and tribal backgrounds. Although there are various legal frameworks such as the Janani Suraksha Yojana (JSY) and the Medical Termination of Pregnancy (MTP) Act amendments, deep rooted impediments continue to restrict women's access to sexual and reproductive health rights (SRHR). Most mainstream literature focuses on service outreach metrics but fails to look into the intersectional realities of caste, class, age, and geography in health-system interactions.",
       "Methodologically, this paper builds on the qualitative approach with content analysis of policy documents, review of secondary data, and semi-structured interviews with women. Alongside, this paper explores the lacuna in SRHR. Primary focus is given to institutional bias, provider’s attitudes, and lack of infrastructure that result in denial or delay of services. Emphasizing lived experiences and examining the state's accountability in ensuring bodily autonomy, the research aims to offer a nuanced critique of India’s reproductive health landscape. The paper concludes with policy recommendations targeting both structural reforms and sensitization frameworks to make reproductive rights meaningfully accessible to marginalized women."
     ],
-    keyword: [
+    keywords: [
       "SRHR",
       "Reproductive Health Policy",
       "Marginalized Women",
@@ -8301,7 +8301,7 @@ const articles = [
       "Using qualitative analysis of secondary data, this study finds that access to digital services remains uneven, for informal workers with low digital skills and sporadic access to the internet. It underscores spatial divide, limitations of the “one-size-fits-all” approach and the lack of legal protection in labour codes. It also reveals disparities within the informal sector, where MSME owners benefit from DPI but many workers remain excluded.",
       "Key recommendations include a universal legal definition for informal workers, rural digital awareness, government digital hubs under PPP model, and simplified user-centric e-portals designed with principle of privacy. Bridging the digital divide needs inclusive policy reforms to improve access to DPI across the Indian informal economy."
     ],
-    keyword: [
+    keywords: [
       "Digital Public Infrastructure (DPI)",
       "Informal Sector",
       "Informal Economy",
@@ -8593,7 +8593,7 @@ const articles = [
       "It identifies three critical themes: (1) Climate Resilient Rural Development, (2) Policy and Institutional Synergies, and (3) Capacity Building and Finance. These themes guide the investigation into institutional, policy, and financial mechanisms that support or hinder effective climate action at the grassroots",
       "This study reveals that many communities find it difficult to make the climate action plans implemented in their local level effectively. However, there are some notable cases—like the integration of GPDP, Mission LiFE, and collaborations with initiatives such as MGNREGA—that demonstrate how teamwork can drive real progress. The paper concludes with some practical recommendations: enhancing training for local leaders, ensuring better coordination among departments, and involving everyone in the planning process to make climate action more impactful at the local level."
     ],
-    keyword: [],
+    keywords: [],
     status: "Submitted",
     intro: [
       "The national framework on climate change in India is based on the National Action Plan on Climate Change (NAPCC) that outlines eight national missions aimed at promoting environmental sustainability and resilience to climate change. The NAPCC is strategic in its vision, but realizing that vision is contingent on its monocular application and incorporation into local actions. PRIs being the institutional levels responsible for rural development, are important agents of climate change governance.",
@@ -8734,7 +8734,7 @@ const articles = [
       "The study of U.S. migration policy offers a powerful lens into these broader forces. Recent years have witnessed profound shifts, especially under the Trump administration, which implemented sweeping rollbacks on humanitarian protections. Policies like the “Zero-Tolerance” family separation initiative, the “Remain in Mexico” protocol, travel bans targeting Muslim-majority and African countries, and narrowing of asylum eligibility marked a stark departure from prior commitments to refugee and asylum rights. These measures resulted in widespread family separation, increased deportations, and fueled an atmosphere of fear and exclusion for migrants and asylum seekers.",
       "Moreover, the Trump administration’s approach has had long-term reverberations—weakening institutional capacity, fueling backlogs, and politicizing immigration agencies. Even as the Biden administration has attempted to reverse some of these policies, structural barriers and the legacy of enforcement-first strategies persist, complicating efforts toward humane migration justice and reform. The implications extend beyond the U.S., altering global attitudes and contributing to a backlash against multilateral cooperation on migration issues. As migration remains a key site of contestation and negotiation, achieving genuine change will require not just policy reversal but structural transformation to address the deep-rooted inequalities, uphold human rights, and rebuild trust in migration governance."
     ],
-    keyword: [],
+    keywords: [],
     status: "",
     intro: [
       "Migration is as old as humanity itself, rooted in survival, security, and opportunity. The introduction and core findings establish a theoretical foundation for understanding migration, highlighting it as a historical constant shaped by 'push' and 'pull' factors, and as a reflection of global inequalities. The contemporary period is highlighted by intense South-North corridors, policy disparities, and global inequality."
@@ -8923,7 +8923,7 @@ const articles = [
     abstract: [
       "Accountability, rule of law and trust are at a continuous turbulent state that serve as the foundation of peace, justice and strong institutions categorised as the SDG 16. The inconsistency of such factors contributes to the global polycrisis of instability, birthing corruption and mismanagement. Thus, with such an environment conjured, institutions cannot mandate sustainable cities and communities of SDG 11, which ultimately break down the vital state-citizen relationship. Continuously, quantitative data research has revealed that the introduction of integrating information and communications technology (ICT) into the political realm will promote transparency, reinforce better trust mechanisms, and contribute to anti-corruption attempts. This particular paper explored two different regions, India and European countries executing the transformation of e-governance while revealing the extent of successes of maintaining both SDG 16 and SDG 11 goals as well as the challenges faced by both regions. It is imperative to understand that strong institutions and the performance style in which to manage their unique society have not been perfected, for there are always different multifaceted factors such as circumstances presented by histories of the regions as well as the dynamics instilled and practiced by the government and people based on preferences to use. Thus, with expectations, functioning governing bodies should be able to sustain their societies, ensure transparent justice and safety, and curate mandates for the betterment of the civil. Thus, this paper concludes such findings of the specific method of integrating ICTs in attempts to bridge the existing disconnect experienced by multiple institutions."
     ],
-    keyword: [
+    keywords: [
       "Digital Governance",
       "Transparency",
       "Anti-Corruption",
@@ -9259,7 +9259,7 @@ const articles = [
     abstract: [
       "A vast majority of research on identity formation focuses on societal and environmental factors. However, there has been less research on the age factor in identity formation.There are various dimensions of the identity we form for ourselves ranging from achievement, moratorium, foreclosure, diffusion and achievement- moratorium cycle. This study uses quantitative data collected by a survey form based on the Modified Marcia Questionnaire to understand the formation of such identities in individuals of ages 18-24. The results of this study highlights the age factor in identity formation in young adults. A major chunk of the population of young adults have reached the dimension of achievement, and many are at the level of achievement moratorium cycle."
     ],
-    keyword: [
+    keywords: [
       "Identity formation",
       "young adults",
       "Achievement",
@@ -9433,7 +9433,7 @@ const articles = [
     abstract: [
       "This paper addresses the complicated contortions of the United States in the Middle East, where strategic hegemony is interpreted through a mostly humanitarian lens. Beyond the blatant interventions of Iraq and Syria, the paper examines less discernable U.S. interventions in Yemen, Lebanon, and Oman—geographies that have taken up U.S. influence and control by making use of aid, diplomacy, and military partnerships without open hostilities. This paper uses Realist approaches to theories and critical discourse analysis and shows how doctrines such as the “Responsibility to Protect” are instrumentalized and strategically deployed to advance its strategic interests. The paper then turns to the U.S.-Israel relationship and examines how the convergence of Commonwealth, political, social, and religious affinities influences policy decisions. At the same time, American complacency in Palestine and recent involvement in military strategies against Iran certainly raises legitimate doubts about the U.S. credibility as a peacebuilder. In conclusion, the research argues that humanitarianism is an engineered instrument of American hegemony, wherein the concept of intervention shifts from the making of overt war to subtle domination."
     ],
-    keyword: [
+    keywords: [
       "United States in the Middle East",
       "humanitarian lens",
       " Influence without Force",
@@ -9686,7 +9686,7 @@ const articles = [
       "In order to address fiscal vulnerabilities across the states, the recommended policy implications center on the necessity of a sustainable revenue base, disciplined expenditure, and institutional accountability. The analysis of the VECM model supports long-term relationships between macro-fiscal variables and shows that the fiscal deficit itself is not significantly responsive. This implies that relying only on automatic adjustments is not as important as proactive, institutional reforms. The forecasting section projects that revenue expenditures, interest payments, and the fiscal deficit will all moderately stabilize over the next five years.",
     ],
 
-    keyword: [
+    keywords: [
       "Fiscal risk",
       "Debt sustainability",
       "FRBM Act",
@@ -9978,7 +9978,6 @@ const articles = [
     volume: 1,
     title: "From Policy to Progress: An Analysis of Government Initiatives Addressing Educational Equity and the Digital Divide",
     author: "Deeksha¹; Avradeep Saha²; Pavni Agrawal³; Nandan Dhar⁴; Ankit Vardani⁵",
-    authorAbbrev: "Deeksha; Saha, A.; Agrawal, P.; Dhar, N.; Vardani, A.",
     abstract: [
       "This study is to critically examine how targeted digital education policies and initiatives have contributed to reducing educational inequality in India.",
       "By using key policies such as the BharatNet Project, PM e-vidya, DIKSHA platform as evaluative tools, this study aims to assess both their achievements in improving access, inclusion, and learning outcomes, and their limitations in addressing structural and digital disparities across socio-economic, rural-urban, and gender divides.",
@@ -9987,7 +9986,7 @@ const articles = [
       "Further, the study seeks to bridge the gap between policy intent and on-ground impact, enhanced understanding of how far these digital interventions have progressed in transforming educational equity, and what barriers persist in the path toward inclusive and equitable quality education.",
       "The study relies on secondary data sources and does not include direct surveys or interviews, so some ground-level issues may not be fully recorded."
     ],
-    keyword: [
+    keywords: [
       "digital divide",
       "educational inequality",
       "BharatNet",
@@ -10547,7 +10546,7 @@ const articles = [
     abstract: [
       "This paper investigates the ideological foundations and real-world applications of Feminist Foreign Policy (FFP), which is increasingly embraced as a multidimensional tool for promoting gender justice in global relations. Emerging as both a theoretical and policy-oriented framework, FFP challenges traditional notions of diplomacy that often prioritize military alliances and economic interests over human rights and inclusion. Guided by the “3Rs” model – Rights, Representation, and Resources (Swedish Government, 2018; Oxford Research Encyclopedia, 2019), laying a blueprint for integrating gender into diplomacy, defense, trade and development (Aggestam & True, 2020). The model emphasizes equitable participation of women and marginalized communities in foreign policymaking, thereby attempting to shift the focus from state-centric to people-centric governance. The study interrogates the extent to which this policy paradigm addresses root causes of inequality and violence, while also criticising its susceptibility to instrumentalization by states with conflicting domestic or geopolitical agendas (Thompson & Clement, 2019; SWP Berlin, 2021). While some governments have made substantial investments in multilateralism and inclusive diplomacy, the gap between normative ambition and material policy outcomes remains evident. In many cases, feminist rhetoric coexists with militarized borders or regressive social policies at home, raising questions about coherence and accountability. Recognizing the gap between ambition and delivery, it proposes that the next generation of feminist policy must adopt feminist-informed foresight, integrating long-term, participatory, and decolonial approaches (Jöster-Morisse, 2025). This anticipatory method allows for imagining alternative futures shaped by care ethics, intersectionality, and sustained peacebuilding. By focusing on inclusivity, transparency, and structural transformation, FFP has the potential to not only redefine diplomatic priorities but also foster more equitable global systems rooted in justice rather than power."
     ],
-    keyword: [
+    keywords: [
       "Feminist Foreign Policy",
       "Gender Justice",
       "3Rs Framework",
@@ -10718,7 +10717,7 @@ const articles = [
       "This study reveals that many communities find it difficult to make the climate action plans implemented in their local level effectively. However, there are some notable cases—like the integration of GPDP, Mission LiFE, and collaborations with initiatives such as MGNREGA—that demonstrate how teamwork can drive real progress. The paper concludes with some practical recommendations: enhancing training for local leaders, ensuring better coordination among departments, and involving everyone in the planning process to make climate action more impactful at the local level.",
 
     ],
-    // keyword: [
+    // keywords: [
     //   "digital divide",
     //   "educational inequality",
     //   "BharatNet",
@@ -10971,16 +10970,16 @@ const articles = [
     serialNumber: 44,
     issue: 4,
     volume: 1,
-    title: "BRIDGING THE DIVIDE:DIGITAL PUBLIC INFRASTRUCTURE IN THE INFORMAL SECTOR",
-    author: "Harmanpreet Singh – Panjab University ;Naukhaiz Aftab – Chaudhary Charan Singh University ;Gauri Sharma – Indira Gandhi National Open University; Ruchi Tiwari- University of Mumbai  ;Mahi Tyagi-  University of Delhi  ;Shivangi Varma-  Deen Dayal Upadhyay Gorakhpur University;authorAbbrev: 'Deeksha; Saha, A.; Agrawal, P.; Dhar, N.; Vardani, A.",
+    title: "BRIDGING THE DIVIDE: DIGITAL PUBLIC INFRASTRUCTURE IN THE INFORMAL SECTOR",
+    author: "Harmanpreet Singh – Panjab University; Naukhaiz Aftab – Chaudhary Charan Singh University; Gauri Sharma – Indira Gandhi National Open University; Ruchi Tiwari- University of Mumbai; Mahi Tyagi- University of Delhi; Shivangi Varma- Deen Dayal Upadhyay Gorakhpur University; authorAbbrev: 'Deeksha; Saha, A.; Agrawal, P.; Dhar, N.; Vardani, A.",
     abstract: [
       "The rapid digitalisation and expansion of Digital Public Infrastructure (DPI) in India have brought mixed outcomes, particularly for informal sector workers. The digital divide is a result of existing inequalities in socioeconomic status, geography, caste, and gender. While digitalisation has improved access in many areas, its benefits remain unevenly distributed. This paper investigates structural and systemic factors behind this gap and explores legal frameworks and the PPP model to promote financial inclusion.",
       "Using qualitative analysis of secondary data, this study finds that access to digital services remains uneven, for informal workers with low digital skills and sporadic access to the internet. It underscores spatial divide, limitations of the “one-size-fits-all” approach and the lack of legal protection in labour codes. It also reveals disparities within the informal sector, where MSME owners benefit from DPI but many workers remain excluded.",
       "Key recommendations include a universal legal definition for informal workers, rural digital awareness, government digital hubs under PPP model, and simplified user-centric e-portals designed with principle of privacy. Bridging the digital divide needs inclusive policy reforms to improve access to DPI across the Indian informal economy."
     ],
-    keyword: [
+    keywords: [
       "Digital Public Infrastructure (DPI)",
-      " Informal Sector", "Informal Economy",
+      "Informal Sector", "Informal Economy",
       "Micro, Small & Medium Enterprises (MSME)",
       "Digital Divide",
       "Public-Private Partnership (PPP) model",
@@ -10989,10 +10988,9 @@ const articles = [
     status: "",
     "intro": [
       "“Digital public infrastructure is not just about technology—it is about enabling equal access, empowering every citizen, and laying the digital rails for inclusive growth.”",
-      "Nandan Nilekani, co-founder of Infosys and founding Chairperson of the Unique Identification Authority of India (UIDAI)",
+      "- Nandan Nilekani, co-founder of Infosys and founding Chairperson of the Unique Identification Authority of India (UIDAI)",
       "A world that becomes increasingly interconnected is finding a potent force in its ability to influence the way that governments, businesses, and individuals transact and interact through Digital Public Infrastructure (DPI). The most significant ones are the digital identity and payment system and the data exchange layers, which are creating preconditions of efficient and inclusive service provision at scale. They are materialised in India through Aadhaar, UPI, DigiLocker, e-SHRAM, and ONDC, which form the heart of digital governance and the economy of the country.",
-      "To appreciate the actual effects of DPI is to look at how it interacts with India’s informal economy, which itself constitutes more than 90% of the labour force and almost 50% of its GDP. The unorganised sector in India is the consequence of certain structural limitations like low capital formation, as well as regional disparities and a failure of formal infrastructure to absorb the increasing labour. These are the workers who work in this unorganised sector—daily wagers, domestic help, street vendors, artisans, and micro-entrepreneurs—and they may not have a formal contract/right, legal protection, access to credit, or social security. That’s why they’re not immune from abuse, economic shocks, and generation span poverty. The emergence of DPI represents a chance to close such a historic gap, although its achievement is not automatic and homogenous. The most frequent obstacle is a digital divide, particularly the rural-urban, gender, and income-related ones. Although the mobile connectivity and smartphone penetration have been enhanced, the problem is that digital access and digital literacy are still skewed, especially among women and elderly and marginalised groups. This digital divide affects financial inclusion directly. The Indian fintech revolution has resulted in women still having limited access to digital payment systems, access to formal credit, and ownership of assets, highlighting the importance of the design of DPI to be gender-sensitive.",
-      "Another factor behind the DPI story in India is a well-functioning model of public-private partnerships (PPP), where the government makes core infrastructure (e.g., Aadhaar and UPI), and private actors develop applications and services on top. This model makes innovation possible at scale and checks its oversight by the public. But to have any lasting effect on livelihoods, DPI should do more than just enable transactions. It is supposed to allow the informal workforce to get access to new markets (such as ONDC for the local sellers), employment opportunities, generate credit histories, and access government schemes through websites such as e-SHRAM.",
+      "To appreciate the actual effects of DPI is to look at how it interacts with India’s informal economy, which itself constitutes more than 90% of the labour force and almost 50% of its GDP. The unorganised sector in India is the consequence of certain structural limitations like low capital formation, as well as regional disparities and a failure of formal infrastructure to absorb the increasing labour. These are the workers who work in this unorganised sector—daily wagers, domestic help, street vendors, artisans, and micro-entrepreneurs—and they may not have a formal contract/right, legal protection, access to credit, or social security. That’s why they’re not immune from abuse, economic shocks, and generation span poverty. The emergence of DPI represents a chance to close such a historic gap, although its achievement is not automatic and homogenous. The most frequent obstacle is a digital divide, particularly the rural-urban, gender, and income-related ones. Although the mobile connectivity and smartphone penetration have been enhanced, the problem is that digital access and digital literacy are still skewed, especially among women and elderly and marginalised groups. This digital divide affects financial inclusion directly. The Indian fintech revolution has resulted in women still having limited access to digital payment systems, access to formal credit, and ownership of assets, highlighting the importance of the design of DPI to be gender-sensitive. Another factor behind the DPI story in India is a well-functioning model of public-private partnerships (PPP), where the government makes core infrastructure (e.g., Aadhaar and UPI), and private actors develop applications and services on top. This model makes innovation possible at scale and checks its oversight by the public. But to have any lasting effect on livelihoods, DPI should do more than just enable transactions. It is supposed to allow the informal workforce to get access to new markets (such as ONDC for the local sellers), employment opportunities, generate credit histories, and access government schemes through websites such as e-SHRAM.",
       "Meanwhile, a fast rate of digitisation of citizen information presents important legal and regulatory questions, especially in regard to data privacy and surveillance, informed consent, and risks of exclusion. Data localisation norms, grievance redressal systems, and the Personal Data Protection Act need to dynamically advance along with the implementation of DPI to safeguard the rights of the informal labour force. The following paper focuses on the multidimensionality of the interaction of DPI in reconstituting the informal economy of India. It examines the position of dominant industries in the informal space, e.g., retail, construction, domestic services, and gig work, and the impact that DPI has on their inclusion, productivity, and resilience. The study will examine the major policy interventions, usage patterns, and current obstacles in order to present practical solutions towards an inclusive digital future.",
     ]
     ,
@@ -11001,8 +10999,8 @@ const articles = [
         "heading": "PROBLEM STATEMENT AND RESEARCH QUESTION",
         "paragraphs": [
           "The aim of this research paper is to comprehensively examine the varying stages of digital transformation across the country, with an explicit concentration on the function and consequences of digital public infrastructure on various aspects of society, with special reference to the informal sector. Our questions seek to understand both the drivers and consequences of digital access and usage patterns, while also considering systemic elements within the DPI ecosystem. This report is guided by the following research questions.",
-          "How do socio-economic and contextual factors influence the patterns of access to and effective utilisation of digital public infrastructure by different informal sector subgroups, and what are the resulting effects on their outcomes in knowledge acquisition, well-being, financial inclusivity, and the livelihoods of workers under various informal sector arrangements?",
-          "To what extent do trends of privatisation, phantomization, and wealth accumulation within the Digital Public Infrastructure landscape, alongside the prevailing legal frameworks and Public-Private Partnership (PPP) models, influence digital access and the ability of informal sector actors to leverage these technologies for their benefit, and how can these challenges be addressed?",
+          "- How do socio-economic and contextual factors influence the patterns of access to and effective utilisation of digital public infrastructure by different informal sector subgroups, and what are the resulting effects on their outcomes in knowledge acquisition, well-being, financial inclusivity, and the livelihoods of workers under various informal sector arrangements?",
+          "- To what extent do trends of privatisation, phantomization, and wealth accumulation within the Digital Public Infrastructure landscape, alongside the prevailing legal frameworks and Public-Private Partnership (PPP) models, influence digital access and the ability of informal sector actors to leverage these technologies for their benefit, and how can these challenges be addressed?",
           "In line with the above-mentioned stratification hypothesis, we argue that variations in access to and use of technology are reproducing themselves, which in turn are exacerbating realworld disparities. This has restricted the ability of the digitally disadvantaged to access resources and fully reap the benefits of the virtual world."
         ]
       },
@@ -11013,19 +11011,11 @@ const articles = [
           "OECD defines the digital divide as a gap across various socioeconomic levels in the use of ICTs and internet usage. It results from several factors, such as gender, affordability, location, and digital literacy. Only 31% of the rural population uses the internet, compared to 67% in urban areas (Oxfam India, 2022). Laskar (2023) shows an existing divide between urbanrural and intra-urban, causing limited digital access and technology-based skills, while Vaidehi et al. (2020) found low internet access, usage, and digital literacy in marginalised communities.",
           "Digitalisation has benefited some while excluding a large section of society (Dubey et al., 2024). These gaps persist despite government initiatives like the Digital India campaign, JAM, and UPI (ILO, 2024), particularly impacting the wages of informal workers (Sengupta et al., 2021).",
           "FINANCIAL INCLUSION",
-          " Monetary policy becomes more effective through increased interest rate influence on economic transactions (Mehrotra & Yetman, 2015; Patra, 2021).",
-          "According to Gupta et al. (2017), digital transformation can improve GDP and fiscal policy. At the 2017 Global Entrepreneurship Summit in Hyderabad, PM Modi emphasised joint efforts by women and men for prosperity and development (Balasubramaniam et al. 2021).",
-          "Inclusive financial services, as recognised by the International Labour Organisation (ILO), are key to social security and poverty (Bhandari 2018).",
-          "According to Ghosh and Bhattacharya (2019), financial innovations have expanded services for women and underprivileged individuals.",
+          "Monetary policy becomes more effective through increased interest rate influence on economic transactions (Mehrotra & Yetman, 2015; Patra, 2021). According to Gupta et al. (2017), digital transformation can improve GDP and fiscal policy. At the 2017 Global Entrepreneurship Summit in Hyderabad, PM Modi emphasised joint efforts by women and men for prosperity and development (Balasubramaniam et al. 2021).Inclusive financial services, as recognised by the International Labour Organisation (ILO), are key to social security and poverty (Bhandari 2018).According to Ghosh and Bhattacharya (2019), financial innovations have expanded services for women and underprivileged individuals.",
           "REGULATORY AND LEGAL FRAMEWORKS",
-          "Maiti and Khari (2023) discovered that as a country uses more digital technologies, informal firms shrink and then grow again. The finest digital tools assist informal enterprises in becoming legitimate in countries with robust legislation. If laws are weak, digital tools may make it tougher for informal labourers to get work. If they feel observed, informal workers may avoid digital tools.",
-          "In Puttaswamy v. Union of India, the court upheld Aadhaar but ruled that everyone has the right to privacy. The judicial system must respect digital privacy and dignity for DPI to be trusted.",
-          "According to A. Panagariya (2022), existing social protection legislation ignores DPI and commends the India Stack, a combination of open APIs and digital public goods, for regulation. Current labour rules don't protect informal gig workers since they ignore DPI.",
-          "Data protection and privacy are first and foremost about ensuring personal data is used with consent and kept within India. The Digital Personal Data Protection Act, 2023 draft, based on the recommendations of the Justice B.N. Srikrishna Committee, sets these rules, with the Data Protection Board of India investigating data breaches and imposing fines up to 250 crore.",
-          "Electronic signatures and contracts are legally validated by the Information Technology Act, 2000, defined under section 2(1) (p), ensuring the authenticity of digital documents. The controller of certifying authorities licenses digital signature providers.",
+          "Maiti and Khari (2023) discovered that as a country uses more digital technologies, informal firms shrink and then grow again. The finest digital tools assist informal enterprises in becoming legitimate in countries with robust legislation. If laws are weak, digital tools may make it tougher for informal labourers to get work. If they feel observed, informal workers may avoid digital tools.In Puttaswamy v. Union of India, the court upheld Aadhaar but ruled that everyone has the right to privacy. The judicial system must respect digital privacy and dignity for DPI to be trusted.According to A. Panagariya (2022), existing social protection legislation ignores DPI and commends the India Stack, a combination of open APIs and digital public goods, for regulation. Current labour rules don't protect informal gig workers since they ignore DPI.Data protection and privacy are first and foremost about ensuring personal data is used with consent and kept within India. The Digital Personal Data Protection Act, 2023 draft, based on the recommendations of the Justice B.N. Srikrishna Committee, sets these rules, with the Data Protection Board of India investigating data breaches and imposing fines up to 250 crore.Electronic signatures and contracts are legally validated by the Information Technology Act, 2000, defined under section 2(1) (p), ensuring the authenticity of digital documents. The controller of certifying authorities licenses digital signature providers.",
           "IMPACT ON LIVELIHOODS",
-          "With the growth of technology, Digital Public Infrastructure (DPI) has risen as one of the determiners in enhancing the livelihoods of the informal workers in India. It has simplified the process of delivery of welfare programs and wage payments and minimised leakages of the transfer of benefits (Kshirsagar & Cleary, 2024).",
-          "Indeed, ICRIER (2017) established that when Aadhaar is integrated with wage-paying systems, the underpayments and delays among workers have been materially reduced.",
+          "With the growth of technology, Digital Public Infrastructure (DPI) has risen as one of the determiners in enhancing the livelihoods of the informal workers in India. It has simplified the process of delivery of welfare programs and wage payments and minimised leakages of the transfer of benefits (Kshirsagar & Cleary, 2024).Indeed, ICRIER (2017) established that when Aadhaar is integrated with wage-paying systems, the underpayments and delays among workers have been materially reduced.",
           "With Aadhaar integration, the services of the middlemen were also minimised, and workers received government assistance and other necessary services directly (Muralidharan et al., 2020).",
           "DPI has also been beneficial to the stability of households, to better access the fundamental base of resources, including food and fuel (World Bank, 2018).",
           "Nevertheless, a part of the workforce still experiences an impediment caused by the ambiguity regarding the usage of the system or the cases of manipulation and misuse (Krishna, 2020).",
@@ -11093,27 +11083,30 @@ const articles = [
           "• The government should adhere to the principle of privacy by design, which entails considering privacy from the outset when developing any digital platform, including applications, websites, or other digital public infrastructure.",
           "A systematic approach is essential to bridge the digital divide in the country. The informal sector requires government attention from the initial stages of creating an online account to sustained access and inclusion."
         ]
-      }
+      },{
+
+        heading:"AUTHORS’ CONTRIBUTIONS",
+        paragraphs:["1. Gauri Sharma",
+        "Contributions: Status of Informal Workers, Methodological Overview, Conclusion, policy recommendation",
+        "2. Harmanpreet Singh",
+        "Contributions: Understanding the Digital Divide, Abstract, policy recommendation",
+        "3. Naukhaiz Aftab",
+        "Contributions: Regulatory and Legal Frameworks, Problem Statement and Research Question, policy recommendation",
+        "4. Ruchi Tiwari",
+        "Contributions: PPP Model, Methodological Overview, policy recommendation",
+        "5. Shivangi Varma",
+        "Contributions: Financial Inclusivity, Introduction and Background, policy recommendation",
+        "6. Mahi Tyagi",
+        "Contributions: Impact on Livelihoods, Introduction and Background, policy recommendation"]
+        }
     ],
     conclusion: [
       "This paper examines the persistent digital divide and the exclusion of informal sector workers from accessing Digital Public Infrastructure (DPI) in India. Despite initiatives like Jan Dhan, UPI, and E-Shram, many informal workers remain excluded due to deep-rooted socioeconomic and structural barriers. The paper highlights how digital access can serve as useful measure to formalise the informal sector, making it more visible and connected.",
       "Using secondary data, this paper reveals how digital connectivity affects informal workers socioeconomically. While DPI has benefited MSME owners, large proportion of informal workers, particularly women in rural areas still face exclusion because of limited digital literacy, deep-rooted social norms, and infrastructural gaps.",
       "This paper argues for an inclusive, systematic policy approach to address these challenges. Key recommendations include introducing a universal legal definition for informal workers, expanding digital awareness programs-especially for women in rural areas, setting up local digital hubs through Public-Private Partnership (PPP) model, simplification of e-portals and adherence to principle of privacy by design. Future research should explore the rural–urban digital divide within the informal sector more deeply and apply quantitative methods to measure DPI’s impact over time.",
-      "In conclusion, DPI must be viewed not only as technological advancement but as a driver of inclusive growth and social equity. If implemented equitably, it can help achieve Sustainable Development Goals such as SDG 1 (poverty eradication), SDG 5 (gender equality), SDG 8 (decent work and economic growth), SDG 9 (industry, innovation and infrastructure), SDG 10 (reduced inequalities), SDG 16 (peace, justice and strong institutions), and SDG 17 (partnerships for the goals). Its aim should be to build an inclusive society across the country—not just a digitalised economy.",
-      "AUTHORS’ CONTRIBUTIONS",
-      "1. Gauri Sharma",
-      "Contributions: Status of Informal Workers, Methodological Overview, Conclusion, policy recommendation",
-      "2. Harmanpreet Singh",
-      "Contributions: Understanding the Digital Divide, Abstract, policy recommendation",
-      "3. Naukhaiz Aftab",
-      "Contributions: Regulatory and Legal Frameworks, Problem Statement and Research Question, policy recommendation",
-      "4. Ruchi Tiwari",
-      "Contributions: PPP Model, Methodological Overview, policy recommendation",
-      "5. Shivangi Varma",
-      "Contributions: Financial Inclusivity, Introduction and Background, policy recommendation",
-      "6. Mahi Tyagi",
-      "Contributions: Impact on Livelihoods, Introduction and Background, policy recommendation",
+      "In conclusion, DPI must be viewed not only as technological advancement but as a driver of inclusive growth and social equity. If implemented equitably, it can help achieve Sustainable Development Goals such as SDG 1 (poverty eradication), SDG 5 (gender equality), SDG 8 (decent work and economic growth), SDG 9 (industry, innovation and infrastructure), SDG 10 (reduced inequalities), SDG 16 (peace, justice and strong institutions), and SDG 17 (partnerships for the goals). Its aim should be to build an inclusive society across the country—not just a digitalised economy."
     ],
+
     references: [
       {
         heading: "Alliance, G. Digital Public Infrastructure Ecosystem.",
@@ -11271,7 +11264,7 @@ const articles = [
       "These outcomes underscore the urgent need for culturally sensitive mental health interventions, emotional education, and a redefinition of masculinity that validates emotional expression.",
       "Such efforts are critical to improving mental health outcomes and interpersonal well-being among Indian men."
     ],
-    keyword: [
+    keywords: [
       "Masculinity",
       "emotional suppression",
       "Indian men",
@@ -11475,7 +11468,7 @@ const articles = [
       "The research provides a policy platform including amending the Rome Statute, enacting domestic legislation, developing corporate accountability mechanisms, and integrating restorative justice.",
       "Recognizing ecocide as an international crime is legally possible and an ethical imperative for environmental sustainability, justice, and accountability for future generations."
     ],
-    keyword: [
+    keywords: [
       "Ecocide",
       "Article 30 of Rome Statute",
       "International Criminal Court",
@@ -11676,7 +11669,7 @@ const articles = [
       "We require political commitment and global cooperation for implementing ecocide laws and effective enforcement. Ecocide laws will drive corporations and individuals into adapting new and healthier ways that can hold polluters accountable and support in achieving the sustainable development goals 13, 14 and 15.",
       "Finally, the paper affirms a widespread support is needed to ensure that environmental havoc is no longer met with impunity but with justice."
     ],
-    keyword: [
+    keywords: [
       "Ecocide",
       "Criminalisation",
       "Environment",
@@ -11824,7 +11817,7 @@ const articles = [
       "India's recent labor law revamp brought in four combined labor codes aimed at simplifying protections and enhance compliance. However, their applicability and relevance to gig and platform workers are unclear. This paper also critically assesses the inadequacies of India's labour codes revamped including Code on Wages (2019), Industrial Relations Code (2020), Code on Social Security (2020) for women Gig workers.",
       "By analyzing existing policy gaps and exploring gender-sensitive approaches to social protection, the research aims to inform inclusive legal, economic and gender sensitive infrastructural strategies that safeguard women gig workers’ social security rights, enhance their economic agency, and ensure equitable participation in India’s evolving digital labor market."
     ],
-    keyword: [
+    keywords: [
       "Gig economy",
       "gender inequality",
       "social protection",
