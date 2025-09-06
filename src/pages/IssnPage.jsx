@@ -38,7 +38,7 @@ const IssnPage = () => {
                 Journal:
               </p>
               <p className="text-lg font-normal w-2/3" style={{ color: '#703b5dff' }}>
-                Law, Diplomacy, Tech & Public Policy Review
+                Law, Diplomacy, Tech and Public Policy Review
               </p>
             </div>
             <div className="flex items-start">
