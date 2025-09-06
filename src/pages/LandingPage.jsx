@@ -179,9 +179,9 @@ const LandingPage = () => {
             </div>
 
 
-      <span className="text-xs sm:text-sm font-semibold text-primary bg-primary/10 px-3 py-1 rounded-full shadow-sm">
-   January 2025 - Multidisciplinary Subjects
-  </span>
+            <span className="text-xs sm:text-sm font-semibold text-primary bg-primary/10 px-3 py-1 rounded-full shadow-sm">
+              January 2025 - Multidisciplinary Subjects
+            </span>
 
             {/* Nav Buttons & Account Dropdown */}
             <div
@@ -433,7 +433,7 @@ const LandingPage = () => {
 
 
       {/* --- Journal Statistics Section --- */}
-      <section
+      {/* <section
         className="py-20 px-4 text-white"
         style={{
           background: "linear-gradient(to right, #caa1b8ff, #3b0a29ff, #2b1426ff"
@@ -465,7 +465,7 @@ const LandingPage = () => {
             ));
           })()}
         </div>
-      </section>
+      </section> */}
 
 
 
@@ -543,7 +543,7 @@ const LandingPage = () => {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link
+              {/* <Link
                 to="/contact-us"
                 className="inline-flex items-center justify-center gap-2 px-8 py-3 rounded-full bg-gradient-to-r from-rose-600 via-rose-500 to-pink-500 text-white font-semibold shadow-lg hover:shadow-rose-400/40 hover:from-rose-700 hover:to-pink-600 transition-all duration-300 transform hover:-translate-y-1 hover:scale-105 border border-white/10 backdrop-blur-sm group"
               >
@@ -551,6 +551,16 @@ const LandingPage = () => {
                   Submission Guidelines
                 </span>
                 <ArrowRight className="w-4 h-4 transition-transform duration-300 group-hover:translate-x-1" />
+              </Link> */}
+
+              <Link
+                to="/contact-us"
+                className="inline-flex items-center justify-center gap-2 px-8 py-3 rounded-full bg-gradient-to-r from-rose-600 via-rose-500 to-pink-500 text-white font-semibold shadow-lg hover:shadow-rose-400/40 hover:from-rose-700 hover:to-pink-600 transition-all duration-300 transform hover:-translate-y-1 hover:scale-105 border border-white/10 backdrop-blur-sm group"
+              >
+                <span className="group-hover:underline decoration-white decoration-2 underline-offset-4">
+                  Submit your articles at iisppresearch@gmail.com
+                </span>
+                {/* <ArrowRight className="w-4 h-4 transition-transform duration-300 group-hover:translate-x-1" /> */}
               </Link>
             </div>
           </div>
@@ -564,27 +574,27 @@ const LandingPage = () => {
         {/* Background Animation */}
         <div className="absolute inset-0 bg-gradient-to-tr from-[#1a1a1a]/40 to-[#333]/10 animate-pulse z-0" />
 
-  <div className="relative z-10 max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12">
-    {/* Logo and Description */}
-    <div className="group">
-      <div className="flex items-center space-x-3 mb-4">
-        <div className="w-10 h-10 bg-bg-light rounded-full flex items-center justify-center shadow-lg group-hover:rotate-6 transform transition duration-500">
-          <BookOpen className="w-5 h-5 text-primary-dark transition-transform duration-300 group-hover:scale-110" />
-        </div>
-        <div>
-          <h3 className="font-serif font-bold text-bg-light text-lg tracking-wide group-hover:text-accent transition-colors duration-300">
-            Law, Diplomacy, Tech and  Public Policy Review
-          </h3>
-         {/* <p className="text-xs text-white opacity-80"></p> */}
-        </div>
-      </div>
-      <p className="text-sm leading-relaxed text-white/90 group-hover:opacity-100 transition-opacity duration-300">
-        A peer-reviewed academic journal committed to rigorous research and interdisciplinary dialogue across global issues.
-      </p>
-    </div>
+        <div className="relative z-10 max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12">
+          {/* Logo and Description */}
+          <div className="group">
+            <div className="flex items-center space-x-3 mb-4">
+              <div className="w-10 h-10 bg-bg-light rounded-full flex items-center justify-center shadow-lg group-hover:rotate-6 transform transition duration-500">
+                <BookOpen className="w-5 h-5 text-primary-dark transition-transform duration-300 group-hover:scale-110" />
+              </div>
+              <div>
+                <h3 className="font-serif font-bold text-bg-light text-lg tracking-wide group-hover:text-accent transition-colors duration-300">
+                  Law, Diplomacy, Tech and Public Policy Review
+                </h3>
+                {/* <p className="text-xs text-white opacity-80">Law, Diplomacy, Tech & Public Policy Review</p> */}
+              </div>
+            </div>
+            <p className="text-sm leading-relaxed text-white/90 group-hover:opacity-100 transition-opacity duration-300">
+              A peer-reviewed academic journal committed to rigorous research and interdisciplinary dialogue across global issues.
+            </p>
+          </div>
 
           {/* Quick Links */}
-          <div>
+          {/* <div>
             <h4 className="font-serif font-semibold text-bg-light mb-4 text-lg underline decoration-accent decoration-2 underline-offset-4">
               Quick Links
             </h4>
@@ -606,7 +616,7 @@ const LandingPage = () => {
                 </Link>
               ))}
             </div>
-          </div>
+          </div> */}
         </div>
 
         {/* Footer Bottom Text */}

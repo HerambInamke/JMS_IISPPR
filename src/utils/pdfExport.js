@@ -669,4 +669,3 @@ export const generateArticlePDF = async (articles) => {
 
   return pdf;
 };
-

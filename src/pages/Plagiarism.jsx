@@ -103,7 +103,7 @@ const Plagiarism = () => (
         transition={{ duration: 0.6 }}
         viewport={{ once: true }}
       >
-        LDTPPR is committed to safeguarding originality, ensuring accountability, and promoting responsible innovation in research writing.
+        Law Deplomacy and Tech Policy Review is committed to safeguarding originality, ensuring accountability, and promoting responsible innovation in research writing.
       </motion.p>
     </motion.div>
   </motion.div>
