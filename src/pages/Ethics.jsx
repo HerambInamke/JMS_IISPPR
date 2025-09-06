@@ -36,7 +36,7 @@ const Ethics = () => {
     {
       title: "4. Anti-Predatory Publishing Commitment",
       items: [
-        "LDTPPR was founded to counter unethical practices that exploit student researchers.",
+        "Law, Diplomacy and Tech Policy Review was founded to counter unethical practices that exploit student researchers.",
         "✔ Full transparency in our submission, review, and publication process.",
         "✔ No hidden fees or deceptive charges.",
         "✔ Verified editorial board with real academic credentials.",
@@ -87,7 +87,7 @@ const Ethics = () => {
       >
         <h1 className="text-4xl font-bold font-serif mb-4">Ethical Guidelines</h1>
         <p className="text-md max-w-3xl mx-auto text-accent-light">
-          Our unwavering commitment to academic integrity, transparency, and student empowerment drives everything we do at LDTPPR.
+          Our unwavering commitment to academic integrity, transparency, and student empowerment drives everything we do at Law, Diplomacy and Tech Policy Review.
         </p>
       </motion.div>
 
@@ -102,7 +102,7 @@ const Ethics = () => {
           className="text-2xl font-bold text-primary font-serif mb-2"
           style={{ color: "#693155ff" }}
         >
-          Law, Diplomacy, Tech & Public Policy Review (LDTPPR)
+          Law, Diplomacy, Tech & Public Policy Review
         </h2>
         <p className="text-subtext text-justify">
           At Law, Diplomacy, Tech & Public Policy Review, we uphold the highest standards of academic integrity, transparency, and ethical publishing. These guidelines apply to all authors, editors, peer reviewers, and contributors.
@@ -148,7 +148,7 @@ const Ethics = () => {
         viewport={{ once: true }}
         transition={{ delay: 0.2, duration: 0.6 }}
       >
-        LDTPPR stands for academic integrity, inclusivity, and empowering the next generation of global thinkers through ethical, rigorous publishing.
+        Law Deplomacy and Tech Policy Review stands for academic integrity, inclusivity, and empowering the next generation of global thinkers through ethical, rigorous publishing.
       </motion.p>
     </motion.div>
   );

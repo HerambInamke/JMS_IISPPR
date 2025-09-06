@@ -65,6 +65,8 @@ export const generateIssuePDF = async (issue, publisher, editorialBoard) => {
   yPosition += lineHeight;
   pdf.text(`Website: ${publisher.contact.website}`, margin, yPosition);
   yPosition += lineHeight + 10;
+  
+
 
   // Table of Contents
   pdf.setFontSize(14);
@@ -495,6 +497,7 @@ export const generateArticlePDF = async (articles) => {
       const formattedDate = date.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
       pdf.text(`Date of Publication: ${formattedDate}`, margin, yPosition.value);
       yPosition.value += lineHeight;
+      
     }
 
     yPosition.value += lineHeight + 10;
