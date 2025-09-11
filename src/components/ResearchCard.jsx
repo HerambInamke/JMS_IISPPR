@@ -70,7 +70,7 @@ const articleRoutes4 = {
   14: "/Anlysing-The-Scope-Of-Feminist",
   15: "/Localizing-Climate-Action-The-National-Action",
   16:"/Bridging-The-Divide-Digital-Public",
-  
+  17:"/Modeling-Urban-Economic-Peformance"
   
 };
 

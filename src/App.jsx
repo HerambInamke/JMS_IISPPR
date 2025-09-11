@@ -92,6 +92,7 @@ import BlueDiplomacy from "./pages/editions/BlueDiplomacy";
 import PaperToPractice from "./pages/editions/PaperToPractice";
 import PolicyToProgress from "./pages/editions/PolicyToProgress";
 import ImpactOfTrumpEra from "./pages/editions/ImpactOfTrumpEra";
+import ModelingUrbanEconomicPeformance from "./pages/editions/ModelingUrbanEconomicPeformance";
 
 
 
@@ -380,6 +381,10 @@ function AppRoutes() {
            <Route
           path="Impact-Of-Trump-Era"
           element={<ImpactOfTrumpEra/>}
+          />
+          <Route
+              path="Modeling-Urban-Economic-Peformance"
+              element={<ModelingUrbanEconomicPeformance/>}
           />
            
 
