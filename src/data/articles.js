@@ -12070,9 +12070,6 @@ const articles = [
       }
     ]
   },
-
-
-  //mera
   {
   id: 9,
   serialNumber: 45,
@@ -12485,6 +12482,291 @@ const articles = [
     }
   ]
 },
+{
+  id:17,
+  serialNumber: 47,
+  issue: 4,
+  volume: 1,
+  title: "MODELING URBAN ECONOMIC PERFORMANCE UNDER DEMOGRAPHIC,LABOUR, AND ENVIRONMENTAL CONSTRAINTS: A COMPARATIVE ANALYSIS OF DELHI AND MUMBAI",
+  author: [
+    "Edward Nicholas",
+    "Rida Siddiqui",
+    "Chia Jindal",
+    "Syed Suheb S",
+    "Barron Madison Lau Jia Jie"
+  ],
+    status: "",
+    "abstract": [
+    "India’s urban centers are experiencing rapid economic growth alongside persistent inequality,infrastructural deficits, and environmental stress. Despite extensive literature on urban economic growth in India, few studies have empirically examined how structural challenges such as demographic pressures, labor market inefficiencies, and environmental degradation simultaneously affect urban productivity across major cities. This study addresses this critical gap by employing a descriptive quantitative approach and a robust panel econometric framework to analyze how population growth, unemployment, and air quality influence GDP per capita in New Delhi and Mumbai from 2017 to 2023. Unlike prior research that treats urban centers as homogeneous, this paper captures the contrasting urban trajectories of India’s political and financial capitals using FMOLS, GLS, and Robust Least Squares to model both long-run equilibrium and short-run dynamics, while correcting for endogeneity, heteroskedasticity, and cross-sectional dependence. The findings reveal a novel insight: while Mumbai gains from population-driven economic agglomeration, New Delhi suffers from growth-induced infrastructural strain. Unemployment remains a consistent drag on urban GDP in both cities, and, counterintuitively, higher pollution levels are linked with GDP growth highlighting India’s continued reliance on emission-intensive industries. These differentiated outcomes expose the limits of one-sizefits-all urban policy models. The study contributes new evidence to urban sustainability literature and proposes a multidimensional SDG 11-aligned policy roadmap that integrates job creation, environmental resilience, and inclusive infrastructure planning to reshape India’s urban future."
+  ],
+  "keywords": [
+    "GDP per Capita", "Urban Sustainability", "Informal Employment", "Environmental Stress"
+  ],
+  "intro": [
+    "India’s rapid urbanization has resulted in a complicated combination of mixed severe inequalities and economic opportunities (1) (World Bank, 2024; UN-Habitat, 2020). As cities continue to grow in both size and influence, questions about their long-term sustainability, economic stability, and inclusivity have become more important than ever (Time, 2024). Among India’s urban centres, Delhi and Mumbai stand out as two of the most notable cities; both are not only megacities but also contrasting as development case studies. In India, Delhi is a political and administrative centre, whereas Mumbai serves as a financial capital and a major contributor to the GDP (MoHUA, 2021) of the country. Despite their strength, both cities struggle with severe economic, social, and infrastructure inequalities (TISS, 2022)."  
+    ,"This research paper conducts the quantitative analysis using secondary data that looks at how the inequalities, infrastructure gaps, and economic difficulties interact in Delhi and Mumbai. This study intends to explore how these cities might move towards more sustainable urban futures (World Bank, 2024) by concentrating on measures like GDP contribution, transportation networks, and per capita income. The findings aim to offer evidence-based insights into the urban paradox—where inequality and economic growth coexist—and how specific approaches can help close the gap. Through this lens, the study adds to the larger conversation about creating more fair and better cities in India (UNHabitat, 2020) "
+    ,"1.1 BACKGROUND OF THE STUDY",
+    "Cities in India are growing rapidly in both size and impact. Urban areas are becoming hubs of innovation and economic activities (World Bank, 2024; UN-Habitat, 2020). However, a number of significant difficulties accompany this rapid progress. Many cities are struggling to keep up with the needs of their increasing population, leading to problems like traffic, housing shortages, poor infrastructure, and growing socioeconomic inequality (Time Magazine, 2024; MoHUA, 2021) "
+    ,"Two of the most well-known cities in the nation—Delhi and Mumbai—reflect this disparity (Satterthwaite & Mitlin, 2020). On the other hand, they stand for strength, development, and wealth. However, they also reveal a deep gap of how resources and opportunities are distributed. In these cities, luxurious skyscrapers often stand next to overcrowded slums. While some people enjoy modern amenities, many still do not have access to secure transportation, good-quality schools, or clean water (Bhan, 2019; TISS Urban Studies, 2022)."
+    ,"As India moves towards building “smart” and “sustainable” cities, it becomes important to pause and ask: Who are we really building for? Can a city be considered as sustainable if its growth leaves many people behind (UN-Habitat, 2020; World Bank, 2024)? "
+    ,"In order to investigate these issues, this study thoroughly examines Delhi and Mumbai. It aims to understand how economic challenges, inequalities, and urban planning affect the future of these cities. By using real data and targeted analysis, the research hopes to offer insights that can help create more balanced, inclusive, and livable cities for everyone."
+   
+  ],
+    content: [
+      {
+        "heading": "PROBLEM STATEMENT",
+        "paragraphs": [
+                "The problem to be addressed through this study is that, despite India’s urbanization accelerating at a striking rate, cities like Delhi and Mumbai, which are critical junctions for national economic growth, still suffer from structural inequalities and imbalances, and there is a stark contrast between the life experienced by the rich and the poor population groups. Recent evidence has shown unequal access to decent housing and basic services like water facilities, public transportation and sanitation for the population living in slums because the city’s shelters are not adequate (ORF 2016). The wider this gap grows, the more it puts at risk what makes these cities feel alive and important. These ongoing gaps for basic services and affordability highlight a longterm problem in how these cities should be built and managed rather than a short-term goal of having enough to meet the demand. "  
+      ,"If continue down this path of unequal and unsustainable ways of urban development, the impact will be serious and lasting. When poverty and lack of opportunity are present in certain parts of the city, they drag down the entire economy, and workers cannot reach their full potential, and the economic growth of the whole city is reduced by 1.5% (World Bank 2023). When basic services are not available, cities have to spend more on quick fixes and emergency care, which further drains money that could have helped in building sustainable roads and housing (ADB Urban Development). Although plenty of data exists, they are collected on incompatible spatial and temporal scales, and that is why they lack three key questions: Which missing services, like water lines, sewers, safe housing, etc., drive today’s inequalities (UN-Habitat 2022)? Where can each  4 rupee be spent to close the gap the fastest (World Bank 2023)? How will rising sea level and heat threats, along with future migration and financial constraints, help the cities still be on track for SDG 11 targets (IPCC)? Closing this gap needs on-the-ground surveys and municipalfinance, and further analysing the neighbourhood is the first step towards fair and cost-smart solutions (UNHabitat 2022; ADB 2019). "
+        , "RESEARCH OBJECTIVES", 
+        "To empirically analyze the long-run and short-run effects of population growth, unemployment, and air quality on urban economic performance (GDP per capita) in New Delhi and Mumbai between 2017 and 2023, using advanced panel econometric techniques. The study aims to generate evidencebased insights to support inclusive, employment-oriented, and environmentally sustainable urban development policies aligned with SDG 11."
+    ]
+      },
+      {
+        heading: "LITERATURE REVIEW",
+        paragraphs: [
+          "I. Theoretical Foundations of Urban Economic Growth",
+            "Urban economic growth, especially in rapidly expanding economies like India, is increasingly shaped by the interplay between demographic pressure, labor market performance, and environmental quality. At the heart of this dynamic lies GDP per capita, a key indicator of urban productivity and living standards. Classical urban economic theory, notably Solow’s neoclassical growth model (Solow, 1956), suggests that capital accumulation and labor inputs are primary drivers of output, but under urban constraints, this relationship is increasingly moderated by environmental and social stressors. Similarly, endogenous growth theory (Romer, 1994) posits that human capital, innovation, and demographic composition play critical roles in sustaining long-term economic development, underscoring the significance of population growth and employment quality in shaping city-level prosperity."
+          ,"II. Demographic Pressure and Population Growth",
+          "Population growth, particularly in megacities like New Delhi and Mumbai, has been traditionally linked to economic agglomeration benefits such as scale economies, labor pooling, and innovation spillovers (Glaeser et al., 2008). However, empirical findings are mixed. While some studies argue that urban expansion stimulates economic output by expanding markets and labor force participation (UN-Habitat, 2020; World Bank, 2023), others highlight the diseconomies of scale overcrowding, infrastructure strain, and service shortfalls that suppress productivity and worsen inequality (Turok & McGranahan, 2013; MoHUA, 2023). In India, this duality is stark: population growth has fueled both informal employment and slum proliferation, raising concerns over inclusive and sustainable development."
+         ,"III. Urban Labor Market and Unemployment Dynamics",
+          "Unemployment, especially within urban informal economies, is another crucial determinant of urban GDP. Labor market disruptions, skill mismatches, and underemployment particularly among youth reduce productivity, consumer demand, and economic resilience (ILO, 2023). Prior studies (e.g., Singh & Sharma, 2022; Anbumozhi et al., 2023) affirm the adverse effects of joblessness on urban  5 welfare, yet few disaggregate these effects across cities or examine how these dynamics evolve over time within metropolitan contexts. Moreover, the informal sector employing over 75% of India’s urban workforce remains underexplored in its relationship with GDP fluctuations, making urban unemployment a critical yet under-analyzed node in sustainable development discourse. "
+        ,"IV. Environmental Degradation and Air Quality",
+        "Air quality, proxied by the Air Quality Index (AQI), is increasingly recognized as both a consequence and a constraint of urban economic growth. According to ecological urbanism (Mostafavi & Doherty, 2010), unchecked urban expansion often results in ecological degradation, which in turn diminishes human productivity, increases health expenditures, and widens spatial inequality. Empirical studies (WHO, 2023; CPCB, 2024) confirm strong links between high AQI levels and decreased labor output, cognitive impairments, and increased mortality in urban India. However, recent paradoxes have emerged pollution-intensive sectors like construction and logistics often correlate positively with GDP growth in the short run (World Bank, 2023), revealing the trade-offs between industrial growth and ecological well-being. This contradiction remains inadequately explored in city-level studies, where the spatial-economic consequences of pollution are often generalized or overlooked. "
+        ,"V. Empirical and Methodological Gaps",
+          "Despite the growing body of urban development literature, several research gaps persist. First, few studies provide a comparative city-level assessment of how population growth, unemployment, and air quality jointly impact GDP per capita over time. Most analyses rely on national or state-level data, masking intra-urban disparities. Second, there is a lack of integrated frameworks that link these structural variables within a sustainability and inequality lens, particularly in India’s most dynamic metropolitan regions. Third, many empirical studies rely on either static or outdated datasets, often pre-dating critical disruptions such as the COVID-19 pandemic, thereby missing recent structural shifts in labor markets and environmental health (NITI Aayog, 2023; IQAir, 2024)."
+      ,"VI. Contribution of the Present Study",
+          "This study addresses these gaps by providing a city-specific, multidimensional investigation of the economic, demographic, and environmental determinants of urban GDP in New Delhi and Mumbai two cities emblematic of India’s urban contradictions. Unlike prior studies that isolate individual factors, this research reveals how population growth, unemployment, and AQI interactively shape urban economic performance, offering a richer, data-driven narrative of metropolitan development. The focus on post-2017 trends add contemporary relevance, while the emphasis on spatial differentiation highlights the asymmetrical impacts of urban stressors. In doing so, the study contributes novel insights into how structural variables often treated separately collectively influence sustainable urban futures, with direct relevance to SDG 11 on inclusive, resilient, and sustainable cities. By moving beyond generalized national narratives and providing granular empirical evidence for India’s two leading urban economies, this research deepens scholarly and policy understanding of the urban development paradox: that economic growth, when unaccompanied by environmental and labor reforms, can reinforce rather than resolve urban inequality"
+          
+        ]
+      },
+      {
+        heading: "RESEARCH METHODOLOGY",
+        paragraphs: [
+          "This study employs a descriptive quantitative approach to analyse how economic challenges such ascinfrastructure deficits, environmental stress, and informal employment affect urban livelihoods andcproductivity in India. Using secondary balanced panel data from 2017 to 2023, it examines GDP perccapita in relation to population growth, unemployment, and air quality. New Delhi and Mumbai werecchosen not merely for data availability, but because they embody India’s urban contradictions. Whilecserving as the political and financial capitals, they face acute economic instability, inequality,cpollution, and service gaps. Their contrasting yet influential urban trajectories offer critical insightscinto building a more inclusive and sustainable urban future in India."
+          ,"1. Data and Variables",
+          "Description, Units and Data Sources of Variables",
+          "2. Analytical Framework",
+          "This study adopts a robust panel econometric approach to examine how economic, demographic, and environmental variables shape urban sustainability in New Delhi and Mumbai. Guided by urban economic theory (Solow, 1956; Glaeser et al., 2008), endogenous growth theory (Romer, 1994), and ecological urbanism (Mostafavi & Doherty, 2010), the core variables GDP per capita, population growth rate, unemployment rate, and air quality index (AQI) were selected for their critical roles in  7 reflecting productivity, demographic pressure, labour market conditions, and environmental health. Descriptive statistics and Pearson correlation established data patterns and inter-variable associations. Panel unit root tests (PP, LLC) and cointegration tests (Pedroni, Kao, Johansen) confirmed data stationarity and long-run relationships. FMOLS was used for estimating long-term effects, addressing endogeneity and serial correlation. GLS and robust least squares captured short-run dynamics and corrected for heteroskedasticity and cross-sectional dependence. VIF ensured multicollinearity was not present, and the Wald test confirmed model stability and overall significance. This integrated framework ensures empirical rigor and theoretical alignment with Sustainable Development Goal 11, offering a multidimensional view of the drivers of inequality and sustainable urban futures in India’s leading metropolitan cities. The equation for the estimated models is formulated below: "
+          ,"GDP PER CAPITAit = α0 + β1POP_RATEi𝑡 + β2 UNEMPi𝑡 + β3 AQIi𝑡 + 𝑢it",
+          "In the specified panel data framework, t represents the time dimension, and i denotes the crosssectional units (New Delhi and Mumbai). The constant term α0 captures the intercept, while β1 to β3 represent the coefficients for the explanatory variables: population growth rate (POP_RATE), unemployment rate (UNEMP), and air quality index (AQI). GDP per capita (GDPPC) functions as the dependent variable, capturing the economic trajectory of urban centres and 𝑢it represent infinte residuals. The Fully Modified Ordinary Least Squares (FMOLS) estimator is adopted for modelling long-run relationships under cointegration, effectively correcting for serial correlation and endogeneity, thereby ensuring consistent and efficient parameter estimates (Phillips & Hansen, 1990; Stock & Watson, 1993)."
+          ,"To account for heteroskedasticity and potential cross-sectional dependence, the Generalized Least Squares (GLS) method is employed, offering improved efficiency over Ordinary Least Squares when error variances are non-constant (White, 1980). Additionally, the Robust Least Squares (RLS) estimator is utilized to mitigate the influence of outliers and leverage points, providing resistant and reliable parameter estimates, especially under data irregularities common in urban economic datasets (Rousseeuw & Leroy, 1987). The integration of these estimators creates a comprehensive and resilient econometric strategy to examine the complex interplay of economic, demographic, and environmental factors driving sustainable urban development in India’s leading metropolitan centers "
+          ,"The cointegration test is based on the following hypothesis ",
+          
+        ]
+      },
+      {
+        heading: "RESULTS ",
+        paragraphs: [
+          "The results analysis and discussions are as follows:",
+          "Table 2 descriptive statistics for New Delhi and Mumbai from 2017 to 2023 exhibited significant variation in socio-economic and environmental indicators. The average GDP per capita growth rate was 14.29%, with a high standard deviation and negative skewness indicating uneven economic performance, likely shaped by pandemic shocks and sectoral imbalances (World Bank, 2023; Sachs et al., 2023). Population growth, averaging 2.14%, reflects sustained urban in-migration and density challenges (MoHUA, 2023). The unemployment rate ranged widely, with a mean of 5.29%, revealing structural labour market weaknesses, especially in the informal sector (ILO, 2023). Critically, the Air Quality Index (AQI) averaged 4722, signalling persistent environmental distress despite national interventions like the NCAP (CPCB, 2024). These trends highlight the need for balanced urban strategies that integrate inclusive growth, employment stability, and environmental sustainability ",
+          "Table 3 Stationarity Test",
+          "The table 3 panel unit root tests using both Phillips-Perron (PP) and Levin, Lin & Chu (LLC) methodsCconfirm that GDP per capita, population growth, unemployment, and Air quality index are non-C9Cstationary at level I(0) but become stationary after first differencing I(1), as all variables showCsignificant p-values at both 5% and 1% levels at first difference. This indicates the presence of unitCroots and suggests that shocks to these variables have lasting effects over time. Accordingly, furtherCeconometric modelling should adopt first differenced or co-integration techniques such as panel fullyCmodified ordinary least square, panel generalize least and panel robust least square to ensure robustCand reliable estimation (Baltagi, 2021; Gujarati & Porter, 2020)."
+          ,"Table 4 Correlation Matrix",
+          "Table 4 correlation analysis for New Delhi and Mumbai (2017–2023) highlights key urban development linkages. GDP per capita has a weak negative correlation with unemployment (-0.20) and population growth (-0.01), suggesting that economic gains have not translated into inclusive job creation. In contrast, population growth is strongly correlated with Air quality index (0.98) and unemployment (0.68), indicating that rapid urbanization is driving both environmental stress and labor market pressure (MoHUA, 2023; CPCB, 2024). The positive link between unemployment and AQI (0.60) further reflects how poor environmental conditions may worsen urban livelihood challenges. These patterns call for integrated urban strategies that link economic growth with environmental sustainability and employment equity (World Bank, 2023; NITI Aayog, 2024) "
+          ,"Table 5 Panel Cointegration Test",
+          "Note: ***,**,* denote 1%, 5% and 10% level of significance",
+          "Table 5 panel cointegration test results Pedroni p = 0.00, Kao p = 0.02, and Johansen p = 0.00 indicate a statistically significant long-run relationship among GDP per capita, population growth, unemployment, and AQI in New Delhi and Mumbai from 2017 to 2023 at 1% and 5% levels. These  10 findings reject the null of no cointegration, confirming that the variables move together over time despite short-term fluctuations. This justifies the use of long-run estimation techniques such as FMOLS for robust policy analysis (Baltagi, 2021; Pedroni, 1999; Kao, 1999) "
+          ,"Note: ***,**,* denote 1%, 5% and 10% level of significance",
+          ,"Table 6 Panel Fully Modified Ordinary Least Square Estimation",
+          "Note: ***,**,* denote 1%, 5% and 10% level of significance",
+          "The panel FMOLS analysis (2017–2023) for New Delhi and Mumbai shows that a 1% rise in population growth boosts GDP per capita by 4.21%, reflecting gains from urban expansion (MoHUA, 2023). A 1% increase in unemployment causes a 17.97% drop in GDP, highlighting the drag of labor market inefficiencies (ILO, 2023). A 1-unit rise in AQI is linked to a 16.54% increase in GDP, indicating growth driven by pollution-heavy sectors like construction and industry (CPCB, 2024; World Bank, 2023). All variables are statistically significant at 1% level, and the long-run variance (10.63) signals persistent structural effects. The results emphasize the need for job-rich and environmentally balanced urban development."
+          ,"Table 7 Panel Generalize Least Square Estimation",
+          "Note: ***,**,* denote 1%, 5% and 10% level of significance",
+          "Table 7 panel Generalized Least Squares (GLS) estimation for New Delhi and Mumbai 2017–2023 indicates that unemployment has a significant negative effect on GDP per capita, with a 1% increase reducing GDP by 0.49% at 5% significance level, reflecting persistent labor underutilization and weak job absorption in urban sectors (ILO, 2023) in the short-run. Although population growth shows a negative coefficient –3.95, it is statistically insignificant p = 0.11 suggesting variability in demographic-economic dynamics. Air quality (AQI) has a small but significant positive effect at 1% significant level, possibly reflecting short-term growth driven by high-polluting industries (CPCB, 2024). The model explains 55% of the variation in GDP per capita R² = 0.55, with no autocorrelation issues as Durbin-Watson = 2.51. These results point to the urgency of labor market reform and green urban growth strategies."
+          ,"Table 8 Panel Robust Least Square Estimation",
+          "Note: ***,**,* denote 1%, 5% and 10% level of significance",
+          "Table 8 panel Robust Least Squares estimation for New Delhi and Mumbai (2017–2023) reveals clear magnitude effects of each independent variable on GDP per capita in the short-run. A 1% increase in population growth rate reduces GDP per capita by approximately 3.95%, though this effect is statistically insignificant (p > 0.05), indicating that population expansion alone may not drive economic growth without adequate infrastructure and urban service provision (MoHUA, 2023). In contrast, a 1% increase in unemployment rate leads to a 0.49% decrease in GDP per capita at 5% significant level , highlighting the critical role of job creation in sustaining urban economic performance and poverty reduction (ILO, 2023). Additionally, although the coefficient of AQI is close to zero, it is statistically significant at 1% level, suggesting that even marginal increases in pollution correlate with GDP growth likely reflecting economic activities concentrated in high-emission sectors such as transport and construction (CPCB, 2024; World Bank, 2023). These results affirm that employment and environmental sustainability are key levers for balanced urban development.",
+          "Table 9 Comparative Estimations for both New Delhi and Mumbai Cities",
+          "Note: ***,**,* denote 1%, 5% and 10% level of significance The Table 9 panel robust least squares magnitude effect analysis from 2017 to 2023 reveals contrasting dynamics in how key urban variables influence GDP per capita in New Delhi and Mumbai. In New Delhi, a 1% increase in population growth rate significantly reduces GDP per capita by 7.49% at 5% significant level, underscoring urban strain from rapid population expansion without commensurate infrastructure and service capacity (MoHUA, 2023). Similarly, a 1% rise in unemployment lowers GDP by 0.33% at 5% significant level, reflecting vulnerability in the city’s informal job market (ILO, 2023). Notably, air pollution (AQI) shows a statistically significant yet numerically negligible positive association with GDP, indicating continued reliance on pollutionintensive growth sectors (CPCB, 2024). In contrast, Mumbai shows a positive effect of population growth on GDP per capita 7.27% at 5% significant level, suggesting effective urban agglomeration  13 benefits and economic absorption capacity. However, unemployment and AQI are not statistically significant, implying other structural factors may drive Mumbai’s GDP growth, such as financial services and logistics. These divergent outcomes reflect each city's unique urban trajectory and policy priorities in balancing growth, employment, and sustainability."
+          ,"Table 10 Wald Test for Stability Check",
+          "Note: ***,**,* denote 1%, 5% and 10% level of significance",
+          "The Wald test confirms the stability of the Panel FMOLS, GLS, and Robust Least Squares models. The F-statistic and Chi-square value both statistically significant at the 1% level (p < 0.01), reject the null hypothesis of joint coefficient insignificance. This indicates that the estimated coefficients are stable and the models are statistically valid for inference."
+          ,"Table 11 Variance Factor Inflation for Stability Check",
+          "The Variance Inflation Factor (VIF) results confirm the absence of multicollinearity among the explanatory variables. All VIF values are below the commonly accepted threshold of 10, with POP_RATE at 2.15, UNEMP at 2.97, and AQI at 2.73. This indicates that the independent variables are sufficiently independent of one another, ensuring the reliability and robustness of the model estimates.",
+        ]
+
+      },
+      {
+        heading: "DISCUSSION",
+        paragraphs: [
+          "The present study, rooted in the broader discourse on sustainable urbanization and spatial inequality in India, sought to examine how key structural variables population growth, unemployment, and air quality impact GDP per capita in two of India’s most economically and demographically significant cities: New Delhi and Mumbai. Framed within the context of India’s accelerating urbanization and the uneven distribution of urban opportunities (UN-Habitat, 2020; World Bank, 2024), this research responds to a critical gap in the literature by quantifying how these factors interact to shape urban economic outcomes over time. The empirical analysis, based on panel FMOLS, GLS, and robust least squares estimations from 2017 to 2023, uncovers important patterns that advance understanding of the urban development paradox where economic growth often coexists with deep-seated inequality and infrastructural stress.",  
+          "One of the central findings from the estimation models is the divergent influence of population growth on GDP between New Delhi and Mumbai. While the background of the study emphasized concerns over urban congestion, housing shortages, and service deficits (MoHUA, 2021; TISS, 2022), the empirical evidence affirms that these demographic pressures are not uniform in effect. In New Delhi, population expansion aligns with structural strain, suggesting insufficient urban planning and poor integration of new residents into formal economic systems. In contrast, Mumbai appears to channel population growth more effectively into economic productivity, likely due to its historical development as a dense financial and commercial hub with relatively stronger infrastructure and agglomeration economies (World Bank, 2024). This reinforces the research objective of identifying city-specific structural capacities and limitations influencing urban economic performance." 
+          ,"The analysis further reveals that unemployment exerts a consistently negative effect on GDP in both cities across models. This supports the study’s assertion that labor market inefficiencies remain a major drag on urban economic resilience and inclusiveness. Previous studies and reports from the International Labour Organization (ILO, 2023) and NITI Aayog have highlighted persistent underemployment, skill mismatches, and informality in urban labor markets especially in Delhi, where rapid population inflows outpace job creation. The findings align with real-world developments in India’s post-pandemic urban economy, where jobless growth and widening income gaps have intensified urban vulnerability (NITI Aayog, 2023). These outcomes validate the study’s hypothesis that employment remains a critical determinant of sustainable urban development and reinforce calls for labour-intensive and inclusive policy reforms.", 
+          "A notable new insight emerging from the empirical results is the complex relationship between environmental degradation measured through AQI and GDP. Although the literature often emphasizes the adverse health and productivity costs of pollution (CPCB, 2024; WHO, 2023), the positive correlation observed in some models reflects an unsettling real-world pattern: that urban economic growth in Indian megacities continues to be propelled by pollution-intensive industries such as construction, transport, and low-regulation manufacturing. This suggests that economic expansion remains environmentally unsustainable, particularly in New Delhi, where the air quality crisis is among the world’s worst (IQAir, 2024). The findings challenge conventional growth paradigms and align with recent policy critiques emphasizing the urgency of green transitions and climate-resilient infrastructure investments in urban India (World Bank, 2023; IPCC, 2023).", "Overall, the results of this study make a substantial contribution by empirically validating the complex and differentiated roles of population dynamics, employment, and environmental conditions in shaping urban economic outcomes. The findings not only confirm long-standing policy concerns but also provide updated, data-driven evidence that can inform targeted urban planning, labor market interventions, and environmental governance. As India positions itself toward achieving SDG 11 Sustainable Cities and Communities the contrasting experiences of New Delhi and Mumbai offer valuable lessons. These cities must go beyond GDP-focused metrics and integrate equity, resilience, and sustainability into their urban development models. Future policy frameworks must prioritize inclusive employment generation, strategic infrastructure expansion, and environmentally responsible growth pathways to ensure that economic transformation does not come at the cost of urban well-being or ecological degradation. For a visualize understanding see figures 1to 4 below.",
+          "Transitional Paragraph:",
+          "The empirical results highlight the pressing need for focused interventions to address Delhi and Mu mbai's interconnected problems of service deficiencies, environmental degradation, and economic i nequality.", "Although the statistical models demonstrate the magnitude and intricacy of these urban pressures, it takes calculated, fact-based policy measures to close the gap between data insights and realworld change. ", "The recommendations that follow convert these analytical findings into practical tactics meant to pr omote inclusive, resilient, and equitable urban development."
+        ]
+      }
+    ],
+    conclusion: [
+      "This study offers a timely and nuanced understanding of how population growth, unemployment, and air quality interact to influence urban economic performance in New Delhi and Mumbai two of India’s most vital yet structurally divergent megacities. By integrating demographic, labor market, and environmental variables over the 2017–2023 period, this research fills critical empirical gaps left by previous studies, which often treated these variables in isolation or failed to disaggregate urban dynamics at the city level. The findings not only confirm long-standing policy concerns such as the economic drag of rising unemployment and unsustainable pollution-led growth but also uncover city-specific responses to demographic pressures, showing that the same variable can have opposite effects depending on urban governance capacity and economic structure.", "The novelty of this study lies in reframing urban growth not just as a macroeconomic challenge, but as a systems-level issue where labor absorption, environmental limits, and demographic integration must be simultaneously addressed. Unlike conventional analyses, this research demonstrates that economic growth in urban India is increasingly contingent on its ability to decouple productivity from pollution and to absorb growing populations into sustainable, formal employment channels."
+      ,"POLICY IMPLICATION:",
+"To ensure urban resilience, India must urgently transition toward 'Triple-Bottom-Line Urbanism' a new policy paradigm that balances economic performance, environmental health, and equitable labor market integration. This includes: Establishing Urban Employment Compacts (UECs) city-specific programs that provide targeted job guarantees and upskilling tailored to local industries.", "Creating Urban Clean Transition Zones (UCTZs) designated areas that incentivize pollution-intensive firms to adopt green technologies, backed by fiscal and regulatory support. Launching Demographic-Responsive Infrastructure Planning (DRIP) models that use real-time population data to trigger automated infrastructure investments in fast-growing wards. Institutionalizing City-Level GDP-Environment Audits, making GDP growth conditional on improvements in air quality, employment, and service access metrics not just aggregate economic output. These bold yet practical measures will help break the cycle of jobless, pollution-intensive growth and transform India’s megacities into inclusive, productive, and sustainable urban systems aligned with SDG 11. By capturing the divergent realities of New Delhi and Mumbai, this study offers a blueprint for differentiated, evidence-based urban policymaking that centers both people and planet at the heart of economic transformation."
+    ],
+    references: [
+      {
+        heading: "World Bank. (2024). Gearing up for India’s rapid urban transformation. Retrieved from"
+        ,links:"https://www.worldbank.org"
+
+      },
+      {
+        heading: "UN-Habitat. (2020). World Cities Report 2020: The Value of Sustainable Urbanization. Retrieved from", 
+        links:"https://unhabitat.org/wcr"
+      },
+      {
+        heading: "Time Magazine. (2024). India’s cities are growing too fast to handle extreme heat and flooding.Retrieved from",
+        links: "https://time.com/7300435"
+      },
+      {
+        heading: "Ministry of Housing and Urban Affairs (MoHUA). (2021). Urban India: Trends and Prospects. Government of India.", 
+        links:"https://smartcities.gov.in"
+      },
+      {
+        heading: "Bhan, G. (2019). Notes on a Southern urban practice. Environment and Urbanization, 31(2), 309–324",
+        links: "https://journals.sagepub.com/doi/10.1177/0956247818815792"
+      },
+      {
+        heading: "Satterthwaite, D., & Mitlin, D. (2020). Urban inequality and the Global South. IIED Working Paper.London: International Institute for Environment and Development.",links:"https://www.researchgate.net/publication/255981402_Reducing_Urban_Poverty_in_the_Global_South"
+
+      },
+      {
+        heading: "Tata Institute of Social Sciences (TISS), Mumbai. (2022). Urban Studies Research Publications.School of Habitat Studies.",
+        links: " https://tiss.ac.in/view/6/mumbai-campus/school-of-habitat-studies-2/centre-for-urban-policy-and-governance/about-6/#:~:text=It%20aims%20to%20build%20a,sound%2C%20policy%20processes%20and%20outcomes."
+      },
+      {
+        heading: "Asian Development Bank. (2019). Creating livable cities: Regional perspectives.",
+        links:"https://www.adb.org/publications/creating-livable-cities"
+      },
+      {
+        heading: "Government of Delhi. (2024). Delhi Economic Survey 2023–24. Planning Department,Government of National Capital Territory of Delhi."
+        ,links: "http://delhiplanning.nic.in/"
+      },
+      {
+        heading: "Government of Maharashtra. (2024). Maharashtra Economic Survey 2024–25. Directorate ofEconomics and Statistics. "
+,links:"https://mahades.maharashtra.gov.in/"
+      },
+      {
+      heading: "NITI Aayog. (2025). State Fiscal Health Index Report. "
+        ,links:"https://www.niti.gov.in/"
+      },
+      {
+        heading: "ORF. (2016). Slums and shelter deprivation in India: Policy implications. Observer ResearchFoundation. "
+,links:"https://www.orfonline.org/"
+      },
+      {
+        heading: "Roy, A. (2011). Slumdog cities: Rethinking subaltern urbanism. International Journal of Urban andRegional Research, 35(2), 223–238. "
+,links:"https://doi.org/10.1111/j.1468-2427.2011.01051.x"
+      },
+      {
+        heading: "World Bank. (2023). Financing India’s infrastructure needs:Constraints to commercial financing andprospects for policy action. "
+,links:"https://www.worldbank.org/"
+      },
+      {
+        heading: "Glaeser, E. L., Kolko, J., & Saiz, A. (2008). Consumer city. Journal of Economic Geography, 1(1),27–50. "
+,links:"https://doi.org/10.1093/jeg/1.1.27"
+      },
+      {
+        heading: "Johansen, S. (1991). Estimation and hypothesis testing of cointegration vectors inGaussianvector autoregressive models. Econometrical, 59(6), 1551–1580."
+,links:"https://doi.org/10.2307/2938278"
+      },
+      {
+        heading: "Kao, C. (1999). Spurious regression and residual-based tests for cointegration in panel data. Journalof Econometrics, 90(1), 1–44. ",
+        links:"https://doi.org/10.1016/S0304-4076(98)00023-2"
+      },{
+      heading:"Levin, A., Lin, C.-F., & Chu, C.-S. J. (2002). Unit root tests in panel data: Asymptotic and finitesample properties. Journal of Econometrics, 108(1), 1–24. "
+       ,links:"https://doi.org/10.1016/S0304-4076(01)00098-7"
+      },
+      {
+        heading: "Mostafavi, M., & Doherty, G. (Eds.). (2010). Ecological urbanism. Harvard University Graduate School of Design."
+      },
+      {
+        heading: "Pedroni, P. (1999). Critical values for cointegration tests in heterogeneous panels with multiple regressors. Oxford Bulletin of Economics and Statistics, 61(S1), 653–670.",
+links:"https://doi.org/10.1111/1468-0084.0610s1653"
+      },
+      {
+        heading: "Phillips, P. C. B., & Hansen, B. E. (1990). Statistical inference in instrumental variables regression with I(1) processes. Review of Economic Studies, 57(1), 99–125.",
+links:"https://doi.org/10.2307/2297545"
+      },
+      {
+        heading: "Phillips, P. C. B., & Perron, P. (1988). Testing for a unit root in time series regression. Biometrika,75(2), 335–346. ",
+links:"https://doi.org/10.1093/biomet/75.2.335"
+      },
+      {
+        heading: "SRomer, P. M. (1994). The origins of endogenous growth. Journal of Economic Perspectives, 8(1), 3–22. ",
+links:"https://doi.org/10.1257/jep.8.1.3"
+      },
+      {
+        heading: "Rousseeuw, P. J., & Leroy, A. M. (1987). Robust regression and outlier detection. Wiley. Solow, R. M. (1956). A contribution to the theory of economic growth. The Quarterly Journal ofEconomics, 70(1), 65–94. ",
+links:"https://doi.org/10.2307/1884513"
+      },
+      {
+        heading: "Stock, J. H., & Watson, M. W. (1993). A simple estimator of cointegrating vectors in higher orderintegrated systems. Econometrical, 61(4), 783–820. ",
+links:"https://doi.org/10.2307/2951763"
+      },
+      {
+        heading: "White, H. (1980). A heteroskedasticity-consistent covariance matrix estimator and a direct test forheteroskedasticity. Econometrical, 48(4), 817–838. ",
+links:"https://doi.org/10.2307/1912934"
+      },
+      {
+        heading: "SBaltagi, B. H. (2021). Econometric analysis of panel data (6th ed.). Springer.",
+
+      },
+      {
+        heading: "Central Pollution Control Board (CPCB). (2024). National air quality status report 2023–24.Ministry of Environment, Forest and Climate Change, Government of India. ",
+links:"https://cpcb.nic.in",
+
+      },
+      {
+        heading: "Gujarati, D. N., & Porter, D. C. (2020). Basic econometrics (5th ed.). McGraw-Hill Education."   
+        },
+      {
+        heading: "Intergovernmental Panel on Climate Change (IPCC). (2023). Climate change 2023: Synthesis report. Contribution of Working Groups I, II and III to the Sixth Assessment Report. Geneva: IPCC.",
+links:"https://www.ipcc.ch/report/ar6/syr/"
+      },
+      {
+        heading: "International Labour Organization (ILO). (2023). World employment and social outlook: Trends2023. Geneva: ILO. ",
+links:"https://www.ilo.org/global/research/global-reports/weso"
+      },
+      {
+        heading: "Ministry of Housing and Urban Affairs (MoHUA). (2021). India Habitat III national report.Government of India. ",
+links:"https://mohua.gov.in",
+
+      },
+      {
+        heading: "Ministry of Housing and Urban Affairs (MoHUA). (2023). Smart Cities Mission progress report 2023. Government of India."
+      },
+      {
+        heading: "NITI Aayog. (2023). India’s urban employment scenario: Trends and policy imperatives.Government of India. ",
+links:"https://niti.gov.in"
+      },
+       {
+        heading: "Sachs, J., Lafortune, G., Kroll, C., Fuller, G., & Woelm, F. (2023). Sustainable development report 2023. Cambridge University Press."
+      },
+       {
+        heading: "Tata Institute of Social Sciences (TISS). (2022). Urbanization and spatial inequality in India: A case for inclusive planning. Mumbai: TISS."
+      },
+       {
+        heading: "UN-Habitat. (2020). World cities report 2020: The value of sustainable urbanization. Nairobi: United Nations Human Settlements Programme."
+ ,links:"https://unhabitat.org/world-cities-report-2020"
+      },
+       {
+        heading: "World Bank. (2023). India development update: Balancing growth and stability. Washington, DC: The World Bank."
+      },
+       {
+        heading: "World Bank. (2023). India’s transition toward green growth: Urban perspectives. Washington, DC: The World Bank."
+ ,links:"https://www.worldbank.org/en/country/india/publication"
+      },
+       {
+        heading: "World Bank. (2024). Unlocking the potential of Indian cities: Pathways to inclusive growth. Washington, DC: The World Bank."
+ ,links:"https://www.worldbank.org/en/news/feature/2024"
+      },
+       {
+        heading: "World Health Organization (WHO). (2023). Health and air pollution: Key facts and statistics 2023. Geneva: WHO."
+ ,links:"https://www.who.int"
+      }
+    ]
+  },
 
 {
   "id":10,
